@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize("{time.time()}");</script>)
+Build status (Last update:<script type="text/javascript">localize(1655141352.2062945);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -77,7 +77,7 @@ Build status (Last update:<script type="text/javascript">localize("{time.time()}
 |x86_64/cminpack|PUBLISHED||[2409880891](https://github.com/arch4edu/cactus/actions/runs/2409880891)|<script type="text/javascript">localize(1654553495);</script>|
 |x86_64/cmuclmtk|PUBLISHED||[2409881939](https://github.com/arch4edu/cactus/actions/runs/2409881939)|<script type="text/javascript">localize(1654553495);</script>|
 |x86_64/coin-or-coinmumps|PUBLISHED||[2470368434](https://github.com/arch4edu/cactus/actions/runs/2470368434)|<script type="text/javascript">localize(1654864934);</script>|
-|x86_64/coin-or-ipopt|STALED|Waiting for dependency: x86_64/coin-or-ipopt .|[2480450365](https://github.com/arch4edu/cactus/actions/runs/2480450365)|<script type="text/javascript">localize(1655137709);</script>|
+|x86_64/coin-or-ipopt|BUILT||[2489887290](https://github.com/arch4edu/cactus/actions/runs/2489887290)|<script type="text/javascript">localize(1655139815);</script>|
 |x86_64/combblas|PUBLISHED||[2409881357](https://github.com/arch4edu/cactus/actions/runs/2409881357)|<script type="text/javascript">localize(1654553495);</script>|
 |x86_64/console-bridge|PUBLISHED||[2478620850](https://github.com/arch4edu/cactus/actions/runs/2478620850)|<script type="text/javascript">localize(1654994278);</script>|
 |x86_64/cpptest|PUBLISHED||[2409882281](https://github.com/arch4edu/cactus/actions/runs/2409882281)|<script type="text/javascript">localize(1654553495);</script>|
@@ -107,8 +107,8 @@ Build status (Last update:<script type="text/javascript">localize("{time.time()}
 |x86_64/half|PUBLISHED||[2448409251](https://github.com/arch4edu/cactus/actions/runs/2448409251)|<script type="text/javascript">localize(1654560022);</script>|
 |x86_64/hdf4|PUBLISHED||[2469996729](https://github.com/arch4edu/cactus/actions/runs/2469996729)|<script type="text/javascript">localize(1654865762);</script>|
 |x86_64/hdf5110|PUBLISHED||[2469997129](https://github.com/arch4edu/cactus/actions/runs/2469997129)|<script type="text/javascript">localize(1654865782);</script>|
-|x86_64/hdfview|BUILDING|GitHubActions|[2470459945](https://github.com/arch4edu/cactus/actions/runs/2470459945)|<script type="text/javascript">localize(1655129380);</script>|
-|x86_64/heasoft|BUILDING|GitHubActions|[2470368389](https://github.com/arch4edu/cactus/actions/runs/2470368389)|<script type="text/javascript">localize(1655129373);</script>|
+|x86_64/hdfview|FAILED|Build failed.|[2489895079](https://github.com/arch4edu/cactus/actions/runs/2489895079)|<script type="text/javascript">localize(1655139957);</script>|
+|x86_64/heasoft|FAILED|Build failed.|[2488929916](https://github.com/arch4edu/cactus/actions/runs/2488929916)|<script type="text/javascript">localize(1655139142);</script>|
 |x86_64/hts-engine|PUBLISHED||[2469997067](https://github.com/arch4edu/cactus/actions/runs/2469997067)|<script type="text/javascript">localize(1654865795);</script>|
 |x86_64/icu58|PUBLISHED||[2470368666](https://github.com/arch4edu/cactus/actions/runs/2470368666)|<script type="text/javascript">localize(1654865833);</script>|
 |x86_64/icu59|PUBLISHED||[2470223649](https://github.com/arch4edu/cactus/actions/runs/2470223649)|<script type="text/javascript">localize(1654865851);</script>|
@@ -152,8 +152,8 @@ Build status (Last update:<script type="text/javascript">localize("{time.time()}
 |x86_64/python-bitarray|PUBLISHED||[2482280298](https://github.com/arch4edu/cactus/actions/runs/2482280298)|<script type="text/javascript">localize(1655080971);</script>|
 |x86_64/python-fastcache|PUBLISHED||[2482213967](https://github.com/arch4edu/cactus/actions/runs/2482213967)|<script type="text/javascript">localize(1655080982);</script>|
 |x86_64/python-fastrlock|PUBLISHED||[2482213872](https://github.com/arch4edu/cactus/actions/runs/2482213872)|<script type="text/javascript">localize(1655080991);</script>|
-|x86_64/qemu-user-static|BUILDING|GitHubActions|[2482318858](https://github.com/arch4edu/cactus/actions/runs/2482318858)|<script type="text/javascript">localize(1655129381);</script>|
-|x86_64/qemu-user-static-bin|BUILDING|GitHubActions|[2478621017](https://github.com/arch4edu/cactus/actions/runs/2478621017)|<script type="text/javascript">localize(1655129379);</script>|
+|x86_64/qemu-user-static|FAILED|Build failed.|[2488930612](https://github.com/arch4edu/cactus/actions/runs/2488930612)|<script type="text/javascript">localize(1655140279);</script>|
+|x86_64/qemu-user-static-bin|BUILT||[2489884385](https://github.com/arch4edu/cactus/actions/runs/2489884385)|<script type="text/javascript">localize(1655139638);</script>|
 |x86_64/qt4|PUBLISHED||[2469894953](https://github.com/arch4edu/cactus/actions/runs/2469894953)|<script type="text/javascript">localize(1654869623);</script>|
 |x86_64/qtwebkit|FAILED|Build failed.|[2488770626](https://github.com/arch4edu/cactus/actions/runs/2488770626)|<script type="text/javascript">localize(1655128048);</script>|
 |x86_64/r-mkl|PUBLISHED||[2470112825](https://github.com/arch4edu/cactus/actions/runs/2470112825)|<script type="text/javascript">localize(1654869687);</script>|
