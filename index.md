@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655141352.2062945);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655145117.4380026);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -86,7 +86,7 @@ Build status (Last update:<script type="text/javascript">localize(1655141352.206
 |x86_64/erfa|PUBLISHED||[2409881490](https://github.com/arch4edu/cactus/actions/runs/2409881490)|<script type="text/javascript">localize(1654553495);</script>|
 |x86_64/fakeroot-tcp|PUBLISHED||[2409882349](https://github.com/arch4edu/cactus/actions/runs/2409882349)|<script type="text/javascript">localize(1654553495);</script>|
 |x86_64/fcl|PUBLISHED||[2470460039](https://github.com/arch4edu/cactus/actions/runs/2470460039)|<script type="text/javascript">localize(1654864945);</script>|
-|x86_64/fet-timetabling|BUILDING|GitHubActions|[2470368746](https://github.com/arch4edu/cactus/actions/runs/2470368746)|<script type="text/javascript">localize(1655129375);</script>|
+|x86_64/fet-timetabling|BUILT||[2488930149](https://github.com/arch4edu/cactus/actions/runs/2488930149)|<script type="text/javascript">localize(1655143028);</script>|
 |x86_64/flann|PUBLISHED||[2448442585](https://github.com/arch4edu/cactus/actions/runs/2448442585)|<script type="text/javascript">localize(1654559838);</script>|
 |x86_64/flite1|PUBLISHED||[2448409096](https://github.com/arch4edu/cactus/actions/runs/2448409096)|<script type="text/javascript">localize(1654559945);</script>|
 |x86_64/g2clib|PUBLISHED||[2459977268](https://github.com/arch4edu/cactus/actions/runs/2459977268)|<script type="text/javascript">localize(1654705226);</script>|
