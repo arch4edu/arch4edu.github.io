@@ -1,5 +1,5 @@
-function localize(t)
+function localize(time)
 {
-	var date=new Date(" UTC");
-	document.write(date.toString());
+	var date=new Date(time);
+	return document.write(date.toLocaleDateString() + " " + date.toLocaleTimeString());
 }
