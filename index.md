@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655198833.7893353);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655202708.0964081);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -160,7 +160,7 @@ Build status (Last update:<script type="text/javascript">localize(1655198833.789
 |x86_64/r-mkl|PUBLISHED||[2470112825](https://github.com/arch4edu/cactus/actions/runs/2470112825)|<script type="text/javascript">localize(1654869687);</script>|
 |x86_64/sc-im|PUBLISHED||[2470459863](https://github.com/arch4edu/cactus/actions/runs/2470459863)|<script type="text/javascript">localize(1654869697);</script>|
 |x86_64/scilab-bin|PUBLISHED||[2489040928](https://github.com/arch4edu/cactus/actions/runs/2489040928)|<script type="text/javascript">localize(1655167165);</script>|
-|x86_64/scotch|FAILED|Build failed.|[2488845553](https://github.com/arch4edu/cactus/actions/runs/2488845553)|<script type="text/javascript">localize(1655128814);</script>|
+|x86_64/scotch|FAILED|Build failed.|[2494256878](https://github.com/arch4edu/cactus/actions/runs/2494256878)|<script type="text/javascript">localize(1655199628);</script>|
 |x86_64/seafile|PUBLISHED||[2465793341](https://github.com/arch4edu/cactus/actions/runs/2465793341)|<script type="text/javascript">localize(1654808367);</script>|
 |x86_64/seafile-client|PUBLISHED||[2489113758](https://github.com/arch4edu/cactus/actions/runs/2489113758)|<script type="text/javascript">localize(1655167176);</script>|
 |x86_64/sptk|FAILED|Build failed.|[2488930019](https://github.com/arch4edu/cactus/actions/runs/2488930019)|<script type="text/javascript">localize(1655138381);</script>|
