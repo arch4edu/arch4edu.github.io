@@ -1,11 +1,11 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655173586.1621387);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655179988.7485);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
 |any/aic94xx-firmware|PUBLISHED||[2404889978](https://github.com/arch4edu/cactus/actions/runs/2404889978)|<script type="text/javascript">localize(1654553494);</script>|
 |any/android-platform|PUBLISHED||[2469729652](https://github.com/arch4edu/cactus/actions/runs/2469729652)|<script type="text/javascript">localize(1654864725);</script>|
-|any/apache-lucene|PUBLISHED||[2488770072](https://github.com/arch4edu/cactus/actions/runs/2488770072)|<script type="text/javascript">localize(1655167062);</script>|
+|any/apache-lucene|BUILT||[2492708360](https://github.com/arch4edu/cactus/actions/runs/2492708360)|<script type="text/javascript">localize(1655179687);</script>|
 |any/arch4edu-keyring|PUBLISHED||[2409882829](https://github.com/arch4edu/cactus/actions/runs/2409882829)|<script type="text/javascript">localize(1654553494);</script>|
 |any/archlinux-java-run|PUBLISHED||[2409882524](https://github.com/arch4edu/cactus/actions/runs/2409882524)|<script type="text/javascript">localize(1654553494);</script>|
 |any/archlinuxarm-keyring|PUBLISHED||[2454538924](https://github.com/arch4edu/cactus/actions/runs/2454538924)|<script type="text/javascript">localize(1654703387);</script>|
@@ -15,7 +15,7 @@ Build status (Last update:<script type="text/javascript">localize(1655173586.162
 |any/ccache-ext|PUBLISHED||[2409882750](https://github.com/arch4edu/cactus/actions/runs/2409882750)|<script type="text/javascript">localize(1654553494);</script>|
 |any/cephadm|PUBLISHED||[2409883160](https://github.com/arch4edu/cactus/actions/runs/2409883160)|<script type="text/javascript">localize(1654553494);</script>|
 |any/devtools-alarm|PUBLISHED||[2469729496](https://github.com/arch4edu/cactus/actions/runs/2469729496)|<script type="text/javascript">localize(1654864740);</script>|
-|any/downgrade|PUBLISHED||[2448227144](https://github.com/arch4edu/cactus/actions/runs/2448227144)|<script type="text/javascript">localize(1654555967);</script>|
+|any/downgrade|BUILT||[2492708474](https://github.com/arch4edu/cactus/actions/runs/2492708474)|<script type="text/javascript">localize(1655179649);</script>|
 |any/fop-hyph|PUBLISHED||[2448365399](https://github.com/arch4edu/cactus/actions/runs/2448365399)|<script type="text/javascript">localize(1654558209);</script>|
 |any/jabref|PUBLISHED||[2465793174](https://github.com/arch4edu/cactus/actions/runs/2465793174)|<script type="text/javascript">localize(1654808173);</script>|
 |any/java-flexdock|PUBLISHED||[2448365532](https://github.com/arch4edu/cactus/actions/runs/2448365532)|<script type="text/javascript">localize(1654556071);</script>|
@@ -152,6 +152,7 @@ Build status (Last update:<script type="text/javascript">localize(1655173586.162
 |x86_64/python-bitarray|PUBLISHED||[2482280298](https://github.com/arch4edu/cactus/actions/runs/2482280298)|<script type="text/javascript">localize(1655080971);</script>|
 |x86_64/python-fastcache|PUBLISHED||[2482213967](https://github.com/arch4edu/cactus/actions/runs/2482213967)|<script type="text/javascript">localize(1655080982);</script>|
 |x86_64/python-fastrlock|PUBLISHED||[2482213872](https://github.com/arch4edu/cactus/actions/runs/2482213872)|<script type="text/javascript">localize(1655080991);</script>|
+|x86_64/python-wxpython-dev|FAILED|Build failed.|[2492708552](https://github.com/arch4edu/cactus/actions/runs/2492708552)|<script type="text/javascript">localize(1655179613);</script>|
 |x86_64/qemu-user-static|FAILED|Build failed.|[2488930612](https://github.com/arch4edu/cactus/actions/runs/2488930612)|<script type="text/javascript">localize(1655140279);</script>|
 |x86_64/qemu-user-static-bin|BUILT||[2489884385](https://github.com/arch4edu/cactus/actions/runs/2489884385)|<script type="text/javascript">localize(1655139638);</script>|
 |x86_64/qt4|PUBLISHED||[2469894953](https://github.com/arch4edu/cactus/actions/runs/2469894953)|<script type="text/javascript">localize(1654869623);</script>|
@@ -166,6 +167,7 @@ Build status (Last update:<script type="text/javascript">localize(1655173586.162
 |x86_64/stepcode|PUBLISHED||[2470459693](https://github.com/arch4edu/cactus/actions/runs/2470459693)|<script type="text/javascript">localize(1654869777);</script>|
 |x86_64/teamviewer|PUBLISHED||[2470368567](https://github.com/arch4edu/cactus/actions/runs/2470368567)|<script type="text/javascript">localize(1654869959);</script>|
 |x86_64/termcap|PUBLISHED||[2470112842](https://github.com/arch4edu/cactus/actions/runs/2470112842)|<script type="text/javascript">localize(1654869968);</script>|
+|x86_64/wxgtk-dev|FAILED|nvchecker failed|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1655177257);</script>|
 |x86_64/xflr5|PUBLISHED||[2404889885](https://github.com/arch4edu/cactus/actions/runs/2404889885)|<script type="text/javascript">localize(1654553495);</script>|
 |x86_64/yay|PUBLISHED||[2403846852](https://github.com/arch4edu/cactus/actions/runs/2403846852)|<script type="text/javascript">localize(1654553495);</script>|
 |x86_64/zotero-bin|PUBLISHED||[2470194429](https://github.com/arch4edu/cactus/actions/runs/2470194429)|<script type="text/javascript">localize(1654870047);</script>|
