@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655314051.30296);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655317925.1450734);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -239,7 +239,7 @@ Build status (Last update:<script type="text/javascript">localize(1655314051.302
 |x86_64/r-mkl|PUBLISHED||[2470112825](https://github.com/arch4edu/cactus/actions/runs/2470112825)|<script type="text/javascript">localize(1654869687);</script>|
 |x86_64/rdma-core|PUBLISHED||[2501069136](https://github.com/arch4edu/cactus/actions/runs/2501069136)|<script type="text/javascript">localize(1655341455);</script>|
 |x86_64/rocm/hsakmt-roct|PUBLISHED||[2503065771](https://github.com/arch4edu/cactus/actions/runs/2503065771)|<script type="text/javascript">localize(1655341466);</script>|
-|x86_64/rocm/rocm-llvm|BUILDING|GitHubActions|[2503065627](https://github.com/arch4edu/cactus/actions/runs/2503065627)|<script type="text/javascript">localize(1655304463);</script>|
+|x86_64/rocm/rocm-llvm|BUILT||[2503065627](https://github.com/arch4edu/cactus/actions/runs/2503065627)|<script type="text/javascript">localize(1655315102);</script>|
 |x86_64/saxon-he|PUBLISHED||[2503065770](https://github.com/arch4edu/cactus/actions/runs/2503065770)|<script type="text/javascript">localize(1655341482);</script>|
 |x86_64/sc-im|PUBLISHED||[2470459863](https://github.com/arch4edu/cactus/actions/runs/2470459863)|<script type="text/javascript">localize(1654869697);</script>|
 |x86_64/scilab-bin|PUBLISHED||[2489040928](https://github.com/arch4edu/cactus/actions/runs/2489040928)|<script type="text/javascript">localize(1655167165);</script>|
