@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655289048.2077417);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655292246.9231784);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -174,7 +174,7 @@ Build status (Last update:<script type="text/javascript">localize(1655289048.207
 |x86_64/lux-dl|PUBLISHED||[2409881251](https://github.com/arch4edu/cactus/actions/runs/2409881251)|<script type="text/javascript">localize(1654560113);</script>|
 |x86_64/mendeleydesktop|PUBLISHED||[2470164581](https://github.com/arch4edu/cactus/actions/runs/2470164581)|<script type="text/javascript">localize(1654866198);</script>|
 |x86_64/meteoinfo|FAILED|Build failed.|[2495680780](https://github.com/arch4edu/cactus/actions/runs/2495680780)|<script type="text/javascript">localize(1655215150);</script>|
-|x86_64/mysql|BUILDING|GitHubActions|[2501187549](https://github.com/arch4edu/cactus/actions/runs/2501187549)|<script type="text/javascript">localize(1655285281);</script>|
+|x86_64/mysql|BUILT||[2501187549](https://github.com/arch4edu/cactus/actions/runs/2501187549)|<script type="text/javascript">localize(1655290588);</script>|
 |x86_64/ncurses5-compat-libs|PUBLISHED||[2480455783](https://github.com/arch4edu/cactus/actions/runs/2480455783)|<script type="text/javascript">localize(1654994291);</script>|
 |x86_64/ncview|BUILT||[2501262401](https://github.com/arch4edu/cactus/actions/runs/2501262401)|<script type="text/javascript">localize(1655286112);</script>|
 |x86_64/nkf|PUBLISHED||[2470254633](https://github.com/arch4edu/cactus/actions/runs/2470254633)|<script type="text/javascript">localize(1654866219);</script>|
