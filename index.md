@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655297497.4199812);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655300590.0001779);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -90,7 +90,7 @@ Build status (Last update:<script type="text/javascript">localize(1655297497.419
 |any/ttf-charis-sil|PUBLISHED||[2482213530](https://github.com/arch4edu/cactus/actions/runs/2482213530)|<script type="text/javascript">localize(1655080819);</script>|
 |any/ttf-sil-doulos|PUBLISHED||[2482158483](https://github.com/arch4edu/cactus/actions/runs/2482158483)|<script type="text/javascript">localize(1655080834);</script>|
 |any/urdfdom-headers|PUBLISHED||[2495358677](https://github.com/arch4edu/cactus/actions/runs/2495358677)|<script type="text/javascript">localize(1655254042);</script>|
-|any/vim-disable-mouse|FAILED|Build failed.|[2495359149](https://github.com/arch4edu/cactus/actions/runs/2495359149)|<script type="text/javascript">localize(1655211524);</script>|
+|any/vim-disable-mouse|FAILED|Build failed.|[2502395309](https://github.com/arch4edu/cactus/actions/runs/2502395309)|<script type="text/javascript">localize(1655298424);</script>|
 |any/vim-gitgutter-git|BUILT||[2500973284](https://github.com/arch4edu/cactus/actions/runs/2500973284)|<script type="text/javascript">localize(1655283226);</script>|
 |any/vim-pathogen|PUBLISHED||[2495358313](https://github.com/arch4edu/cactus/actions/runs/2495358313)|<script type="text/javascript">localize(1655254055);</script>|
 |any/vim-sensible-git|BUILT||[2500972685](https://github.com/arch4edu/cactus/actions/runs/2500972685)|<script type="text/javascript">localize(1655283222);</script>|
