@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655265650.747191);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655268210.6840973);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -160,7 +160,7 @@ Build status (Last update:<script type="text/javascript">localize(1655265650.747
 |x86_64/plplot|PUBLISHED||[2495544844](https://github.com/arch4edu/cactus/actions/runs/2495544844)|<script type="text/javascript">localize(1655254455);</script>|
 |x86_64/praat|PUBLISHED||[2482280520](https://github.com/arch4edu/cactus/actions/runs/2482280520)|<script type="text/javascript">localize(1655080890);</script>|
 |x86_64/protobuf-static|PUBLISHED||[2482280335](https://github.com/arch4edu/cactus/actions/runs/2482280335)|<script type="text/javascript">localize(1655080904);</script>|
-|x86_64/python-apex-git|BUILDING|GitHubActions|[2482213829](https://github.com/arch4edu/cactus/actions/runs/2482213829)|<script type="text/javascript">localize(1655263587);</script>|
+|x86_64/python-apex-git|BUILT||[2499560651](https://github.com/arch4edu/cactus/actions/runs/2499560651)|<script type="text/javascript">localize(1655266391);</script>|
 |x86_64/python-av|PUBLISHED||[2482280274](https://github.com/arch4edu/cactus/actions/runs/2482280274)|<script type="text/javascript">localize(1655080960);</script>|
 |x86_64/python-bitarray|PUBLISHED||[2482280298](https://github.com/arch4edu/cactus/actions/runs/2482280298)|<script type="text/javascript">localize(1655080971);</script>|
 |x86_64/python-fastcache|PUBLISHED||[2482213967](https://github.com/arch4edu/cactus/actions/runs/2482213967)|<script type="text/javascript">localize(1655080982);</script>|
