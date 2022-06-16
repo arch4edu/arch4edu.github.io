@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655383927.8735356);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655386979.1606011);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -240,6 +240,7 @@ Build status (Last update:<script type="text/javascript">localize(1655383927.873
 |x86_64/python-requests-cache|FAILED|Build failed.|[2508032071](https://github.com/arch4edu/cactus/actions/runs/2508032071)|<script type="text/javascript">localize(1655371586);</script>|
 |x86_64/python-resampy|PUBLISHED||[2503101084](https://github.com/arch4edu/cactus/actions/runs/2503101084)|<script type="text/javascript">localize(1655341401);</script>|
 |x86_64/python-sequitur-git|PUBLISHED||[2501069491](https://github.com/arch4edu/cactus/actions/runs/2501069491)|<script type="text/javascript">localize(1655341414);</script>|
+|x86_64/python-timeout-decorator|BUILT||[2509191999](https://github.com/arch4edu/cactus/actions/runs/2509191999)|<script type="text/javascript">localize(1655384885);</script>|
 |x86_64/python-torchvision|FAILED|Build failed.|[2508118005](https://github.com/arch4edu/cactus/actions/runs/2508118005)|<script type="text/javascript">localize(1655372561);</script>|
 |x86_64/python-wrf|PUBLISHED||[2501187146](https://github.com/arch4edu/cactus/actions/runs/2501187146)|<script type="text/javascript">localize(1655341423);</script>|
 |x86_64/python-wxpython-dev|FAILED|Build failed.|[2508406465](https://github.com/arch4edu/cactus/actions/runs/2508406465)|<script type="text/javascript">localize(1655375724);</script>|
