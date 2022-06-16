@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655361089.218681);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655364290.4967117);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -133,7 +133,7 @@ Build status (Last update:<script type="text/javascript">localize(1655361089.218
 |x86_64/erfa|PUBLISHED||[2409881490](https://github.com/arch4edu/cactus/actions/runs/2409881490)|<script type="text/javascript">localize(1654553495);</script>|
 |x86_64/fakeroot-tcp|PUBLISHED||[2409882349](https://github.com/arch4edu/cactus/actions/runs/2409882349)|<script type="text/javascript">localize(1654553495);</script>|
 |x86_64/fcl|PUBLISHED||[2470460039](https://github.com/arch4edu/cactus/actions/runs/2470460039)|<script type="text/javascript">localize(1654864945);</script>|
-|x86_64/fet-timetabling|FAILED|Build failed.|[2499560672](https://github.com/arch4edu/cactus/actions/runs/2499560672)|<script type="text/javascript">localize(1655263723);</script>|
+|x86_64/fet-timetabling|FAILED|Build failed.|[2507237742](https://github.com/arch4edu/cactus/actions/runs/2507237742)|<script type="text/javascript">localize(1655362075);</script>|
 |x86_64/flann|PUBLISHED||[2448442585](https://github.com/arch4edu/cactus/actions/runs/2448442585)|<script type="text/javascript">localize(1654559838);</script>|
 |x86_64/flite1|PUBLISHED||[2448409096](https://github.com/arch4edu/cactus/actions/runs/2448409096)|<script type="text/javascript">localize(1654559945);</script>|
 |x86_64/g2clib|PUBLISHED||[2459977268](https://github.com/arch4edu/cactus/actions/runs/2459977268)|<script type="text/javascript">localize(1654705226);</script>|
@@ -207,7 +207,7 @@ Build status (Last update:<script type="text/javascript">localize(1655361089.218
 |x86_64/plplot|PUBLISHED||[2495544844](https://github.com/arch4edu/cactus/actions/runs/2495544844)|<script type="text/javascript">localize(1655254455);</script>|
 |x86_64/praat|PUBLISHED||[2482280520](https://github.com/arch4edu/cactus/actions/runs/2482280520)|<script type="text/javascript">localize(1655080890);</script>|
 |x86_64/protobuf-static|PUBLISHED||[2482280335](https://github.com/arch4edu/cactus/actions/runs/2482280335)|<script type="text/javascript">localize(1655080904);</script>|
-|x86_64/python-apex-git|PUBLISHED||[2499560651](https://github.com/arch4edu/cactus/actions/runs/2499560651)|<script type="text/javascript">localize(1655341218);</script>|
+|x86_64/python-apex-git|BUILT||[2507237792](https://github.com/arch4edu/cactus/actions/runs/2507237792)|<script type="text/javascript">localize(1655364277);</script>|
 |x86_64/python-av|PUBLISHED||[2482280274](https://github.com/arch4edu/cactus/actions/runs/2482280274)|<script type="text/javascript">localize(1655080960);</script>|
 |x86_64/python-bitarray|PUBLISHED||[2482280298](https://github.com/arch4edu/cactus/actions/runs/2482280298)|<script type="text/javascript">localize(1655080971);</script>|
 |x86_64/python-cupy|FAILED|Build failed.|[2501262324](https://github.com/arch4edu/cactus/actions/runs/2501262324)|<script type="text/javascript">localize(1655287245);</script>|
