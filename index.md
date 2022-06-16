@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655393283.3330593);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655397599.7576737);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -37,9 +37,9 @@ Build status (Last update:<script type="text/javascript">localize(1655393283.333
 |any/octave-general|PUBLISHED||[2501011408](https://github.com/arch4edu/cactus/actions/runs/2501011408)|<script type="text/javascript">localize(1655339977);</script>|
 |any/octave-image|PUBLISHED||[2501010129](https://github.com/arch4edu/cactus/actions/runs/2501010129)|<script type="text/javascript">localize(1655339994);</script>|
 |any/octave-io|PUBLISHED||[2501011263](https://github.com/arch4edu/cactus/actions/runs/2501011263)|<script type="text/javascript">localize(1655340013);</script>|
-|any/octave-miscellaneous|BUILT||[2508432327](https://github.com/arch4edu/cactus/actions/runs/2508432327)|<script type="text/javascript">localize(1655376109);</script>|
-|any/octave-signal|BUILT||[2508324692](https://github.com/arch4edu/cactus/actions/runs/2508324692)|<script type="text/javascript">localize(1655374875);</script>|
-|any/octave-statistics|BUILT||[2508324606](https://github.com/arch4edu/cactus/actions/runs/2508324606)|<script type="text/javascript">localize(1655374946);</script>|
+|any/octave-miscellaneous|PUBLISHED||[2508432327](https://github.com/arch4edu/cactus/actions/runs/2508432327)|<script type="text/javascript">localize(1655425625);</script>|
+|any/octave-signal|PUBLISHED||[2508324692](https://github.com/arch4edu/cactus/actions/runs/2508324692)|<script type="text/javascript">localize(1655426382);</script>|
+|any/octave-statistics|PUBLISHED||[2508324606](https://github.com/arch4edu/cactus/actions/runs/2508324606)|<script type="text/javascript">localize(1655426398);</script>|
 |any/openfoam-selector|PUBLISHED||[2495358974](https://github.com/arch4edu/cactus/actions/runs/2495358974)|<script type="text/javascript">localize(1655254013);</script>|
 |any/opengrok|PUBLISHED||[2469894632](https://github.com/arch4edu/cactus/actions/runs/2469894632)|<script type="text/javascript">localize(1654864852);</script>|
 |any/panoply|PUBLISHED||[2469729882](https://github.com/arch4edu/cactus/actions/runs/2469729882)|<script type="text/javascript">localize(1654864908);</script>|
