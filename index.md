@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655345663.0395873);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655351910.4934897);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -256,7 +256,7 @@ Build status (Last update:<script type="text/javascript">localize(1655345663.039
 |x86_64/udunits|PUBLISHED||[2495545534](https://github.com/arch4edu/cactus/actions/runs/2495545534)|<script type="text/javascript">localize(1655254510);</script>|
 |x86_64/urdfdom|PUBLISHED||[2495792895](https://github.com/arch4edu/cactus/actions/runs/2495792895)|<script type="text/javascript">localize(1655254519);</script>|
 |x86_64/vim-youcompleteme-git|PUBLISHED||[2499560713](https://github.com/arch4edu/cactus/actions/runs/2499560713)|<script type="text/javascript">localize(1655341547);</script>|
-|x86_64/visual-studio-code-bin|PUBLISHED||[2495729185](https://github.com/arch4edu/cactus/actions/runs/2495729185)|<script type="text/javascript">localize(1655254625);</script>|
+|x86_64/visual-studio-code-bin|BUILT||[2506333887](https://github.com/arch4edu/cactus/actions/runs/2506333887)|<script type="text/javascript">localize(1655347234);</script>|
 |x86_64/voro++|PUBLISHED||[2495544577](https://github.com/arch4edu/cactus/actions/runs/2495544577)|<script type="text/javascript">localize(1655254640);</script>|
 |x86_64/wd719x-firmware|PUBLISHED||[2495545639](https://github.com/arch4edu/cactus/actions/runs/2495545639)|<script type="text/javascript">localize(1655254654);</script>|
 |x86_64/wiredtiger|PUBLISHED||[2495545676](https://github.com/arch4edu/cactus/actions/runs/2495545676)|<script type="text/javascript">localize(1655254678);</script>|
