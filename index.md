@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655450669.1981735);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655452421.7777667);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -254,8 +254,9 @@ Build status (Last update:<script type="text/javascript">localize(1655450669.198
 |x86_64/r-mkl|PUBLISHED||[2470112825](https://github.com/arch4edu/cactus/actions/runs/2470112825)|<script type="text/javascript">localize(1654869687);</script>|
 |x86_64/rdma-core|PUBLISHED||[2501069136](https://github.com/arch4edu/cactus/actions/runs/2501069136)|<script type="text/javascript">localize(1655341455);</script>|
 |x86_64/rocm/comgr|BUILT||[2513888620](https://github.com/arch4edu/cactus/actions/runs/2513888620)|<script type="text/javascript">localize(1655449674);</script>|
-|x86_64/rocm/hip-runtime-amd|BUILDING|Build failed.|[2513978647](https://github.com/arch4edu/cactus/actions/runs/2513978647)|<script type="text/javascript">localize(1655450452);</script>|
+|x86_64/rocm/hip-runtime-amd|BUILT||[2513978647](https://github.com/arch4edu/cactus/actions/runs/2513978647)|<script type="text/javascript">localize(1655450789);</script>|
 |x86_64/rocm/hip-runtime-nvidia|BUILT||[2513888592](https://github.com/arch4edu/cactus/actions/runs/2513888592)|<script type="text/javascript">localize(1655449589);</script>|
+|x86_64/rocm/hipfort|BUILT||[2514087712](https://github.com/arch4edu/cactus/actions/runs/2514087712)|<script type="text/javascript">localize(1655452172);</script>|
 |x86_64/rocm/hipify-clang|BUILT||[2513888564](https://github.com/arch4edu/cactus/actions/runs/2513888564)|<script type="text/javascript">localize(1655449607);</script>|
 |x86_64/rocm/hsa-amd-aqlprofile-bin|PUBLISHED||[2508060554](https://github.com/arch4edu/cactus/actions/runs/2508060554)|<script type="text/javascript">localize(1655426912);</script>|
 |x86_64/rocm/hsa-rocr|BUILT||[2513649419](https://github.com/arch4edu/cactus/actions/runs/2513649419)|<script type="text/javascript">localize(1655446119);</script>|
