@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655580051.4015725);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655583945.6820853);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -286,7 +286,7 @@ Build status (Last update:<script type="text/javascript">localize(1655580051.401
 |x86_64/teamviewer|PUBLISHED||[2470368567](https://github.com/arch4edu/cactus/actions/runs/2470368567)|<script type="text/javascript">localize(1654869959);</script>|
 |x86_64/termcap|PUBLISHED||[2470112842](https://github.com/arch4edu/cactus/actions/runs/2470112842)|<script type="text/javascript">localize(1654869968);</script>|
 |x86_64/tix|PUBLISHED||[2495680570](https://github.com/arch4edu/cactus/actions/runs/2495680570)|<script type="text/javascript">localize(1655254500);</script>|
-|x86_64/trilinos|BUILDING|GitHubActions|[2521385465](https://github.com/arch4edu/cactus/actions/runs/2521385465)|<script type="text/javascript">localize(1655577686);</script>|
+|x86_64/trilinos|FAILED|Build failed.|[2521385465](https://github.com/arch4edu/cactus/actions/runs/2521385465)|<script type="text/javascript">localize(1655580644);</script>|
 |x86_64/udunits|PUBLISHED||[2495545534](https://github.com/arch4edu/cactus/actions/runs/2495545534)|<script type="text/javascript">localize(1655254510);</script>|
 |x86_64/urdfdom|PUBLISHED||[2495792895](https://github.com/arch4edu/cactus/actions/runs/2495792895)|<script type="text/javascript">localize(1655254519);</script>|
 |x86_64/vim-youcompleteme-git|PUBLISHED||[2508147009](https://github.com/arch4edu/cactus/actions/runs/2508147009)|<script type="text/javascript">localize(1655513650);</script>|
