@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655570119.110527);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655573028.998104);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -187,7 +187,7 @@ Build status (Last update:<script type="text/javascript">localize(1655570119.110
 |x86_64/lux-dl|PUBLISHED||[2409881251](https://github.com/arch4edu/cactus/actions/runs/2409881251)|<script type="text/javascript">localize(1654560113);</script>|
 |x86_64/mendeleydesktop|PUBLISHED||[2470164581](https://github.com/arch4edu/cactus/actions/runs/2470164581)|<script type="text/javascript">localize(1654866198);</script>|
 |x86_64/meteoinfo|FAILED|Build failed.|[2508031614](https://github.com/arch4edu/cactus/actions/runs/2508031614)|<script type="text/javascript">localize(1655371564);</script>|
-|x86_64/mongodb|BUILT||[2515678573](https://github.com/arch4edu/cactus/actions/runs/2515678573)|<script type="text/javascript">localize(1655481589);</script>|
+|x86_64/mongodb|PUBLISHED||[2515678573](https://github.com/arch4edu/cactus/actions/runs/2515678573)|<script type="text/javascript">localize(1655599080);</script>|
 |x86_64/mongodb-tools|PUBLISHED||[2513888518](https://github.com/arch4edu/cactus/actions/runs/2513888518)|<script type="text/javascript">localize(1655512929);</script>|
 |x86_64/mpich|PUBLISHED||[2508060668](https://github.com/arch4edu/cactus/actions/runs/2508060668)|<script type="text/javascript">localize(1655426632);</script>|
 |x86_64/mysql|PUBLISHED||[2501187549](https://github.com/arch4edu/cactus/actions/runs/2501187549)|<script type="text/javascript">localize(1655340690);</script>|
@@ -204,7 +204,7 @@ Build status (Last update:<script type="text/javascript">localize(1655570119.110
 |x86_64/opencv-cuda|FAILED|Build failed.|[2508031770](https://github.com/arch4edu/cactus/actions/runs/2508031770)|<script type="text/javascript">localize(1655371663);</script>|
 |x86_64/opencv2|FAILED|Build failed.|[2508380360](https://github.com/arch4edu/cactus/actions/runs/2508380360)|<script type="text/javascript">localize(1655375479);</script>|
 |x86_64/openfoam|PUBLISHED||[2513651632](https://github.com/arch4edu/cactus/actions/runs/2513651632)|<script type="text/javascript">localize(1655512985);</script>|
-|x86_64/openfoam-com|BUILT||[2508147107](https://github.com/arch4edu/cactus/actions/runs/2508147107)|<script type="text/javascript">localize(1655391318);</script>|
+|x86_64/openfoam-com|PUBLISHED||[2508147107](https://github.com/arch4edu/cactus/actions/runs/2508147107)|<script type="text/javascript">localize(1655599163);</script>|
 |x86_64/openfst|FAILED|Build failed.|[2508060771](https://github.com/arch4edu/cactus/actions/runs/2508060771)|<script type="text/javascript">localize(1655371945);</script>|
 |x86_64/openjpeg|PUBLISHED||[2470368515](https://github.com/arch4edu/cactus/actions/runs/2470368515)|<script type="text/javascript">localize(1654877778);</script>|
 |x86_64/opensmile|FAILED|Build failed.|[2508031688](https://github.com/arch4edu/cactus/actions/runs/2508031688)|<script type="text/javascript">localize(1655371658);</script>|
@@ -261,8 +261,8 @@ Build status (Last update:<script type="text/javascript">localize(1655570119.110
 |x86_64/rocm/hsa-amd-aqlprofile-bin|PUBLISHED||[2508060554](https://github.com/arch4edu/cactus/actions/runs/2508060554)|<script type="text/javascript">localize(1655426912);</script>|
 |x86_64/rocm/hsa-rocr|PUBLISHED||[2513649419](https://github.com/arch4edu/cactus/actions/runs/2513649419)|<script type="text/javascript">localize(1655513238);</script>|
 |x86_64/rocm/hsakmt-roct|PUBLISHED||[2503065771](https://github.com/arch4edu/cactus/actions/runs/2503065771)|<script type="text/javascript">localize(1655341466);</script>|
-|x86_64/rocm/miopengemm|BUILT||[2508352997](https://github.com/arch4edu/cactus/actions/runs/2508352997)|<script type="text/javascript">localize(1655375282);</script>|
-|x86_64/rocm/openmp-extras|BUILT||[2513888665](https://github.com/arch4edu/cactus/actions/runs/2513888665)|<script type="text/javascript">localize(1655450193);</script>|
+|x86_64/rocm/miopengemm|PUBLISHED||[2508352997](https://github.com/arch4edu/cactus/actions/runs/2508352997)|<script type="text/javascript">localize(1655599178);</script>|
+|x86_64/rocm/openmp-extras|PUBLISHED||[2513888665](https://github.com/arch4edu/cactus/actions/runs/2513888665)|<script type="text/javascript">localize(1655599207);</script>|
 |x86_64/rocm/rocblas|FAILED|Build failed.|[2515705340](https://github.com/arch4edu/cactus/actions/runs/2515705340)|<script type="text/javascript">localize(1655471647);</script>|
 |x86_64/rocm/rocfft|FAILED|Build failed.|[2515705405](https://github.com/arch4edu/cactus/actions/runs/2515705405)|<script type="text/javascript">localize(1655471617);</script>|
 |x86_64/rocm/rocm-cmake|PUBLISHED||[2508060514](https://github.com/arch4edu/cactus/actions/runs/2508060514)|<script type="text/javascript">localize(1655426955);</script>|
