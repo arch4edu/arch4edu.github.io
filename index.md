@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655732834.0723);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655734956.6271713);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -277,7 +277,7 @@ Build status (Last update:<script type="text/javascript">localize(1655732834.072
 |x86_64/rocm/rocminfo|BUILT||[2528725383](https://github.com/arch4edu/cactus/actions/runs/2528725383)|<script type="text/javascript">localize(1655725880);</script>|
 |x86_64/rocm/rocprim|BUILT||[2528813326](https://github.com/arch4edu/cactus/actions/runs/2528813326)|<script type="text/javascript">localize(1655726911);</script>|
 |x86_64/rocm/rocrand|BUILT||[2528813688](https://github.com/arch4edu/cactus/actions/runs/2528813688)|<script type="text/javascript">localize(1655727165);</script>|
-|x86_64/rocm/rocsparse|BUILDING|GitHubActions|[2528844844](https://github.com/arch4edu/cactus/actions/runs/2528844844)|<script type="text/javascript">localize(1655727095);</script>|
+|x86_64/rocm/rocsparse|BUILT||[2528844844](https://github.com/arch4edu/cactus/actions/runs/2528844844)|<script type="text/javascript">localize(1655733423);</script>|
 |x86_64/saxon-he|PUBLISHED||[2503065770](https://github.com/arch4edu/cactus/actions/runs/2503065770)|<script type="text/javascript">localize(1655341482);</script>|
 |x86_64/sc-im|PUBLISHED||[2470459863](https://github.com/arch4edu/cactus/actions/runs/2470459863)|<script type="text/javascript">localize(1654869697);</script>|
 |x86_64/scilab-bin|PUBLISHED||[2489040928](https://github.com/arch4edu/cactus/actions/runs/2489040928)|<script type="text/javascript">localize(1655167165);</script>|
