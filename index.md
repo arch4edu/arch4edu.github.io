@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655819323.2150261);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655821473.443233);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -208,7 +208,7 @@ Build status (Last update:<script type="text/javascript">localize(1655819323.215
 |x86_64/openboard|PUBLISHED||[2495681075](https://github.com/arch4edu/cactus/actions/runs/2495681075)|<script type="text/javascript">localize(1655399717);</script>|
 |x86_64/opencv-cuda|FAILED|Build failed.|[2508031770](https://github.com/arch4edu/cactus/actions/runs/2508031770)|<script type="text/javascript">localize(1655371663);</script>|
 |x86_64/opencv2|FAILED|Build failed.|[2508380360](https://github.com/arch4edu/cactus/actions/runs/2508380360)|<script type="text/javascript">localize(1655375479);</script>|
-|x86_64/openfoam|BUILDING|Build failed.|[2534594344](https://github.com/arch4edu/cactus/actions/runs/2534594344)|<script type="text/javascript">localize(1655806382);</script>|
+|x86_64/openfoam|BUILT||[2534594344](https://github.com/arch4edu/cactus/actions/runs/2534594344)|<script type="text/javascript">localize(1655819735);</script>|
 |x86_64/openfoam-com|PUBLISHED||[2508147107](https://github.com/arch4edu/cactus/actions/runs/2508147107)|<script type="text/javascript">localize(1655599163);</script>|
 |x86_64/openfst|FAILED|Build failed.|[2508060771](https://github.com/arch4edu/cactus/actions/runs/2508060771)|<script type="text/javascript">localize(1655371945);</script>|
 |x86_64/openjpeg|PUBLISHED||[2470368515](https://github.com/arch4edu/cactus/actions/runs/2470368515)|<script type="text/javascript">localize(1654877778);</script>|
@@ -251,7 +251,7 @@ Build status (Last update:<script type="text/javascript">localize(1655819323.215
 |x86_64/python-torchvision|FAILED|Build failed.|[2533533057](https://github.com/arch4edu/cactus/actions/runs/2533533057)|<script type="text/javascript">localize(1655794044);</script>|
 |x86_64/python-wrf|PUBLISHED||[2501187146](https://github.com/arch4edu/cactus/actions/runs/2501187146)|<script type="text/javascript">localize(1655341423);</script>|
 |x86_64/python-wxpython-dev|FAILED|Build failed.|[2533533249](https://github.com/arch4edu/cactus/actions/runs/2533533249)|<script type="text/javascript">localize(1655794074);</script>|
-|x86_64/qemu-user-static|BUILDING|Build failed.|[2533994696](https://github.com/arch4edu/cactus/actions/runs/2533994696)|<script type="text/javascript">localize(1655799411);</script>|
+|x86_64/qemu-user-static|FAILED|Build failed.|[2533994696](https://github.com/arch4edu/cactus/actions/runs/2533994696)|<script type="text/javascript">localize(1655820985);</script>|
 |x86_64/qemu-user-static-bin|PUBLISHED||[2489884385](https://github.com/arch4edu/cactus/actions/runs/2489884385)|<script type="text/javascript">localize(1655254475);</script>|
 |x86_64/qgroundcontrol|FAILED|Build failed.|[2534899493](https://github.com/arch4edu/cactus/actions/runs/2534899493)|<script type="text/javascript">localize(1655811685);</script>|
 |x86_64/qt4|PUBLISHED||[2469894953](https://github.com/arch4edu/cactus/actions/runs/2469894953)|<script type="text/javascript">localize(1654869623);</script>|
