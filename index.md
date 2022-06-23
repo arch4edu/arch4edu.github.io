@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1655970868.7268696);</script>)
+Build status (Last update:<script type="text/javascript">localize(1655973242.2272203);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -49,7 +49,7 @@ Build status (Last update:<script type="text/javascript">localize(1655970868.726
 |any/python-astropy-helpers|PUBLISHED||[2482213692](https://github.com/arch4edu/cactus/actions/runs/2482213692)|<script type="text/javascript">localize(1655080644);</script>|
 |any/python-astropy-sphinx-theme|PUBLISHED||[2482158503](https://github.com/arch4edu/cactus/actions/runs/2482158503)|<script type="text/javascript">localize(1655080656);</script>|
 |any/python-audioread|PUBLISHED||[2482213622](https://github.com/arch4edu/cactus/actions/runs/2482213622)|<script type="text/javascript">localize(1655080672);</script>|
-|any/python-bcolz|FAILED|Build failed.|[2508004162](https://github.com/arch4edu/cactus/actions/runs/2508004162)|<script type="text/javascript">localize(1655371271);</script>|
+|any/python-bcolz|PUBLISHED||[2547766282](https://github.com/arch4edu/cactus/actions/runs/2547766282)|<script type="text/javascript">localize(1655973239);</script>|
 |any/python-bokeh|PUBLISHED||[2534973460](https://github.com/arch4edu/cactus/actions/runs/2534973460)|<script type="text/javascript">localize(1655968621);</script>|
 |any/python-cachey|PUBLISHED||[2508003746](https://github.com/arch4edu/cactus/actions/runs/2508003746)|<script type="text/javascript">localize(1655400414);</script>|
 |any/python-catkin_pkg|PUBLISHED||[2482158513](https://github.com/arch4edu/cactus/actions/runs/2482158513)|<script type="text/javascript">localize(1655080686);</script>|
