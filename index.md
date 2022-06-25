@@ -1,9 +1,9 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1656156066.8020258);</script>)
+Build status (Last update:<script type="text/javascript">localize(1656160808.1284401);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
-|aarch64/yay|FAILED|Build failed.|[2560442628](https://github.com/arch4edu/cactus/actions/runs/2560442628)|<script type="text/javascript">localize(1656155900);</script>|
+|aarch64/yay|FAILED|Build failed.|[2560645137](https://github.com/arch4edu/cactus/actions/runs/2560645137)|<script type="text/javascript">localize(1656160581);</script>|
 |any/aic94xx-firmware|PUBLISHED||[2404889978](https://github.com/arch4edu/cactus/actions/runs/2404889978)|<script type="text/javascript">localize(1654553494);</script>|
 |any/android-platform|PUBLISHED||[2469729652](https://github.com/arch4edu/cactus/actions/runs/2469729652)|<script type="text/javascript">localize(1654864725);</script>|
 |any/apache-lucene|PUBLISHED||[2492708360](https://github.com/arch4edu/cactus/actions/runs/2492708360)|<script type="text/javascript">localize(1655400405);</script>|
