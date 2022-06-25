@@ -1,9 +1,9 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1656152758.0747762);</script>)
+Build status (Last update:<script type="text/javascript">localize(1656156066.8020258);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
-|aarch64/yay|SCHEDULED|aarch64|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1656152439);</script>|
+|aarch64/yay|FAILED|Build failed.|[2560442628](https://github.com/arch4edu/cactus/actions/runs/2560442628)|<script type="text/javascript">localize(1656155900);</script>|
 |any/aic94xx-firmware|PUBLISHED||[2404889978](https://github.com/arch4edu/cactus/actions/runs/2404889978)|<script type="text/javascript">localize(1654553494);</script>|
 |any/android-platform|PUBLISHED||[2469729652](https://github.com/arch4edu/cactus/actions/runs/2469729652)|<script type="text/javascript">localize(1654864725);</script>|
 |any/apache-lucene|PUBLISHED||[2492708360](https://github.com/arch4edu/cactus/actions/runs/2492708360)|<script type="text/javascript">localize(1655400405);</script>|
@@ -265,7 +265,7 @@ Build status (Last update:<script type="text/javascript">localize(1656152758.074
 |x86_64/qt4|PUBLISHED||[2469894953](https://github.com/arch4edu/cactus/actions/runs/2469894953)|<script type="text/javascript">localize(1654869623);</script>|
 |x86_64/qtwebkit|FAILED|Build failed.|[2508178331](https://github.com/arch4edu/cactus/actions/runs/2508178331)|<script type="text/javascript">localize(1655378369);</script>|
 |x86_64/qucs|PUBLISHED||[2501262362](https://github.com/arch4edu/cactus/actions/runs/2501262362)|<script type="text/javascript">localize(1655341443);</script>|
-|x86_64/r-mkl|BUILDING|GitHubActions|[2560309958](https://github.com/arch4edu/cactus/actions/runs/2560309958)|<script type="text/javascript">localize(1656152486);</script>|
+|x86_64/r-mkl|PUBLISHED||[2560309958](https://github.com/arch4edu/cactus/actions/runs/2560309958)|<script type="text/javascript">localize(1656156062);</script>|
 |x86_64/rdma-core|PUBLISHED||[2501069136](https://github.com/arch4edu/cactus/actions/runs/2501069136)|<script type="text/javascript">localize(1655341455);</script>|
 |x86_64/rocm/comgr|PUBLISHED||[2528697574](https://github.com/arch4edu/cactus/actions/runs/2528697574)|<script type="text/javascript">localize(1655968825);</script>|
 |x86_64/rocm/hip-runtime-amd|PUBLISHED||[2528753766](https://github.com/arch4edu/cactus/actions/runs/2528753766)|<script type="text/javascript">localize(1655968837);</script>|
