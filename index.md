@@ -1,16 +1,16 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1656166904.2377179);</script>)
+Build status (Last update:<script type="text/javascript">localize(1656170750.7894702);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
-|aarch64/ccnet-server|STALED|Waiting for dependency: aarch64/libsearpc .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1656166719);</script>|
+|aarch64/ccnet-server|PUBLISHED||[2560934251](https://github.com/arch4edu/cactus/actions/runs/2560934251)|<script type="text/javascript">localize(1656170719);</script>|
 |aarch64/devtools-arch4edu-extra|PUBLISHED||[2560863379](https://github.com/arch4edu/cactus/actions/runs/2560863379)|<script type="text/javascript">localize(1656166892);</script>|
 |aarch64/fakeroot-tcp|PUBLISHED||[2560755341](https://github.com/arch4edu/cactus/actions/runs/2560755341)|<script type="text/javascript">localize(1656163818);</script>|
 |aarch64/github-actions-bin|PUBLISHED||[2560768650](https://github.com/arch4edu/cactus/actions/runs/2560768650)|<script type="text/javascript">localize(1656163855);</script>|
-|aarch64/libsearpc|BUILDING|aarch64|[2560920120](https://github.com/arch4edu/cactus/actions/runs/2560920120)|<script type="text/javascript">localize(1656166847);</script>|
+|aarch64/libsearpc|PUBLISHED||[2560920120](https://github.com/arch4edu/cactus/actions/runs/2560920120)|<script type="text/javascript">localize(1656170727);</script>|
 |aarch64/lux-dl|PUBLISHED||[2560808452](https://github.com/arch4edu/cactus/actions/runs/2560808452)|<script type="text/javascript">localize(1656166901);</script>|
-|aarch64/seafile|STALED|Waiting for dependency: aarch64/libsearpc .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1656166719);</script>|
-|aarch64/seafile-client|STALED|Waiting for dependency: aarch64/libsearpc .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1656166719);</script>|
+|aarch64/seafile|PUBLISHED||[2560961806](https://github.com/arch4edu/cactus/actions/runs/2560961806)|<script type="text/javascript">localize(1656170736);</script>|
+|aarch64/seafile-client|PUBLISHED||[2560988150](https://github.com/arch4edu/cactus/actions/runs/2560988150)|<script type="text/javascript">localize(1656170745);</script>|
 |aarch64/yay|PUBLISHED||[2560677940](https://github.com/arch4edu/cactus/actions/runs/2560677940)|<script type="text/javascript">localize(1656161964);</script>|
 |any/aic94xx-firmware|PUBLISHED||[2404889978](https://github.com/arch4edu/cactus/actions/runs/2404889978)|<script type="text/javascript">localize(1654553494);</script>|
 |any/android-platform|PUBLISHED||[2469729652](https://github.com/arch4edu/cactus/actions/runs/2469729652)|<script type="text/javascript">localize(1654864725);</script>|
