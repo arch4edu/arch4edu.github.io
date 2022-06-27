@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1656337777.8002884);</script>)
+Build status (Last update:<script type="text/javascript">localize(1656339995.5892715);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -15,7 +15,7 @@ Build status (Last update:<script type="text/javascript">localize(1656337777.800
 |aarch64/pypy-bin|PUBLISHED||[2567092839](https://github.com/arch4edu/cactus/actions/runs/2567092839)|<script type="text/javascript">localize(1656311760);</script>|
 |aarch64/pypy3|FAILED|Build failed.|[2567206383](https://github.com/arch4edu/cactus/actions/runs/2567206383)|<script type="text/javascript">localize(1656311200);</script>|
 |aarch64/python-wiringpi-git|PUBLISHED||[2563440426](https://github.com/arch4edu/cactus/actions/runs/2563440426)|<script type="text/javascript">localize(1656239185);</script>|
-|aarch64/qgroundcontrol|BUILDING|aarch64|[2569390698](https://github.com/arch4edu/cactus/actions/runs/2569390698)|<script type="text/javascript">localize(1656335388);</script>|
+|aarch64/qgroundcontrol|FAILED|Build failed.|[2569390698](https://github.com/arch4edu/cactus/actions/runs/2569390698)|<script type="text/javascript">localize(1656338189);</script>|
 |aarch64/rpiusbboot|PUBLISHED||[2563451314](https://github.com/arch4edu/cactus/actions/runs/2563451314)|<script type="text/javascript">localize(1656239193);</script>|
 |aarch64/seafile|PUBLISHED||[2560961806](https://github.com/arch4edu/cactus/actions/runs/2560961806)|<script type="text/javascript">localize(1656170736);</script>|
 |aarch64/seafile-client|PUBLISHED||[2560988150](https://github.com/arch4edu/cactus/actions/runs/2560988150)|<script type="text/javascript">localize(1656170745);</script>|
@@ -279,7 +279,7 @@ Build status (Last update:<script type="text/javascript">localize(1656337777.800
 |x86_64/python-wxpython-dev|FAILED|Build failed.|[2567305018](https://github.com/arch4edu/cactus/actions/runs/2567305018)|<script type="text/javascript">localize(1656312473);</script>|
 |x86_64/qemu-user-static|FAILED|Build failed.|[2533994696](https://github.com/arch4edu/cactus/actions/runs/2533994696)|<script type="text/javascript">localize(1655820985);</script>|
 |x86_64/qemu-user-static-bin|PUBLISHED||[2489884385](https://github.com/arch4edu/cactus/actions/runs/2489884385)|<script type="text/javascript">localize(1655254475);</script>|
-|x86_64/qgroundcontrol|BUILDING|GitHubActions|[2569390792](https://github.com/arch4edu/cactus/actions/runs/2569390792)|<script type="text/javascript">localize(1656335304);</script>|
+|x86_64/qgroundcontrol|FAILED|Build failed.|[2569390792](https://github.com/arch4edu/cactus/actions/runs/2569390792)|<script type="text/javascript">localize(1656337897);</script>|
 |x86_64/qt4|PUBLISHED||[2469894953](https://github.com/arch4edu/cactus/actions/runs/2469894953)|<script type="text/javascript">localize(1654869623);</script>|
 |x86_64/qtwebkit|FAILED|Build failed.|[2508178331](https://github.com/arch4edu/cactus/actions/runs/2508178331)|<script type="text/javascript">localize(1655378369);</script>|
 |x86_64/qucs|PUBLISHED||[2501262362](https://github.com/arch4edu/cactus/actions/runs/2501262362)|<script type="text/javascript">localize(1655341443);</script>|
