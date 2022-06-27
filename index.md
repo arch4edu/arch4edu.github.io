@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1656308013.4603643);</script>)
+Build status (Last update:<script type="text/javascript">localize(1656311765.207399);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -12,7 +12,8 @@ Build status (Last update:<script type="text/javascript">localize(1656308013.460
 |aarch64/mongodb-bin|PUBLISHED||[2563278633](https://github.com/arch4edu/cactus/actions/runs/2563278633)|<script type="text/javascript">localize(1656228135);</script>|
 |aarch64/mongodb-tools|PUBLISHED||[2563253976](https://github.com/arch4edu/cactus/actions/runs/2563253976)|<script type="text/javascript">localize(1656228148);</script>|
 |aarch64/pigpio|PUBLISHED||[2563464391](https://github.com/arch4edu/cactus/actions/runs/2563464391)|<script type="text/javascript">localize(1656239177);</script>|
-|aarch64/pypy3|FAILED|Build failed.|[2564903368](https://github.com/arch4edu/cactus/actions/runs/2564903368)|<script type="text/javascript">localize(1656265491);</script>|
+|aarch64/pypy-bin|PUBLISHED||[2567092839](https://github.com/arch4edu/cactus/actions/runs/2567092839)|<script type="text/javascript">localize(1656311760);</script>|
+|aarch64/pypy3|FAILED|Build failed.|[2567206383](https://github.com/arch4edu/cactus/actions/runs/2567206383)|<script type="text/javascript">localize(1656311200);</script>|
 |aarch64/python-wiringpi-git|PUBLISHED||[2563440426](https://github.com/arch4edu/cactus/actions/runs/2563440426)|<script type="text/javascript">localize(1656239185);</script>|
 |aarch64/qgroundcontrol|FAILED|Build failed.|[2563426172](https://github.com/arch4edu/cactus/actions/runs/2563426172)|<script type="text/javascript">localize(1656241650);</script>|
 |aarch64/rpiusbboot|PUBLISHED||[2563451314](https://github.com/arch4edu/cactus/actions/runs/2563451314)|<script type="text/javascript">localize(1656239193);</script>|
@@ -81,7 +82,7 @@ Build status (Last update:<script type="text/javascript">localize(1656308013.460
 |any/python-glog|PUBLISHED||[2482158517](https://github.com/arch4edu/cactus/actions/runs/2482158517)|<script type="text/javascript">localize(1655080773);</script>|
 |any/python-gpustat|FAILED|Build failed.|[2508003802](https://github.com/arch4edu/cactus/actions/runs/2508003802)|<script type="text/javascript">localize(1655371277);</script>|
 |any/python-grip|PUBLISHED||[2508234420](https://github.com/arch4edu/cactus/actions/runs/2508234420)|<script type="text/javascript">localize(1655512703);</script>|
-|any/python-heapdict|FAILED|nvchecker failed|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1656306773);</script>|
+|any/python-heapdict|FAILED|nvchecker failed|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1656309111);</script>|
 |any/python-imread|PUBLISHED||[2503065208](https://github.com/arch4edu/cactus/actions/runs/2503065208)|<script type="text/javascript">localize(1655340037);</script>|
 |any/python-librosa|PUBLISHED||[2533533314](https://github.com/arch4edu/cactus/actions/runs/2533533314)|<script type="text/javascript">localize(1655968635);</script>|
 |any/python-multipledispatch|PUBLISHED||[2500972867](https://github.com/arch4edu/cactus/actions/runs/2500972867)|<script type="text/javascript">localize(1655340046);</script>|
@@ -97,7 +98,7 @@ Build status (Last update:<script type="text/javascript">localize(1656308013.460
 |any/python-pycrypto|PUBLISHED||[2501010794](https://github.com/arch4edu/cactus/actions/runs/2501010794)|<script type="text/javascript">localize(1655340137);</script>|
 |any/python-pydotplus|PUBLISHED||[2501010542](https://github.com/arch4edu/cactus/actions/runs/2501010542)|<script type="text/javascript">localize(1655340149);</script>|
 |any/python-pymavlink|PUBLISHED||[2469729385](https://github.com/arch4edu/cactus/actions/runs/2469729385)|<script type="text/javascript">localize(1654864923);</script>|
-|any/python-pyqrcode|FAILED|nvchecker failed|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1656306774);</script>|
+|any/python-pyqrcode|FAILED|nvchecker failed|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1656309111);</script>|
 |any/python-pytest-astropy-header|PUBLISHED||[2500892242](https://github.com/arch4edu/cactus/actions/runs/2500892242)|<script type="text/javascript">localize(1655340162);</script>|
 |any/python-pytest-remotedata|PUBLISHED||[2501010673](https://github.com/arch4edu/cactus/actions/runs/2501010673)|<script type="text/javascript">localize(1655340175);</script>|
 |any/python-requests-futures|PUBLISHED||[2500892715](https://github.com/arch4edu/cactus/actions/runs/2500892715)|<script type="text/javascript">localize(1655340187);</script>|
@@ -246,7 +247,7 @@ Build status (Last update:<script type="text/javascript">localize(1656308013.460
 |x86_64/pio|PUBLISHED||[2495544742](https://github.com/arch4edu/cactus/actions/runs/2495544742)|<script type="text/javascript">localize(1655254439);</script>|
 |x86_64/plplot|PUBLISHED||[2495544844](https://github.com/arch4edu/cactus/actions/runs/2495544844)|<script type="text/javascript">localize(1655254455);</script>|
 |x86_64/praat|PUBLISHED||[2482280520](https://github.com/arch4edu/cactus/actions/runs/2482280520)|<script type="text/javascript">localize(1655080890);</script>|
-|x86_64/protobuf-static|FAILED|nvchecker failed|[2482280335](https://github.com/arch4edu/cactus/actions/runs/2482280335)|<script type="text/javascript">localize(1656306775);</script>|
+|x86_64/protobuf-static|FAILED|nvchecker failed|[2482280335](https://github.com/arch4edu/cactus/actions/runs/2482280335)|<script type="text/javascript">localize(1656309112);</script>|
 |x86_64/python-apex-git|FAILED|Build failed.|[2564676711](https://github.com/arch4edu/cactus/actions/runs/2564676711)|<script type="text/javascript">localize(1656257943);</script>|
 |x86_64/python-arch|PUBLISHED||[2508297373](https://github.com/arch4edu/cactus/actions/runs/2508297373)|<script type="text/javascript">localize(1655513063);</script>|
 |x86_64/python-astropy|FAILED|Build failed.|[2564676744](https://github.com/arch4edu/cactus/actions/runs/2564676744)|<script type="text/javascript">localize(1656257841);</script>|
