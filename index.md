@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1656408318.9765992);</script>)
+Build status (Last update:<script type="text/javascript">localize(1656412197.9401455);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -13,7 +13,7 @@ Build status (Last update:<script type="text/javascript">localize(1656408318.976
 |aarch64/mongodb-tools|PUBLISHED||[2563253976](https://github.com/arch4edu/cactus/actions/runs/2563253976)|<script type="text/javascript">localize(1656228148);</script>|
 |aarch64/pigpio|PUBLISHED||[2563464391](https://github.com/arch4edu/cactus/actions/runs/2563464391)|<script type="text/javascript">localize(1656239177);</script>|
 |aarch64/pypy-bin|PUBLISHED||[2574987175](https://github.com/arch4edu/cactus/actions/runs/2574987175)|<script type="text/javascript">localize(1656408316);</script>|
-|aarch64/pypy3|BUILDING|Build failed.|[2574290514](https://github.com/arch4edu/cactus/actions/runs/2574290514)|<script type="text/javascript">localize(1656406843);</script>|
+|aarch64/pypy3|PUBLISHED||[2574290514](https://github.com/arch4edu/cactus/actions/runs/2574290514)|<script type="text/javascript">localize(1656412193);</script>|
 |aarch64/python-wiringpi-git|PUBLISHED||[2563440426](https://github.com/arch4edu/cactus/actions/runs/2563440426)|<script type="text/javascript">localize(1656239185);</script>|
 |aarch64/qgroundcontrol|FAILED|Build failed.|[2569390698](https://github.com/arch4edu/cactus/actions/runs/2569390698)|<script type="text/javascript">localize(1656338189);</script>|
 |aarch64/rpiusbboot|PUBLISHED||[2563451314](https://github.com/arch4edu/cactus/actions/runs/2563451314)|<script type="text/javascript">localize(1656239193);</script>|
