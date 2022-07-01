@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1656707266.105449);</script>)
+Build status (Last update:<script type="text/javascript">localize(1656710566.9224675);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -345,7 +345,7 @@ Build status (Last update:<script type="text/javascript">localize(1656707266.105
 |x86_64/rocm/rocprim|PUBLISHED||[2598551560](https://github.com/arch4edu/cactus/actions/runs/2598551560)|<script type="text/javascript">localize(1656703324);</script>|
 |x86_64/rocm/rocprofiler|PUBLISHED||[2598551468](https://github.com/arch4edu/cactus/actions/runs/2598551468)|<script type="text/javascript">localize(1656703334);</script>|
 |x86_64/rocm/rocrand|PUBLISHED||[2598551402](https://github.com/arch4edu/cactus/actions/runs/2598551402)|<script type="text/javascript">localize(1656703347);</script>|
-|x86_64/rocm/rocsparse|BUILDING|GitHubActions|[2598571753](https://github.com/arch4edu/cactus/actions/runs/2598571753)|<script type="text/javascript">localize(1656702103);</script>|
+|x86_64/rocm/rocsparse|PUBLISHED||[2598571753](https://github.com/arch4edu/cactus/actions/runs/2598571753)|<script type="text/javascript">localize(1656710562);</script>|
 |x86_64/rocm/rocthrust|PUBLISHED||[2598571783](https://github.com/arch4edu/cactus/actions/runs/2598571783)|<script type="text/javascript">localize(1656703356);</script>|
 |x86_64/rocm/roctracer|PUBLISHED||[2598571705](https://github.com/arch4edu/cactus/actions/runs/2598571705)|<script type="text/javascript">localize(1656703366);</script>|
 |x86_64/rpiusbboot|PUBLISHED||[2548131147](https://github.com/arch4edu/cactus/actions/runs/2548131147)|<script type="text/javascript">localize(1655978334);</script>|
