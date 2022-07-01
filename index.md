@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1656657892.4269571);</script>)
+Build status (Last update:<script type="text/javascript">localize(1656660310.931873);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -327,7 +327,7 @@ Build status (Last update:<script type="text/javascript">localize(1656657892.426
 |x86_64/rocm/rocm-dbgapi|PUBLISHED||[2534973789](https://github.com/arch4edu/cactus/actions/runs/2534973789)|<script type="text/javascript">localize(1655968996);</script>|
 |x86_64/rocm/rocm-debug-agent|PUBLISHED||[2535001253](https://github.com/arch4edu/cactus/actions/runs/2535001253)|<script type="text/javascript">localize(1655969005);</script>|
 |x86_64/rocm/rocm-device-libs|PUBLISHED||[2584613093](https://github.com/arch4edu/cactus/actions/runs/2584613093)|<script type="text/javascript">localize(1656524992);</script>|
-|x86_64/rocm/rocm-gdb|SCHEDULED|GitHubActions|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1656657875);</script>|
+|x86_64/rocm/rocm-gdb|PUBLISHED||[2594850105](https://github.com/arch4edu/cactus/actions/runs/2594850105)|<script type="text/javascript">localize(1656660307);</script>|
 |x86_64/rocm/rocm-hip-runtime|PUBLISHED||[2533277128](https://github.com/arch4edu/cactus/actions/runs/2533277128)|<script type="text/javascript">localize(1655969024);</script>|
 |x86_64/rocm/rocm-language-runtime|PUBLISHED||[2533248572](https://github.com/arch4edu/cactus/actions/runs/2533248572)|<script type="text/javascript">localize(1655969034);</script>|
 |x86_64/rocm/rocm-llvm|PUBLISHED||[2583310479](https://github.com/arch4edu/cactus/actions/runs/2583310479)|<script type="text/javascript">localize(1656525119);</script>|
