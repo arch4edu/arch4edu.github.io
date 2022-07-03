@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1656887000.608596);</script>)
+Build status (Last update:<script type="text/javascript">localize(1656890661.280643);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -329,7 +329,7 @@ Build status (Last update:<script type="text/javascript">localize(1656887000.608
 |x86_64/rocm/miopengemm|PUBLISHED||[2527862767](https://github.com/arch4edu/cactus/actions/runs/2527862767)|<script type="text/javascript">localize(1655968946);</script>|
 |x86_64/rocm/openmp-extras|PUBLISHED||[2528725429](https://github.com/arch4edu/cactus/actions/runs/2528725429)|<script type="text/javascript">localize(1655968958);</script>|
 |x86_64/rocm/rccl|BUILDING|GitHubActions|[2528813574](https://github.com/arch4edu/cactus/actions/runs/2528813574)|<script type="text/javascript">localize(1655806644);</script>|
-|x86_64/rocm/rocblas|BUILDING|GitHubActions|[2606063818](https://github.com/arch4edu/cactus/actions/runs/2606063818)|<script type="text/javascript">localize(1656873582);</script>|
+|x86_64/rocm/rocblas|FAILED|Build failed.|[2606063818](https://github.com/arch4edu/cactus/actions/runs/2606063818)|<script type="text/javascript">localize(1656889032);</script>|
 |x86_64/rocm/rocfft|FAILED|Build failed.|[2601613660](https://github.com/arch4edu/cactus/actions/runs/2601613660)|<script type="text/javascript">localize(1656788676);</script>|
 |x86_64/rocm/rocm-clang-ocl|PUBLISHED||[2598505702](https://github.com/arch4edu/cactus/actions/runs/2598505702)|<script type="text/javascript">localize(1656703276);</script>|
 |x86_64/rocm/rocm-cmake|PUBLISHED||[2583310285](https://github.com/arch4edu/cactus/actions/runs/2583310285)|<script type="text/javascript">localize(1656510335);</script>|
