@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1656912901.1947281);</script>)
+Build status (Last update:<script type="text/javascript">localize(1656916589.196094);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -207,7 +207,7 @@ Build status (Last update:<script type="text/javascript">localize(1656912901.194
 |x86_64/idutils|FAILED|Build failed.|[2508118168](https://github.com/arch4edu/cactus/actions/runs/2508118168)|<script type="text/javascript">localize(1655372619);</script>|
 |x86_64/intel-oneapi/intel-oneapi-advisor|PUBLISHED||[2594603319](https://github.com/arch4edu/cactus/actions/runs/2594603319)|<script type="text/javascript">localize(1656657257);</script>|
 |x86_64/intel-oneapi/intel-oneapi-ccl|PUBLISHED||[2594583959](https://github.com/arch4edu/cactus/actions/runs/2594583959)|<script type="text/javascript">localize(1656657276);</script>|
-|x86_64/intel-oneapi/intel-oneapi-common|PUBLISHED||[2594583923](https://github.com/arch4edu/cactus/actions/runs/2594583923)|<script type="text/javascript">localize(1656657291);</script>|
+|x86_64/intel-oneapi/intel-oneapi-common|PUBLISHED||[2607987555](https://github.com/arch4edu/cactus/actions/runs/2607987555)|<script type="text/javascript">localize(1656916586);</script>|
 |x86_64/intel-oneapi/intel-oneapi-compiler|PUBLISHED||[2594603451](https://github.com/arch4edu/cactus/actions/runs/2594603451)|<script type="text/javascript">localize(1656657471);</script>|
 |x86_64/intel-oneapi/intel-oneapi-dal|FAILED|Build failed.|[2605137466](https://github.com/arch4edu/cactus/actions/runs/2605137466)|<script type="text/javascript">localize(1656853047);</script>|
 |x86_64/intel-oneapi/intel-oneapi-dev-utilities|PUBLISHED||[2594584057](https://github.com/arch4edu/cactus/actions/runs/2594584057)|<script type="text/javascript">localize(1656657485);</script>|
@@ -231,7 +231,7 @@ Build status (Last update:<script type="text/javascript">localize(1656912901.194
 |x86_64/libdart|PUBLISHED||[2596810973](https://github.com/arch4edu/cactus/actions/runs/2596810973)|<script type="text/javascript">localize(1656683204);</script>|
 |x86_64/libiconv|PUBLISHED||[2485831720](https://github.com/arch4edu/cactus/actions/runs/2485831720)|<script type="text/javascript">localize(1655167107);</script>|
 |x86_64/libmatio|PUBLISHED||[2485831748](https://github.com/arch4edu/cactus/actions/runs/2485831748)|<script type="text/javascript">localize(1655167116);</script>|
-|x86_64/libnn-git|FAILED|Build failed.|[2508060836](https://github.com/arch4edu/cactus/actions/runs/2508060836)|<script type="text/javascript">localize(1655372018);</script>|
+|x86_64/libnn-git|FAILED|Build failed.|[2608123733](https://github.com/arch4edu/cactus/actions/runs/2608123733)|<script type="text/javascript">localize(1656916112);</script>|
 |x86_64/libnvidia-container|PUBLISHED||[2448408671](https://github.com/arch4edu/cactus/actions/runs/2448408671)|<script type="text/javascript">localize(1654560077);</script>|
 |x86_64/libsearpc|PUBLISHED||[2454018369](https://github.com/arch4edu/cactus/actions/runs/2454018369)|<script type="text/javascript">localize(1654703858);</script>|
 |x86_64/lief|PUBLISHED||[2448365820](https://github.com/arch4edu/cactus/actions/runs/2448365820)|<script type="text/javascript">localize(1654560093);</script>|
@@ -330,7 +330,7 @@ Build status (Last update:<script type="text/javascript">localize(1656912901.194
 |x86_64/rocm/openmp-extras|PUBLISHED||[2528725429](https://github.com/arch4edu/cactus/actions/runs/2528725429)|<script type="text/javascript">localize(1655968958);</script>|
 |x86_64/rocm/rccl|BUILDING|GitHubActions|[2528813574](https://github.com/arch4edu/cactus/actions/runs/2528813574)|<script type="text/javascript">localize(1655806644);</script>|
 |x86_64/rocm/rocblas|FAILED|Build failed.|[2606063818](https://github.com/arch4edu/cactus/actions/runs/2606063818)|<script type="text/javascript">localize(1656889032);</script>|
-|x86_64/rocm/rocfft|BUILDING|GitHubActions|[2607363177](https://github.com/arch4edu/cactus/actions/runs/2607363177)|<script type="text/javascript">localize(1656902893);</script>|
+|x86_64/rocm/rocfft|FAILED|Build failed.|[2607363177](https://github.com/arch4edu/cactus/actions/runs/2607363177)|<script type="text/javascript">localize(1656913853);</script>|
 |x86_64/rocm/rocm-clang-ocl|PUBLISHED||[2598505702](https://github.com/arch4edu/cactus/actions/runs/2598505702)|<script type="text/javascript">localize(1656703276);</script>|
 |x86_64/rocm/rocm-cmake|PUBLISHED||[2583310285](https://github.com/arch4edu/cactus/actions/runs/2583310285)|<script type="text/javascript">localize(1656510335);</script>|
 |x86_64/rocm/rocm-core|PUBLISHED||[2528507760](https://github.com/arch4edu/cactus/actions/runs/2528507760)|<script type="text/javascript">localize(1655968986);</script>|
