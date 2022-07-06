@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657089079.692564);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657092284.17496);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -407,7 +407,7 @@ Build status (Last update:<script type="text/javascript">localize(1657089079.692
 |x86_64/sptk|PUBLISHED||[2600642685](https://github.com/arch4edu/cactus/actions/runs/2600642685)|<script type="text/javascript">localize(1656746576);</script>|
 |x86_64/stepcode|PUBLISHED||[2470459693](https://github.com/arch4edu/cactus/actions/runs/2470459693)|<script type="text/javascript">localize(1654869777);</script>|
 |x86_64/sublime-text-dev|PUBLISHED||[2503065886](https://github.com/arch4edu/cactus/actions/runs/2503065886)|<script type="text/javascript">localize(1655341536);</script>|
-|x86_64/superlu_dist|PUBLISHED||[2548131521](https://github.com/arch4edu/cactus/actions/runs/2548131521)|<script type="text/javascript">localize(1655978365);</script>|
+|x86_64/superlu_dist|PUBLISHED||[2620924652](https://github.com/arch4edu/cactus/actions/runs/2620924652)|<script type="text/javascript">localize(1657092281);</script>|
 |x86_64/teamviewer|PUBLISHED||[2470368567](https://github.com/arch4edu/cactus/actions/runs/2470368567)|<script type="text/javascript">localize(1654869959);</script>|
 |x86_64/termcap|PUBLISHED||[2470112842](https://github.com/arch4edu/cactus/actions/runs/2470112842)|<script type="text/javascript">localize(1654869968);</script>|
 |x86_64/tix|PUBLISHED||[2495680570](https://github.com/arch4edu/cactus/actions/runs/2495680570)|<script type="text/javascript">localize(1655254500);</script>|
