@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657305098.2686498);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657308043.0315702);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -408,7 +408,7 @@ Build status (Last update:<script type="text/javascript">localize(1657305098.268
 |x86_64/saxon-he|PUBLISHED||[2503065770](https://github.com/arch4edu/cactus/actions/runs/2503065770)|<script type="text/javascript">localize(1655341482);</script>|
 |x86_64/sc-im|PUBLISHED||[2470459863](https://github.com/arch4edu/cactus/actions/runs/2470459863)|<script type="text/javascript">localize(1654869697);</script>|
 |x86_64/scalapack|PUBLISHED||[2548130925](https://github.com/arch4edu/cactus/actions/runs/2548130925)|<script type="text/javascript">localize(1655978345);</script>|
-|x86_64/scilab|FAILED|Build failed.|[2631248881](https://github.com/arch4edu/cactus/actions/runs/2631248881)|<script type="text/javascript">localize(1657214940);</script>|
+|x86_64/scilab|FAILED|Build failed.|[2637950929](https://github.com/arch4edu/cactus/actions/runs/2637950929)|<script type="text/javascript">localize(1657305959);</script>|
 |x86_64/scilab-bin|PUBLISHED||[2489040928](https://github.com/arch4edu/cactus/actions/runs/2489040928)|<script type="text/javascript">localize(1655167165);</script>|
 |x86_64/scotch|PUBLISHED||[2494660101](https://github.com/arch4edu/cactus/actions/runs/2494660101)|<script type="text/javascript">localize(1655254488);</script>|
 |x86_64/seafile|PUBLISHED||[2465793341](https://github.com/arch4edu/cactus/actions/runs/2465793341)|<script type="text/javascript">localize(1654808367);</script>|
