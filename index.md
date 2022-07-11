@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657549621.1256406);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657553594.9979973);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -251,7 +251,7 @@ Build status (Last update:<script type="text/javascript">localize(1657549621.125
 |x86_64/meteoinfo|FAILED|Build failed.|[2648091354](https://github.com/arch4edu/cactus/actions/runs/2648091354)|<script type="text/javascript">localize(1657526802);</script>|
 |x86_64/microsoft-edge-stable-bin|PUBLISHED||[2648643306](https://github.com/arch4edu/cactus/actions/runs/2648643306)|<script type="text/javascript">localize(1657535791);</script>|
 |x86_64/mmg|PUBLISHED||[2648891891](https://github.com/arch4edu/cactus/actions/runs/2648891891)|<script type="text/javascript">localize(1657538791);</script>|
-|x86_64/mongodb|BUILDING|GitHubActions|[2649006523](https://github.com/arch4edu/cactus/actions/runs/2649006523)|<script type="text/javascript">localize(1657536465);</script>|
+|x86_64/mongodb|PUBLISHED||[2649006523](https://github.com/arch4edu/cactus/actions/runs/2649006523)|<script type="text/javascript">localize(1657553562);</script>|
 |x86_64/mongodb-tools|PUBLISHED||[2648614297](https://github.com/arch4edu/cactus/actions/runs/2648614297)|<script type="text/javascript">localize(1657535804);</script>|
 |x86_64/mpich|PUBLISHED||[2648614437](https://github.com/arch4edu/cactus/actions/runs/2648614437)|<script type="text/javascript">localize(1657538803);</script>|
 |x86_64/mumps|PUBLISHED||[2648950924](https://github.com/arch4edu/cactus/actions/runs/2648950924)|<script type="text/javascript">localize(1657538814);</script>|
@@ -394,7 +394,7 @@ Build status (Last update:<script type="text/javascript">localize(1657549621.125
 |x86_64/ros2/python-rospkg|PUBLISHED||[2648738601](https://github.com/arch4edu/cactus/actions/runs/2648738601)|<script type="text/javascript">localize(1657536238);</script>|
 |x86_64/ros2/python-vcstool|PUBLISHED||[2647891392](https://github.com/arch4edu/cactus/actions/runs/2647891392)|<script type="text/javascript">localize(1657525978);</script>|
 |x86_64/ros2/ros2-arch-deps|PUBLISHED||[2649261926](https://github.com/arch4edu/cactus/actions/runs/2649261926)|<script type="text/javascript">localize(1657544514);</script>|
-|x86_64/ros2/ros2-humble|BUILDING|GitHubActions|[2649317853](https://github.com/arch4edu/cactus/actions/runs/2649317853)|<script type="text/javascript">localize(1657540062);</script>|
+|x86_64/ros2/ros2-humble|PUBLISHED||[2649317853](https://github.com/arch4edu/cactus/actions/runs/2649317853)|<script type="text/javascript">localize(1657553587);</script>|
 |x86_64/ros2/ros2-pyqt5-sip-compat|PUBLISHED||[2647891457](https://github.com/arch4edu/cactus/actions/runs/2647891457)|<script type="text/javascript">localize(1657525993);</script>|
 |x86_64/rpiusbboot|PUBLISHED||[2648492064](https://github.com/arch4edu/cactus/actions/runs/2648492064)|<script type="text/javascript">localize(1657532241);</script>|
 |x86_64/saga-gis|PUBLISHED||[2648922491](https://github.com/arch4edu/cactus/actions/runs/2648922491)|<script type="text/javascript">localize(1657539081);</script>|
