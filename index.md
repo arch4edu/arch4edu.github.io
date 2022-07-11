@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657547436.2544944);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657549621.1256406);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -270,7 +270,7 @@ Build status (Last update:<script type="text/javascript">localize(1657547436.254
 |x86_64/openblas-lapack|PUBLISHED||[2647919324](https://github.com/arch4edu/cactus/actions/runs/2647919324)|<script type="text/javascript">localize(1657529815);</script>|
 |x86_64/openboard|PUBLISHED||[2648491839](https://github.com/arch4edu/cactus/actions/runs/2648491839)|<script type="text/javascript">localize(1657535828);</script>|
 |x86_64/opencv2|FAILED|Build failed.|[2648862264](https://github.com/arch4edu/cactus/actions/runs/2648862264)|<script type="text/javascript">localize(1657534868);</script>|
-|x86_64/openfoam|BUILDING|GitHubActions|[2648922317](https://github.com/arch4edu/cactus/actions/runs/2648922317)|<script type="text/javascript">localize(1657535455);</script>|
+|x86_64/openfoam|PUBLISHED||[2648922317](https://github.com/arch4edu/cactus/actions/runs/2648922317)|<script type="text/javascript">localize(1657549592);</script>|
 |x86_64/openfoam-com|BUILDING|GitHubActions|[2648922225](https://github.com/arch4edu/cactus/actions/runs/2648922225)|<script type="text/javascript">localize(1657535472);</script>|
 |x86_64/openfst|FAILED|Build failed.|[2648274422](https://github.com/arch4edu/cactus/actions/runs/2648274422)|<script type="text/javascript">localize(1657528364);</script>|
 |x86_64/openjpeg|PUBLISHED||[2648304268](https://github.com/arch4edu/cactus/actions/runs/2648304268)|<script type="text/javascript">localize(1657532128);</script>|
@@ -337,7 +337,7 @@ Build status (Last update:<script type="text/javascript">localize(1657547436.254
 |x86_64/rocm/hipcub|PUBLISHED||[2649431997](https://github.com/arch4edu/cactus/actions/runs/2649431997)|<script type="text/javascript">localize(1657544271);</script>|
 |x86_64/rocm/hipfort|PUBLISHED||[2649372257](https://github.com/arch4edu/cactus/actions/runs/2649372257)|<script type="text/javascript">localize(1657544284);</script>|
 |x86_64/rocm/hipify-clang|PUBLISHED||[2649035541](https://github.com/arch4edu/cactus/actions/runs/2649035541)|<script type="text/javascript">localize(1657538941);</script>|
-|x86_64/rocm/hipsparse|STALED|Waiting for dependency: x86_64/rocm/rocsparse .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1657547314);</script>|
+|x86_64/rocm/hipsparse|PUBLISHED||[2650063300](https://github.com/arch4edu/cactus/actions/runs/2650063300)|<script type="text/javascript">localize(1657549602);</script>|
 |x86_64/rocm/hsa-amd-aqlprofile-bin|PUBLISHED||[2647976201](https://github.com/arch4edu/cactus/actions/runs/2647976201)|<script type="text/javascript">localize(1657530296);</script>|
 |x86_64/rocm/hsa-rocr|PUBLISHED||[2649089849](https://github.com/arch4edu/cactus/actions/runs/2649089849)|<script type="text/javascript">localize(1657538952);</script>|
 |x86_64/rocm/hsakmt-roct|PUBLISHED||[2647976331](https://github.com/arch4edu/cactus/actions/runs/2647976331)|<script type="text/javascript">localize(1657530307);</script>|
@@ -363,7 +363,7 @@ Build status (Last update:<script type="text/javascript">localize(1657547436.254
 |x86_64/rocm/rocprim|PUBLISHED||[2649401058](https://github.com/arch4edu/cactus/actions/runs/2649401058)|<script type="text/javascript">localize(1657544425);</script>|
 |x86_64/rocm/rocprofiler|PUBLISHED||[2649372180](https://github.com/arch4edu/cactus/actions/runs/2649372180)|<script type="text/javascript">localize(1657544435);</script>|
 |x86_64/rocm/rocrand|PUBLISHED||[2649345217](https://github.com/arch4edu/cactus/actions/runs/2649345217)|<script type="text/javascript">localize(1657544449);</script>|
-|x86_64/rocm/rocsparse|BUILDING|GitHubActions|[2649431879](https://github.com/arch4edu/cactus/actions/runs/2649431879)|<script type="text/javascript">localize(1657541320);</script>|
+|x86_64/rocm/rocsparse|PUBLISHED||[2649431879](https://github.com/arch4edu/cactus/actions/runs/2649431879)|<script type="text/javascript">localize(1657549614);</script>|
 |x86_64/rocm/rocthrust|PUBLISHED||[2649431930](https://github.com/arch4edu/cactus/actions/runs/2649431930)|<script type="text/javascript">localize(1657544459);</script>|
 |x86_64/rocm/roctracer|PUBLISHED||[2649401125](https://github.com/arch4edu/cactus/actions/runs/2649401125)|<script type="text/javascript">localize(1657544470);</script>|
 |x86_64/ros2/python-catkin_pkg|PUBLISHED||[2647891583](https://github.com/arch4edu/cactus/actions/runs/2647891583)|<script type="text/javascript">localize(1657525948);</script>|
