@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657564935.5565975);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657567923.0458574);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -288,7 +288,7 @@ Build status (Last update:<script type="text/javascript">localize(1657564935.556
 |x86_64/plplot|PUBLISHED||[2647948355](https://github.com/arch4edu/cactus/actions/runs/2647948355)|<script type="text/javascript">localize(1657530195);</script>|
 |x86_64/pocketsphinx|PUBLISHED||[2648892344](https://github.com/arch4edu/cactus/actions/runs/2648892344)|<script type="text/javascript">localize(1657535853);</script>|
 |x86_64/praat|FAILED|Build failed.|[2648643661](https://github.com/arch4edu/cactus/actions/runs/2648643661)|<script type="text/javascript">localize(1657532396);</script>|
-|x86_64/python-apex-git|STALED||[2648554121](https://github.com/arch4edu/cactus/actions/runs/2648554121)|<script type="text/javascript">localize(1657564925);</script>|
+|x86_64/python-apex-git|PUBLISHED||[2651704839](https://github.com/arch4edu/cactus/actions/runs/2651704839)|<script type="text/javascript">localize(1657567905);</script>|
 |x86_64/python-arch|PUBLISHED||[2648671250](https://github.com/arch4edu/cactus/actions/runs/2648671250)|<script type="text/javascript">localize(1657535875);</script>|
 |x86_64/python-astropy|FAILED|Dependency issue: any/python-extension-helpers .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1657521469);</script>|
 |x86_64/python-astroquery|FAILED|Dependency issue: x86_64/python-astropy .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1657521470);</script>|
@@ -317,7 +317,7 @@ Build status (Last update:<script type="text/javascript">localize(1657564935.556
 |x86_64/python-resampy|PUBLISHED||[2648862570](https://github.com/arch4edu/cactus/actions/runs/2648862570)|<script type="text/javascript">localize(1657535916);</script>|
 |x86_64/python-scikit-image|PUBLISHED||[2649006403](https://github.com/arch4edu/cactus/actions/runs/2649006403)|<script type="text/javascript">localize(1657538892);</script>|
 |x86_64/python-scipy-mkl|PUBLISHED||[2649233354](https://github.com/arch4edu/cactus/actions/runs/2649233354)|<script type="text/javascript">localize(1657544248);</script>|
-|x86_64/python-sequitur-git|STALED||[2647863521](https://github.com/arch4edu/cactus/actions/runs/2647863521)|<script type="text/javascript">localize(1657564927);</script>|
+|x86_64/python-sequitur-git|PUBLISHED||[2651704803](https://github.com/arch4edu/cactus/actions/runs/2651704803)|<script type="text/javascript">localize(1657567917);</script>|
 |x86_64/python-synphot|FAILED|Dependency issue: x86_64/python-astropy .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1657521471);</script>|
 |x86_64/python-timeout-decorator|PUBLISHED||[2648152052](https://github.com/arch4edu/cactus/actions/runs/2648152052)|<script type="text/javascript">localize(1657530264);</script>|
 |x86_64/python-torchvision|BUILDING|GitHubActions|[2648978007](https://github.com/arch4edu/cactus/actions/runs/2648978007)|<script type="text/javascript">localize(1657536125);</script>|
