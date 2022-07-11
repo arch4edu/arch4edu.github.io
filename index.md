@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657553594.9979973);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657557681.076143);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -192,7 +192,7 @@ Build status (Last update:<script type="text/javascript">localize(1657553594.997
 |x86_64/gcc6|FAILED|Build failed.|[2647948396](https://github.com/arch4edu/cactus/actions/runs/2647948396)|<script type="text/javascript">localize(1657524533);</script>|
 |x86_64/gcc7|PUBLISHED||[2648243985](https://github.com/arch4edu/cactus/actions/runs/2648243985)|<script type="text/javascript">localize(1657535696);</script>|
 |x86_64/gcc8|FAILED|Build failed.|[2648523374](https://github.com/arch4edu/cactus/actions/runs/2648523374)|<script type="text/javascript">localize(1657532094);</script>|
-|x86_64/gcc9|BUILDING|GitHubActions|[2648614511](https://github.com/arch4edu/cactus/actions/runs/2648614511)|<script type="text/javascript">localize(1657532074);</script>|
+|x86_64/gcc9|FAILED|Build failed.|[2648614511](https://github.com/arch4edu/cactus/actions/runs/2648614511)|<script type="text/javascript">localize(1657553637);</script>|
 |x86_64/gconf|PUBLISHED||[2648492140](https://github.com/arch4edu/cactus/actions/runs/2648492140)|<script type="text/javascript">localize(1657531967);</script>|
 |x86_64/geant4|PUBLISHED||[2648643119](https://github.com/arch4edu/cactus/actions/runs/2648643119)|<script type="text/javascript">localize(1657544041);</script>|
 |x86_64/genromfs|PUBLISHED||[2648491948](https://github.com/arch4edu/cactus/actions/runs/2648491948)|<script type="text/javascript">localize(1657531982);</script>|
@@ -271,7 +271,7 @@ Build status (Last update:<script type="text/javascript">localize(1657553594.997
 |x86_64/openboard|PUBLISHED||[2648491839](https://github.com/arch4edu/cactus/actions/runs/2648491839)|<script type="text/javascript">localize(1657535828);</script>|
 |x86_64/opencv2|FAILED|Build failed.|[2648862264](https://github.com/arch4edu/cactus/actions/runs/2648862264)|<script type="text/javascript">localize(1657534868);</script>|
 |x86_64/openfoam|PUBLISHED||[2648922317](https://github.com/arch4edu/cactus/actions/runs/2648922317)|<script type="text/javascript">localize(1657549592);</script>|
-|x86_64/openfoam-com|BUILDING|GitHubActions|[2648922225](https://github.com/arch4edu/cactus/actions/runs/2648922225)|<script type="text/javascript">localize(1657535472);</script>|
+|x86_64/openfoam-com|FAILED|Build failed.|[2648922225](https://github.com/arch4edu/cactus/actions/runs/2648922225)|<script type="text/javascript">localize(1657557023);</script>|
 |x86_64/openfst|FAILED|Build failed.|[2648274422](https://github.com/arch4edu/cactus/actions/runs/2648274422)|<script type="text/javascript">localize(1657528364);</script>|
 |x86_64/openjpeg|PUBLISHED||[2648304268](https://github.com/arch4edu/cactus/actions/runs/2648304268)|<script type="text/javascript">localize(1657532128);</script>|
 |x86_64/openni2|PUBLISHED||[2648274276](https://github.com/arch4edu/cactus/actions/runs/2648274276)|<script type="text/javascript">localize(1657529827);</script>|
