@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657544531.148248);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657544957.130521);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -341,7 +341,7 @@ Build status (Last update:<script type="text/javascript">localize(1657544531.148
 |x86_64/rocm/hipcub|PUBLISHED||[2649431997](https://github.com/arch4edu/cactus/actions/runs/2649431997)|<script type="text/javascript">localize(1657544271);</script>|
 |x86_64/rocm/hipfort|PUBLISHED||[2649372257](https://github.com/arch4edu/cactus/actions/runs/2649372257)|<script type="text/javascript">localize(1657544284);</script>|
 |x86_64/rocm/hipify-clang|PUBLISHED||[2649035541](https://github.com/arch4edu/cactus/actions/runs/2649035541)|<script type="text/javascript">localize(1657538941);</script>|
-|x86_64/rocm/hipsparse|STALED|Waiting for dependency: x86_64/rocm/rocsparse .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1657544418);</script>|
+|x86_64/rocm/hipsparse|STALED|Waiting for dependency: x86_64/rocm/rocsparse .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1657544733);</script>|
 |x86_64/rocm/hsa-amd-aqlprofile-bin|PUBLISHED||[2647976201](https://github.com/arch4edu/cactus/actions/runs/2647976201)|<script type="text/javascript">localize(1657530296);</script>|
 |x86_64/rocm/hsa-rocr|PUBLISHED||[2649089849](https://github.com/arch4edu/cactus/actions/runs/2649089849)|<script type="text/javascript">localize(1657538952);</script>|
 |x86_64/rocm/hsakmt-roct|PUBLISHED||[2647976331](https://github.com/arch4edu/cactus/actions/runs/2647976331)|<script type="text/javascript">localize(1657530307);</script>|
@@ -435,5 +435,5 @@ Build status (Last update:<script type="text/javascript">localize(1657544531.148
 |x86_64/yay|PUBLISHED||[2648491738](https://github.com/arch4edu/cactus/actions/runs/2648491738)|<script type="text/javascript">localize(1657532315);</script>|
 |x86_64/zotero-bin|PUBLISHED||[2647863318](https://github.com/arch4edu/cactus/actions/runs/2647863318)|<script type="text/javascript">localize(1657526041);</script>|
 
-<script src="https://unpkg.com/tablefilter@latest/dist/tablefilter/tablefilter.js"></script>
+<script src="./tablefilter/tablefilter.js"></script>
 <script src="./table.js"></script>
