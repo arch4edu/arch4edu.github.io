@@ -1,6 +1,6 @@
 var filtersConfig = {
   // instruct TableFilter location to import ressources from
-  base_path: 'https://unpkg.com/tablefilter@latest/dist/tablefilter/',
+  base_path: 'https://arch4edu.github.io/tablefilter/',
   col_1: 'select',
   col_2: 'none',
   col_3: 'none',
