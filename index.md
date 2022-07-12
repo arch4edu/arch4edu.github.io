@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657664732.479536);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657668454.7786617);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -192,7 +192,7 @@ Build status (Last update:<script type="text/javascript">localize(1657664732.479
 |x86_64/gcc6|FAILED|Build failed.|[2656799537](https://github.com/arch4edu/cactus/actions/runs/2656799537)|<script type="text/javascript">localize(1657632147);</script>|
 |x86_64/gcc7|PUBLISHED||[2648243985](https://github.com/arch4edu/cactus/actions/runs/2648243985)|<script type="text/javascript">localize(1657535696);</script>|
 |x86_64/gcc8|PUBLISHED||[2656798250](https://github.com/arch4edu/cactus/actions/runs/2656798250)|<script type="text/javascript">localize(1657643982);</script>|
-|x86_64/gcc9|BUILDING|GitHubActions|[2658693205](https://github.com/arch4edu/cactus/actions/runs/2658693205)|<script type="text/javascript">localize(1657651679);</script>|
+|x86_64/gcc9|PUBLISHED||[2658693205](https://github.com/arch4edu/cactus/actions/runs/2658693205)|<script type="text/javascript">localize(1657668447);</script>|
 |x86_64/gconf|PUBLISHED||[2648492140](https://github.com/arch4edu/cactus/actions/runs/2648492140)|<script type="text/javascript">localize(1657531967);</script>|
 |x86_64/geant4|PUBLISHED||[2648643119](https://github.com/arch4edu/cactus/actions/runs/2648643119)|<script type="text/javascript">localize(1657544041);</script>|
 |x86_64/genromfs|PUBLISHED||[2648491948](https://github.com/arch4edu/cactus/actions/runs/2648491948)|<script type="text/javascript">localize(1657531982);</script>|
