@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657640409.7436664);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657643987.8239963);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -191,7 +191,7 @@ Build status (Last update:<script type="text/javascript">localize(1657640409.743
 |x86_64/gcc5|PUBLISHED||[2656797652](https://github.com/arch4edu/cactus/actions/runs/2656797652)|<script type="text/javascript">localize(1657640370);</script>|
 |x86_64/gcc6|FAILED|Build failed.|[2656799537](https://github.com/arch4edu/cactus/actions/runs/2656799537)|<script type="text/javascript">localize(1657632147);</script>|
 |x86_64/gcc7|PUBLISHED||[2648243985](https://github.com/arch4edu/cactus/actions/runs/2648243985)|<script type="text/javascript">localize(1657535696);</script>|
-|x86_64/gcc8|BUILDING|GitHubActions|[2656798250](https://github.com/arch4edu/cactus/actions/runs/2656798250)|<script type="text/javascript">localize(1657632078);</script>|
+|x86_64/gcc8|PUBLISHED||[2656798250](https://github.com/arch4edu/cactus/actions/runs/2656798250)|<script type="text/javascript">localize(1657643982);</script>|
 |x86_64/gcc9|FAILED|Build failed.|[2648614511](https://github.com/arch4edu/cactus/actions/runs/2648614511)|<script type="text/javascript">localize(1657553637);</script>|
 |x86_64/gconf|PUBLISHED||[2648492140](https://github.com/arch4edu/cactus/actions/runs/2648492140)|<script type="text/javascript">localize(1657531967);</script>|
 |x86_64/geant4|PUBLISHED||[2648643119](https://github.com/arch4edu/cactus/actions/runs/2648643119)|<script type="text/javascript">localize(1657544041);</script>|
