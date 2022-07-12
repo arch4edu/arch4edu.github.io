@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657643987.8239963);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657646888.625196);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -201,7 +201,7 @@ Build status (Last update:<script type="text/javascript">localize(1657643987.823
 |x86_64/giza-pp-git|PUBLISHED||[2648005633](https://github.com/arch4edu/cactus/actions/runs/2648005633)|<script type="text/javascript">localize(1657529171);</script>|
 |x86_64/glib2-static|PUBLISHED||[2648334322](https://github.com/arch4edu/cactus/actions/runs/2648334322)|<script type="text/javascript">localize(1657535710);</script>|
 |x86_64/gmsh|PUBLISHED||[2649006057](https://github.com/arch4edu/cactus/actions/runs/2649006057)|<script type="text/javascript">localize(1657544066);</script>|
-|x86_64/grass|FAILED|Build failed.|[2657204128](https://github.com/arch4edu/cactus/actions/runs/2657204128)|<script type="text/javascript">localize(1657635896);</script>|
+|x86_64/grass|PUBLISHED||[2657204128](https://github.com/arch4edu/cactus/actions/runs/2657204128)|<script type="text/javascript">localize(1657646883);</script>|
 |x86_64/gtsam|PUBLISHED||[2648303740](https://github.com/arch4edu/cactus/actions/runs/2648303740)|<script type="text/javascript">localize(1657532016);</script>|
 |x86_64/gtsam-mkl|PUBLISHED||[2648036313](https://github.com/arch4edu/cactus/actions/runs/2648036313)|<script type="text/javascript">localize(1657529184);</script>|
 |x86_64/guile2.0|PUBLISHED||[2647862750](https://github.com/arch4edu/cactus/actions/runs/2647862750)|<script type="text/javascript">localize(1657525754);</script>|
