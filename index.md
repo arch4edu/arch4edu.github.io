@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657711393.0703073);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657716701.9990032);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -271,7 +271,7 @@ Build status (Last update:<script type="text/javascript">localize(1657711393.070
 |x86_64/openboard|PUBLISHED||[2648491839](https://github.com/arch4edu/cactus/actions/runs/2648491839)|<script type="text/javascript">localize(1657535828);</script>|
 |x86_64/opencv2|FAILED|Build failed.|[2656833943](https://github.com/arch4edu/cactus/actions/runs/2656833943)|<script type="text/javascript">localize(1657632501);</script>|
 |x86_64/openfoam|PUBLISHED||[2648922317](https://github.com/arch4edu/cactus/actions/runs/2648922317)|<script type="text/javascript">localize(1657549592);</script>|
-|x86_64/openfoam-com|BUILDING|GitHubActions|[2661539727](https://github.com/arch4edu/cactus/actions/runs/2661539727)|<script type="text/javascript">localize(1657694938);</script>|
+|x86_64/openfoam-com|PUBLISHED||[2661539727](https://github.com/arch4edu/cactus/actions/runs/2661539727)|<script type="text/javascript">localize(1657716696);</script>|
 |x86_64/openfst|FAILED|Build failed.|[2656798767](https://github.com/arch4edu/cactus/actions/runs/2656798767)|<script type="text/javascript">localize(1657632135);</script>|
 |x86_64/openjpeg|PUBLISHED||[2648304268](https://github.com/arch4edu/cactus/actions/runs/2648304268)|<script type="text/javascript">localize(1657532128);</script>|
 |x86_64/openni2|PUBLISHED||[2648274276](https://github.com/arch4edu/cactus/actions/runs/2648274276)|<script type="text/javascript">localize(1657529827);</script>|
