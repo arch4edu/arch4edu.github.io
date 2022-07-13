@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657716701.9990032);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657720763.3505414);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -130,7 +130,7 @@ Build status (Last update:<script type="text/javascript">localize(1657716701.999
 |any/python-url-normalize|PUBLISHED||[2647673909](https://github.com/arch4edu/cactus/actions/runs/2647673909)|<script type="text/javascript">localize(1657521449);</script>|
 |any/python3-memoizedb|PUBLISHED||[2647832528](https://github.com/arch4edu/cactus/actions/runs/2647832528)|<script type="text/javascript">localize(1657525536);</script>|
 |any/python3-xcgf|PUBLISHED||[2647775017](https://github.com/arch4edu/cactus/actions/runs/2647775017)|<script type="text/javascript">localize(1657525552);</script>|
-|any/pywbem|FAILED|Build failed.|[2654636724](https://github.com/arch4edu/cactus/actions/runs/2654636724)|<script type="text/javascript">localize(1657608639);</script>|
+|any/pywbem|FAILED|Build failed.|[2663634735](https://github.com/arch4edu/cactus/actions/runs/2663634735)|<script type="text/javascript">localize(1657717842);</script>|
 |any/targetcli-fb|PUBLISHED||[2648738253](https://github.com/arch4edu/cactus/actions/runs/2648738253)|<script type="text/javascript">localize(1657535586);</script>|
 |any/ttf-charis-sil|PUBLISHED||[2647673890](https://github.com/arch4edu/cactus/actions/runs/2647673890)|<script type="text/javascript">localize(1657521464);</script>|
 |any/ttf-sil-doulos|PUBLISHED||[2647726686](https://github.com/arch4edu/cactus/actions/runs/2647726686)|<script type="text/javascript">localize(1657525567);</script>|
@@ -281,7 +281,7 @@ Build status (Last update:<script type="text/javascript">localize(1657716701.999
 |x86_64/pagmo|PUBLISHED||[2649122085](https://github.com/arch4edu/cactus/actions/runs/2649122085)|<script type="text/javascript">localize(1657538848);</script>|
 |x86_64/parmetis|PUBLISHED||[2648334271](https://github.com/arch4edu/cactus/actions/runs/2648334271)|<script type="text/javascript">localize(1657532138);</script>|
 |x86_64/pastix|PUBLISHED||[2648891984](https://github.com/arch4edu/cactus/actions/runs/2648891984)|<script type="text/javascript">localize(1657538859);</script>|
-|x86_64/pcl|FAILED|Build failed.|[2654747789](https://github.com/arch4edu/cactus/actions/runs/2654747789)|<script type="text/javascript">localize(1657610204);</script>|
+|x86_64/pcl|PUBLISHED||[2663634844](https://github.com/arch4edu/cactus/actions/runs/2663634844)|<script type="text/javascript">localize(1657720737);</script>|
 |x86_64/pcre-static|PUBLISHED||[2648614564](https://github.com/arch4edu/cactus/actions/runs/2648614564)|<script type="text/javascript">localize(1657535839);</script>|
 |x86_64/petsc-complex|PUBLISHED||[2649261779](https://github.com/arch4edu/cactus/actions/runs/2649261779)|<script type="text/javascript">localize(1657544202);</script>|
 |x86_64/pio|PUBLISHED||[2647918996](https://github.com/arch4edu/cactus/actions/runs/2647918996)|<script type="text/javascript">localize(1657525869);</script>|
@@ -320,7 +320,7 @@ Build status (Last update:<script type="text/javascript">localize(1657716701.999
 |x86_64/python-sequitur-git|PUBLISHED||[2651704803](https://github.com/arch4edu/cactus/actions/runs/2651704803)|<script type="text/javascript">localize(1657567917);</script>|
 |x86_64/python-synphot|PUBLISHED||[2654714249](https://github.com/arch4edu/cactus/actions/runs/2654714249)|<script type="text/javascript">localize(1657610882);</script>|
 |x86_64/python-timeout-decorator|PUBLISHED||[2648152052](https://github.com/arch4edu/cactus/actions/runs/2648152052)|<script type="text/javascript">localize(1657530264);</script>|
-|x86_64/python-torchvision|FAILED|Build failed.|[2654748157](https://github.com/arch4edu/cactus/actions/runs/2654748157)|<script type="text/javascript">localize(1657610363);</script>|
+|x86_64/python-torchvision|PUBLISHED||[2663634783](https://github.com/arch4edu/cactus/actions/runs/2663634783)|<script type="text/javascript">localize(1657720757);</script>|
 |x86_64/python-wrf|PUBLISHED||[2647863455](https://github.com/arch4edu/cactus/actions/runs/2647863455)|<script type="text/javascript">localize(1657525914);</script>|
 |x86_64/python-wxpython-dev|PUBLISHED||[2656833875](https://github.com/arch4edu/cactus/actions/runs/2656833875)|<script type="text/javascript">localize(1657640404);</script>|
 |x86_64/qemu-user-static|PUBLISHED||[2648643948](https://github.com/arch4edu/cactus/actions/runs/2648643948)|<script type="text/javascript">localize(1657535932);</script>|
