@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657740110.9717045);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657744084.3429608);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -327,7 +327,7 @@ Build status (Last update:<script type="text/javascript">localize(1657740110.971
 |x86_64/qemu-user-static-bin|PUBLISHED||[2648701407](https://github.com/arch4edu/cactus/actions/runs/2648701407)|<script type="text/javascript">localize(1657535947);</script>|
 |x86_64/qgroundcontrol|PUBLISHED||[2647675038](https://github.com/arch4edu/cactus/actions/runs/2647675038)|<script type="text/javascript">localize(1657525934);</script>|
 |x86_64/qt4|PUBLISHED||[2647919537](https://github.com/arch4edu/cactus/actions/runs/2647919537)|<script type="text/javascript">localize(1657530284);</script>|
-|x86_64/qtwebkit|BUILDING|GitHubActions|[2665570909](https://github.com/arch4edu/cactus/actions/runs/2665570909)|<script type="text/javascript">localize(1657737786);</script>|
+|x86_64/qtwebkit|FAILED|Build failed.|[2665570909](https://github.com/arch4edu/cactus/actions/runs/2665570909)|<script type="text/javascript">localize(1657740890);</script>|
 |x86_64/qucs|PUBLISHED||[2648832117](https://github.com/arch4edu/cactus/actions/runs/2648832117)|<script type="text/javascript">localize(1657538902);</script>|
 |x86_64/r-mkl|PUBLISHED||[2648274510](https://github.com/arch4edu/cactus/actions/runs/2648274510)|<script type="text/javascript">localize(1657532209);</script>|
 |x86_64/rdma-core|PUBLISHED||[2648304126](https://github.com/arch4edu/cactus/actions/runs/2648304126)|<script type="text/javascript">localize(1657532220);</script>|
