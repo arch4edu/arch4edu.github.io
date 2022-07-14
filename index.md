@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657823523.1914098);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657826425.8423326);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -130,7 +130,7 @@ Build status (Last update:<script type="text/javascript">localize(1657823523.191
 |any/python-url-normalize|PUBLISHED||[2647673909](https://github.com/arch4edu/cactus/actions/runs/2647673909)|<script type="text/javascript">localize(1657521449);</script>|
 |any/python3-memoizedb|PUBLISHED||[2647832528](https://github.com/arch4edu/cactus/actions/runs/2647832528)|<script type="text/javascript">localize(1657525536);</script>|
 |any/python3-xcgf|PUBLISHED||[2647775017](https://github.com/arch4edu/cactus/actions/runs/2647775017)|<script type="text/javascript">localize(1657525552);</script>|
-|any/pywbem|FAILED|Build failed.|[2663634735](https://github.com/arch4edu/cactus/actions/runs/2663634735)|<script type="text/javascript">localize(1657717842);</script>|
+|any/pywbem|FAILED|Build failed.|[2672421032](https://github.com/arch4edu/cactus/actions/runs/2672421032)|<script type="text/javascript">localize(1657824357);</script>|
 |any/targetcli-fb|PUBLISHED||[2648738253](https://github.com/arch4edu/cactus/actions/runs/2648738253)|<script type="text/javascript">localize(1657535586);</script>|
 |any/ttf-charis-sil|PUBLISHED||[2647673890](https://github.com/arch4edu/cactus/actions/runs/2647673890)|<script type="text/javascript">localize(1657521464);</script>|
 |any/ttf-sil-doulos|PUBLISHED||[2647726686](https://github.com/arch4edu/cactus/actions/runs/2647726686)|<script type="text/javascript">localize(1657525567);</script>|
