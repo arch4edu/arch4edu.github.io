@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657803151.836116);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657806551.9592974);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -170,7 +170,7 @@ Build status (Last update:<script type="text/javascript">localize(1657803151.836
 |x86_64/code_saturne|PUBLISHED||[2648922098](https://github.com/arch4edu/cactus/actions/runs/2648922098)|<script type="text/javascript">localize(1657538579);</script>|
 |x86_64/code-eli-git|PUBLISHED||[2648832030](https://github.com/arch4edu/cactus/actions/runs/2648832030)|<script type="text/javascript">localize(1657535613);</script>|
 |x86_64/coin-or-coinmumps|PUBLISHED||[2648274639](https://github.com/arch4edu/cactus/actions/runs/2648274639)|<script type="text/javascript">localize(1657529023);</script>|
-|x86_64/coin-or-ipopt|PUBLISHED||[2648891814](https://github.com/arch4edu/cactus/actions/runs/2648891814)|<script type="text/javascript">localize(1657538590);</script>|
+|x86_64/coin-or-ipopt|PUBLISHED||[2670546436](https://github.com/arch4edu/cactus/actions/runs/2670546436)|<script type="text/javascript">localize(1657806545);</script>|
 |x86_64/combblas|PUBLISHED||[2647919246](https://github.com/arch4edu/cactus/actions/runs/2647919246)|<script type="text/javascript">localize(1657529035);</script>|
 |x86_64/console-bridge|PUBLISHED||[2648006199](https://github.com/arch4edu/cactus/actions/runs/2648006199)|<script type="text/javascript">localize(1657529047);</script>|
 |x86_64/cpptest|PUBLISHED||[2647948245](https://github.com/arch4edu/cactus/actions/runs/2647948245)|<script type="text/javascript">localize(1657529059);</script>|
@@ -255,7 +255,7 @@ Build status (Last update:<script type="text/javascript">localize(1657803151.836
 |x86_64/mongodb-tools|PUBLISHED||[2648614297](https://github.com/arch4edu/cactus/actions/runs/2648614297)|<script type="text/javascript">localize(1657535804);</script>|
 |x86_64/mpich|PUBLISHED||[2648614437](https://github.com/arch4edu/cactus/actions/runs/2648614437)|<script type="text/javascript">localize(1657538803);</script>|
 |x86_64/mumps|PUBLISHED||[2648950924](https://github.com/arch4edu/cactus/actions/runs/2648950924)|<script type="text/javascript">localize(1657538814);</script>|
-|x86_64/mumps-par|FAILED|Build failed.|[2661539631](https://github.com/arch4edu/cactus/actions/runs/2661539631)|<script type="text/javascript">localize(1657695018);</script>|
+|x86_64/mumps-par|FAILED|Build failed.|[2670546627](https://github.com/arch4edu/cactus/actions/runs/2670546627)|<script type="text/javascript">localize(1657804469);</script>|
 |x86_64/mysql|PUBLISHED||[2648005685](https://github.com/arch4edu/cactus/actions/runs/2648005685)|<script type="text/javascript">localize(1657532107);</script>|
 |x86_64/ncl|PUBLISHED||[2648978220](https://github.com/arch4edu/cactus/actions/runs/2648978220)|<script type="text/javascript">localize(1657538837);</script>|
 |x86_64/ncurses5-compat-libs|PUBLISHED||[2647862465](https://github.com/arch4edu/cactus/actions/runs/2647862465)|<script type="text/javascript">localize(1657525836);</script>|
