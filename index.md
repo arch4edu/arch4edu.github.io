@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657909898.28855);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657912836.325434);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -255,7 +255,7 @@ Build status (Last update:<script type="text/javascript">localize(1657909898.288
 |x86_64/mongodb-tools|PUBLISHED||[2648614297](https://github.com/arch4edu/cactus/actions/runs/2648614297)|<script type="text/javascript">localize(1657535804);</script>|
 |x86_64/mpich|PUBLISHED||[2648614437](https://github.com/arch4edu/cactus/actions/runs/2648614437)|<script type="text/javascript">localize(1657538803);</script>|
 |x86_64/mumps|PUBLISHED||[2648950924](https://github.com/arch4edu/cactus/actions/runs/2648950924)|<script type="text/javascript">localize(1657538814);</script>|
-|x86_64/mumps-par|FAILED|Build failed.|[2670546627](https://github.com/arch4edu/cactus/actions/runs/2670546627)|<script type="text/javascript">localize(1657804469);</script>|
+|x86_64/mumps-par|FAILED|Build failed.|[2678715143](https://github.com/arch4edu/cactus/actions/runs/2678715143)|<script type="text/javascript">localize(1657910821);</script>|
 |x86_64/mysql|PUBLISHED||[2648005685](https://github.com/arch4edu/cactus/actions/runs/2648005685)|<script type="text/javascript">localize(1657532107);</script>|
 |x86_64/ncl|PUBLISHED||[2648978220](https://github.com/arch4edu/cactus/actions/runs/2648978220)|<script type="text/javascript">localize(1657538837);</script>|
 |x86_64/ncurses5-compat-libs|PUBLISHED||[2647862465](https://github.com/arch4edu/cactus/actions/runs/2647862465)|<script type="text/javascript">localize(1657525836);</script>|
@@ -345,7 +345,7 @@ Build status (Last update:<script type="text/javascript">localize(1657909898.288
 |x86_64/rocm/openmp-extras|PUBLISHED||[2649177988](https://github.com/arch4edu/cactus/actions/runs/2649177988)|<script type="text/javascript">localize(1657544297);</script>|
 |x86_64/rocm/rccl|PUBLISHED||[2649345324](https://github.com/arch4edu/cactus/actions/runs/2649345324)|<script type="text/javascript">localize(1657544309);</script>|
 |x86_64/rocm/rocblas|FAILED|Build failed.|[2677028035](https://github.com/arch4edu/cactus/actions/runs/2677028035)|<script type="text/javascript">localize(1657908813);</script>|
-|x86_64/rocm/rocfft|BUILDING|GitHubActions|[2677028110](https://github.com/arch4edu/cactus/actions/runs/2677028110)|<script type="text/javascript">localize(1657890577);</script>|
+|x86_64/rocm/rocfft|FAILED|Build failed.|[2677028110](https://github.com/arch4edu/cactus/actions/runs/2677028110)|<script type="text/javascript">localize(1657912140);</script>|
 |x86_64/rocm/rocm-clang-ocl|PUBLISHED||[2649290027](https://github.com/arch4edu/cactus/actions/runs/2649290027)|<script type="text/javascript">localize(1657544320);</script>|
 |x86_64/rocm/rocm-cmake|PUBLISHED||[2647976289](https://github.com/arch4edu/cactus/actions/runs/2647976289)|<script type="text/javascript">localize(1657530319);</script>|
 |x86_64/rocm/rocm-core|PUBLISHED||[2647976392](https://github.com/arch4edu/cactus/actions/runs/2647976392)|<script type="text/javascript">localize(1657530329);</script>|
