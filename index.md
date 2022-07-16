@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1657938092.113186);</script>)
+Build status (Last update:<script type="text/javascript">localize(1657943618.2361214);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -128,9 +128,9 @@ Build status (Last update:<script type="text/javascript">localize(1657938092.113
 |any/python-tifffile|PUBLISHED||[2647751382](https://github.com/arch4edu/cactus/actions/runs/2647751382)|<script type="text/javascript">localize(1657525506);</script>|
 |any/python-trio-websocket|PUBLISHED||[2647703073](https://github.com/arch4edu/cactus/actions/runs/2647703073)|<script type="text/javascript">localize(1657525522);</script>|
 |any/python-url-normalize|PUBLISHED||[2647673909](https://github.com/arch4edu/cactus/actions/runs/2647673909)|<script type="text/javascript">localize(1657521449);</script>|
-|any/python3-memoizedb|PUBLISHED||[2647832528](https://github.com/arch4edu/cactus/actions/runs/2647832528)|<script type="text/javascript">localize(1657525536);</script>|
+|any/python3-memoizedb|PUBLISHED||[2680356102](https://github.com/arch4edu/cactus/actions/runs/2680356102)|<script type="text/javascript">localize(1657943613);</script>|
 |any/python3-xcgf|PUBLISHED||[2647775017](https://github.com/arch4edu/cactus/actions/runs/2647775017)|<script type="text/javascript">localize(1657525552);</script>|
-|any/pywbem|FAILED|Build failed.|[2672421032](https://github.com/arch4edu/cactus/actions/runs/2672421032)|<script type="text/javascript">localize(1657824357);</script>|
+|any/pywbem|FAILED|Build failed.|[2680356068](https://github.com/arch4edu/cactus/actions/runs/2680356068)|<script type="text/javascript">localize(1657939047);</script>|
 |any/targetcli-fb|PUBLISHED||[2648738253](https://github.com/arch4edu/cactus/actions/runs/2648738253)|<script type="text/javascript">localize(1657535586);</script>|
 |any/ttf-charis-sil|PUBLISHED||[2647673890](https://github.com/arch4edu/cactus/actions/runs/2647673890)|<script type="text/javascript">localize(1657521464);</script>|
 |any/ttf-sil-doulos|PUBLISHED||[2647726686](https://github.com/arch4edu/cactus/actions/runs/2647726686)|<script type="text/javascript">localize(1657525567);</script>|
