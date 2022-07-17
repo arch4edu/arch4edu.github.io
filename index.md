@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658089617.990136);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658092998.1669624);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -273,7 +273,7 @@ Build status (Last update:<script type="text/javascript">localize(1658089617.990
 |[x86_64/onedrive](https://aur.archlinux.org/pkgbase/onedrive)|PUBLISHED||[2648006369](https://github.com/arch4edu/cactus/actions/runs/2648006369)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/openblas-lapack](https://aur.archlinux.org/pkgbase/openblas-lapack)|PUBLISHED||[2647919324](https://github.com/arch4edu/cactus/actions/runs/2647919324)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/openboard](https://aur.archlinux.org/pkgbase/openboard)|PUBLISHED||[2648491839](https://github.com/arch4edu/cactus/actions/runs/2648491839)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
-|[x86_64/openfoam](https://aur.archlinux.org/pkgbase/openfoam)|BUILDING|GitHubActions|[2686509308](https://github.com/arch4edu/cactus/actions/runs/2686509308)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
+|[x86_64/openfoam](https://aur.archlinux.org/pkgbase/openfoam)|PUBLISHED||[2686509308](https://github.com/arch4edu/cactus/actions/runs/2686509308)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/openfoam-com](https://aur.archlinux.org/pkgbase/openfoam-com)|PUBLISHED||[2661539727](https://github.com/arch4edu/cactus/actions/runs/2661539727)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/openfst](https://aur.archlinux.org/pkgbase/openfst)|FAILED|Build failed.|[2685556420](https://github.com/arch4edu/cactus/actions/runs/2685556420)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/openjpeg](https://aur.archlinux.org/pkgbase/openjpeg)|PUBLISHED||[2648304268](https://github.com/arch4edu/cactus/actions/runs/2648304268)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
