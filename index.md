@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658066087.235434);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658067786.0634873);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -363,7 +363,7 @@ Build status (Last update:<script type="text/javascript">localize(1658066087.235
 |[x86_64/rocm/rocprim](https://aur.archlinux.org/pkgbase/rocprim)|PUBLISHED||[2649401058](https://github.com/arch4edu/cactus/actions/runs/2649401058)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/rocm/rocprofiler](https://aur.archlinux.org/pkgbase/rocprofiler)|PUBLISHED||[2649372180](https://github.com/arch4edu/cactus/actions/runs/2649372180)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/rocm/rocrand](https://aur.archlinux.org/pkgbase/rocrand)|PUBLISHED||[2649345217](https://github.com/arch4edu/cactus/actions/runs/2649345217)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
-|[x86_64/rocm/rocsparse](https://aur.archlinux.org/pkgbase/rocsparse)|BUILDING|GitHubActions|[2685603219](https://github.com/arch4edu/cactus/actions/runs/2685603219)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
+|[x86_64/rocm/rocsparse](https://aur.archlinux.org/pkgbase/rocsparse)|PUBLISHED||[2685603219](https://github.com/arch4edu/cactus/actions/runs/2685603219)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[2649431930](https://github.com/arch4edu/cactus/actions/runs/2649431930)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[2649401125](https://github.com/arch4edu/cactus/actions/runs/2649401125)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/ros2/python-catkin_pkg](https://aur.archlinux.org/pkgbase/python-catkin_pkg)|PUBLISHED||[2647891583](https://github.com/arch4edu/cactus/actions/runs/2647891583)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
