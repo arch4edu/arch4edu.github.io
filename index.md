@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658162395.493312);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658165589.2660394);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -191,7 +191,7 @@ Build status (Last update:<script type="text/javascript">localize(1658162395.493
 |[x86_64/flann](https://aur.archlinux.org/pkgbase/flann)|PUBLISHED||[2648334016](https://github.com/arch4edu/cactus/actions/runs/2648334016)|<script type="text/javascript">localize(1657531942);</script>|
 |[x86_64/flite1](https://aur.archlinux.org/pkgbase/flite1)|PUBLISHED||[2648363920](https://github.com/arch4edu/cactus/actions/runs/2648363920)|<script type="text/javascript">localize(1657531956);</script>|
 |[x86_64/g2clib](https://aur.archlinux.org/pkgbase/g2clib)|PUBLISHED||[2647862577](https://github.com/arch4edu/cactus/actions/runs/2647862577)|<script type="text/javascript">localize(1657525742);</script>|
-|[x86_64/gcc10](https://aur.archlinux.org/pkgbase/gcc10)|BUILDING|GitHubActions|[2690724095](https://github.com/arch4edu/cactus/actions/runs/2690724095)|<script type="text/javascript">localize(1658149698);</script>|
+|[x86_64/gcc10](https://aur.archlinux.org/pkgbase/gcc10)|PUBLISHED||[2690724095](https://github.com/arch4edu/cactus/actions/runs/2690724095)|<script type="text/javascript">localize(1658165582);</script>|
 |[x86_64/gcc5](https://aur.archlinux.org/pkgbase/gcc5)|PUBLISHED||[2656797652](https://github.com/arch4edu/cactus/actions/runs/2656797652)|<script type="text/javascript">localize(1657640370);</script>|
 |[x86_64/gcc6](https://aur.archlinux.org/pkgbase/gcc6)|PUBLISHED||[2690724222](https://github.com/arch4edu/cactus/actions/runs/2690724222)|<script type="text/javascript">localize(1658154591);</script>|
 |[x86_64/gcc7](https://aur.archlinux.org/pkgbase/gcc7)|PUBLISHED||[2648243985](https://github.com/arch4edu/cactus/actions/runs/2648243985)|<script type="text/javascript">localize(1657535696);</script>|
