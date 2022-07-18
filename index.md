@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658111261.3106642);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658117479.688346);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -63,7 +63,7 @@ Build status (Last update:<script type="text/javascript">localize(1658111261.310
 |[any/octave-statistics](https://aur.archlinux.org/pkgbase/octave-statistics)|PUBLISHED||[2648671760](https://github.com/arch4edu/cactus/actions/runs/2648671760)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[any/openfoam-selector](https://aur.archlinux.org/pkgbase/openfoam-selector)|PUBLISHED||[2647751811](https://github.com/arch4edu/cactus/actions/runs/2647751811)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[any/opengrok](https://aur.archlinux.org/pkgbase/opengrok)|PUBLISHED||[2647673976](https://github.com/arch4edu/cactus/actions/runs/2647673976)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
-|[any/panoply](https://aur.archlinux.org/pkgbase/panoply)|PUBLISHED||[2647803578](https://github.com/arch4edu/cactus/actions/runs/2647803578)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
+|[any/panoply](https://aur.archlinux.org/pkgbase/panoply)|PUBLISHED||[2687804180](https://github.com/arch4edu/cactus/actions/runs/2687804180)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[any/pyglossary](https://aur.archlinux.org/pkgbase/pyglossary)|PUBLISHED||[2648832251](https://github.com/arch4edu/cactus/actions/runs/2648832251)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[any/pypy3-pip](https://aur.archlinux.org/pkgbase/pypy3-pip)|PUBLISHED||[2648671602](https://github.com/arch4edu/cactus/actions/runs/2648671602)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[any/pypy3-setuptools](https://aur.archlinux.org/pkgbase/pypy3-setuptools)|PUBLISHED||[2647674512](https://github.com/arch4edu/cactus/actions/runs/2647674512)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
@@ -348,7 +348,7 @@ Build status (Last update:<script type="text/javascript">localize(1658111261.310
 |[x86_64/rocm/miopengemm](https://aur.archlinux.org/pkgbase/miopengemm)|PUBLISHED||[2648832179](https://github.com/arch4edu/cactus/actions/runs/2648832179)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|PUBLISHED||[2649177988](https://github.com/arch4edu/cactus/actions/runs/2649177988)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/rocm/rccl](https://aur.archlinux.org/pkgbase/rccl)|PUBLISHED||[2649345324](https://github.com/arch4edu/cactus/actions/runs/2649345324)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
-|[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|FAILED|Build failed.|[2682832696](https://github.com/arch4edu/cactus/actions/runs/2682832696)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
+|[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|BUILDING|x86_64|[2687819727](https://github.com/arch4edu/cactus/actions/runs/2687819727)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/rocm/rocfft](https://aur.archlinux.org/pkgbase/rocfft)|FAILED|Build failed.|[2684011798](https://github.com/arch4edu/cactus/actions/runs/2684011798)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/rocm/rocm-clang-ocl](https://aur.archlinux.org/pkgbase/rocm-clang-ocl)|PUBLISHED||[2649290027](https://github.com/arch4edu/cactus/actions/runs/2649290027)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/rocm/rocm-cmake](https://aur.archlinux.org/pkgbase/rocm-cmake)|PUBLISHED||[2647976289](https://github.com/arch4edu/cactus/actions/runs/2647976289)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
@@ -430,7 +430,7 @@ Build status (Last update:<script type="text/javascript">localize(1658111261.310
 |[x86_64/voro++](https://aur.archlinux.org/pkgbase/voro++)|PUBLISHED||[2648553963](https://github.com/arch4edu/cactus/actions/runs/2648553963)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/wscat](https://aur.archlinux.org/pkgbase/wscat)|PUBLISHED||[2647862687](https://github.com/arch4edu/cactus/actions/runs/2647862687)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/wxgtk-dev](https://aur.archlinux.org/pkgbase/wxgtk-dev)|PUBLISHED||[2648363260](https://github.com/arch4edu/cactus/actions/runs/2648363260)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
-|[x86_64/xflr5](https://aur.archlinux.org/pkgbase/xflr5)|PUBLISHED||[2648006013](https://github.com/arch4edu/cactus/actions/runs/2648006013)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
+|[x86_64/xflr5](https://aur.archlinux.org/pkgbase/xflr5)|PUBLISHED||[2687819685](https://github.com/arch4edu/cactus/actions/runs/2687819685)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/yay](https://aur.archlinux.org/pkgbase/yay)|PUBLISHED||[2648491738](https://github.com/arch4edu/cactus/actions/runs/2648491738)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 |[x86_64/zotero-bin](https://aur.archlinux.org/pkgbase/zotero-bin)|PUBLISHED||[2647863318](https://github.com/arch4edu/cactus/actions/runs/2647863318)|<script type="text/javascript">localize({int(record.timestamp.timestamp())});</script>|
 
