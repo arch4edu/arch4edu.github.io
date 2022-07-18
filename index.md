@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658154598.24182);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658158270.4612186);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -350,7 +350,7 @@ Build status (Last update:<script type="text/javascript">localize(1658154598.241
 |[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|PUBLISHED||[2649177988](https://github.com/arch4edu/cactus/actions/runs/2649177988)|<script type="text/javascript">localize(1657544297);</script>|
 |[x86_64/rocm/rccl](https://aur.archlinux.org/pkgbase/rccl)|PUBLISHED||[2649345324](https://github.com/arch4edu/cactus/actions/runs/2649345324)|<script type="text/javascript">localize(1657544309);</script>|
 |[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|FAILED|Build failed.|[2687819727](https://github.com/arch4edu/cactus/actions/runs/2687819727)|<script type="text/javascript">localize(1658130837);</script>|
-|[x86_64/rocm/rocfft](https://aur.archlinux.org/pkgbase/rocfft)|BUILDING|x86_64|[2690724504](https://github.com/arch4edu/cactus/actions/runs/2690724504)|<script type="text/javascript">localize(1658149687);</script>|
+|[x86_64/rocm/rocfft](https://aur.archlinux.org/pkgbase/rocfft)|PUBLISHED||[2690724504](https://github.com/arch4edu/cactus/actions/runs/2690724504)|<script type="text/javascript">localize(1658158264);</script>|
 |[x86_64/rocm/rocm-clang-ocl](https://aur.archlinux.org/pkgbase/rocm-clang-ocl)|PUBLISHED||[2649290027](https://github.com/arch4edu/cactus/actions/runs/2649290027)|<script type="text/javascript">localize(1657544320);</script>|
 |[x86_64/rocm/rocm-cmake](https://aur.archlinux.org/pkgbase/rocm-cmake)|PUBLISHED||[2647976289](https://github.com/arch4edu/cactus/actions/runs/2647976289)|<script type="text/javascript">localize(1657530319);</script>|
 |[x86_64/rocm/rocm-core](https://aur.archlinux.org/pkgbase/rocm-core)|PUBLISHED||[2647976392](https://github.com/arch4edu/cactus/actions/runs/2647976392)|<script type="text/javascript">localize(1657530329);</script>|
