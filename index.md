@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658212340.3506587);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658215513.5976553);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -340,6 +340,7 @@ Build status (Last update:<script type="text/javascript">localize(1658212340.350
 |[x86_64/rocm/hip-runtime-amd](https://aur.archlinux.org/pkgbase/hip-runtime-amd)|PUBLISHED||[2686509352](https://github.com/arch4edu/cactus/actions/runs/2686509352)|<script type="text/javascript">localize(1658085708);</script>|
 |[x86_64/rocm/hip-runtime-nvidia](https://aur.archlinux.org/pkgbase/hip-runtime-nvidia)|PUBLISHED||[2649035579](https://github.com/arch4edu/cactus/actions/runs/2649035579)|<script type="text/javascript">localize(1657538927);</script>|
 |[x86_64/rocm/hipcub](https://aur.archlinux.org/pkgbase/hipcub)|PUBLISHED||[2649431997](https://github.com/arch4edu/cactus/actions/runs/2649431997)|<script type="text/javascript">localize(1657544271);</script>|
+|[x86_64/rocm/hipfft](https://aur.archlinux.org/pkgbase/hipfft)|PUBLISHED||[2695686575](https://github.com/arch4edu/cactus/actions/runs/2695686575)|<script type="text/javascript">localize(1658215482);</script>|
 |[x86_64/rocm/hipfort](https://aur.archlinux.org/pkgbase/hipfort)|PUBLISHED||[2649372257](https://github.com/arch4edu/cactus/actions/runs/2649372257)|<script type="text/javascript">localize(1657544284);</script>|
 |[x86_64/rocm/hipify-clang](https://aur.archlinux.org/pkgbase/hipify-clang)|PUBLISHED||[2649035541](https://github.com/arch4edu/cactus/actions/runs/2649035541)|<script type="text/javascript">localize(1657538941);</script>|
 |[x86_64/rocm/hipsparse](https://aur.archlinux.org/pkgbase/hipsparse)|PUBLISHED||[2650063300](https://github.com/arch4edu/cactus/actions/runs/2650063300)|<script type="text/javascript">localize(1657549602);</script>|
@@ -434,7 +435,7 @@ Build status (Last update:<script type="text/javascript">localize(1658212340.350
 |[x86_64/wxwidgets-gtk2](https://aur.archlinux.org/pkgbase/wxwidgets-gtk2)|PUBLISHED||[2690723744](https://github.com/arch4edu/cactus/actions/runs/2690723744)|<script type="text/javascript">localize(1658152609);</script>|
 |[x86_64/xflr5](https://aur.archlinux.org/pkgbase/xflr5)|PUBLISHED||[2687819685](https://github.com/arch4edu/cactus/actions/runs/2687819685)|<script type="text/javascript">localize(1658117473);</script>|
 |[x86_64/yay](https://aur.archlinux.org/pkgbase/yay)|PUBLISHED||[2648491738](https://github.com/arch4edu/cactus/actions/runs/2648491738)|<script type="text/javascript">localize(1657532315);</script>|
-|[x86_64/zotero-bin](https://aur.archlinux.org/pkgbase/zotero-bin)|PUBLISHED||[2647863318](https://github.com/arch4edu/cactus/actions/runs/2647863318)|<script type="text/javascript">localize(1657526041);</script>|
+|[x86_64/zotero-bin](https://aur.archlinux.org/pkgbase/zotero-bin)|PUBLISHED||[2695686532](https://github.com/arch4edu/cactus/actions/runs/2695686532)|<script type="text/javascript">localize(1658215507);</script>|
 
 <script src="./tablefilter/tablefilter.js"></script>
 <script src="./table.js"></script>
