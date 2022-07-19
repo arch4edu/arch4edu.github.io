@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658198355.8266284);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658205279.25064);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -130,7 +130,7 @@ Build status (Last update:<script type="text/javascript">localize(1658198355.826
 |[any/python-tifffile](https://aur.archlinux.org/pkgbase/python-tifffile)|PUBLISHED||[2647751382](https://github.com/arch4edu/cactus/actions/runs/2647751382)|<script type="text/javascript">localize(1657525506);</script>|
 |[any/python-trio-websocket](https://aur.archlinux.org/pkgbase/python-trio-websocket)|PUBLISHED||[2647703073](https://github.com/arch4edu/cactus/actions/runs/2647703073)|<script type="text/javascript">localize(1657525522);</script>|
 |[any/python-url-normalize](https://aur.archlinux.org/pkgbase/python-url-normalize)|PUBLISHED||[2647673909](https://github.com/arch4edu/cactus/actions/runs/2647673909)|<script type="text/javascript">localize(1657521449);</script>|
-|[any/python-yamlloader](https://aur.archlinux.org/pkgbase/python-yamlloader)|FAILED|Build failed.|[2686509262](https://github.com/arch4edu/cactus/actions/runs/2686509262)|<script type="text/javascript">localize(1658083428);</script>|
+|[any/python-yamlloader](https://aur.archlinux.org/pkgbase/python-yamlloader)|PUBLISHED||[2694842854](https://github.com/arch4edu/cactus/actions/runs/2694842854)|<script type="text/javascript">localize(1658205243);</script>|
 |[any/python3-memoizedb](https://aur.archlinux.org/pkgbase/python3-memoizedb)|PUBLISHED||[2680356102](https://github.com/arch4edu/cactus/actions/runs/2680356102)|<script type="text/javascript">localize(1657943613);</script>|
 |[any/python3-xcgf](https://aur.archlinux.org/pkgbase/python3-xcgf)|PUBLISHED||[2647775017](https://github.com/arch4edu/cactus/actions/runs/2647775017)|<script type="text/javascript">localize(1657525552);</script>|
 |[any/pywbem](https://aur.archlinux.org/pkgbase/pywbem)|FAILED|Dependency issue: any/python-yamlloader .|[2684011771](https://github.com/arch4edu/cactus/actions/runs/2684011771)|<script type="text/javascript">localize(1658127049);</script>|
@@ -427,7 +427,7 @@ Build status (Last update:<script type="text/javascript">localize(1658198355.826
 |[x86_64/udunits](https://aur.archlinux.org/pkgbase/udunits)|PUBLISHED||[2648062995](https://github.com/arch4edu/cactus/actions/runs/2648062995)|<script type="text/javascript">localize(1657530420);</script>|
 |[x86_64/urdfdom](https://aur.archlinux.org/pkgbase/urdfdom)|PUBLISHED||[2648832345](https://github.com/arch4edu/cactus/actions/runs/2648832345)|<script type="text/javascript">localize(1657536323);</script>|
 |[x86_64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[2647862896](https://github.com/arch4edu/cactus/actions/runs/2647862896)|<script type="text/javascript">localize(1657526014);</script>|
-|[x86_64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|PUBLISHED||[2660656873](https://github.com/arch4edu/cactus/actions/runs/2660656873)|<script type="text/javascript">localize(1657685025);</script>|
+|[x86_64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|PUBLISHED||[2694842810](https://github.com/arch4edu/cactus/actions/runs/2694842810)|<script type="text/javascript">localize(1658205272);</script>|
 |[x86_64/voro++](https://aur.archlinux.org/pkgbase/voro++)|PUBLISHED||[2648553963](https://github.com/arch4edu/cactus/actions/runs/2648553963)|<script type="text/javascript">localize(1657532303);</script>|
 |[x86_64/wscat](https://aur.archlinux.org/pkgbase/wscat)|PUBLISHED||[2647862687](https://github.com/arch4edu/cactus/actions/runs/2647862687)|<script type="text/javascript">localize(1657526023);</script>|
 |[x86_64/wxgtk-dev](https://aur.archlinux.org/pkgbase/wxgtk-dev)|PUBLISHED||[2648363260](https://github.com/arch4edu/cactus/actions/runs/2648363260)|<script type="text/javascript">localize(1657536350);</script>|
