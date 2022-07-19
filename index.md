@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658252095.1097941);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658255632.4425163);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -350,7 +350,7 @@ Build status (Last update:<script type="text/javascript">localize(1658252095.109
 |[x86_64/rocm/miopengemm](https://aur.archlinux.org/pkgbase/miopengemm)|PUBLISHED||[2648832179](https://github.com/arch4edu/cactus/actions/runs/2648832179)|<script type="text/javascript">localize(1657535957);</script>|
 |[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|PUBLISHED||[2649177988](https://github.com/arch4edu/cactus/actions/runs/2649177988)|<script type="text/javascript">localize(1657544297);</script>|
 |[x86_64/rocm/rccl](https://aur.archlinux.org/pkgbase/rccl)|PUBLISHED||[2649345324](https://github.com/arch4edu/cactus/actions/runs/2649345324)|<script type="text/javascript">localize(1657544309);</script>|
-|[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|BUILDING|x86_64|[2697837096](https://github.com/arch4edu/cactus/actions/runs/2697837096)|<script type="text/javascript">localize(1658235925);</script>|
+|[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|FAILED|Build failed.|[2697837096](https://github.com/arch4edu/cactus/actions/runs/2697837096)|<script type="text/javascript">localize(1658254192);</script>|
 |[x86_64/rocm/rocfft](https://aur.archlinux.org/pkgbase/rocfft)|PUBLISHED||[2690724504](https://github.com/arch4edu/cactus/actions/runs/2690724504)|<script type="text/javascript">localize(1658158264);</script>|
 |[x86_64/rocm/rocm-clang-ocl](https://aur.archlinux.org/pkgbase/rocm-clang-ocl)|PUBLISHED||[2649290027](https://github.com/arch4edu/cactus/actions/runs/2649290027)|<script type="text/javascript">localize(1657544320);</script>|
 |[x86_64/rocm/rocm-cmake](https://aur.archlinux.org/pkgbase/rocm-cmake)|PUBLISHED||[2647976289](https://github.com/arch4edu/cactus/actions/runs/2647976289)|<script type="text/javascript">localize(1657530319);</script>|
