@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658314726.0066133);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658316200.613664);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -341,7 +341,7 @@ Build status (Last update:<script type="text/javascript">localize(1658314726.006
 |[x86_64/r/jags](https://aur.archlinux.org/pkgbase/jags)|PUBLISHED||[2703563299](https://github.com/arch4edu/cactus/actions/runs/2703563299)|<script type="text/javascript">localize(1658309211);</script>|
 |[x86_64/r/jasp-desktop](https://aur.archlinux.org/pkgbase/jasp-desktop)|FAILED|Dependency issue: x86_64/r/r-jaspsummarystatistics .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1658306275);</script>|
 |[x86_64/r/r-abind](https://aur.archlinux.org/pkgbase/r-abind)|PUBLISHED||[2703562400](https://github.com/arch4edu/cactus/actions/runs/2703562400)|<script type="text/javascript">localize(1658309225);</script>|
-|[x86_64/r/r-abtest](https://aur.archlinux.org/pkgbase/r-abtest)|BUILT||[2704117457](https://github.com/arch4edu/cactus/actions/runs/2704117457)|<script type="text/javascript">localize(1658313988);</script>|
+|[x86_64/r/r-abtest](https://aur.archlinux.org/pkgbase/r-abtest)|PUBLISHED||[2704117457](https://github.com/arch4edu/cactus/actions/runs/2704117457)|<script type="text/javascript">localize(1658316121);</script>|
 |[x86_64/r/r-afex](https://aur.archlinux.org/pkgbase/r-afex)|FAILED|Dependency issue: x86_64/r/r-pbkrtest .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1658312300);</script>|
 |[x86_64/r/r-arm](https://aur.archlinux.org/pkgbase/r-arm)|FAILED|Dependency issue: x86_64/r/r-lme4 .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1658312320);</script>|
 |[x86_64/r/r-asioheaders](https://aur.archlinux.org/pkgbase/r-asioheaders)|STALED||[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1658256657);</script>|
@@ -604,7 +604,7 @@ Build status (Last update:<script type="text/javascript">localize(1658314726.006
 |[x86_64/r/r-mi](https://aur.archlinux.org/pkgbase/r-mi)|FAILED|Dependency issue: x86_64/r/r-arm .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1658312321);</script>|
 |[x86_64/r/r-mice](https://aur.archlinux.org/pkgbase/r-mice)|FAILED|Dependency issue: x86_64/r/r-broom .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1658312299);</script>|
 |[x86_64/r/r-mime](https://aur.archlinux.org/pkgbase/r-mime)|PUBLISHED||[2703602326](https://github.com/arch4edu/cactus/actions/runs/2703602326)|<script type="text/javascript">localize(1658309916);</script>|
-|[x86_64/r/r-miniui](https://aur.archlinux.org/pkgbase/r-miniui)|BUILT||[2704085776](https://github.com/arch4edu/cactus/actions/runs/2704085776)|<script type="text/javascript">localize(1658313615);</script>|
+|[x86_64/r/r-miniui](https://aur.archlinux.org/pkgbase/r-miniui)|PUBLISHED||[2704085776](https://github.com/arch4edu/cactus/actions/runs/2704085776)|<script type="text/javascript">localize(1658316136);</script>|
 |[x86_64/r/r-minqa](https://aur.archlinux.org/pkgbase/r-minqa)|PUBLISHED||[2703643794](https://github.com/arch4edu/cactus/actions/runs/2703643794)|<script type="text/javascript">localize(1658309928);</script>|
 |[x86_64/r/r-mlbench](https://aur.archlinux.org/pkgbase/r-mlbench)|STALED||[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1658256840);</script>|
 |[x86_64/r/r-mle.tools](https://aur.archlinux.org/pkgbase/r-mle.tools)|PUBLISHED||[2703313122](https://github.com/arch4edu/cactus/actions/runs/2703313122)|<script type="text/javascript">localize(1658306402);</script>|
@@ -671,7 +671,7 @@ Build status (Last update:<script type="text/javascript">localize(1658314726.006
 |[x86_64/r/r-purrr](https://aur.archlinux.org/pkgbase/r-purrr)|PUBLISHED||[2703763887](https://github.com/arch4edu/cactus/actions/runs/2703763887)|<script type="text/javascript">localize(1658314201);</script>|
 |[x86_64/r/r-pwr](https://aur.archlinux.org/pkgbase/r-pwr)|PUBLISHED||[2703356454](https://github.com/arch4edu/cactus/actions/runs/2703356454)|<script type="text/javascript">localize(1658310153);</script>|
 |[x86_64/r/r-qcc](https://aur.archlinux.org/pkgbase/r-qcc)|PUBLISHED||[2703312822](https://github.com/arch4edu/cactus/actions/runs/2703312822)|<script type="text/javascript">localize(1658306469);</script>|
-|[x86_64/r/r-qgam](https://aur.archlinux.org/pkgbase/r-qgam)|BUILT||[2704085684](https://github.com/arch4edu/cactus/actions/runs/2704085684)|<script type="text/javascript">localize(1658313599);</script>|
+|[x86_64/r/r-qgam](https://aur.archlinux.org/pkgbase/r-qgam)|PUBLISHED||[2704085684](https://github.com/arch4edu/cactus/actions/runs/2704085684)|<script type="text/javascript">localize(1658316149);</script>|
 |[x86_64/r/r-qgraph](https://aur.archlinux.org/pkgbase/r-qgraph)|FAILED|Dependency issue: x86_64/r/r-gtools .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1658306279);</script>|
 |[x86_64/r/r-quadprog](https://aur.archlinux.org/pkgbase/r-quadprog)|PUBLISHED||[2703235375](https://github.com/arch4edu/cactus/actions/runs/2703235375)|<script type="text/javascript">localize(1658306480);</script>|
 |[x86_64/r/r-quantmod](https://aur.archlinux.org/pkgbase/r-quantmod)|PUBLISHED||[2703920160](https://github.com/arch4edu/cactus/actions/runs/2703920160)|<script type="text/javascript">localize(1658314218);</script>|
@@ -744,10 +744,10 @@ Build status (Last update:<script type="text/javascript">localize(1658314726.006
 |[x86_64/r/r-sfsmisc](https://aur.archlinux.org/pkgbase/r-sfsmisc)|PUBLISHED||[2703602481](https://github.com/arch4edu/cactus/actions/runs/2703602481)|<script type="text/javascript">localize(1658310389);</script>|
 |[x86_64/r/r-sgt](https://aur.archlinux.org/pkgbase/r-sgt)|PUBLISHED||[2703878630](https://github.com/arch4edu/cactus/actions/runs/2703878630)|<script type="text/javascript">localize(1658314498);</script>|
 |[x86_64/r/r-shape](https://aur.archlinux.org/pkgbase/r-shape)|PUBLISHED||[2703436582](https://github.com/arch4edu/cactus/actions/runs/2703436582)|<script type="text/javascript">localize(1658310404);</script>|
-|[x86_64/r/r-shiny](https://aur.archlinux.org/pkgbase/r-shiny)|BUILT||[2704054978](https://github.com/arch4edu/cactus/actions/runs/2704054978)|<script type="text/javascript">localize(1658313260);</script>|
-|[x86_64/r/r-shinyjs](https://aur.archlinux.org/pkgbase/r-shinyjs)|BUILT||[2704085651](https://github.com/arch4edu/cactus/actions/runs/2704085651)|<script type="text/javascript">localize(1658313581);</script>|
+|[x86_64/r/r-shiny](https://aur.archlinux.org/pkgbase/r-shiny)|PUBLISHED||[2704054978](https://github.com/arch4edu/cactus/actions/runs/2704054978)|<script type="text/javascript">localize(1658316165);</script>|
+|[x86_64/r/r-shinyjs](https://aur.archlinux.org/pkgbase/r-shinyjs)|PUBLISHED||[2704085651](https://github.com/arch4edu/cactus/actions/runs/2704085651)|<script type="text/javascript">localize(1658316180);</script>|
 |[x86_64/r/r-shinystan](https://aur.archlinux.org/pkgbase/r-shinystan)|FAILED|Dependency issue: x86_64/r/r-gtools .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1658306292);</script>|
-|[x86_64/r/r-shinythemes](https://aur.archlinux.org/pkgbase/r-shinythemes)|BUILT||[2704085764](https://github.com/arch4edu/cactus/actions/runs/2704085764)|<script type="text/javascript">localize(1658313627);</script>|
+|[x86_64/r/r-shinythemes](https://aur.archlinux.org/pkgbase/r-shinythemes)|PUBLISHED||[2704085764](https://github.com/arch4edu/cactus/actions/runs/2704085764)|<script type="text/javascript">localize(1658316195);</script>|
 |[x86_64/r/r-signal](https://aur.archlinux.org/pkgbase/r-signal)|PUBLISHED||[2703479062](https://github.com/arch4edu/cactus/actions/runs/2703479062)|<script type="text/javascript">localize(1658310419);</script>|
 |[x86_64/r/r-slam](https://aur.archlinux.org/pkgbase/r-slam)|STALED||[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1658256940);</script>|
 |[x86_64/r/r-smacof](https://aur.archlinux.org/pkgbase/r-smacof)|FAILED|Dependency issue: x86_64/r/r-weights .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1658306292);</script>|
