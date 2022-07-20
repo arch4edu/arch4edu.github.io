@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658344902.3188262);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658349004.249848);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -298,7 +298,7 @@ Build status (Last update:<script type="text/javascript">localize(1658344902.318
 |[x86_64/plplot](https://aur.archlinux.org/pkgbase/plplot)|PUBLISHED||[2647948355](https://github.com/arch4edu/cactus/actions/runs/2647948355)|<script type="text/javascript">localize(1657530195);</script>|
 |[x86_64/pocketsphinx](https://aur.archlinux.org/pkgbase/pocketsphinx)|PUBLISHED||[2648892344](https://github.com/arch4edu/cactus/actions/runs/2648892344)|<script type="text/javascript">localize(1657535853);</script>|
 |[x86_64/praat](https://aur.archlinux.org/pkgbase/praat)|PUBLISHED||[2656834424](https://github.com/arch4edu/cactus/actions/runs/2656834424)|<script type="text/javascript">localize(1657640392);</script>|
-|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|BUILDING|GitHubActions|[2706949029](https://github.com/arch4edu/cactus/actions/runs/2706949029)|<script type="text/javascript">localize(1658342944);</script>|
+|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|PUBLISHED||[2706949029](https://github.com/arch4edu/cactus/actions/runs/2706949029)|<script type="text/javascript">localize(1658348997);</script>|
 |[x86_64/python-arch](https://aur.archlinux.org/pkgbase/python-arch)|PUBLISHED||[2648671250](https://github.com/arch4edu/cactus/actions/runs/2648671250)|<script type="text/javascript">localize(1657535875);</script>|
 |[x86_64/python-astropy](https://aur.archlinux.org/pkgbase/python-astropy)|PUBLISHED||[2654687015](https://github.com/arch4edu/cactus/actions/runs/2654687015)|<script type="text/javascript">localize(1657610830);</script>|
 |[x86_64/python-astroquery](https://aur.archlinux.org/pkgbase/python-astroquery)|PUBLISHED||[2654741402](https://github.com/arch4edu/cactus/actions/runs/2654741402)|<script type="text/javascript">localize(1657610842);</script>|
