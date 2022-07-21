@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658392383.4441795);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658395557.5388334);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -155,7 +155,7 @@ Build status (Last update:<script type="text/javascript">localize(1658392383.444
 |[any/ycm-generator-git](https://aur.archlinux.org/pkgbase/ycm-generator-git)|PUBLISHED||[2647726165](https://github.com/arch4edu/cactus/actions/runs/2647726165)|<script type="text/javascript">localize(1657525700);</script>|
 |[x86_64/act](https://aur.archlinux.org/pkgbase/act)|PUBLISHED||[2648459952](https://github.com/arch4edu/cactus/actions/runs/2648459952)|<script type="text/javascript">localize(1657531662);</script>|
 |[x86_64/adms](https://aur.archlinux.org/pkgbase/adms)|PUBLISHED||[2647948312](https://github.com/arch4edu/cactus/actions/runs/2647948312)|<script type="text/javascript">localize(1657528639);</script>|
-|[x86_64/alice-vision](https://aur.archlinux.org/pkgbase/alice-vision)|FAILED|Build failed.|[2710031502](https://github.com/arch4edu/cactus/actions/runs/2710031502)|<script type="text/javascript">localize(1658388024);</script>|
+|[x86_64/alice-vision](https://aur.archlinux.org/pkgbase/alice-vision)|FAILED|Build failed.|[2710519377](https://github.com/arch4edu/cactus/actions/runs/2710519377)|<script type="text/javascript">localize(1658394900);</script>|
 |[x86_64/anaconda](https://aur.archlinux.org/pkgbase/anaconda)|PUBLISHED||[2647976154](https://github.com/arch4edu/cactus/actions/runs/2647976154)|<script type="text/javascript">localize(1657528848);</script>|
 |[x86_64/android-emulator](https://aur.archlinux.org/pkgbase/android-emulator)|PUBLISHED||[2648036086](https://github.com/arch4edu/cactus/actions/runs/2648036086)|<script type="text/javascript">localize(1657528899);</script>|
 |[x86_64/android-ndk](https://aur.archlinux.org/pkgbase/android-ndk)|PUBLISHED||[2667613525](https://github.com/arch4edu/cactus/actions/runs/2667613525)|<script type="text/javascript">localize(1657771971);</script>|
@@ -169,7 +169,7 @@ Build status (Last update:<script type="text/javascript">localize(1658392383.444
 |[x86_64/brlcad](https://aur.archlinux.org/pkgbase/brlcad)|PUBLISHED||[2648303869](https://github.com/arch4edu/cactus/actions/runs/2648303869)|<script type="text/javascript">localize(1657531863);</script>|
 |[x86_64/brunsli](https://aur.archlinux.org/pkgbase/brunsli)|PUBLISHED||[2648151943](https://github.com/arch4edu/cactus/actions/runs/2648151943)|<script type="text/javascript">localize(1657528976);</script>|
 |[x86_64/ccnet-server](https://aur.archlinux.org/pkgbase/ccnet-server)|PUBLISHED||[2649006302](https://github.com/arch4edu/cactus/actions/runs/2649006302)|<script type="text/javascript">localize(1657538551);</script>|
-|[x86_64/cctag](https://aur.archlinux.org/pkgbase/cctag)|BUILDING|Build failed.|[2710373173](https://github.com/arch4edu/cactus/actions/runs/2710373173)|<script type="text/javascript">localize(1658391805);</script>|
+|[x86_64/cctag](https://aur.archlinux.org/pkgbase/cctag)|PUBLISHED||[2710373173](https://github.com/arch4edu/cactus/actions/runs/2710373173)|<script type="text/javascript">localize(1658395551);</script>|
 |[x86_64/cef-minimal](https://aur.archlinux.org/pkgbase/cef-minimal)|PUBLISHED||[2648091420](https://github.com/arch4edu/cactus/actions/runs/2648091420)|<script type="text/javascript">localize(1657529000);</script>|
 |[x86_64/cef-standard](https://aur.archlinux.org/pkgbase/cef-standard)|PUBLISHED||[2648426785](https://github.com/arch4edu/cactus/actions/runs/2648426785)|<script type="text/javascript">localize(1657531895);</script>|
 |[x86_64/ceres-solver](https://aur.archlinux.org/pkgbase/ceres-solver)|PUBLISHED||[2709897472](https://github.com/arch4edu/cactus/actions/runs/2709897472)|<script type="text/javascript">localize(1658388264);</script>|
