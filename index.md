@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658471715.9602923);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658474784.2209096);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -66,7 +66,7 @@ Build status (Last update:<script type="text/javascript">localize(1658471715.960
 |[any/octave-statistics](https://aur.archlinux.org/pkgbase/octave-statistics)|PUBLISHED||[2648671760](https://github.com/arch4edu/cactus/actions/runs/2648671760)|<script type="text/javascript">localize(1657535427);</script>|
 |[any/openfoam-selector](https://aur.archlinux.org/pkgbase/openfoam-selector)|PUBLISHED||[2647751811](https://github.com/arch4edu/cactus/actions/runs/2647751811)|<script type="text/javascript">localize(1657524902);</script>|
 |[any/opengrok](https://aur.archlinux.org/pkgbase/opengrok)|PUBLISHED||[2697836753](https://github.com/arch4edu/cactus/actions/runs/2697836753)|<script type="text/javascript">localize(1658238598);</script>|
-|[any/panoply](https://aur.archlinux.org/pkgbase/panoply)|PUBLISHED||[2687804180](https://github.com/arch4edu/cactus/actions/runs/2687804180)|<script type="text/javascript">localize(1658117461);</script>|
+|[any/panoply](https://aur.archlinux.org/pkgbase/panoply)|PUBLISHED||[2716854650](https://github.com/arch4edu/cactus/actions/runs/2716854650)|<script type="text/javascript">localize(1658474777);</script>|
 |[any/pyglossary](https://aur.archlinux.org/pkgbase/pyglossary)|PUBLISHED||[2648832251](https://github.com/arch4edu/cactus/actions/runs/2648832251)|<script type="text/javascript">localize(1657535442);</script>|
 |[any/pypy3-pip](https://aur.archlinux.org/pkgbase/pypy3-pip)|PUBLISHED||[2648671602](https://github.com/arch4edu/cactus/actions/runs/2648671602)|<script type="text/javascript">localize(1657535457);</script>|
 |[any/pypy3-setuptools](https://aur.archlinux.org/pkgbase/pypy3-setuptools)|PUBLISHED||[2647674512](https://github.com/arch4edu/cactus/actions/runs/2647674512)|<script type="text/javascript">localize(1657521317);</script>|
