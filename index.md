@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658503732.438386);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658508248.666104);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -789,7 +789,7 @@ Build status (Last update:<script type="text/javascript">localize(1658503732.438
 |[x86_64/rocm/rocm-gdb](https://aur.archlinux.org/pkgbase/rocm-gdb)|PUBLISHED||[2649317762](https://github.com/arch4edu/cactus/actions/runs/2649317762)|<script type="text/javascript">localize(1657544353);</script>|
 |[x86_64/rocm/rocm-hip-runtime](https://aur.archlinux.org/pkgbase/rocm-hip-runtime)|PUBLISHED||[2686538754](https://github.com/arch4edu/cactus/actions/runs/2686538754)|<script type="text/javascript">localize(1658085719);</script>|
 |[x86_64/rocm/rocm-language-runtime](https://aur.archlinux.org/pkgbase/rocm-language-runtime)|PUBLISHED||[2686509333](https://github.com/arch4edu/cactus/actions/runs/2686509333)|<script type="text/javascript">localize(1658085730);</script>|
-|[x86_64/rocm/rocm-llvm](https://aur.archlinux.org/pkgbase/rocm-llvm)|BUILDING|GitHubActions|[2718778922](https://github.com/arch4edu/cactus/actions/runs/2718778922)|<script type="text/javascript">localize(1658495305);</script>|
+|[x86_64/rocm/rocm-llvm](https://aur.archlinux.org/pkgbase/rocm-llvm)|PUBLISHED||[2718778922](https://github.com/arch4edu/cactus/actions/runs/2718778922)|<script type="text/javascript">localize(1658508242);</script>|
 |[x86_64/rocm/rocm-opencl-runtime](https://aur.archlinux.org/pkgbase/rocm-opencl-runtime)|PUBLISHED||[2649204986](https://github.com/arch4edu/cactus/actions/runs/2649204986)|<script type="text/javascript">localize(1657544384);</script>|
 |[x86_64/rocm/rocm-opencl-sdk](https://aur.archlinux.org/pkgbase/rocm-opencl-sdk)|PUBLISHED||[2686523278](https://github.com/arch4edu/cactus/actions/runs/2686523278)|<script type="text/javascript">localize(1658085741);</script>|
 |[x86_64/rocm/rocm-smi-lib](https://aur.archlinux.org/pkgbase/rocm-smi-lib)|PUBLISHED||[2649204940](https://github.com/arch4edu/cactus/actions/runs/2649204940)|<script type="text/javascript">localize(1657544405);</script>|
