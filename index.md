@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658532356.7910743);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658543244.9984562);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -778,7 +778,7 @@ Build status (Last update:<script type="text/javascript">localize(1658532356.791
 |[x86_64/rocm/miopengemm](https://aur.archlinux.org/pkgbase/miopengemm)|PUBLISHED||[2648832179](https://github.com/arch4edu/cactus/actions/runs/2648832179)|<script type="text/javascript">localize(1657535957);</script>|
 |[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|PUBLISHED||[2720664036](https://github.com/arch4edu/cactus/actions/runs/2720664036)|<script type="text/javascript">localize(1658522126);</script>|
 |[x86_64/rocm/rccl](https://aur.archlinux.org/pkgbase/rccl)|PUBLISHED||[2649345324](https://github.com/arch4edu/cactus/actions/runs/2649345324)|<script type="text/javascript">localize(1657544309);</script>|
-|[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|FAILED|Build failed.|[2718585389](https://github.com/arch4edu/cactus/actions/runs/2718585389)|<script type="text/javascript">localize(1658511135);</script>|
+|[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|BUILDING|Build failed.|[2722104917](https://github.com/arch4edu/cactus/actions/runs/2722104917)|<script type="text/javascript">localize(1658541674);</script>|
 |[x86_64/rocm/rocfft](https://aur.archlinux.org/pkgbase/rocfft)|PUBLISHED||[2690724504](https://github.com/arch4edu/cactus/actions/runs/2690724504)|<script type="text/javascript">localize(1658158264);</script>|
 |[x86_64/rocm/rocm-clang-ocl](https://aur.archlinux.org/pkgbase/rocm-clang-ocl)|PUBLISHED||[2720690833](https://github.com/arch4edu/cactus/actions/runs/2720690833)|<script type="text/javascript">localize(1658518072);</script>|
 |[x86_64/rocm/rocm-cmake](https://aur.archlinux.org/pkgbase/rocm-cmake)|PUBLISHED||[2720573676](https://github.com/arch4edu/cactus/actions/runs/2720573676)|<script type="text/javascript">localize(1658518085);</script>|
