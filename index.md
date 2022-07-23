@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658604150.1972861);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658608003.3973415);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -770,13 +770,13 @@ Build status (Last update:<script type="text/javascript">localize(1658604150.197
 |[x86_64/rocm/comgr](https://aur.archlinux.org/pkgbase/comgr)|PUBLISHED||[2720636101](https://github.com/arch4edu/cactus/actions/runs/2720636101)|<script type="text/javascript">localize(1658518002);</script>|
 |[x86_64/rocm/hip-runtime-amd](https://aur.archlinux.org/pkgbase/hip-runtime-amd)|PUBLISHED||[2720664127](https://github.com/arch4edu/cactus/actions/runs/2720664127)|<script type="text/javascript">localize(1658518018);</script>|
 |[x86_64/rocm/hip-runtime-nvidia](https://aur.archlinux.org/pkgbase/hip-runtime-nvidia)|PUBLISHED||[2649035579](https://github.com/arch4edu/cactus/actions/runs/2649035579)|<script type="text/javascript">localize(1657538927);</script>|
-|[x86_64/rocm/hipblas](https://aur.archlinux.org/pkgbase/hipblas)|STALED|Waiting for dependency: x86_64/rocm/rocsolver .|[2723200889](https://github.com/arch4edu/cactus/actions/runs/2723200889)|<script type="text/javascript">localize(1658603959);</script>|
+|[x86_64/rocm/hipblas](https://aur.archlinux.org/pkgbase/hipblas)|STALED|Waiting for dependency: x86_64/rocm/rocsolver .|[2723200889](https://github.com/arch4edu/cactus/actions/runs/2723200889)|<script type="text/javascript">localize(1658607991);</script>|
 |[x86_64/rocm/hipcub](https://aur.archlinux.org/pkgbase/hipcub)|PUBLISHED||[2722971103](https://github.com/arch4edu/cactus/actions/runs/2722971103)|<script type="text/javascript">localize(1658565158);</script>|
 |[x86_64/rocm/hipfft](https://aur.archlinux.org/pkgbase/hipfft)|PUBLISHED||[2723722307](https://github.com/arch4edu/cactus/actions/runs/2723722307)|<script type="text/javascript">localize(1658583313);</script>|
 |[x86_64/rocm/hipfort](https://aur.archlinux.org/pkgbase/hipfort)|PUBLISHED||[2723722261](https://github.com/arch4edu/cactus/actions/runs/2723722261)|<script type="text/javascript">localize(1658583327);</script>|
 |[x86_64/rocm/hipify-clang](https://aur.archlinux.org/pkgbase/hipify-clang)|PUBLISHED||[2649035541](https://github.com/arch4edu/cactus/actions/runs/2649035541)|<script type="text/javascript">localize(1657538941);</script>|
 |[x86_64/rocm/hipmagma](https://aur.archlinux.org/pkgbase/hipmagma)|FAILED|Build failed.|[2724297390](https://github.com/arch4edu/cactus/actions/runs/2724297390)|<script type="text/javascript">localize(1658594351);</script>|
-|[x86_64/rocm/hipsolver](https://aur.archlinux.org/pkgbase/hipsolver)|STALED|Waiting for dependency: x86_64/rocm/rocsolver .|[2723200873](https://github.com/arch4edu/cactus/actions/runs/2723200873)|<script type="text/javascript">localize(1658603958);</script>|
+|[x86_64/rocm/hipsolver](https://aur.archlinux.org/pkgbase/hipsolver)|STALED|Waiting for dependency: x86_64/rocm/rocsolver .|[2723200873](https://github.com/arch4edu/cactus/actions/runs/2723200873)|<script type="text/javascript">localize(1658607991);</script>|
 |[x86_64/rocm/hipsparse](https://aur.archlinux.org/pkgbase/hipsparse)|PUBLISHED||[2724619255](https://github.com/arch4edu/cactus/actions/runs/2724619255)|<script type="text/javascript">localize(1658604097);</script>|
 |[x86_64/rocm/hsa-amd-aqlprofile-bin](https://aur.archlinux.org/pkgbase/hsa-amd-aqlprofile-bin)|PUBLISHED||[2720573784](https://github.com/arch4edu/cactus/actions/runs/2720573784)|<script type="text/javascript">localize(1658518032);</script>|
 |[x86_64/rocm/hsa-rocr](https://aur.archlinux.org/pkgbase/hsa-rocr)|PUBLISHED||[2720636150](https://github.com/arch4edu/cactus/actions/runs/2720636150)|<script type="text/javascript">localize(1658518045);</script>|
