@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658669804.7000592);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658672652.0086033);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -213,7 +213,7 @@ Build status (Last update:<script type="text/javascript">localize(1658669804.700
 |[x86_64/gerris](https://aur.archlinux.org/pkgbase/gerris)|PUBLISHED||[2648459754](https://github.com/arch4edu/cactus/actions/runs/2648459754)|<script type="text/javascript">localize(1657531993);</script>|
 |[x86_64/github-actions-bin](https://aur.archlinux.org/pkgbase/github-actions-bin)|PUBLISHED||[2648091299](https://github.com/arch4edu/cactus/actions/runs/2648091299)|<script type="text/javascript">localize(1657529159);</script>|
 |[x86_64/giza-pp-git](https://aur.archlinux.org/pkgbase/giza-pp-git)|PUBLISHED||[2648005633](https://github.com/arch4edu/cactus/actions/runs/2648005633)|<script type="text/javascript">localize(1657529171);</script>|
-|[x86_64/glib2-static](https://aur.archlinux.org/pkgbase/glib2-static)|BUILDING|GitHubActions|[2727308790](https://github.com/arch4edu/cactus/actions/runs/2727308790)|<script type="text/javascript">localize(1658667522);</script>|
+|[x86_64/glib2-static](https://aur.archlinux.org/pkgbase/glib2-static)|PUBLISHED||[2727308790](https://github.com/arch4edu/cactus/actions/runs/2727308790)|<script type="text/javascript">localize(1658672631);</script>|
 |[x86_64/gmsh](https://aur.archlinux.org/pkgbase/gmsh)|PUBLISHED||[2649006057](https://github.com/arch4edu/cactus/actions/runs/2649006057)|<script type="text/javascript">localize(1657544066);</script>|
 |[x86_64/grass](https://aur.archlinux.org/pkgbase/grass)|PUBLISHED||[2657204128](https://github.com/arch4edu/cactus/actions/runs/2657204128)|<script type="text/javascript">localize(1657646883);</script>|
 |[x86_64/gtsam](https://aur.archlinux.org/pkgbase/gtsam)|PUBLISHED||[2648303740](https://github.com/arch4edu/cactus/actions/runs/2648303740)|<script type="text/javascript">localize(1657532016);</script>|
@@ -343,7 +343,7 @@ Build status (Last update:<script type="text/javascript">localize(1658669804.700
 |[x86_64/python-timeout-decorator](https://aur.archlinux.org/pkgbase/python-timeout-decorator)|PUBLISHED||[2648152052](https://github.com/arch4edu/cactus/actions/runs/2648152052)|<script type="text/javascript">localize(1657530264);</script>|
 |[x86_64/python-torchvision](https://aur.archlinux.org/pkgbase/python-torchvision)|PUBLISHED||[2663634783](https://github.com/arch4edu/cactus/actions/runs/2663634783)|<script type="text/javascript">localize(1657720757);</script>|
 |[x86_64/python-wrf](https://aur.archlinux.org/pkgbase/python-wrf)|PUBLISHED||[2647863455](https://github.com/arch4edu/cactus/actions/runs/2647863455)|<script type="text/javascript">localize(1657525914);</script>|
-|[x86_64/python-wxpython-dev](https://aur.archlinux.org/pkgbase/python-wxpython-dev)|BUILDING|GitHubActions|[2727308832](https://github.com/arch4edu/cactus/actions/runs/2727308832)|<script type="text/javascript">localize(1658667532);</script>|
+|[x86_64/python-wxpython-dev](https://aur.archlinux.org/pkgbase/python-wxpython-dev)|PUBLISHED||[2727308832](https://github.com/arch4edu/cactus/actions/runs/2727308832)|<script type="text/javascript">localize(1658672646);</script>|
 |[x86_64/qemu-user-static](https://aur.archlinux.org/pkgbase/qemu-user-static)|PUBLISHED||[2648643948](https://github.com/arch4edu/cactus/actions/runs/2648643948)|<script type="text/javascript">localize(1657535932);</script>|
 |[x86_64/qemu-user-static-bin](https://aur.archlinux.org/pkgbase/qemu-user-static-bin)|PUBLISHED||[2648701407](https://github.com/arch4edu/cactus/actions/runs/2648701407)|<script type="text/javascript">localize(1657535947);</script>|
 |[x86_64/qgroundcontrol](https://aur.archlinux.org/pkgbase/qgroundcontrol)|PUBLISHED||[2647675038](https://github.com/arch4edu/cactus/actions/runs/2647675038)|<script type="text/javascript">localize(1657525934);</script>|
