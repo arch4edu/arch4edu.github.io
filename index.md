@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658672652.0086033);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658676479.5104046);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -781,7 +781,7 @@ Build status (Last update:<script type="text/javascript">localize(1658672652.008
 |[x86_64/rocm/hsa-amd-aqlprofile-bin](https://aur.archlinux.org/pkgbase/hsa-amd-aqlprofile-bin)|PUBLISHED||[2720573784](https://github.com/arch4edu/cactus/actions/runs/2720573784)|<script type="text/javascript">localize(1658518032);</script>|
 |[x86_64/rocm/hsa-rocr](https://aur.archlinux.org/pkgbase/hsa-rocr)|PUBLISHED||[2720636150](https://github.com/arch4edu/cactus/actions/runs/2720636150)|<script type="text/javascript">localize(1658518045);</script>|
 |[x86_64/rocm/hsakmt-roct](https://aur.archlinux.org/pkgbase/hsakmt-roct)|PUBLISHED||[2720573755](https://github.com/arch4edu/cactus/actions/runs/2720573755)|<script type="text/javascript">localize(1658518059);</script>|
-|[x86_64/rocm/miopen-hip](https://aur.archlinux.org/pkgbase/miopen-hip)|BUILDING|GitHubActions|[2727308921](https://github.com/arch4edu/cactus/actions/runs/2727308921)|<script type="text/javascript">localize(1658667537);</script>|
+|[x86_64/rocm/miopen-hip](https://aur.archlinux.org/pkgbase/miopen-hip)|PUBLISHED||[2727308921](https://github.com/arch4edu/cactus/actions/runs/2727308921)|<script type="text/javascript">localize(1658676472);</script>|
 |[x86_64/rocm/miopengemm](https://aur.archlinux.org/pkgbase/miopengemm)|PUBLISHED||[2724618964](https://github.com/arch4edu/cactus/actions/runs/2724618964)|<script type="text/javascript">localize(1658604109);</script>|
 |[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|PUBLISHED||[2720664036](https://github.com/arch4edu/cactus/actions/runs/2720664036)|<script type="text/javascript">localize(1658522126);</script>|
 |[x86_64/rocm/python-pytorch-rocm](https://aur.archlinux.org/pkgbase/python-pytorch-rocm)|FAILED|Dependency issue: x86_64/rocm/hipmagma .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1658594664);</script>|
