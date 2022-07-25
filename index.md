@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658722251.0320635);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658727311.2735887);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -666,7 +666,7 @@ Build status (Last update:<script type="text/javascript">localize(1658722251.032
 |[x86_64/r/r-rcppparallel](https://aur.archlinux.org/pkgbase/r-rcppparallel)|PUBLISHED||[2703356388](https://github.com/arch4edu/cactus/actions/runs/2703356388)|<script type="text/javascript">localize(1658310236);</script>|
 |[x86_64/r/r-rcpptoml](https://aur.archlinux.org/pkgbase/r-rcpptoml)|STALED||[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1658256901);</script>|
 |[x86_64/r/r-rcsdp](https://aur.archlinux.org/pkgbase/r-rcsdp)|PUBLISHED||[2703602255](https://github.com/arch4edu/cactus/actions/runs/2703602255)|<script type="text/javascript">localize(1658310248);</script>|
-|[x86_64/r/r-rdpack](https://aur.archlinux.org/pkgbase/r-rdpack)|FAILED|Build failed.|[2725776147](https://github.com/arch4edu/cactus/actions/runs/2725776147)|<script type="text/javascript">localize(1658630944);</script>|
+|[x86_64/r/r-rdpack](https://aur.archlinux.org/pkgbase/r-rdpack)|PUBLISHED||[2730048553](https://github.com/arch4edu/cactus/actions/runs/2730048553)|<script type="text/javascript">localize(1658727305);</script>|
 |[x86_64/r/r-relimp](https://aur.archlinux.org/pkgbase/r-relimp)|PUBLISHED||[2703562304](https://github.com/arch4edu/cactus/actions/runs/2703562304)|<script type="text/javascript">localize(1658310263);</script>|
 |[x86_64/r/r-rematch2](https://aur.archlinux.org/pkgbase/r-rematch2)|PUBLISHED||[2720664192](https://github.com/arch4edu/cactus/actions/runs/2720664192)|<script type="text/javascript">localize(1658517937);</script>|
 |[x86_64/r/r-remotes](https://aur.archlinux.org/pkgbase/r-remotes)|PUBLISHED||[2703602207](https://github.com/arch4edu/cactus/actions/runs/2703602207)|<script type="text/javascript">localize(1658310278);</script>|
