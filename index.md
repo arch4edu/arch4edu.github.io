@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1658810261.095459);</script>)
+Build status (Last update:<script type="text/javascript">localize(1658814388.4412115);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -774,7 +774,7 @@ Build status (Last update:<script type="text/javascript">localize(1658810261.095
 |[x86_64/rocm/hipfft](https://aur.archlinux.org/pkgbase/hipfft)|PUBLISHED||[2723722307](https://github.com/arch4edu/cactus/actions/runs/2723722307)|<script type="text/javascript">localize(1658583313);</script>|
 |[x86_64/rocm/hipfort](https://aur.archlinux.org/pkgbase/hipfort)|PUBLISHED||[2723722261](https://github.com/arch4edu/cactus/actions/runs/2723722261)|<script type="text/javascript">localize(1658583327);</script>|
 |[x86_64/rocm/hipify-clang](https://aur.archlinux.org/pkgbase/hipify-clang)|PUBLISHED||[2727308866](https://github.com/arch4edu/cactus/actions/runs/2727308866)|<script type="text/javascript">localize(1658669797);</script>|
-|[x86_64/rocm/hipmagma](https://aur.archlinux.org/pkgbase/hipmagma)|BUILDING|GitHubActions|[2736853982](https://github.com/arch4edu/cactus/actions/runs/2736853982)|<script type="text/javascript">localize(1658807318);</script>|
+|[x86_64/rocm/hipmagma](https://aur.archlinux.org/pkgbase/hipmagma)|PUBLISHED||[2736853982](https://github.com/arch4edu/cactus/actions/runs/2736853982)|<script type="text/javascript">localize(1658814382);</script>|
 |[x86_64/rocm/hipsolver](https://aur.archlinux.org/pkgbase/hipsolver)|PUBLISHED||[2725493875](https://github.com/arch4edu/cactus/actions/runs/2725493875)|<script type="text/javascript">localize(1658629966);</script>|
 |[x86_64/rocm/hipsparse](https://aur.archlinux.org/pkgbase/hipsparse)|PUBLISHED||[2724619255](https://github.com/arch4edu/cactus/actions/runs/2724619255)|<script type="text/javascript">localize(1658604097);</script>|
 |[x86_64/rocm/hsa-amd-aqlprofile-bin](https://aur.archlinux.org/pkgbase/hsa-amd-aqlprofile-bin)|PUBLISHED||[2720573784](https://github.com/arch4edu/cactus/actions/runs/2720573784)|<script type="text/javascript">localize(1658518032);</script>|
@@ -783,7 +783,7 @@ Build status (Last update:<script type="text/javascript">localize(1658810261.095
 |[x86_64/rocm/miopen-hip](https://aur.archlinux.org/pkgbase/miopen-hip)|PUBLISHED||[2727308921](https://github.com/arch4edu/cactus/actions/runs/2727308921)|<script type="text/javascript">localize(1658676472);</script>|
 |[x86_64/rocm/miopengemm](https://aur.archlinux.org/pkgbase/miopengemm)|PUBLISHED||[2724618964](https://github.com/arch4edu/cactus/actions/runs/2724618964)|<script type="text/javascript">localize(1658604109);</script>|
 |[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|PUBLISHED||[2720664036](https://github.com/arch4edu/cactus/actions/runs/2720664036)|<script type="text/javascript">localize(1658522126);</script>|
-|[x86_64/rocm/python-pytorch-rocm](https://aur.archlinux.org/pkgbase/python-pytorch-rocm)|STALED|Waiting for dependency: x86_64/rocm/hipmagma .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1658810250);</script>|
+|[x86_64/rocm/python-pytorch-rocm](https://aur.archlinux.org/pkgbase/python-pytorch-rocm)|BUILDING|GitHubActions|[2737211684](https://github.com/arch4edu/cactus/actions/runs/2737211684)|<script type="text/javascript">localize(1658813568);</script>|
 |[x86_64/rocm/rccl](https://aur.archlinux.org/pkgbase/rccl)|PUBLISHED||[2736784273](https://github.com/arch4edu/cactus/actions/runs/2736784273)|<script type="text/javascript">localize(1658810230);</script>|
 |[x86_64/rocm/rocalution](https://aur.archlinux.org/pkgbase/rocalution)|PUBLISHED||[2724272358](https://github.com/arch4edu/cactus/actions/runs/2724272358)|<script type="text/javascript">localize(1658594146);</script>|
 |[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|PUBLISHED||[2723626135](https://github.com/arch4edu/cactus/actions/runs/2723626135)|<script type="text/javascript">localize(1658594166);</script>|
