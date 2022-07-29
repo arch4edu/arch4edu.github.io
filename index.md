@@ -1,5 +1,5 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1659119612.5925906);</script>)
+Build status (Last update:<script type="text/javascript">localize(1659122497.4802191);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -12,7 +12,7 @@ Build status (Last update:<script type="text/javascript">localize(1659119612.592
 |[aarch64/lux-dl](https://aur.archlinux.org/pkgbase/lux-dl)|PUBLISHED||[2648062931](https://github.com/arch4edu/cactus/actions/runs/2648062931)|<script type="text/javascript">localize(1657528551);</script>|
 |[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|FAILED|Dependency issue: aarch64/mongosh-bin .|[2714005528](https://github.com/arch4edu/cactus/actions/runs/2714005528)|<script type="text/javascript">localize(1659063059);</script>|
 |[aarch64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|PUBLISHED||[2648213752](https://github.com/arch4edu/cactus/actions/runs/2648213752)|<script type="text/javascript">localize(1657528564);</script>|
-|[aarch64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|FAILED|Build failed.|[2753977690](https://github.com/arch4edu/cactus/actions/runs/2753977690)|<script type="text/javascript">localize(1659013836);</script>|
+|[aarch64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|PUBLISHED||[2762621256](https://github.com/arch4edu/cactus/actions/runs/2762621256)|<script type="text/javascript">localize(1659122490);</script>|
 |[aarch64/paru](https://aur.archlinux.org/pkgbase/paru)|PUBLISHED||[2686509289](https://github.com/arch4edu/cactus/actions/runs/2686509289)|<script type="text/javascript">localize(1658085645);</script>|
 |[aarch64/pigpio](https://aur.archlinux.org/pkgbase/pigpio)|PUBLISHED||[2648274215](https://github.com/arch4edu/cactus/actions/runs/2648274215)|<script type="text/javascript">localize(1657528573);</script>|
 |[aarch64/pypy-bin](https://aur.archlinux.org/pkgbase/pypy-bin)|PUBLISHED||[2648036019](https://github.com/arch4edu/cactus/actions/runs/2648036019)|<script type="text/javascript">localize(1657528590);</script>|
@@ -812,7 +812,7 @@ Build status (Last update:<script type="text/javascript">localize(1659119612.592
 |[x86_64/rocm/rocsparse](https://aur.archlinux.org/pkgbase/rocsparse)|PUBLISHED||[2722971116](https://github.com/arch4edu/cactus/actions/runs/2722971116)|<script type="text/javascript">localize(1658568391);</script>|
 |[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[2649431930](https://github.com/arch4edu/cactus/actions/runs/2649431930)|<script type="text/javascript">localize(1657544459);</script>|
 |[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[2722989132](https://github.com/arch4edu/cactus/actions/runs/2722989132)|<script type="text/javascript">localize(1658565196);</script>|
-|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[2753977735](https://github.com/arch4edu/cactus/actions/runs/2753977735)|<script type="text/javascript">localize(1659014331);</script>|
+|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[2762621317](https://github.com/arch4edu/cactus/actions/runs/2762621317)|<script type="text/javascript">localize(1659120972);</script>|
 |[x86_64/ros2/python-catkin_pkg](https://aur.archlinux.org/pkgbase/python-catkin_pkg)|PUBLISHED||[2647891583](https://github.com/arch4edu/cactus/actions/runs/2647891583)|<script type="text/javascript">localize(1657525948);</script>|
 |[x86_64/ros2/python-colcon-argcomplete](https://aur.archlinux.org/pkgbase/python-colcon-argcomplete)|PUBLISHED||[2648831811](https://github.com/arch4edu/cactus/actions/runs/2648831811)|<script type="text/javascript">localize(1657535972);</script>|
 |[x86_64/ros2/python-colcon-bash](https://aur.archlinux.org/pkgbase/python-colcon-bash)|PUBLISHED||[2648768277](https://github.com/arch4edu/cactus/actions/runs/2648768277)|<script type="text/javascript">localize(1657535987);</script>|
