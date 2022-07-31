@@ -1,5 +1,7 @@
 <script src="./time.js"></script>
-Build status (Last update:<script type="text/javascript">localize(1659249029.6375012);</script>)
+
+# Build status
+(Last update:<script type="text/javascript">localize(1659249029.6375012);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
