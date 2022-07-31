@@ -1,10 +1,10 @@
 <script src="./time.js"></script>
 #Build status
-(Last update:<script type="text/javascript">localize(1659292178.5375478);</script>)
+(Last update:<script type="text/javascript">localize(1659295257.8413756);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
-|[aarch64/ccnet-server](https://aur.archlinux.org/pkgbase/ccnet-server)|FAILED|nvchecker failed|[2648554295](https://github.com/arch4edu/cactus/actions/runs/2648554295)|<script type="text/javascript">localize(1659271957);</script>|
+|[aarch64/ccnet-server](https://aur.archlinux.org/pkgbase/ccnet-server)|FAILED|nvchecker failed|[2648554295](https://github.com/arch4edu/cactus/actions/runs/2648554295)|<script type="text/javascript">localize(1659292497);</script>|
 |[aarch64/devtools-arch4edu-extra](https://aur.archlinux.org/pkgbase/devtools-arch4edu-extra)|PUBLISHED||[2648243811](https://github.com/arch4edu/cactus/actions/runs/2648243811)|<script type="text/javascript">localize(1657528494);</script>|
 |[aarch64/fakeroot-tcp](https://aur.archlinux.org/pkgbase/fakeroot-tcp)|PUBLISHED||[2647976096](https://github.com/arch4edu/cactus/actions/runs/2647976096)|<script type="text/javascript">localize(1657528504);</script>|
 |[aarch64/github-actions-bin](https://aur.archlinux.org/pkgbase/github-actions-bin)|PUBLISHED||[2648005586](https://github.com/arch4edu/cactus/actions/runs/2648005586)|<script type="text/javascript">localize(1657528531);</script>|
@@ -170,7 +170,7 @@
 |[x86_64/archimedes-tools](https://aur.archlinux.org/pkgbase/archimedes-tools)|PUBLISHED||[2647891230](https://github.com/arch4edu/cactus/actions/runs/2647891230)|<script type="text/javascript">localize(1657525731);</script>|
 |[x86_64/brlcad](https://aur.archlinux.org/pkgbase/brlcad)|PUBLISHED||[2648303869](https://github.com/arch4edu/cactus/actions/runs/2648303869)|<script type="text/javascript">localize(1657531863);</script>|
 |[x86_64/brunsli](https://aur.archlinux.org/pkgbase/brunsli)|PUBLISHED||[2648151943](https://github.com/arch4edu/cactus/actions/runs/2648151943)|<script type="text/javascript">localize(1657528976);</script>|
-|[x86_64/ccnet-server](https://aur.archlinux.org/pkgbase/ccnet-server)|FAILED|nvchecker failed|[2649006302](https://github.com/arch4edu/cactus/actions/runs/2649006302)|<script type="text/javascript">localize(1659271957);</script>|
+|[x86_64/ccnet-server](https://aur.archlinux.org/pkgbase/ccnet-server)|FAILED|nvchecker failed|[2649006302](https://github.com/arch4edu/cactus/actions/runs/2649006302)|<script type="text/javascript">localize(1659292498);</script>|
 |[x86_64/cctag](https://aur.archlinux.org/pkgbase/cctag)|PUBLISHED||[2710373173](https://github.com/arch4edu/cactus/actions/runs/2710373173)|<script type="text/javascript">localize(1658395551);</script>|
 |[x86_64/cef-minimal](https://aur.archlinux.org/pkgbase/cef-minimal)|PUBLISHED||[2648091420](https://github.com/arch4edu/cactus/actions/runs/2648091420)|<script type="text/javascript">localize(1657529000);</script>|
 |[x86_64/cef-standard](https://aur.archlinux.org/pkgbase/cef-standard)|PUBLISHED||[2648426785](https://github.com/arch4edu/cactus/actions/runs/2648426785)|<script type="text/javascript">localize(1657531895);</script>|
@@ -233,7 +233,7 @@
 |[x86_64/idutils](https://aur.archlinux.org/pkgbase/idutils)|PUBLISHED||[2690723888](https://github.com/arch4edu/cactus/actions/runs/2690723888)|<script type="text/javascript">localize(1658152576);</script>|
 |[x86_64/intel-oneapi/intel-oneapi-advisor](https://aur.archlinux.org/pkgbase/intel-oneapi-advisor)|PUBLISHED||[2648214108](https://github.com/arch4edu/cactus/actions/runs/2648214108)|<script type="text/javascript">localize(1657529320);</script>|
 |[x86_64/intel-oneapi/intel-oneapi-ccl](https://aur.archlinux.org/pkgbase/intel-oneapi-ccl)|PUBLISHED||[2648184051](https://github.com/arch4edu/cactus/actions/runs/2648184051)|<script type="text/javascript">localize(1657529342);</script>|
-|[x86_64/intel-oneapi/intel-oneapi-common](https://aur.archlinux.org/pkgbase/intel-oneapi-common)|PUBLISHED||[2648183855](https://github.com/arch4edu/cactus/actions/runs/2648183855)|<script type="text/javascript">localize(1657529359);</script>|
+|[x86_64/intel-oneapi/intel-oneapi-common](https://aur.archlinux.org/pkgbase/intel-oneapi-common)|FAILED|nvchecker failed|[2648183855](https://github.com/arch4edu/cactus/actions/runs/2648183855)|<script type="text/javascript">localize(1659292499);</script>|
 |[x86_64/intel-oneapi/intel-oneapi-compiler](https://aur.archlinux.org/pkgbase/intel-oneapi-compiler)|PUBLISHED||[2648862336](https://github.com/arch4edu/cactus/actions/runs/2648862336)|<script type="text/javascript">localize(1657538779);</script>|
 |[x86_64/intel-oneapi/intel-oneapi-dal](https://aur.archlinux.org/pkgbase/intel-oneapi-dal)|PUBLISHED||[2648183922](https://github.com/arch4edu/cactus/actions/runs/2648183922)|<script type="text/javascript">localize(1657529382);</script>|
 |[x86_64/intel-oneapi/intel-oneapi-dev-utilities](https://aur.archlinux.org/pkgbase/intel-oneapi-dev-utilities)|PUBLISHED||[2648213891](https://github.com/arch4edu/cactus/actions/runs/2648213891)|<script type="text/javascript">localize(1657529395);</script>|
@@ -243,10 +243,10 @@
 |[x86_64/intel-oneapi/intel-oneapi-dpl](https://aur.archlinux.org/pkgbase/intel-oneapi-dpl)|PUBLISHED||[2648183588](https://github.com/arch4edu/cactus/actions/runs/2648183588)|<script type="text/javascript">localize(1657529450);</script>|
 |[x86_64/intel-oneapi/intel-oneapi-ipp](https://aur.archlinux.org/pkgbase/intel-oneapi-ipp)|PUBLISHED||[2648214170](https://github.com/arch4edu/cactus/actions/runs/2648214170)|<script type="text/javascript">localize(1657529504);</script>|
 |[x86_64/intel-oneapi/intel-oneapi-ippcp](https://aur.archlinux.org/pkgbase/intel-oneapi-ippcp)|PUBLISHED||[2648214048](https://github.com/arch4edu/cactus/actions/runs/2648214048)|<script type="text/javascript">localize(1657529526);</script>|
-|[x86_64/intel-oneapi/intel-oneapi-mkl](https://aur.archlinux.org/pkgbase/intel-oneapi-mkl)|PUBLISHED||[2649090088](https://github.com/arch4edu/cactus/actions/runs/2649090088)|<script type="text/javascript">localize(1657544161);</script>|
+|[x86_64/intel-oneapi/intel-oneapi-mkl](https://aur.archlinux.org/pkgbase/intel-oneapi-mkl)|FAILED|nvchecker failed|[2649090088](https://github.com/arch4edu/cactus/actions/runs/2649090088)|<script type="text/javascript">localize(1659292499);</script>|
 |[x86_64/intel-oneapi/intel-oneapi-mpi](https://aur.archlinux.org/pkgbase/intel-oneapi-mpi)|PUBLISHED||[2648213828](https://github.com/arch4edu/cactus/actions/runs/2648213828)|<script type="text/javascript">localize(1657529551);</script>|
 |[x86_64/intel-oneapi/intel-oneapi-onevpl](https://aur.archlinux.org/pkgbase/intel-oneapi-onevpl)|PUBLISHED||[2648213957](https://github.com/arch4edu/cactus/actions/runs/2648213957)|<script type="text/javascript">localize(1657529566);</script>|
-|[x86_64/intel-oneapi/intel-oneapi-tbb](https://aur.archlinux.org/pkgbase/intel-oneapi-tbb)|PUBLISHED||[2648183686](https://github.com/arch4edu/cactus/actions/runs/2648183686)|<script type="text/javascript">localize(1657529578);</script>|
+|[x86_64/intel-oneapi/intel-oneapi-tbb](https://aur.archlinux.org/pkgbase/intel-oneapi-tbb)|FAILED|nvchecker failed|[2648183686](https://github.com/arch4edu/cactus/actions/runs/2648183686)|<script type="text/javascript">localize(1659292500);</script>|
 |[x86_64/intel-oneapi/intel-oneapi-vtune](https://aur.archlinux.org/pkgbase/intel-oneapi-vtune)|PUBLISHED||[2648214252](https://github.com/arch4edu/cactus/actions/runs/2648214252)|<script type="text/javascript">localize(1657529667);</script>|
 |[x86_64/jogl](https://aur.archlinux.org/pkgbase/jogl)|PUBLISHED||[2648614596](https://github.com/arch4edu/cactus/actions/runs/2648614596)|<script type="text/javascript">localize(1657535744);</script>|
 |[x86_64/kahip](https://aur.archlinux.org/pkgbase/kahip)|PUBLISHED||[2647948495](https://github.com/arch4edu/cactus/actions/runs/2647948495)|<script type="text/javascript">localize(1657529679);</script>|
@@ -512,13 +512,13 @@
 |[x86_64/r/r-isoband](https://aur.archlinux.org/pkgbase/r-isoband)|PUBLISHED||[2703272710](https://github.com/arch4edu/cactus/actions/runs/2703272710)|<script type="text/javascript">localize(1658306301);</script>|
 |[x86_64/r/r-iterators](https://aur.archlinux.org/pkgbase/r-iterators)|PUBLISHED||[2703643377](https://github.com/arch4edu/cactus/actions/runs/2703643377)|<script type="text/javascript">localize(1658309773);</script>|
 |[x86_64/r/r-jaspanova](https://aur.archlinux.org/pkgbase/r-jaspanova)|FAILED|Dependency issue: x86_64/r/r-car .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659235755);</script>|
-|[x86_64/r/r-jaspaudit](https://aur.archlinux.org/pkgbase/r-jaspaudit)|FAILED|Build failed.|[2765872140](https://github.com/arch4edu/cactus/actions/runs/2765872140)|<script type="text/javascript">localize(1659186309);</script>|
+|[x86_64/r/r-jaspaudit](https://aur.archlinux.org/pkgbase/r-jaspaudit)|FAILED|Build failed.|[2770509732](https://github.com/arch4edu/cactus/actions/runs/2770509732)|<script type="text/javascript">localize(1659293390);</script>|
 |[x86_64/r/r-jaspbain](https://aur.archlinux.org/pkgbase/r-jaspbain)|FAILED|Dependency issue: x86_64/r/r-semplot .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659235759);</script>|
 |[x86_64/r/r-jaspbase](https://aur.archlinux.org/pkgbase/r-jaspbase)|PUBLISHED||[2751525826](https://github.com/arch4edu/cactus/actions/runs/2751525826)|<script type="text/javascript">localize(1658990038);</script>|
 |[x86_64/r/r-jaspbsts](https://aur.archlinux.org/pkgbase/r-jaspbsts)|PUBLISHED||[2751812991](https://github.com/arch4edu/cactus/actions/runs/2751812991)|<script type="text/javascript">localize(1658993104);</script>|
 |[x86_64/r/r-jaspcircular](https://aur.archlinux.org/pkgbase/r-jaspcircular)|PUBLISHED||[2752057845](https://github.com/arch4edu/cactus/actions/runs/2752057845)|<script type="text/javascript">localize(1658997210);</script>|
-|[x86_64/r/r-jaspcochrane](https://aur.archlinux.org/pkgbase/r-jaspcochrane)|FAILED|Dependency issue: x86_64/r/r-jaspdescriptives .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659186221);</script>|
-|[x86_64/r/r-jaspdescriptives](https://aur.archlinux.org/pkgbase/r-jaspdescriptives)|FAILED|Build failed.|[2765872189](https://github.com/arch4edu/cactus/actions/runs/2765872189)|<script type="text/javascript">localize(1659186160);</script>|
+|[x86_64/r/r-jaspcochrane](https://aur.archlinux.org/pkgbase/r-jaspcochrane)|FAILED|Dependency issue: x86_64/r/r-jaspdescriptives .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659293448);</script>|
+|[x86_64/r/r-jaspdescriptives](https://aur.archlinux.org/pkgbase/r-jaspdescriptives)|FAILED|Build failed.|[2770509797](https://github.com/arch4edu/cactus/actions/runs/2770509797)|<script type="text/javascript">localize(1659293368);</script>|
 |[x86_64/r/r-jaspdistributions](https://aur.archlinux.org/pkgbase/r-jaspdistributions)|FAILED|Dependency issue: x86_64/r/r-car .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659235756);</script>|
 |[x86_64/r/r-jaspequivalencettests](https://aur.archlinux.org/pkgbase/r-jaspequivalencettests)|FAILED|Dependency issue: x86_64/r/r-jaspttests .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659235757);</script>|
 |[x86_64/r/r-jaspfactor](https://aur.archlinux.org/pkgbase/r-jaspfactor)|FAILED|Dependency issue: x86_64/r/r-semplot .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659235759);</script>|
@@ -530,7 +530,7 @@
 |[x86_64/r/r-jaspmetaanalysis](https://aur.archlinux.org/pkgbase/r-jaspmetaanalysis)|PUBLISHED||[2752060185](https://github.com/arch4edu/cactus/actions/runs/2752060185)|<script type="text/javascript">localize(1658997243);</script>|
 |[x86_64/r/r-jaspmixedmodels](https://aur.archlinux.org/pkgbase/r-jaspmixedmodels)|FAILED|Dependency issue: x86_64/r/r-afex .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659235756);</script>|
 |[x86_64/r/r-jaspnetwork](https://aur.archlinux.org/pkgbase/r-jaspnetwork)|FAILED|Dependency issue: x86_64/r/r-bootnet .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659235754);</script>|
-|[x86_64/r/r-jaspprocesscontrol](https://aur.archlinux.org/pkgbase/r-jaspprocesscontrol)|FAILED|Dependency issue: x86_64/r/r-jaspdescriptives .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659186220);</script>|
+|[x86_64/r/r-jaspprocesscontrol](https://aur.archlinux.org/pkgbase/r-jaspprocesscontrol)|FAILED|Dependency issue: x86_64/r/r-jaspdescriptives .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659293448);</script>|
 |[x86_64/r/r-jaspprophet](https://aur.archlinux.org/pkgbase/r-jaspprophet)|PUBLISHED||[2752058800](https://github.com/arch4edu/cactus/actions/runs/2752058800)|<script type="text/javascript">localize(1658997254);</script>|
 |[x86_64/r/r-jaspregression](https://aur.archlinux.org/pkgbase/r-jaspregression)|FAILED|Dependency issue: x86_64/r/r-jaspanova .|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659235755);</script>|
 |[x86_64/r/r-jaspreliability](https://aur.archlinux.org/pkgbase/r-jaspreliability)|PUBLISHED||[2751769160](https://github.com/arch4edu/cactus/actions/runs/2751769160)|<script type="text/javascript">localize(1658993116);</script>|
