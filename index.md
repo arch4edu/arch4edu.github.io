@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-(Last update:<script type="text/javascript">localize(1659381668.4877527);</script>)
+(Last update:<script type="text/javascript">localize(1659385848.8293438);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -223,7 +223,7 @@
 |[x86_64/hdf4](https://aur.archlinux.org/pkgbase/hdf4)|PUBLISHED||[2648244158](https://github.com/arch4edu/cactus/actions/runs/2648244158)|<script type="text/javascript">localize(1657529276);</script>|
 |[x86_64/hdf5110](https://aur.archlinux.org/pkgbase/hdf5110)|PUBLISHED||[2648522992](https://github.com/arch4edu/cactus/actions/runs/2648522992)|<script type="text/javascript">localize(1657535722);</script>|
 |[x86_64/hdfview](https://aur.archlinux.org/pkgbase/hdfview)|FAILED|Build failed.|[2775005829](https://github.com/arch4edu/cactus/actions/runs/2775005829)|<script type="text/javascript">localize(1659359385);</script>|
-|[x86_64/heasoft](https://aur.archlinux.org/pkgbase/heasoft)|BUILDING|GitHubActions|[2777069450](https://github.com/arch4edu/cactus/actions/runs/2777069450)|<script type="text/javascript">localize(1659379482);</script>|
+|[x86_64/heasoft](https://aur.archlinux.org/pkgbase/heasoft)|FAILED|Build failed.|[2777069450](https://github.com/arch4edu/cactus/actions/runs/2777069450)|<script type="text/javascript">localize(1659381736);</script>|
 |[x86_64/hts-engine](https://aur.archlinux.org/pkgbase/hts-engine)|PUBLISHED||[2648586077](https://github.com/arch4edu/cactus/actions/runs/2648586077)|<script type="text/javascript">localize(1657535733);</script>|
 |[x86_64/hypre](https://aur.archlinux.org/pkgbase/hypre)|PUBLISHED||[2649122236](https://github.com/arch4edu/cactus/actions/runs/2649122236)|<script type="text/javascript">localize(1657538612);</script>|
 |[x86_64/icu58](https://aur.archlinux.org/pkgbase/icu58)|PUBLISHED||[2648554183](https://github.com/arch4edu/cactus/actions/runs/2648554183)|<script type="text/javascript">localize(1657532028);</script>|
