@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-(Last update:<script type="text/javascript">localize(1659444899.154554);</script>)
+(Last update:<script type="text/javascript">localize(1659448081.048707);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -131,7 +131,7 @@
 |[any/python-sparse](https://aur.archlinux.org/pkgbase/python-sparse)|PUBLISHED||[2648862522](https://github.com/arch4edu/cactus/actions/runs/2648862522)|<script type="text/javascript">localize(1657535572);</script>|
 |[any/python-sphinx-astropy](https://aur.archlinux.org/pkgbase/python-sphinx-astropy)|PUBLISHED||[2654660793](https://github.com/arch4edu/cactus/actions/runs/2654660793)|<script type="text/javascript">localize(1657610777);</script>|
 |[any/python-sphinx-automodapi](https://aur.archlinux.org/pkgbase/python-sphinx-automodapi)|PUBLISHED||[2654636675](https://github.com/arch4edu/cactus/actions/runs/2654636675)|<script type="text/javascript">localize(1657610807);</script>|
-|[any/python-sphinx-bootstrap-theme](https://aur.archlinux.org/pkgbase/python-sphinx-bootstrap-theme)|FAILED|nvchecker failed|[2647803089](https://github.com/arch4edu/cactus/actions/runs/2647803089)|<script type="text/javascript">localize(1659422299);</script>|
+|[any/python-sphinx-bootstrap-theme](https://aur.archlinux.org/pkgbase/python-sphinx-bootstrap-theme)|FAILED|nvchecker failed|[2647803089](https://github.com/arch4edu/cactus/actions/runs/2647803089)|<script type="text/javascript">localize(1659445277);</script>|
 |[any/python-sphinx-gallery](https://aur.archlinux.org/pkgbase/python-sphinx-gallery)|PUBLISHED||[2746846647](https://github.com/arch4edu/cactus/actions/runs/2746846647)|<script type="text/javascript">localize(1658929971);</script>|
 |[any/python-sphinxcontrib-plantuml](https://aur.archlinux.org/pkgbase/python-sphinxcontrib-plantuml)|PUBLISHED||[2647832380](https://github.com/arch4edu/cactus/actions/runs/2647832380)|<script type="text/javascript">localize(1657525459);</script>|
 |[any/python-tflearn-git](https://aur.archlinux.org/pkgbase/python-tflearn-git)|PUBLISHED||[2647832823](https://github.com/arch4edu/cactus/actions/runs/2647832823)|<script type="text/javascript">localize(1657525474);</script>|
@@ -853,7 +853,7 @@
 |[x86_64/sge](https://aur.archlinux.org/pkgbase/sge)|PUBLISHED||[2648152127](https://github.com/arch4edu/cactus/actions/runs/2648152127)|<script type="text/javascript">localize(1657530358);</script>|
 |[x86_64/shadowsocks-rust](https://aur.archlinux.org/pkgbase/shadowsocks-rust)|PUBLISHED||[2648151605](https://github.com/arch4edu/cactus/actions/runs/2648151605)|<script type="text/javascript">localize(1657530370);</script>|
 |[x86_64/sioyek](https://aur.archlinux.org/pkgbase/sioyek)|PUBLISHED||[2715993473](https://github.com/arch4edu/cactus/actions/runs/2715993473)|<script type="text/javascript">localize(1658463147);</script>|
-|[x86_64/spek-git](https://aur.archlinux.org/pkgbase/spek-git)|FAILED|Build failed.|[2779914573](https://github.com/arch4edu/cactus/actions/runs/2779914573)|<script type="text/javascript">localize(1659419945);</script>|
+|[x86_64/spek](https://aur.archlinux.org/pkgbase/spek)|PUBLISHED||[2782367712](https://github.com/arch4edu/cactus/actions/runs/2782367712)|<script type="text/javascript">localize(1659448074);</script>|
 |[x86_64/sphinxbase](https://aur.archlinux.org/pkgbase/sphinxbase)|PUBLISHED||[2648334141](https://github.com/arch4edu/cactus/actions/runs/2648334141)|<script type="text/javascript">localize(1657532273);</script>|
 |[x86_64/sptk](https://aur.archlinux.org/pkgbase/sptk)|PUBLISHED||[2647891160](https://github.com/arch4edu/cactus/actions/runs/2647891160)|<script type="text/javascript">localize(1657526003);</script>|
 |[x86_64/stepcode](https://aur.archlinux.org/pkgbase/stepcode)|PUBLISHED||[2648036384](https://github.com/arch4edu/cactus/actions/runs/2648036384)|<script type="text/javascript">localize(1657530387);</script>|
