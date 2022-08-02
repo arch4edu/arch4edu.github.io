@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-(Last update:<script type="text/javascript">localize(1659458456.8716362);</script>)
+(Last update:<script type="text/javascript">localize(1659461573.03029);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -684,7 +684,7 @@
 |[x86_64/r/r-rspc](https://aur.archlinux.org/pkgbase/r-rspc)|PUBLISHED||[2703436954](https://github.com/arch4edu/cactus/actions/runs/2703436954)|<script type="text/javascript">localize(1658310320);</script>|
 |[x86_64/r/r-rspectra](https://aur.archlinux.org/pkgbase/r-rspectra)|PUBLISHED||[2703840050](https://github.com/arch4edu/cactus/actions/runs/2703840050)|<script type="text/javascript">localize(1658314386);</script>|
 |[x86_64/r/r-rstan](https://aur.archlinux.org/pkgbase/r-rstan)|PUBLISHED||[2720691079](https://github.com/arch4edu/cactus/actions/runs/2720691079)|<script type="text/javascript">localize(1658522046);</script>|
-|[x86_64/r/r-rstanarm](https://aur.archlinux.org/pkgbase/r-rstanarm)|BUILDING|GitHubActions|[2783654986](https://github.com/arch4edu/cactus/actions/runs/2783654986)|<script type="text/javascript">localize(1659457344);</script>|
+|[x86_64/r/r-rstanarm](https://aur.archlinux.org/pkgbase/r-rstanarm)|PUBLISHED||[2783654986](https://github.com/arch4edu/cactus/actions/runs/2783654986)|<script type="text/javascript">localize(1659461568);</script>|
 |[x86_64/r/r-rstantools](https://aur.archlinux.org/pkgbase/r-rstantools)|PUBLISHED||[2703956556](https://github.com/arch4edu/cactus/actions/runs/2703956556)|<script type="text/javascript">localize(1658314401);</script>|
 |[x86_64/r/r-rstudioapi](https://aur.archlinux.org/pkgbase/r-rstudioapi)|PUBLISHED||[2703356075](https://github.com/arch4edu/cactus/actions/runs/2703356075)|<script type="text/javascript">localize(1658310335);</script>|
 |[x86_64/r/r-rtsne](https://aur.archlinux.org/pkgbase/r-rtsne)|PUBLISHED||[2703643759](https://github.com/arch4edu/cactus/actions/runs/2703643759)|<script type="text/javascript">localize(1658310346);</script>|
