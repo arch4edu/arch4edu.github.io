@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-(Last update:<script type="text/javascript">localize(1659551551.8044047);</script>)
+(Last update:<script type="text/javascript">localize(1659554481.9109204);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -257,7 +257,7 @@
 |[x86_64/libart-lgpl](https://aur.archlinux.org/pkgbase/libart-lgpl)|PUBLISHED||[2686509165](https://github.com/arch4edu/cactus/actions/runs/2686509165)|<script type="text/javascript">localize(1658085684);</script>|
 |[x86_64/libccd](https://aur.archlinux.org/pkgbase/libccd)|PUBLISHED||[2647948447](https://github.com/arch4edu/cactus/actions/runs/2647948447)|<script type="text/javascript">localize(1657529691);</script>|
 |[x86_64/libcsa-git](https://aur.archlinux.org/pkgbase/libcsa-git)|PUBLISHED||[2647919110](https://github.com/arch4edu/cactus/actions/runs/2647919110)|<script type="text/javascript">localize(1657525803);</script>|
-|[x86_64/libdart](https://aur.archlinux.org/pkgbase/libdart)|PUBLISHED||[2649233679](https://github.com/arch4edu/cactus/actions/runs/2649233679)|<script type="text/javascript">localize(1657544175);</script>|
+|[x86_64/libdart](https://aur.archlinux.org/pkgbase/libdart)|PUBLISHED||[2791696805](https://github.com/arch4edu/cactus/actions/runs/2791696805)|<script type="text/javascript">localize(1659554477);</script>|
 |[x86_64/libnn-git](https://aur.archlinux.org/pkgbase/libnn-git)|PUBLISHED||[2656798514](https://github.com/arch4edu/cactus/actions/runs/2656798514)|<script type="text/javascript">localize(1657640380);</script>|
 |[x86_64/libnvidia-container](https://aur.archlinux.org/pkgbase/libnvidia-container)|PUBLISHED||[2648586542](https://github.com/arch4edu/cactus/actions/runs/2648586542)|<script type="text/javascript">localize(1657535763);</script>|
 |[x86_64/libsearpc](https://aur.archlinux.org/pkgbase/libsearpc)|PUBLISHED||[2648554069](https://github.com/arch4edu/cactus/actions/runs/2648554069)|<script type="text/javascript">localize(1657532049);</script>|
