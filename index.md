@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-(Last update:<script type="text/javascript">localize(1659511621.2307763);</script>)
+(Last update:<script type="text/javascript">localize(1659515714.5847352);</script>)
 
 |Package|Status|Detail|Workflow|Timestamp|
 |:------|:-----|:-----|:-------|:--------|
@@ -763,7 +763,7 @@
 |[x86_64/rdma-core](https://aur.archlinux.org/pkgbase/rdma-core)|PUBLISHED||[2755978339](https://github.com/arch4edu/cactus/actions/runs/2755978339)|<script type="text/javascript">localize(1659036069);</script>|
 |[x86_64/rocm/comgr](https://aur.archlinux.org/pkgbase/comgr)|PUBLISHED||[2720636101](https://github.com/arch4edu/cactus/actions/runs/2720636101)|<script type="text/javascript">localize(1658518002);</script>|
 |[x86_64/rocm/hip-runtime-amd](https://aur.archlinux.org/pkgbase/hip-runtime-amd)|PUBLISHED||[2720664127](https://github.com/arch4edu/cactus/actions/runs/2720664127)|<script type="text/javascript">localize(1658518018);</script>|
-|[x86_64/rocm/hip-runtime-nvidia](https://aur.archlinux.org/pkgbase/hip-runtime-nvidia)|BUILDING|GitHubActions|[2787415776](https://github.com/arch4edu/cactus/actions/runs/2787415776)|<script type="text/javascript">localize(1659508973);</script>|
+|[x86_64/rocm/hip-runtime-nvidia](https://aur.archlinux.org/pkgbase/hip-runtime-nvidia)|FAILED|Build failed.|[2787415776](https://github.com/arch4edu/cactus/actions/runs/2787415776)|<script type="text/javascript">localize(1659512981);</script>|
 |[x86_64/rocm/hipblas](https://aur.archlinux.org/pkgbase/hipblas)|PUBLISHED||[2725493919](https://github.com/arch4edu/cactus/actions/runs/2725493919)|<script type="text/javascript">localize(1658629954);</script>|
 |[x86_64/rocm/hipcub](https://aur.archlinux.org/pkgbase/hipcub)|PUBLISHED||[2722971103](https://github.com/arch4edu/cactus/actions/runs/2722971103)|<script type="text/javascript">localize(1658565158);</script>|
 |[x86_64/rocm/hipfft](https://aur.archlinux.org/pkgbase/hipfft)|PUBLISHED||[2723722307](https://github.com/arch4edu/cactus/actions/runs/2723722307)|<script type="text/javascript">localize(1658583313);</script>|
