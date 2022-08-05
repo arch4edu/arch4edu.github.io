@@ -31,13 +31,14 @@ if __name__ == '__main__':
     lines.append('<script src="./time.js"></script>')
     lines.append('# Build status')
     lines.append('')
-    lines.append('|Package|Status|Detail|Workflow|Timestamp|')
-    lines.append('|:------|:-----|:-----|:-------|:--------|')
+    lines.append('|Category|Package|Status|Detail|Workflow|Timestamp|')
+    lines.append('|:-------|:------|:-----|:-----|:-------|:--------|')
 
     url_prefix = f"https://github.com/{config['github']['cactus']}/actions/runs/"
     aur_prefix = 'https://aur.archlinux.org/pkgbase/'
     for record in Status.objects.all():
         data = ['']
+        data.append(f'{"/".join(record.key.split("/")[:-1])}')
         data.append(f'[{record.key}]({aur_prefix}{record.key.split("/")[-1]})')
         data.append(record.status)
         data.append(record.detail)

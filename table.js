@@ -1,9 +1,10 @@
 var filtersConfig = {
   // instruct TableFilter location to import ressources from
   base_path: 'https://arch4edu.github.io/tablefilter/',
-  col_1: 'select',
-  col_2: 'none',
+  col_0: 'select',
+  col_2: 'select',
   col_3: 'none',
+  col_4: 'none',
   alternate_rows: true,
   rows_counter: true,
   btn_reset: true,
