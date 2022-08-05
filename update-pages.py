@@ -51,7 +51,7 @@ if __name__ == '__main__':
     lines.append('<script src="./tablefilter/tablefilter.js"></script>')
     lines.append('<script src="./table.js"></script>')
 
-    lines.insert(2, f'Last update:<script type="text/javascript">localize({time.time()});</script>')
+    lines.insert(2, f'Last update: <script type="text/javascript">localize({time.time()});</script>')
 
     with open('pages/index.md', 'w') as f:
         f.write('\n'.join(lines))
