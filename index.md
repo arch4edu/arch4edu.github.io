@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1659741910.8519719);</script>
+Last update: <script type="text/javascript">localize(1659752467.5818791);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -524,7 +524,7 @@ Last update: <script type="text/javascript">localize(1659741910.8519719);</scrip
 |x86_64/r|[x86_64/r/r-jaspmachinelearning](https://aur.archlinux.org/pkgbase/r-jaspmachinelearning)|PUBLISHED||[2787464570](https://github.com/arch4edu/cactus/actions/runs/2787464570)|<script type="text/javascript">localize(1659511542);</script>|
 |x86_64/r|[x86_64/r/r-jaspmetaanalysis](https://aur.archlinux.org/pkgbase/r-jaspmetaanalysis)|PUBLISHED||[2752060185](https://github.com/arch4edu/cactus/actions/runs/2752060185)|<script type="text/javascript">localize(1658997243);</script>|
 |x86_64/r|[x86_64/r/r-jaspmixedmodels](https://aur.archlinux.org/pkgbase/r-jaspmixedmodels)|PUBLISHED||[2787464596](https://github.com/arch4edu/cactus/actions/runs/2787464596)|<script type="text/javascript">localize(1659511552);</script>|
-|x86_64/r|[x86_64/r/r-jaspnetwork](https://aur.archlinux.org/pkgbase/r-jaspnetwork)|BUILT||[2803863652](https://github.com/arch4edu/cactus/actions/runs/2803863652)|<script type="text/javascript">localize(1659706548);</script>|
+|x86_64/r|[x86_64/r/r-jaspnetwork](https://aur.archlinux.org/pkgbase/r-jaspnetwork)|PUBLISHED||[2803863652](https://github.com/arch4edu/cactus/actions/runs/2803863652)|<script type="text/javascript">localize(1659741912);</script>|
 |x86_64/r|[x86_64/r/r-jaspprocesscontrol](https://aur.archlinux.org/pkgbase/r-jaspprocesscontrol)|PUBLISHED||[2779364719](https://github.com/arch4edu/cactus/actions/runs/2779364719)|<script type="text/javascript">localize(1659415191);</script>|
 |x86_64/r|[x86_64/r/r-jaspprophet](https://aur.archlinux.org/pkgbase/r-jaspprophet)|PUBLISHED||[2752058800](https://github.com/arch4edu/cactus/actions/runs/2752058800)|<script type="text/javascript">localize(1658997254);</script>|
 |x86_64/r|[x86_64/r/r-jaspregression](https://aur.archlinux.org/pkgbase/r-jaspregression)|FAILED|Dependency issue: x86_64/r/r-bas.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659618422);</script>|
