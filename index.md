@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1659795746.577042);</script>
+Last update: <script type="text/javascript">localize(1659828312.1908476);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -178,7 +178,7 @@ Last update: <script type="text/javascript">localize(1659795746.577042);</script
 |x86_64|[x86_64/cef-standard](https://aur.archlinux.org/pkgbase/cef-standard)|PUBLISHED||[2648426785](https://github.com/arch4edu/cactus/actions/runs/2648426785)|<script type="text/javascript">localize(1657531895);</script>|
 |x86_64|[x86_64/ceres-solver](https://aur.archlinux.org/pkgbase/ceres-solver)|PUBLISHED||[2709897472](https://github.com/arch4edu/cactus/actions/runs/2709897472)|<script type="text/javascript">localize(1658388264);</script>|
 |x86_64|[x86_64/charls](https://aur.archlinux.org/pkgbase/charls)|PUBLISHED||[2648304398](https://github.com/arch4edu/cactus/actions/runs/2648304398)|<script type="text/javascript">localize(1657531906);</script>|
-|x86_64|[x86_64/chromedriver](https://aur.archlinux.org/pkgbase/chromedriver)|BUILT||[2807295851](https://github.com/arch4edu/cactus/actions/runs/2807295851)|<script type="text/javascript">localize(1659753255);</script>|
+|x86_64|[x86_64/chromedriver](https://aur.archlinux.org/pkgbase/chromedriver)|PUBLISHED||[2807295851](https://github.com/arch4edu/cactus/actions/runs/2807295851)|<script type="text/javascript">localize(1659828299);</script>|
 |x86_64|[x86_64/cminpack](https://aur.archlinux.org/pkgbase/cminpack)|PUBLISHED||[2648523138](https://github.com/arch4edu/cactus/actions/runs/2648523138)|<script type="text/javascript">localize(1657531917);</script>|
 |x86_64|[x86_64/cmuclmtk](https://aur.archlinux.org/pkgbase/cmuclmtk)|PUBLISHED||[2647948186](https://github.com/arch4edu/cactus/actions/runs/2647948186)|<script type="text/javascript">localize(1657529012);</script>|
 |x86_64|[x86_64/code_saturne](https://aur.archlinux.org/pkgbase/code_saturne)|PUBLISHED||[2648922098](https://github.com/arch4edu/cactus/actions/runs/2648922098)|<script type="text/javascript">localize(1657538579);</script>|
