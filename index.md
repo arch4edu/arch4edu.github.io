@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1659943444.9698799);</script>
+Last update: <script type="text/javascript">localize(1659966554.7396348);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -536,11 +536,11 @@ Last update: <script type="text/javascript">localize(1659943444.9698799);</scrip
 |x86_64/r|[x86_64/r/r-jaspnetwork](https://aur.archlinux.org/pkgbase/r-jaspnetwork)|PUBLISHED||[2803863652](https://github.com/arch4edu/cactus/actions/runs/2803863652)|<script type="text/javascript">localize(1659741912);</script>|
 |x86_64/r|[x86_64/r/r-jaspprocesscontrol](https://aur.archlinux.org/pkgbase/r-jaspprocesscontrol)|PUBLISHED||[2779364719](https://github.com/arch4edu/cactus/actions/runs/2779364719)|<script type="text/javascript">localize(1659415191);</script>|
 |x86_64/r|[x86_64/r/r-jaspprophet](https://aur.archlinux.org/pkgbase/r-jaspprophet)|PUBLISHED||[2752058800](https://github.com/arch4edu/cactus/actions/runs/2752058800)|<script type="text/javascript">localize(1658997254);</script>|
-|x86_64/r|[x86_64/r/r-jaspregression](https://aur.archlinux.org/pkgbase/r-jaspregression)|FAILED|Dependency issue: x86_64/r/r-bas.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659876850);</script>|
+|x86_64/r|[x86_64/r/r-jaspregression](https://aur.archlinux.org/pkgbase/r-jaspregression)|FAILED|Dependency issue: x86_64/r/r-bas.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659964013);</script>|
 |x86_64/r|[x86_64/r/r-jaspreliability](https://aur.archlinux.org/pkgbase/r-jaspreliability)|PUBLISHED||[2789608412](https://github.com/arch4edu/cactus/actions/runs/2789608412)|<script type="text/javascript">localize(1659534477);</script>|
 |x86_64/r|[x86_64/r/r-jaspresults](https://aur.archlinux.org/pkgbase/r-jaspresults)|PUBLISHED||[2751526358](https://github.com/arch4edu/cactus/actions/runs/2751526358)|<script type="text/javascript">localize(1658990048);</script>|
 |x86_64/r|[x86_64/r/r-jaspsem](https://aur.archlinux.org/pkgbase/r-jaspsem)|PUBLISHED||[2794680601](https://github.com/arch4edu/cactus/actions/runs/2794680601)|<script type="text/javascript">localize(1659597890);</script>|
-|x86_64/r|[x86_64/r/r-jaspsummarystatistics](https://aur.archlinux.org/pkgbase/r-jaspsummarystatistics)|FAILED|Dependency issue: x86_64/r/r-jaspregression.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659876850);</script>|
+|x86_64/r|[x86_64/r/r-jaspsummarystatistics](https://aur.archlinux.org/pkgbase/r-jaspsummarystatistics)|FAILED|Dependency issue: x86_64/r/r-jaspregression.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1659964013);</script>|
 |x86_64/r|[x86_64/r/r-jasptools](https://aur.archlinux.org/pkgbase/r-jasptools)|PUBLISHED||[2720796138](https://github.com/arch4edu/cactus/actions/runs/2720796138)|<script type="text/javascript">localize(1658521966);</script>|
 |x86_64/r|[x86_64/r/r-jaspttests](https://aur.archlinux.org/pkgbase/r-jaspttests)|PUBLISHED||[2787416076](https://github.com/arch4edu/cactus/actions/runs/2787416076)|<script type="text/javascript">localize(1659511562);</script>|
 |x86_64/r|[x86_64/r/r-jaspvisualmodeling](https://aur.archlinux.org/pkgbase/r-jaspvisualmodeling)|PUBLISHED||[2779915487](https://github.com/arch4edu/cactus/actions/runs/2779915487)|<script type="text/javascript">localize(1659422007);</script>|
@@ -815,7 +815,7 @@ Last update: <script type="text/javascript">localize(1659943444.9698799);</scrip
 |x86_64/rocm|[x86_64/rocm/rocsparse](https://aur.archlinux.org/pkgbase/rocsparse)|PUBLISHED||[2722971116](https://github.com/arch4edu/cactus/actions/runs/2722971116)|<script type="text/javascript">localize(1658568391);</script>|
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[2649431930](https://github.com/arch4edu/cactus/actions/runs/2649431930)|<script type="text/javascript">localize(1657544459);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[2722989132](https://github.com/arch4edu/cactus/actions/runs/2722989132)|<script type="text/javascript">localize(1658565196);</script>|
-|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[2812693317](https://github.com/arch4edu/cactus/actions/runs/2812693317)|<script type="text/javascript">localize(1659877363);</script>|
+|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[2818120071](https://github.com/arch4edu/cactus/actions/runs/2818120071)|<script type="text/javascript">localize(1659964940);</script>|
 |x86_64/ros2|[x86_64/ros2/python-catkin_pkg](https://aur.archlinux.org/pkgbase/python-catkin_pkg)|PUBLISHED||[2647891583](https://github.com/arch4edu/cactus/actions/runs/2647891583)|<script type="text/javascript">localize(1657525948);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-argcomplete](https://aur.archlinux.org/pkgbase/python-colcon-argcomplete)|PUBLISHED||[2648831811](https://github.com/arch4edu/cactus/actions/runs/2648831811)|<script type="text/javascript">localize(1657535972);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-bash](https://aur.archlinux.org/pkgbase/python-colcon-bash)|PUBLISHED||[2648768277](https://github.com/arch4edu/cactus/actions/runs/2648768277)|<script type="text/javascript">localize(1657535987);</script>|
