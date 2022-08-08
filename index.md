@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1659966554.7396348);</script>
+Last update: <script type="text/javascript">localize(1660001222.449564);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -21,7 +21,7 @@ Last update: <script type="text/javascript">localize(1659966554.7396348);</scrip
 |aarch64|[aarch64/pypy-bin](https://aur.archlinux.org/pkgbase/pypy-bin)|PUBLISHED||[2648036019](https://github.com/arch4edu/cactus/actions/runs/2648036019)|<script type="text/javascript">localize(1657528590);</script>|
 |aarch64|[aarch64/pypy3](https://aur.archlinux.org/pkgbase/pypy3)|PUBLISHED||[2648304484](https://github.com/arch4edu/cactus/actions/runs/2648304484)|<script type="text/javascript">localize(1657531650);</script>|
 |aarch64|[aarch64/python-wiringpi-git](https://aur.archlinux.org/pkgbase/python-wiringpi-git)|PUBLISHED||[2647948142](https://github.com/arch4edu/cactus/actions/runs/2647948142)|<script type="text/javascript">localize(1657528599);</script>|
-|aarch64|[aarch64/qemu-user-static-bin](https://aur.archlinux.org/pkgbase/qemu-user-static-bin)|BUILT||[2816079107](https://github.com/arch4edu/cactus/actions/runs/2816079107)|<script type="text/javascript">localize(1659942919);</script>|
+|aarch64|[aarch64/qemu-user-static-bin](https://aur.archlinux.org/pkgbase/qemu-user-static-bin)|PUBLISHED||[2816079107](https://github.com/arch4edu/cactus/actions/runs/2816079107)|<script type="text/javascript">localize(1660001209);</script>|
 |aarch64|[aarch64/rpi-imager](https://aur.archlinux.org/pkgbase/rpi-imager)|PUBLISHED||[2779967069](https://github.com/arch4edu/cactus/actions/runs/2779967069)|<script type="text/javascript">localize(1659421973);</script>|
 |aarch64|[aarch64/rpiusbboot](https://aur.archlinux.org/pkgbase/rpiusbboot)|PUBLISHED||[2648151519](https://github.com/arch4edu/cactus/actions/runs/2648151519)|<script type="text/javascript">localize(1657528609);</script>|
 |aarch64|[aarch64/seafile](https://aur.archlinux.org/pkgbase/seafile)|PUBLISHED||[2648586706](https://github.com/arch4edu/cactus/actions/runs/2648586706)|<script type="text/javascript">localize(1657535327);</script>|
