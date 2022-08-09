@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660033853.7532384);</script>
+Last update: <script type="text/javascript">localize(1660053243.7788286);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -236,7 +236,7 @@ Last update: <script type="text/javascript">localize(1660033853.7532384);</scrip
 |x86_64|[x86_64/hdf4](https://aur.archlinux.org/pkgbase/hdf4)|PUBLISHED||[2648244158](https://github.com/arch4edu/cactus/actions/runs/2648244158)|<script type="text/javascript">localize(1657529276);</script>|
 |x86_64|[x86_64/hdf5110](https://aur.archlinux.org/pkgbase/hdf5110)|PUBLISHED||[2648522992](https://github.com/arch4edu/cactus/actions/runs/2648522992)|<script type="text/javascript">localize(1657535722);</script>|
 |x86_64|[x86_64/hdfview](https://aur.archlinux.org/pkgbase/hdfview)|PUBLISHED||[2801783508](https://github.com/arch4edu/cactus/actions/runs/2801783508)|<script type="text/javascript">localize(1659684303);</script>|
-|x86_64|[x86_64/heasoft](https://aur.archlinux.org/pkgbase/heasoft)|FAILED|Build failed.|[2815876366](https://github.com/arch4edu/cactus/actions/runs/2815876366)|<script type="text/javascript">localize(1659942604);</script>|
+|x86_64|[x86_64/heasoft](https://aur.archlinux.org/pkgbase/heasoft)|FAILED|Build failed.|[2825461686](https://github.com/arch4edu/cactus/actions/runs/2825461686)|<script type="text/javascript">localize(1660051238);</script>|
 |x86_64|[x86_64/hts-engine](https://aur.archlinux.org/pkgbase/hts-engine)|PUBLISHED||[2648586077](https://github.com/arch4edu/cactus/actions/runs/2648586077)|<script type="text/javascript">localize(1657535733);</script>|
 |x86_64|[x86_64/hypre](https://aur.archlinux.org/pkgbase/hypre)|PUBLISHED||[2649122236](https://github.com/arch4edu/cactus/actions/runs/2649122236)|<script type="text/javascript">localize(1657538612);</script>|
 |x86_64|[x86_64/icu58](https://aur.archlinux.org/pkgbase/icu58)|PUBLISHED||[2648554183](https://github.com/arch4edu/cactus/actions/runs/2648554183)|<script type="text/javascript">localize(1657532028);</script>|
@@ -334,7 +334,7 @@ Last update: <script type="text/javascript">localize(1660033853.7532384);</scrip
 |x86_64|[x86_64/python-mkl-fft](https://aur.archlinux.org/pkgbase/python-mkl-fft)|PUBLISHED||[2648006310](https://github.com/arch4edu/cactus/actions/runs/2648006310)|<script type="text/javascript">localize(1657530229);</script>|
 |x86_64|[x86_64/python-mkl-random](https://aur.archlinux.org/pkgbase/python-mkl-random)|PUBLISHED||[2647863009](https://github.com/arch4edu/cactus/actions/runs/2647863009)|<script type="text/javascript">localize(1657525891);</script>|
 |x86_64|[x86_64/python-mkl-service](https://aur.archlinux.org/pkgbase/python-mkl-service)|PUBLISHED||[2649233468](https://github.com/arch4edu/cactus/actions/runs/2649233468)|<script type="text/javascript">localize(1657544212);</script>|
-|x86_64|[x86_64/python-numba](https://aur.archlinux.org/pkgbase/python-numba)|PUBLISHED||[2648274341](https://github.com/arch4edu/cactus/actions/runs/2648274341)|<script type="text/javascript">localize(1657530242);</script>|
+|x86_64|[x86_64/python-numba](https://aur.archlinux.org/pkgbase/python-numba)|FAILED|Build failed.|[2825461530](https://github.com/arch4edu/cactus/actions/runs/2825461530)|<script type="text/javascript">localize(1660050359);</script>|
 |x86_64|[x86_64/python-numpy-mkl](https://aur.archlinux.org/pkgbase/python-numpy-mkl)|PUBLISHED||[2649205313](https://github.com/arch4edu/cactus/actions/runs/2649205313)|<script type="text/javascript">localize(1657544224);</script>|
 |x86_64|[x86_64/python-pyerfa](https://aur.archlinux.org/pkgbase/python-pyerfa)|PUBLISHED||[2649006345](https://github.com/arch4edu/cactus/actions/runs/2649006345)|<script type="text/javascript">localize(1657538880);</script>|
 |x86_64|[x86_64/python-pygmo](https://aur.archlinux.org/pkgbase/python-pygmo)|PUBLISHED||[2649233563](https://github.com/arch4edu/cactus/actions/runs/2649233563)|<script type="text/javascript">localize(1657544235);</script>|
@@ -342,7 +342,7 @@ Last update: <script type="text/javascript">localize(1660033853.7532384);</scrip
 |x86_64|[x86_64/python-pytest-filter-subpackage](https://aur.archlinux.org/pkgbase/python-pytest-filter-subpackage)|PUBLISHED||[2648036224](https://github.com/arch4edu/cactus/actions/runs/2648036224)|<script type="text/javascript">localize(1657530253);</script>|
 |x86_64|[x86_64/python-pytest-openfiles](https://aur.archlinux.org/pkgbase/python-pytest-openfiles)|PUBLISHED||[2648426858](https://github.com/arch4edu/cactus/actions/runs/2648426858)|<script type="text/javascript">localize(1657532189);</script>|
 |x86_64|[x86_64/python-pywavelets](https://aur.archlinux.org/pkgbase/python-pywavelets)|PUBLISHED||[2648586609](https://github.com/arch4edu/cactus/actions/runs/2648586609)|<script type="text/javascript">localize(1657535900);</script>|
-|x86_64|[x86_64/python-resampy](https://aur.archlinux.org/pkgbase/python-resampy)|PUBLISHED||[2725776174](https://github.com/arch4edu/cactus/actions/runs/2725776174)|<script type="text/javascript">localize(1658635206);</script>|
+|x86_64|[x86_64/python-resampy](https://aur.archlinux.org/pkgbase/python-resampy)|FAILED|Dependency issue: x86_64/python-numba.|[2725776174](https://github.com/arch4edu/cactus/actions/runs/2725776174)|<script type="text/javascript">localize(1660050550);</script>|
 |x86_64|[x86_64/python-scikit-image](https://aur.archlinux.org/pkgbase/python-scikit-image)|PUBLISHED||[2649006403](https://github.com/arch4edu/cactus/actions/runs/2649006403)|<script type="text/javascript">localize(1657538892);</script>|
 |x86_64|[x86_64/python-scipy-mkl](https://aur.archlinux.org/pkgbase/python-scipy-mkl)|PUBLISHED||[2649233354](https://github.com/arch4edu/cactus/actions/runs/2649233354)|<script type="text/javascript">localize(1657544248);</script>|
 |x86_64|[x86_64/python-sequitur-git](https://aur.archlinux.org/pkgbase/python-sequitur-git)|PUBLISHED||[2734511959](https://github.com/arch4edu/cactus/actions/runs/2734511959)|<script type="text/javascript">localize(1658776836);</script>|
@@ -786,7 +786,7 @@ Last update: <script type="text/javascript">localize(1660033853.7532384);</scrip
 |x86_64/rocm|[x86_64/rocm/miopen-hip](https://aur.archlinux.org/pkgbase/miopen-hip)|PUBLISHED||[2727308921](https://github.com/arch4edu/cactus/actions/runs/2727308921)|<script type="text/javascript">localize(1658676472);</script>|
 |x86_64/rocm|[x86_64/rocm/miopengemm](https://aur.archlinux.org/pkgbase/miopengemm)|PUBLISHED||[2724618964](https://github.com/arch4edu/cactus/actions/runs/2724618964)|<script type="text/javascript">localize(1658604109);</script>|
 |x86_64/rocm|[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|PUBLISHED||[2720664036](https://github.com/arch4edu/cactus/actions/runs/2720664036)|<script type="text/javascript">localize(1658522126);</script>|
-|x86_64/rocm|[x86_64/rocm/python-pytorch-rocm](https://aur.archlinux.org/pkgbase/python-pytorch-rocm)|BUILDING|x86_64|[2823451376](https://github.com/arch4edu/cactus/actions/runs/2823451376)|<script type="text/javascript">localize(1660029537);</script>|
+|x86_64/rocm|[x86_64/rocm/python-pytorch-rocm](https://aur.archlinux.org/pkgbase/python-pytorch-rocm)|FAILED|Build failed.|[2823451376](https://github.com/arch4edu/cactus/actions/runs/2823451376)|<script type="text/javascript">localize(1660051251);</script>|
 |x86_64/rocm|[x86_64/rocm/rccl](https://aur.archlinux.org/pkgbase/rccl)|PUBLISHED||[2736784273](https://github.com/arch4edu/cactus/actions/runs/2736784273)|<script type="text/javascript">localize(1658810230);</script>|
 |x86_64/rocm|[x86_64/rocm/rocalution](https://aur.archlinux.org/pkgbase/rocalution)|PUBLISHED||[2724272358](https://github.com/arch4edu/cactus/actions/runs/2724272358)|<script type="text/javascript">localize(1658594146);</script>|
 |x86_64/rocm|[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|PUBLISHED||[2723626135](https://github.com/arch4edu/cactus/actions/runs/2723626135)|<script type="text/javascript">localize(1658594166);</script>|
