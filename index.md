@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660029843.949321);</script>
+Last update: <script type="text/javascript">localize(1660033853.7532384);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -355,7 +355,7 @@ Last update: <script type="text/javascript">localize(1660029843.949321);</script
 |x86_64|[x86_64/qemu-user-static-bin](https://aur.archlinux.org/pkgbase/qemu-user-static-bin)|PUBLISHED||[2648701407](https://github.com/arch4edu/cactus/actions/runs/2648701407)|<script type="text/javascript">localize(1657535947);</script>|
 |x86_64|[x86_64/qgroundcontrol](https://aur.archlinux.org/pkgbase/qgroundcontrol)|PUBLISHED||[2815004222](https://github.com/arch4edu/cactus/actions/runs/2815004222)|<script type="text/javascript">localize(1660001355);</script>|
 |x86_64|[x86_64/qt4](https://aur.archlinux.org/pkgbase/qt4)|PUBLISHED||[2647919537](https://github.com/arch4edu/cactus/actions/runs/2647919537)|<script type="text/javascript">localize(1657530284);</script>|
-|x86_64|[x86_64/qtwebkit](https://aur.archlinux.org/pkgbase/qtwebkit)|BUILDING|GitHubActions|[2823340780](https://github.com/arch4edu/cactus/actions/runs/2823340780)|<script type="text/javascript">localize(1660028326);</script>|
+|x86_64|[x86_64/qtwebkit](https://aur.archlinux.org/pkgbase/qtwebkit)|FAILED|Build failed.|[2823340780](https://github.com/arch4edu/cactus/actions/runs/2823340780)|<script type="text/javascript">localize(1660031685);</script>|
 |x86_64|[x86_64/qucs](https://aur.archlinux.org/pkgbase/qucs)|PUBLISHED||[2648832117](https://github.com/arch4edu/cactus/actions/runs/2648832117)|<script type="text/javascript">localize(1657538902);</script>|
 |x86_64/r|[x86_64/r/cctz](https://aur.archlinux.org/pkgbase/cctz)|PUBLISHED||[2703355331](https://github.com/arch4edu/cactus/actions/runs/2703355331)|<script type="text/javascript">localize(1658309187);</script>|
 |x86_64/r|[x86_64/r/hopscotch-map](https://aur.archlinux.org/pkgbase/hopscotch-map)|PUBLISHED||[2703562939](https://github.com/arch4edu/cactus/actions/runs/2703562939)|<script type="text/javascript">localize(1658309199);</script>|
