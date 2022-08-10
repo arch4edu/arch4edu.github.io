@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660138804.261332);</script>
+Last update: <script type="text/javascript">localize(1660173895.5673163);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -30,7 +30,7 @@ Last update: <script type="text/javascript">localize(1660138804.261332);</script
 |aarch64|[aarch64/shadowsocks-rust](https://aur.archlinux.org/pkgbase/shadowsocks-rust)|PUBLISHED||[2813405556](https://github.com/arch4edu/cactus/actions/runs/2813405556)|<script type="text/javascript">localize(1659914657);</script>|
 |aarch64|[aarch64/sublime-text-dev](https://aur.archlinux.org/pkgbase/sublime-text-dev)|PUBLISHED||[2816052367](https://github.com/arch4edu/cactus/actions/runs/2816052367)|<script type="text/javascript">localize(1660001222);</script>|
 |aarch64|[aarch64/teamviewer](https://aur.archlinux.org/pkgbase/teamviewer)|PUBLISHED||[2815876222](https://github.com/arch4edu/cactus/actions/runs/2815876222)|<script type="text/javascript">localize(1660001248);</script>|
-|aarch64|[aarch64/ventoy-bin](https://aur.archlinux.org/pkgbase/ventoy-bin)|BUILT||[2829601033](https://github.com/arch4edu/cactus/actions/runs/2829601033)|<script type="text/javascript">localize(1660098502);</script>|
+|aarch64|[aarch64/ventoy-bin](https://aur.archlinux.org/pkgbase/ventoy-bin)|PUBLISHED||[2829601033](https://github.com/arch4edu/cactus/actions/runs/2829601033)|<script type="text/javascript">localize(1660173871);</script>|
 |aarch64|[aarch64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[2647918692](https://github.com/arch4edu/cactus/actions/runs/2647918692)|<script type="text/javascript">localize(1657528618);</script>|
 |aarch64|[aarch64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|PUBLISHED||[2815994367](https://github.com/arch4edu/cactus/actions/runs/2815994367)|<script type="text/javascript">localize(1660001276);</script>|
 |aarch64|[aarch64/wxwidgets-gtk2](https://aur.archlinux.org/pkgbase/wxwidgets-gtk2)|PUBLISHED||[2815923886](https://github.com/arch4edu/cactus/actions/runs/2815923886)|<script type="text/javascript">localize(1660001305);</script>|
