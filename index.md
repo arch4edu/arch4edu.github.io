@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660189822.844136);</script>
+Last update: <script type="text/javascript">localize(1660206634.783154);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -16,7 +16,7 @@ Last update: <script type="text/javascript">localize(1660189822.844136);</script
 |aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|PUBLISHED||[2764905298](https://github.com/arch4edu/cactus/actions/runs/2764905298)|<script type="text/javascript">localize(1659165816);</script>|
 |aarch64|[aarch64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|PUBLISHED||[2648213752](https://github.com/arch4edu/cactus/actions/runs/2648213752)|<script type="text/javascript">localize(1657528564);</script>|
 |aarch64|[aarch64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|PUBLISHED||[2762621256](https://github.com/arch4edu/cactus/actions/runs/2762621256)|<script type="text/javascript">localize(1659122490);</script>|
-|aarch64|[aarch64/pacman-static](https://aur.archlinux.org/pkgbase/pacman-static)|BUILT||[2829566570](https://github.com/arch4edu/cactus/actions/runs/2829566570)|<script type="text/javascript">localize(1660098157);</script>|
+|aarch64|[aarch64/pacman-static](https://aur.archlinux.org/pkgbase/pacman-static)|BUILT||[2838354869](https://github.com/arch4edu/cactus/actions/runs/2838354869)|<script type="text/javascript">localize(1660206019);</script>|
 |aarch64|[aarch64/paru](https://aur.archlinux.org/pkgbase/paru)|PUBLISHED||[2686509289](https://github.com/arch4edu/cactus/actions/runs/2686509289)|<script type="text/javascript">localize(1658085645);</script>|
 |aarch64|[aarch64/pigpio](https://aur.archlinux.org/pkgbase/pigpio)|PUBLISHED||[2648274215](https://github.com/arch4edu/cactus/actions/runs/2648274215)|<script type="text/javascript">localize(1657528573);</script>|
 |aarch64|[aarch64/pypy-bin](https://aur.archlinux.org/pkgbase/pypy-bin)|PUBLISHED||[2648036019](https://github.com/arch4edu/cactus/actions/runs/2648036019)|<script type="text/javascript">localize(1657528590);</script>|
@@ -305,7 +305,7 @@ Last update: <script type="text/javascript">localize(1660189822.844136);</script
 |x86_64|[x86_64/opensmile](https://aur.archlinux.org/pkgbase/opensmile)|FAILED|Build failed.|[2832797850](https://github.com/arch4edu/cactus/actions/runs/2832797850)|<script type="text/javascript">localize(1660136529);</script>|
 |x86_64|[x86_64/openvsp](https://aur.archlinux.org/pkgbase/openvsp)|PUBLISHED||[2789608247](https://github.com/arch4edu/cactus/actions/runs/2789608247)|<script type="text/javascript">localize(1659534435);</script>|
 |x86_64|[x86_64/oracle-xe](https://aur.archlinux.org/pkgbase/oracle-xe)|PUBLISHED||[2647948545](https://github.com/arch4edu/cactus/actions/runs/2647948545)|<script type="text/javascript">localize(1657530183);</script>|
-|x86_64|[x86_64/pacman-static](https://aur.archlinux.org/pkgbase/pacman-static)|BUILT||[2829566683](https://github.com/arch4edu/cactus/actions/runs/2829566683)|<script type="text/javascript">localize(1660098411);</script>|
+|x86_64|[x86_64/pacman-static](https://aur.archlinux.org/pkgbase/pacman-static)|BUILT||[2838353854](https://github.com/arch4edu/cactus/actions/runs/2838353854)|<script type="text/javascript">localize(1660205993);</script>|
 |x86_64|[x86_64/pagmo](https://aur.archlinux.org/pkgbase/pagmo)|PUBLISHED||[2649122085](https://github.com/arch4edu/cactus/actions/runs/2649122085)|<script type="text/javascript">localize(1657538848);</script>|
 |x86_64|[x86_64/parmetis](https://aur.archlinux.org/pkgbase/parmetis)|PUBLISHED||[2750930850](https://github.com/arch4edu/cactus/actions/runs/2750930850)|<script type="text/javascript">localize(1658981183);</script>|
 |x86_64|[x86_64/paru](https://aur.archlinux.org/pkgbase/paru)|PUBLISHED||[2686509126](https://github.com/arch4edu/cactus/actions/runs/2686509126)|<script type="text/javascript">localize(1658085696);</script>|
