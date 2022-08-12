@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660281956.0222597);</script>
+Last update: <script type="text/javascript">localize(1660285974.4066322);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -302,7 +302,7 @@ Last update: <script type="text/javascript">localize(1660281956.0222597);</scrip
 |x86_64|[x86_64/opengv-git](https://aur.archlinux.org/pkgbase/opengv-git)|PUBLISHED||[2710378932](https://github.com/arch4edu/cactus/actions/runs/2710378932)|<script type="text/javascript">localize(1658392339);</script>|
 |x86_64|[x86_64/openjpeg](https://aur.archlinux.org/pkgbase/openjpeg)|PUBLISHED||[2648304268](https://github.com/arch4edu/cactus/actions/runs/2648304268)|<script type="text/javascript">localize(1657532128);</script>|
 |x86_64|[x86_64/openni2](https://aur.archlinux.org/pkgbase/openni2)|PUBLISHED||[2648274276](https://github.com/arch4edu/cactus/actions/runs/2648274276)|<script type="text/javascript">localize(1657529827);</script>|
-|x86_64|[x86_64/opensmile](https://aur.archlinux.org/pkgbase/opensmile)|FAILED|Build failed.|[2844084881](https://github.com/arch4edu/cactus/actions/runs/2844084881)|<script type="text/javascript">localize(1660271733);</script>|
+|x86_64|[x86_64/opensmile](https://aur.archlinux.org/pkgbase/opensmile)|BUILT||[2844750480](https://github.com/arch4edu/cactus/actions/runs/2844750480)|<script type="text/javascript">localize(1660283650);</script>|
 |x86_64|[x86_64/openvsp](https://aur.archlinux.org/pkgbase/openvsp)|PUBLISHED||[2789608247](https://github.com/arch4edu/cactus/actions/runs/2789608247)|<script type="text/javascript">localize(1659534435);</script>|
 |x86_64|[x86_64/oracle-xe](https://aur.archlinux.org/pkgbase/oracle-xe)|PUBLISHED||[2647948545](https://github.com/arch4edu/cactus/actions/runs/2647948545)|<script type="text/javascript">localize(1657530183);</script>|
 |x86_64|[x86_64/pacman-static](https://aur.archlinux.org/pkgbase/pacman-static)|PUBLISHED||[2838353854](https://github.com/arch4edu/cactus/actions/runs/2838353854)|<script type="text/javascript">localize(1660260494);</script>|
