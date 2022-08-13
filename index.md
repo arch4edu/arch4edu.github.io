@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660372235.8011065);</script>
+Last update: <script type="text/javascript">localize(1660394562.3531218);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -16,6 +16,7 @@ Last update: <script type="text/javascript">localize(1660372235.8011065);</scrip
 |aarch64|[aarch64/libsearpc](https://aur.archlinux.org/pkgbase/libsearpc)|PUBLISHED||[2648183447](https://github.com/arch4edu/cactus/actions/runs/2648183447)|<script type="text/javascript">localize(1657528540);</script>|
 |aarch64|[aarch64/lux-dl](https://aur.archlinux.org/pkgbase/lux-dl)|PUBLISHED||[2648062931](https://github.com/arch4edu/cactus/actions/runs/2648062931)|<script type="text/javascript">localize(1657528551);</script>|
 |aarch64|[aarch64/ly](https://aur.archlinux.org/pkgbase/ly)|BUILT||[2850851765](https://github.com/arch4edu/cactus/actions/runs/2850851765)|<script type="text/javascript">localize(1660368188);</script>|
+|aarch64|[aarch64/miktex](https://aur.archlinux.org/pkgbase/miktex)|FAILED|Build failed.|[2851847213](https://github.com/arch4edu/cactus/actions/runs/2851847213)|<script type="text/javascript">localize(1660391811);</script>|
 |aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|PUBLISHED||[2764905298](https://github.com/arch4edu/cactus/actions/runs/2764905298)|<script type="text/javascript">localize(1659165816);</script>|
 |aarch64|[aarch64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|PUBLISHED||[2648213752](https://github.com/arch4edu/cactus/actions/runs/2648213752)|<script type="text/javascript">localize(1657528564);</script>|
 |aarch64|[aarch64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|PUBLISHED||[2762621256](https://github.com/arch4edu/cactus/actions/runs/2762621256)|<script type="text/javascript">localize(1659122490);</script>|
@@ -40,6 +41,7 @@ Last update: <script type="text/javascript">localize(1660372235.8011065);</scrip
 |aarch64|[aarch64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|PUBLISHED||[2836971248](https://github.com/arch4edu/cactus/actions/runs/2836971248)|<script type="text/javascript">localize(1660260437);</script>|
 |aarch64|[aarch64/wxwidgets-gtk2](https://aur.archlinux.org/pkgbase/wxwidgets-gtk2)|PUBLISHED||[2815923886](https://github.com/arch4edu/cactus/actions/runs/2815923886)|<script type="text/javascript">localize(1660001305);</script>|
 |aarch64|[aarch64/yay](https://aur.archlinux.org/pkgbase/yay)|PUBLISHED||[2648117951](https://github.com/arch4edu/cactus/actions/runs/2648117951)|<script type="text/javascript">localize(1657528627);</script>|
+|aarch64|[aarch64/zotero](https://aur.archlinux.org/pkgbase/zotero)|FAILED|Build failed.|[2851894749](https://github.com/arch4edu/cactus/actions/runs/2851894749)|<script type="text/javascript">localize(1660392434);</script>|
 |any|[any/aic94xx-firmware](https://aur.archlinux.org/pkgbase/aic94xx-firmware)|PUBLISHED||[2647751292](https://github.com/arch4edu/cactus/actions/runs/2647751292)|<script type="text/javascript">localize(1657524391);</script>|
 |any|[any/android-platform](https://aur.archlinux.org/pkgbase/android-platform)|PUBLISHED||[2727308744](https://github.com/arch4edu/cactus/actions/runs/2727308744)|<script type="text/javascript">localize(1658669782);</script>|
 |any|[any/apache-lucene](https://aur.archlinux.org/pkgbase/apache-lucene)|PUBLISHED||[2829566529](https://github.com/arch4edu/cactus/actions/runs/2829566529)|<script type="text/javascript">localize(1660173898);</script>|
@@ -288,6 +290,7 @@ Last update: <script type="text/javascript">localize(1660372235.8011065);</scrip
 |x86_64|[x86_64/mendeleydesktop](https://aur.archlinux.org/pkgbase/mendeleydesktop)|PUBLISHED||[2648118029](https://github.com/arch4edu/cactus/actions/runs/2648118029)|<script type="text/javascript">localize(1657529732);</script>|
 |x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|FAILED|Build failed.|[2850837905](https://github.com/arch4edu/cactus/actions/runs/2850837905)|<script type="text/javascript">localize(1660367886);</script>|
 |x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|PUBLISHED||[2844084894](https://github.com/arch4edu/cactus/actions/runs/2844084894)|<script type="text/javascript">localize(1660347404);</script>|
+|x86_64|[x86_64/miktex](https://aur.archlinux.org/pkgbase/miktex)|BUILT||[2851847270](https://github.com/arch4edu/cactus/actions/runs/2851847270)|<script type="text/javascript">localize(1660392196);</script>|
 |x86_64|[x86_64/mmg](https://aur.archlinux.org/pkgbase/mmg)|PUBLISHED||[2648891891](https://github.com/arch4edu/cactus/actions/runs/2648891891)|<script type="text/javascript">localize(1657538791);</script>|
 |x86_64|[x86_64/mongodb](https://aur.archlinux.org/pkgbase/mongodb)|PUBLISHED||[2793767151](https://github.com/arch4edu/cactus/actions/runs/2793767151)|<script type="text/javascript">localize(1659594932);</script>|
 |x86_64|[x86_64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|PUBLISHED||[2648614297](https://github.com/arch4edu/cactus/actions/runs/2648614297)|<script type="text/javascript">localize(1657535804);</script>|
@@ -898,6 +901,7 @@ Last update: <script type="text/javascript">localize(1660372235.8011065);</scrip
 |x86_64|[x86_64/wxwidgets-gtk2](https://aur.archlinux.org/pkgbase/wxwidgets-gtk2)|PUBLISHED||[2787415558](https://github.com/arch4edu/cactus/actions/runs/2787415558)|<script type="text/javascript">localize(1659511616);</script>|
 |x86_64|[x86_64/xflr5](https://aur.archlinux.org/pkgbase/xflr5)|PUBLISHED||[2687819685](https://github.com/arch4edu/cactus/actions/runs/2687819685)|<script type="text/javascript">localize(1658117473);</script>|
 |x86_64|[x86_64/yay](https://aur.archlinux.org/pkgbase/yay)|PUBLISHED||[2648491738](https://github.com/arch4edu/cactus/actions/runs/2648491738)|<script type="text/javascript">localize(1657532315);</script>|
+|x86_64|[x86_64/zotero](https://aur.archlinux.org/pkgbase/zotero)|BUILT||[2851847313](https://github.com/arch4edu/cactus/actions/runs/2851847313)|<script type="text/javascript">localize(1660391173);</script>|
 |x86_64|[x86_64/zotero-bin](https://aur.archlinux.org/pkgbase/zotero-bin)|PUBLISHED||[2695686532](https://github.com/arch4edu/cactus/actions/runs/2695686532)|<script type="text/javascript">localize(1658215507);</script>|
 
 <script src="./tablefilter/tablefilter.js"></script>
