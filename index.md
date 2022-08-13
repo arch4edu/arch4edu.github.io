@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660356569.3356652);</script>
+Last update: <script type="text/javascript">localize(1660362580.2055168);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -345,7 +345,7 @@ Last update: <script type="text/javascript">localize(1660356569.3356652);</scrip
 |x86_64|[x86_64/python-mkl-random](https://aur.archlinux.org/pkgbase/python-mkl-random)|PUBLISHED||[2647863009](https://github.com/arch4edu/cactus/actions/runs/2647863009)|<script type="text/javascript">localize(1657525891);</script>|
 |x86_64|[x86_64/python-mkl-service](https://aur.archlinux.org/pkgbase/python-mkl-service)|PUBLISHED||[2649233468](https://github.com/arch4edu/cactus/actions/runs/2649233468)|<script type="text/javascript">localize(1657544212);</script>|
 |x86_64|[x86_64/python-numba](https://aur.archlinux.org/pkgbase/python-numba)|PUBLISHED||[2844084802](https://github.com/arch4edu/cactus/actions/runs/2844084802)|<script type="text/javascript">localize(1660347441);</script>|
-|x86_64|[x86_64/python-numba-git](https://aur.archlinux.org/pkgbase/python-numba-git)|PUBLISHED||[2844084848](https://github.com/arch4edu/cactus/actions/runs/2844084848)|<script type="text/javascript">localize(1660347453);</script>|
+|x86_64|[x86_64/python-numba-git](https://aur.archlinux.org/pkgbase/python-numba-git)|BUILT||[2850404706](https://github.com/arch4edu/cactus/actions/runs/2850404706)|<script type="text/javascript">localize(1660361765);</script>|
 |x86_64|[x86_64/python-numpy-mkl](https://aur.archlinux.org/pkgbase/python-numpy-mkl)|PUBLISHED||[2839983074](https://github.com/arch4edu/cactus/actions/runs/2839983074)|<script type="text/javascript">localize(1660260516);</script>|
 |x86_64|[x86_64/python-pyerfa](https://aur.archlinux.org/pkgbase/python-pyerfa)|PUBLISHED||[2649006345](https://github.com/arch4edu/cactus/actions/runs/2649006345)|<script type="text/javascript">localize(1657538880);</script>|
 |x86_64|[x86_64/python-pygmo](https://aur.archlinux.org/pkgbase/python-pygmo)|PUBLISHED||[2649233563](https://github.com/arch4edu/cactus/actions/runs/2649233563)|<script type="text/javascript">localize(1657544235);</script>|
@@ -370,7 +370,7 @@ Last update: <script type="text/javascript">localize(1660356569.3356652);</scrip
 |x86_64/r|[x86_64/r/cctz](https://aur.archlinux.org/pkgbase/cctz)|PUBLISHED||[2703355331](https://github.com/arch4edu/cactus/actions/runs/2703355331)|<script type="text/javascript">localize(1658309187);</script>|
 |x86_64/r|[x86_64/r/hopscotch-map](https://aur.archlinux.org/pkgbase/hopscotch-map)|PUBLISHED||[2703562939](https://github.com/arch4edu/cactus/actions/runs/2703562939)|<script type="text/javascript">localize(1658309199);</script>|
 |x86_64/r|[x86_64/r/jags](https://aur.archlinux.org/pkgbase/jags)|PUBLISHED||[2703563299](https://github.com/arch4edu/cactus/actions/runs/2703563299)|<script type="text/javascript">localize(1658309211);</script>|
-|x86_64/r|[x86_64/r/jasp-desktop](https://aur.archlinux.org/pkgbase/jasp-desktop)|FAILED|Dependency issue: x86_64/r/r-jaspregression.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1660222995);</script>|
+|x86_64/r|[x86_64/r/jasp-desktop](https://aur.archlinux.org/pkgbase/jasp-desktop)|FAILED|Dependency issue: x86_64/r/r-jaspsummarystatistics.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1660357652);</script>|
 |x86_64/r|[x86_64/r/r-abind](https://aur.archlinux.org/pkgbase/r-abind)|PUBLISHED||[2703562400](https://github.com/arch4edu/cactus/actions/runs/2703562400)|<script type="text/javascript">localize(1658309225);</script>|
 |x86_64/r|[x86_64/r/r-abtest](https://aur.archlinux.org/pkgbase/r-abtest)|PUBLISHED||[2704117457](https://github.com/arch4edu/cactus/actions/runs/2704117457)|<script type="text/javascript">localize(1658316121);</script>|
 |x86_64/r|[x86_64/r/r-afex](https://aur.archlinux.org/pkgbase/r-afex)|PUBLISHED||[2787416207](https://github.com/arch4edu/cactus/actions/runs/2787416207)|<script type="text/javascript">localize(1659511474);</script>|
@@ -826,7 +826,7 @@ Last update: <script type="text/javascript">localize(1660356569.3356652);</scrip
 |x86_64/rocm|[x86_64/rocm/rocsparse](https://aur.archlinux.org/pkgbase/rocsparse)|PUBLISHED||[2722971116](https://github.com/arch4edu/cactus/actions/runs/2722971116)|<script type="text/javascript">localize(1658568391);</script>|
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[2649431930](https://github.com/arch4edu/cactus/actions/runs/2649431930)|<script type="text/javascript">localize(1657544459);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[2722989132](https://github.com/arch4edu/cactus/actions/runs/2722989132)|<script type="text/javascript">localize(1658565196);</script>|
-|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[2839983400](https://github.com/arch4edu/cactus/actions/runs/2839983400)|<script type="text/javascript">localize(1660223695);</script>|
+|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[2850404742](https://github.com/arch4edu/cactus/actions/runs/2850404742)|<script type="text/javascript">localize(1660358032);</script>|
 |x86_64/ros2|[x86_64/ros2/python-catkin_pkg](https://aur.archlinux.org/pkgbase/python-catkin_pkg)|PUBLISHED||[2647891583](https://github.com/arch4edu/cactus/actions/runs/2647891583)|<script type="text/javascript">localize(1657525948);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-argcomplete](https://aur.archlinux.org/pkgbase/python-colcon-argcomplete)|PUBLISHED||[2648831811](https://github.com/arch4edu/cactus/actions/runs/2648831811)|<script type="text/javascript">localize(1657535972);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-bash](https://aur.archlinux.org/pkgbase/python-colcon-bash)|PUBLISHED||[2648768277](https://github.com/arch4edu/cactus/actions/runs/2648768277)|<script type="text/javascript">localize(1657535987);</script>|
