@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660487022.148684);</script>
+Last update: <script type="text/javascript">localize(1660519481.6453328);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -30,8 +30,8 @@ Last update: <script type="text/javascript">localize(1660487022.148684);</script
 |aarch64|[aarch64/qemu-user-static-bin](https://aur.archlinux.org/pkgbase/qemu-user-static-bin)|PUBLISHED||[2816079107](https://github.com/arch4edu/cactus/actions/runs/2816079107)|<script type="text/javascript">localize(1660001209);</script>|
 |aarch64|[aarch64/rpi-imager](https://aur.archlinux.org/pkgbase/rpi-imager)|PUBLISHED||[2779967069](https://github.com/arch4edu/cactus/actions/runs/2779967069)|<script type="text/javascript">localize(1659421973);</script>|
 |aarch64|[aarch64/rpiusbboot](https://aur.archlinux.org/pkgbase/rpiusbboot)|PUBLISHED||[2648151519](https://github.com/arch4edu/cactus/actions/runs/2648151519)|<script type="text/javascript">localize(1657528609);</script>|
-|aarch64|[aarch64/seafile](https://aur.archlinux.org/pkgbase/seafile)|BUILT||[2854200620](https://github.com/arch4edu/cactus/actions/runs/2854200620)|<script type="text/javascript">localize(1660445476);</script>|
-|aarch64|[aarch64/seafile-client](https://aur.archlinux.org/pkgbase/seafile-client)|BUILT||[2854211597](https://github.com/arch4edu/cactus/actions/runs/2854211597)|<script type="text/javascript">localize(1660446038);</script>|
+|aarch64|[aarch64/seafile](https://aur.archlinux.org/pkgbase/seafile)|PUBLISHED||[2854200620](https://github.com/arch4edu/cactus/actions/runs/2854200620)|<script type="text/javascript">localize(1660519464);</script>|
+|aarch64|[aarch64/seafile-client](https://aur.archlinux.org/pkgbase/seafile-client)|PUBLISHED||[2854211597](https://github.com/arch4edu/cactus/actions/runs/2854211597)|<script type="text/javascript">localize(1660519474);</script>|
 |aarch64|[aarch64/shadowsocks-rust](https://aur.archlinux.org/pkgbase/shadowsocks-rust)|PUBLISHED||[2813405556](https://github.com/arch4edu/cactus/actions/runs/2813405556)|<script type="text/javascript">localize(1659914657);</script>|
 |aarch64|[aarch64/shellcheck-bin](https://aur.archlinux.org/pkgbase/shellcheck-bin)|BUILT||[2854189341](https://github.com/arch4edu/cactus/actions/runs/2854189341)|<script type="text/javascript">localize(1660445120);</script>|
 |aarch64|[aarch64/sublime-text-dev](https://aur.archlinux.org/pkgbase/sublime-text-dev)|PUBLISHED||[2816052367](https://github.com/arch4edu/cactus/actions/runs/2816052367)|<script type="text/javascript">localize(1660001222);</script>|
