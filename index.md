@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660484130.6770425);</script>
+Last update: <script type="text/javascript">localize(1660487022.148684);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -93,7 +93,7 @@ Last update: <script type="text/javascript">localize(1660484130.6770425);</scrip
 |any|[any/python-astropy-helpers](https://aur.archlinux.org/pkgbase/python-astropy-helpers)|PUBLISHED||[2647726227](https://github.com/arch4edu/cactus/actions/runs/2647726227)|<script type="text/javascript">localize(1657524939);</script>|
 |any|[any/python-astropy-sphinx-theme](https://aur.archlinux.org/pkgbase/python-astropy-sphinx-theme)|PUBLISHED||[2647751663](https://github.com/arch4edu/cactus/actions/runs/2647751663)|<script type="text/javascript">localize(1657524954);</script>|
 |any|[any/python-attrdict](https://aur.archlinux.org/pkgbase/python-attrdict)|PUBLISHED||[2704975549](https://github.com/arch4edu/cactus/actions/runs/2704975549)|<script type="text/javascript">localize(1658325075);</script>|
-|any|[any/python-audioread](https://aur.archlinux.org/pkgbase/python-audioread)|FAILED|Build failed.|[2855811912](https://github.com/arch4edu/cactus/actions/runs/2855811912)|<script type="text/javascript">localize(1660481658);</script>|
+|any|[any/python-audioread](https://aur.archlinux.org/pkgbase/python-audioread)|BUILT||[2855811912](https://github.com/arch4edu/cactus/actions/runs/2855811912)|<script type="text/javascript">localize(1660484241);</script>|
 |any|[any/python-bcolz](https://aur.archlinux.org/pkgbase/python-bcolz)|PUBLISHED||[2647674841](https://github.com/arch4edu/cactus/actions/runs/2647674841)|<script type="text/javascript">localize(1657521332);</script>|
 |any|[any/python-bokeh](https://aur.archlinux.org/pkgbase/python-bokeh)|PUBLISHED||[2647674795](https://github.com/arch4edu/cactus/actions/runs/2647674795)|<script type="text/javascript">localize(1657521349);</script>|
 |any|[any/python-cachey](https://aur.archlinux.org/pkgbase/python-cachey)|PUBLISHED||[2647702412](https://github.com/arch4edu/cactus/actions/runs/2647702412)|<script type="text/javascript">localize(1657524986);</script>|
