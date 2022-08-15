@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660571308.3709667);</script>
+Last update: <script type="text/javascript">localize(1660584684.9435349);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -207,7 +207,7 @@ Last update: <script type="text/javascript">localize(1660571308.3709667);</scrip
 |x86_64|[x86_64/coin-or-ipopt](https://aur.archlinux.org/pkgbase/coin-or-ipopt)|PUBLISHED||[2714035991](https://github.com/arch4edu/cactus/actions/runs/2714035991)|<script type="text/javascript">localize(1658431371);</script>|
 |x86_64|[x86_64/coin-or-lemon](https://aur.archlinux.org/pkgbase/coin-or-lemon)|PUBLISHED||[2709897336](https://github.com/arch4edu/cactus/actions/runs/2709897336)|<script type="text/javascript">localize(1658388289);</script>|
 |x86_64|[x86_64/combblas](https://aur.archlinux.org/pkgbase/combblas)|PUBLISHED||[2647919246](https://github.com/arch4edu/cactus/actions/runs/2647919246)|<script type="text/javascript">localize(1657529035);</script>|
-|x86_64|[x86_64/conftest](https://aur.archlinux.org/pkgbase/conftest)|FAILED|Build failed.|[2860822888](https://github.com/arch4edu/cactus/actions/runs/2860822888)|<script type="text/javascript">localize(1660569072);</script>|
+|x86_64|[x86_64/conftest](https://aur.archlinux.org/pkgbase/conftest)|FAILED|Build failed.|[2860822888](https://github.com/arch4edu/cactus/actions/runs/2860822888)|<script type="text/javascript">localize(1660584646);</script>|
 |x86_64|[x86_64/console-bridge](https://aur.archlinux.org/pkgbase/console-bridge)|PUBLISHED||[2648006199](https://github.com/arch4edu/cactus/actions/runs/2648006199)|<script type="text/javascript">localize(1657529047);</script>|
 |x86_64|[x86_64/cpptest](https://aur.archlinux.org/pkgbase/cpptest)|PUBLISHED||[2647948245](https://github.com/arch4edu/cactus/actions/runs/2647948245)|<script type="text/javascript">localize(1657529059);</script>|
 |x86_64|[x86_64/devtools-arch4edu-extra](https://aur.archlinux.org/pkgbase/devtools-arch4edu-extra)|PUBLISHED||[2648642921](https://github.com/arch4edu/cactus/actions/runs/2648642921)|<script type="text/javascript">localize(1657535625);</script>|
