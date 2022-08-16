@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660622803.3306224);</script>
+Last update: <script type="text/javascript">localize(1660634400.1717367);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -38,7 +38,7 @@ Last update: <script type="text/javascript">localize(1660622803.3306224);</scrip
 |aarch64|[aarch64/sublime-text-dev](https://aur.archlinux.org/pkgbase/sublime-text-dev)|PUBLISHED||[2816052367](https://github.com/arch4edu/cactus/actions/runs/2816052367)|<script type="text/javascript">localize(1660001222);</script>|
 |aarch64|[aarch64/teamviewer](https://aur.archlinux.org/pkgbase/teamviewer)|PUBLISHED||[2815876222](https://github.com/arch4edu/cactus/actions/runs/2815876222)|<script type="text/javascript">localize(1660001248);</script>|
 |aarch64|[aarch64/timeshift](https://aur.archlinux.org/pkgbase/timeshift)|PUBLISHED||[2850837795](https://github.com/arch4edu/cactus/actions/runs/2850837795)|<script type="text/javascript">localize(1660433075);</script>|
-|aarch64|[aarch64/torque](https://aur.archlinux.org/pkgbase/torque)|BUILT||[2864964016](https://github.com/arch4edu/cactus/actions/runs/2864964016)|<script type="text/javascript">localize(1660619654);</script>|
+|aarch64|[aarch64/torque](https://aur.archlinux.org/pkgbase/torque)|PUBLISHED||[2864964016](https://github.com/arch4edu/cactus/actions/runs/2864964016)|<script type="text/javascript">localize(1660632052);</script>|
 |aarch64|[aarch64/ventoy-bin](https://aur.archlinux.org/pkgbase/ventoy-bin)|PUBLISHED||[2829601033](https://github.com/arch4edu/cactus/actions/runs/2829601033)|<script type="text/javascript">localize(1660173871);</script>|
 |aarch64|[aarch64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[2647918692](https://github.com/arch4edu/cactus/actions/runs/2647918692)|<script type="text/javascript">localize(1657528618);</script>|
 |aarch64|[aarch64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|PUBLISHED||[2836971248](https://github.com/arch4edu/cactus/actions/runs/2836971248)|<script type="text/javascript">localize(1660260437);</script>|
@@ -335,7 +335,7 @@ Last update: <script type="text/javascript">localize(1660622803.3306224);</scrip
 |x86_64|[x86_64/pocketsphinx](https://aur.archlinux.org/pkgbase/pocketsphinx)|PUBLISHED||[2648892344](https://github.com/arch4edu/cactus/actions/runs/2648892344)|<script type="text/javascript">localize(1657535853);</script>|
 |x86_64|[x86_64/popsift](https://aur.archlinux.org/pkgbase/popsift)|PUBLISHED||[2710342737](https://github.com/arch4edu/cactus/actions/runs/2710342737)|<script type="text/javascript">localize(1658392364);</script>|
 |x86_64|[x86_64/praat](https://aur.archlinux.org/pkgbase/praat)|PUBLISHED||[2860823268](https://github.com/arch4edu/cactus/actions/runs/2860823268)|<script type="text/javascript">localize(1660588975);</script>|
-|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|BUILT||[2864897622](https://github.com/arch4edu/cactus/actions/runs/2864897622)|<script type="text/javascript">localize(1660620066);</script>|
+|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|PUBLISHED||[2864897622](https://github.com/arch4edu/cactus/actions/runs/2864897622)|<script type="text/javascript">localize(1660632073);</script>|
 |x86_64|[x86_64/python-arch](https://aur.archlinux.org/pkgbase/python-arch)|PUBLISHED||[2648671250](https://github.com/arch4edu/cactus/actions/runs/2648671250)|<script type="text/javascript">localize(1657535875);</script>|
 |x86_64|[x86_64/python-astropy](https://aur.archlinux.org/pkgbase/python-astropy)|PUBLISHED||[2654687015](https://github.com/arch4edu/cactus/actions/runs/2654687015)|<script type="text/javascript">localize(1657610830);</script>|
 |x86_64|[x86_64/python-astroquery](https://aur.archlinux.org/pkgbase/python-astroquery)|PUBLISHED||[2654741402](https://github.com/arch4edu/cactus/actions/runs/2654741402)|<script type="text/javascript">localize(1657610842);</script>|
@@ -651,7 +651,7 @@ Last update: <script type="text/javascript">localize(1660622803.3306224);</scrip
 |x86_64/r|[x86_64/r/r-plyr](https://aur.archlinux.org/pkgbase/r-plyr)|PUBLISHED||[2703683579](https://github.com/arch4edu/cactus/actions/runs/2703683579)|<script type="text/javascript">localize(1658314108);</script>|
 |x86_64/r|[x86_64/r/r-png](https://aur.archlinux.org/pkgbase/r-png)|PUBLISHED||[2703272974](https://github.com/arch4edu/cactus/actions/runs/2703272974)|<script type="text/javascript">localize(1658306440);</script>|
 |x86_64/r|[x86_64/r/r-polynom](https://aur.archlinux.org/pkgbase/r-polynom)|PUBLISHED||[2714005473](https://github.com/arch4edu/cactus/actions/runs/2714005473)|<script type="text/javascript">localize(1658431833);</script>|
-|x86_64/r|[x86_64/r/r-posterior](https://aur.archlinux.org/pkgbase/r-posterior)|BUILT||[2864897720](https://github.com/arch4edu/cactus/actions/runs/2864897720)|<script type="text/javascript">localize(1660618398);</script>|
+|x86_64/r|[x86_64/r/r-posterior](https://aur.archlinux.org/pkgbase/r-posterior)|PUBLISHED||[2864897720](https://github.com/arch4edu/cactus/actions/runs/2864897720)|<script type="text/javascript">localize(1660632088);</script>|
 |x86_64/r|[x86_64/r/r-ppcor](https://aur.archlinux.org/pkgbase/r-ppcor)|PUBLISHED||[2703519343](https://github.com/arch4edu/cactus/actions/runs/2703519343)|<script type="text/javascript">localize(1658310101);</script>|
 |x86_64/r|[x86_64/r/r-prabclus](https://aur.archlinux.org/pkgbase/r-prabclus)|PUBLISHED||[2703804109](https://github.com/arch4edu/cactus/actions/runs/2703804109)|<script type="text/javascript">localize(1658314123);</script>|
 |x86_64/r|[x86_64/r/r-praise](https://aur.archlinux.org/pkgbase/r-praise)|PUBLISHED||[2703273282](https://github.com/arch4edu/cactus/actions/runs/2703273282)|<script type="text/javascript">localize(1658306455);</script>|
@@ -891,7 +891,7 @@ Last update: <script type="text/javascript">localize(1660622803.3306224);</scrip
 |x86_64|[x86_64/termcap](https://aur.archlinux.org/pkgbase/termcap)|PUBLISHED||[2648244059](https://github.com/arch4edu/cactus/actions/runs/2648244059)|<script type="text/javascript">localize(1657530398);</script>|
 |x86_64|[x86_64/timeshift](https://aur.archlinux.org/pkgbase/timeshift)|PUBLISHED||[2850837820](https://github.com/arch4edu/cactus/actions/runs/2850837820)|<script type="text/javascript">localize(1660433178);</script>|
 |x86_64|[x86_64/tix](https://aur.archlinux.org/pkgbase/tix)|PUBLISHED||[2648005726](https://github.com/arch4edu/cactus/actions/runs/2648005726)|<script type="text/javascript">localize(1657530410);</script>|
-|x86_64|[x86_64/torque](https://aur.archlinux.org/pkgbase/torque)|BUILT||[2864897552](https://github.com/arch4edu/cactus/actions/runs/2864897552)|<script type="text/javascript">localize(1660618679);</script>|
+|x86_64|[x86_64/torque](https://aur.archlinux.org/pkgbase/torque)|PUBLISHED||[2864897552](https://github.com/arch4edu/cactus/actions/runs/2864897552)|<script type="text/javascript">localize(1660632099);</script>|
 |x86_64|[x86_64/trilinos](https://aur.archlinux.org/pkgbase/trilinos)|PUBLISHED||[2748877176](https://github.com/arch4edu/cactus/actions/runs/2748877176)|<script type="text/javascript">localize(1658957003);</script>|
 |x86_64|[x86_64/udunits](https://aur.archlinux.org/pkgbase/udunits)|PUBLISHED||[2648062995](https://github.com/arch4edu/cactus/actions/runs/2648062995)|<script type="text/javascript">localize(1657530420);</script>|
 |x86_64|[x86_64/uncertainty-framework](https://aur.archlinux.org/pkgbase/uncertainty-framework)|PUBLISHED||[2710249655](https://github.com/arch4edu/cactus/actions/runs/2710249655)|<script type="text/javascript">localize(1658392376);</script>|
