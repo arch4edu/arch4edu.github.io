@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660916802.063123);</script>
+Last update: <script type="text/javascript">localize(1660927177.544173);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -825,7 +825,7 @@ Last update: <script type="text/javascript">localize(1660916802.063123);</script
 |x86_64/rocm|[x86_64/rocm/rocm-hip-runtime](https://aur.archlinux.org/pkgbase/rocm-hip-runtime)|PUBLISHED||[2779967142](https://github.com/arch4edu/cactus/actions/runs/2779967142)|<script type="text/javascript">localize(1659422018);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-hip-sdk](https://aur.archlinux.org/pkgbase/rocm-hip-sdk)|FAILED|Build failed.|[2882722467](https://github.com/arch4edu/cactus/actions/runs/2882722467)|<script type="text/javascript">localize(1660829545);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-language-runtime](https://aur.archlinux.org/pkgbase/rocm-language-runtime)|PUBLISHED||[2779915358](https://github.com/arch4edu/cactus/actions/runs/2779915358)|<script type="text/javascript">localize(1659422029);</script>|
-|x86_64/rocm|[x86_64/rocm/rocm-llvm](https://aur.archlinux.org/pkgbase/rocm-llvm)|BUILDING|GitHubActions|[2889595649](https://github.com/arch4edu/cactus/actions/runs/2889595649)|<script type="text/javascript">localize(1660914098);</script>|
+|x86_64/rocm|[x86_64/rocm/rocm-llvm](https://aur.archlinux.org/pkgbase/rocm-llvm)|BUILT||[2889595649](https://github.com/arch4edu/cactus/actions/runs/2889595649)|<script type="text/javascript">localize(1660923604);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-llvm-mlir](https://aur.archlinux.org/pkgbase/rocm-llvm-mlir)|PUBLISHED||[2724619126](https://github.com/arch4edu/cactus/actions/runs/2724619126)|<script type="text/javascript">localize(1658611431);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-opencl-runtime](https://aur.archlinux.org/pkgbase/rocm-opencl-runtime)|PUBLISHED||[2720663920](https://github.com/arch4edu/cactus/actions/runs/2720663920)|<script type="text/javascript">localize(1658518124);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-opencl-sdk](https://aur.archlinux.org/pkgbase/rocm-opencl-sdk)|PUBLISHED||[2779967101](https://github.com/arch4edu/cactus/actions/runs/2779967101)|<script type="text/javascript">localize(1659422039);</script>|
