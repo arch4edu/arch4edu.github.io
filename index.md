@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660973152.9826624);</script>
+Last update: <script type="text/javascript">localize(1660977060.7621808);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -110,7 +110,7 @@ Last update: <script type="text/javascript">localize(1660973152.9826624);</scrip
 |any|[any/python-glog](https://aur.archlinux.org/pkgbase/python-glog)|PUBLISHED||[2647702263](https://github.com/arch4edu/cactus/actions/runs/2647702263)|<script type="text/javascript">localize(1657525074);</script>|
 |any|[any/python-gpustat](https://aur.archlinux.org/pkgbase/python-gpustat)|PUBLISHED||[2648671456](https://github.com/arch4edu/cactus/actions/runs/2648671456)|<script type="text/javascript">localize(1657535486);</script>|
 |any|[any/python-grip](https://aur.archlinux.org/pkgbase/python-grip)|PUBLISHED||[2648701555](https://github.com/arch4edu/cactus/actions/runs/2648701555)|<script type="text/javascript">localize(1657535500);</script>|
-|any|[any/python-imread](https://aur.archlinux.org/pkgbase/python-imread)|BUILT||[2893607354](https://github.com/arch4edu/cactus/actions/runs/2893607354)|<script type="text/javascript">localize(1660972759);</script>|
+|any|[any/python-imread](https://aur.archlinux.org/pkgbase/python-imread)|BUILT||[2893644901](https://github.com/arch4edu/cactus/actions/runs/2893644901)|<script type="text/javascript">localize(1660973657);</script>|
 |any|[any/python-librosa](https://aur.archlinux.org/pkgbase/python-librosa)|PUBLISHED||[2718779317](https://github.com/arch4edu/cactus/actions/runs/2718779317)|<script type="text/javascript">localize(1658497445);</script>|
 |any|[any/python-multipledispatch](https://aur.archlinux.org/pkgbase/python-multipledispatch)|PUBLISHED||[2647702460](https://github.com/arch4edu/cactus/actions/runs/2647702460)|<script type="text/javascript">localize(1657525104);</script>|
 |any|[any/python-multiprocess](https://aur.archlinux.org/pkgbase/python-multiprocess)|PUBLISHED||[2647831859](https://github.com/arch4edu/cactus/actions/runs/2647831859)|<script type="text/javascript">localize(1657525119);</script>|
@@ -287,7 +287,7 @@ Last update: <script type="text/javascript">localize(1660973152.9826624);</scrip
 |x86_64|[x86_64/libnn-git](https://aur.archlinux.org/pkgbase/libnn-git)|PUBLISHED||[2656798514](https://github.com/arch4edu/cactus/actions/runs/2656798514)|<script type="text/javascript">localize(1657640380);</script>|
 |x86_64|[x86_64/libnvidia-container](https://aur.archlinux.org/pkgbase/libnvidia-container)|PUBLISHED||[2648586542](https://github.com/arch4edu/cactus/actions/runs/2648586542)|<script type="text/javascript">localize(1657535763);</script>|
 |x86_64|[x86_64/libsearpc](https://aur.archlinux.org/pkgbase/libsearpc)|PUBLISHED||[2648554069](https://github.com/arch4edu/cactus/actions/runs/2648554069)|<script type="text/javascript">localize(1657532049);</script>|
-|x86_64|[x86_64/libxc](https://aur.archlinux.org/pkgbase/libxc)|FAILED|Build failed.|[2886714351](https://github.com/arch4edu/cactus/actions/runs/2886714351)|<script type="text/javascript">localize(1660877312);</script>|
+|x86_64|[x86_64/libxc](https://aur.archlinux.org/pkgbase/libxc)|FAILED|Build failed.|[2893687620](https://github.com/arch4edu/cactus/actions/runs/2893687620)|<script type="text/javascript">localize(1660974587);</script>|
 |x86_64|[x86_64/lief](https://aur.archlinux.org/pkgbase/lief)|PUBLISHED||[2648395684](https://github.com/arch4edu/cactus/actions/runs/2648395684)|<script type="text/javascript">localize(1657532060);</script>|
 |x86_64|[x86_64/lis](https://aur.archlinux.org/pkgbase/lis)|PUBLISHED||[2647862364](https://github.com/arch4edu/cactus/actions/runs/2647862364)|<script type="text/javascript">localize(1657525814);</script>|
 |x86_64|[x86_64/lua51-cjson](https://aur.archlinux.org/pkgbase/lua51-cjson)|PUBLISHED||[2647862934](https://github.com/arch4edu/cactus/actions/runs/2647862934)|<script type="text/javascript">localize(1657525825);</script>|
