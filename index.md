@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660967960.1698759);</script>
+Last update: <script type="text/javascript">localize(1660973152.9826624);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -110,7 +110,7 @@ Last update: <script type="text/javascript">localize(1660967960.1698759);</scrip
 |any|[any/python-glog](https://aur.archlinux.org/pkgbase/python-glog)|PUBLISHED||[2647702263](https://github.com/arch4edu/cactus/actions/runs/2647702263)|<script type="text/javascript">localize(1657525074);</script>|
 |any|[any/python-gpustat](https://aur.archlinux.org/pkgbase/python-gpustat)|PUBLISHED||[2648671456](https://github.com/arch4edu/cactus/actions/runs/2648671456)|<script type="text/javascript">localize(1657535486);</script>|
 |any|[any/python-grip](https://aur.archlinux.org/pkgbase/python-grip)|PUBLISHED||[2648701555](https://github.com/arch4edu/cactus/actions/runs/2648701555)|<script type="text/javascript">localize(1657535500);</script>|
-|any|[any/python-imread](https://aur.archlinux.org/pkgbase/python-imread)|BUILT||[2893222691](https://github.com/arch4edu/cactus/actions/runs/2893222691)|<script type="text/javascript">localize(1660963584);</script>|
+|any|[any/python-imread](https://aur.archlinux.org/pkgbase/python-imread)|BUILT||[2893607354](https://github.com/arch4edu/cactus/actions/runs/2893607354)|<script type="text/javascript">localize(1660972759);</script>|
 |any|[any/python-librosa](https://aur.archlinux.org/pkgbase/python-librosa)|PUBLISHED||[2718779317](https://github.com/arch4edu/cactus/actions/runs/2718779317)|<script type="text/javascript">localize(1658497445);</script>|
 |any|[any/python-multipledispatch](https://aur.archlinux.org/pkgbase/python-multipledispatch)|PUBLISHED||[2647702460](https://github.com/arch4edu/cactus/actions/runs/2647702460)|<script type="text/javascript">localize(1657525104);</script>|
 |any|[any/python-multiprocess](https://aur.archlinux.org/pkgbase/python-multiprocess)|PUBLISHED||[2647831859](https://github.com/arch4edu/cactus/actions/runs/2647831859)|<script type="text/javascript">localize(1657525119);</script>|
