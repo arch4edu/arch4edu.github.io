@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1660980202.1682138);</script>
+Last update: <script type="text/javascript">localize(1660987463.2522726);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -287,7 +287,7 @@ Last update: <script type="text/javascript">localize(1660980202.1682138);</scrip
 |x86_64|[x86_64/libnn-git](https://aur.archlinux.org/pkgbase/libnn-git)|PUBLISHED||[2656798514](https://github.com/arch4edu/cactus/actions/runs/2656798514)|<script type="text/javascript">localize(1657640380);</script>|
 |x86_64|[x86_64/libnvidia-container](https://aur.archlinux.org/pkgbase/libnvidia-container)|PUBLISHED||[2648586542](https://github.com/arch4edu/cactus/actions/runs/2648586542)|<script type="text/javascript">localize(1657535763);</script>|
 |x86_64|[x86_64/libsearpc](https://aur.archlinux.org/pkgbase/libsearpc)|PUBLISHED||[2648554069](https://github.com/arch4edu/cactus/actions/runs/2648554069)|<script type="text/javascript">localize(1657532049);</script>|
-|x86_64|[x86_64/libxc](https://aur.archlinux.org/pkgbase/libxc)|FAILED|Build failed.|[2893687620](https://github.com/arch4edu/cactus/actions/runs/2893687620)|<script type="text/javascript">localize(1660974587);</script>|
+|x86_64|[x86_64/libxc](https://aur.archlinux.org/pkgbase/libxc)|FAILED|Build failed.|[2894229278](https://github.com/arch4edu/cactus/actions/runs/2894229278)|<script type="text/javascript">localize(1660986966);</script>|
 |x86_64|[x86_64/lief](https://aur.archlinux.org/pkgbase/lief)|PUBLISHED||[2648395684](https://github.com/arch4edu/cactus/actions/runs/2648395684)|<script type="text/javascript">localize(1657532060);</script>|
 |x86_64|[x86_64/lis](https://aur.archlinux.org/pkgbase/lis)|PUBLISHED||[2647862364](https://github.com/arch4edu/cactus/actions/runs/2647862364)|<script type="text/javascript">localize(1657525814);</script>|
 |x86_64|[x86_64/lua51-cjson](https://aur.archlinux.org/pkgbase/lua51-cjson)|PUBLISHED||[2647862934](https://github.com/arch4edu/cactus/actions/runs/2647862934)|<script type="text/javascript">localize(1657525825);</script>|
