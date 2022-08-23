@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1661279486.8325214);</script>
+Last update: <script type="text/javascript">localize(1661282463.9413383);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -811,7 +811,7 @@ Last update: <script type="text/javascript">localize(1661279486.8325214);</scrip
 |x86_64/rocm|[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|PUBLISHED||[2720664036](https://github.com/arch4edu/cactus/actions/runs/2720664036)|<script type="text/javascript">localize(1658522126);</script>|
 |x86_64/rocm|[x86_64/rocm/python-pytorch-rocm](https://aur.archlinux.org/pkgbase/python-pytorch-rocm)|PUBLISHED||[2830266975](https://github.com/arch4edu/cactus/actions/runs/2830266975)|<script type="text/javascript">localize(1660174063);</script>|
 |x86_64/rocm|[x86_64/rocm/rccl](https://aur.archlinux.org/pkgbase/rccl)|PUBLISHED||[2901638389](https://github.com/arch4edu/cactus/actions/runs/2901638389)|<script type="text/javascript">localize(1661193597);</script>|
-|x86_64/rocm|[x86_64/rocm/rocalution](https://aur.archlinux.org/pkgbase/rocalution)|BUILT||[2911747529](https://github.com/arch4edu/cactus/actions/runs/2911747529)|<script type="text/javascript">localize(1661260667);</script>|
+|x86_64/rocm|[x86_64/rocm/rocalution](https://aur.archlinux.org/pkgbase/rocalution)|PUBLISHED||[2911747529](https://github.com/arch4edu/cactus/actions/runs/2911747529)|<script type="text/javascript">localize(1661279954);</script>|
 |x86_64/rocm|[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|PUBLISHED||[2898553087](https://github.com/arch4edu/cactus/actions/runs/2898553087)|<script type="text/javascript">localize(1661193621);</script>|
 |x86_64/rocm|[x86_64/rocm/rocfft](https://aur.archlinux.org/pkgbase/rocfft)|PUBLISHED||[2723335757](https://github.com/arch4edu/cactus/actions/runs/2723335757)|<script type="text/javascript">localize(1658580343);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-clang-ocl](https://aur.archlinux.org/pkgbase/rocm-clang-ocl)|PUBLISHED||[2720690833](https://github.com/arch4edu/cactus/actions/runs/2720690833)|<script type="text/javascript">localize(1658518072);</script>|
@@ -834,7 +834,7 @@ Last update: <script type="text/javascript">localize(1661279486.8325214);</scrip
 |x86_64/rocm|[x86_64/rocm/rocprim](https://aur.archlinux.org/pkgbase/rocprim)|PUBLISHED||[2896995995](https://github.com/arch4edu/cactus/actions/runs/2896995995)|<script type="text/javascript">localize(1661064158);</script>|
 |x86_64/rocm|[x86_64/rocm/rocprofiler](https://aur.archlinux.org/pkgbase/rocprofiler)|PUBLISHED||[2722971032](https://github.com/arch4edu/cactus/actions/runs/2722971032)|<script type="text/javascript">localize(1658565169);</script>|
 |x86_64/rocm|[x86_64/rocm/rocrand](https://aur.archlinux.org/pkgbase/rocrand)|PUBLISHED||[2898553066](https://github.com/arch4edu/cactus/actions/runs/2898553066)|<script type="text/javascript">localize(1661107114);</script>|
-|x86_64/rocm|[x86_64/rocm/rocsolver](https://aur.archlinux.org/pkgbase/rocsolver)|BUILT||[2911747409](https://github.com/arch4edu/cactus/actions/runs/2911747409)|<script type="text/javascript">localize(1661275741);</script>|
+|x86_64/rocm|[x86_64/rocm/rocsolver](https://aur.archlinux.org/pkgbase/rocsolver)|PUBLISHED||[2911747409](https://github.com/arch4edu/cactus/actions/runs/2911747409)|<script type="text/javascript">localize(1661279977);</script>|
 |x86_64/rocm|[x86_64/rocm/rocsparse](https://aur.archlinux.org/pkgbase/rocsparse)|PUBLISHED||[2898553130](https://github.com/arch4edu/cactus/actions/runs/2898553130)|<script type="text/javascript">localize(1661107129);</script>|
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[2897008697](https://github.com/arch4edu/cactus/actions/runs/2897008697)|<script type="text/javascript">localize(1661064169);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[2722989132](https://github.com/arch4edu/cactus/actions/runs/2722989132)|<script type="text/javascript">localize(1658565196);</script>|
