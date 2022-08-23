@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1661230144.5381691);</script>
+Last update: <script type="text/javascript">localize(1661239754.180223);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -182,7 +182,7 @@ Last update: <script type="text/javascript">localize(1661230144.5381691);</scrip
 |x86_64|[x86_64/alpm_octopi_utils](https://aur.archlinux.org/pkgbase/alpm_octopi_utils)|PUBLISHED||[2846907170](https://github.com/arch4edu/cactus/actions/runs/2846907170)|<script type="text/javascript">localize(1660346743);</script>|
 |x86_64|[x86_64/anaconda](https://aur.archlinux.org/pkgbase/anaconda)|PUBLISHED||[2647976154](https://github.com/arch4edu/cactus/actions/runs/2647976154)|<script type="text/javascript">localize(1657528848);</script>|
 |x86_64|[x86_64/android-emulator](https://aur.archlinux.org/pkgbase/android-emulator)|PUBLISHED||[2648036086](https://github.com/arch4edu/cactus/actions/runs/2648036086)|<script type="text/javascript">localize(1657528899);</script>|
-|x86_64|[x86_64/android-ndk](https://aur.archlinux.org/pkgbase/android-ndk)|BUILT||[2908556204](https://github.com/arch4edu/cactus/actions/runs/2908556204)|<script type="text/javascript">localize(1661224477);</script>|
+|x86_64|[x86_64/android-ndk](https://aur.archlinux.org/pkgbase/android-ndk)|PUBLISHED||[2908556204](https://github.com/arch4edu/cactus/actions/runs/2908556204)|<script type="text/javascript">localize(1661237445);</script>|
 |x86_64|[x86_64/android-sdk](https://aur.archlinux.org/pkgbase/android-sdk)|PUBLISHED||[2648118226](https://github.com/arch4edu/cactus/actions/runs/2648118226)|<script type="text/javascript">localize(1657528932);</script>|
 |x86_64|[x86_64/android-sdk-build-tools](https://aur.archlinux.org/pkgbase/android-sdk-build-tools)|PUBLISHED||[2648274560](https://github.com/arch4edu/cactus/actions/runs/2648274560)|<script type="text/javascript">localize(1657528951);</script>|
 |x86_64|[x86_64/android-sdk-platform-tools](https://aur.archlinux.org/pkgbase/android-sdk-platform-tools)|PUBLISHED||[2647918919](https://github.com/arch4edu/cactus/actions/runs/2647918919)|<script type="text/javascript">localize(1657525713);</script>|
@@ -338,7 +338,7 @@ Last update: <script type="text/javascript">localize(1661230144.5381691);</scrip
 |x86_64|[x86_64/pocketsphinx](https://aur.archlinux.org/pkgbase/pocketsphinx)|PUBLISHED||[2648892344](https://github.com/arch4edu/cactus/actions/runs/2648892344)|<script type="text/javascript">localize(1657535853);</script>|
 |x86_64|[x86_64/popsift](https://aur.archlinux.org/pkgbase/popsift)|PUBLISHED||[2710342737](https://github.com/arch4edu/cactus/actions/runs/2710342737)|<script type="text/javascript">localize(1658392364);</script>|
 |x86_64|[x86_64/praat](https://aur.archlinux.org/pkgbase/praat)|PUBLISHED||[2896919835](https://github.com/arch4edu/cactus/actions/runs/2896919835)|<script type="text/javascript">localize(1661064007);</script>|
-|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|BUILT||[2908556234](https://github.com/arch4edu/cactus/actions/runs/2908556234)|<script type="text/javascript">localize(1661227625);</script>|
+|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|PUBLISHED||[2908556234](https://github.com/arch4edu/cactus/actions/runs/2908556234)|<script type="text/javascript">localize(1661237456);</script>|
 |x86_64|[x86_64/python-arch](https://aur.archlinux.org/pkgbase/python-arch)|PUBLISHED||[2648671250](https://github.com/arch4edu/cactus/actions/runs/2648671250)|<script type="text/javascript">localize(1657535875);</script>|
 |x86_64|[x86_64/python-astropy](https://aur.archlinux.org/pkgbase/python-astropy)|PUBLISHED||[2654687015](https://github.com/arch4edu/cactus/actions/runs/2654687015)|<script type="text/javascript">localize(1657610830);</script>|
 |x86_64|[x86_64/python-astroquery](https://aur.archlinux.org/pkgbase/python-astroquery)|PUBLISHED||[2654741402](https://github.com/arch4edu/cactus/actions/runs/2654741402)|<script type="text/javascript">localize(1657610842);</script>|
@@ -357,7 +357,7 @@ Last update: <script type="text/javascript">localize(1661230144.5381691);</scrip
 |x86_64|[x86_64/python-mkl-random](https://aur.archlinux.org/pkgbase/python-mkl-random)|PUBLISHED||[2647863009](https://github.com/arch4edu/cactus/actions/runs/2647863009)|<script type="text/javascript">localize(1657525891);</script>|
 |x86_64|[x86_64/python-mkl-service](https://aur.archlinux.org/pkgbase/python-mkl-service)|PUBLISHED||[2649233468](https://github.com/arch4edu/cactus/actions/runs/2649233468)|<script type="text/javascript">localize(1657544212);</script>|
 |x86_64|[x86_64/python-numba](https://aur.archlinux.org/pkgbase/python-numba)|PUBLISHED||[2844084802](https://github.com/arch4edu/cactus/actions/runs/2844084802)|<script type="text/javascript">localize(1660347441);</script>|
-|x86_64|[x86_64/python-numba-git](https://aur.archlinux.org/pkgbase/python-numba-git)|BUILT||[2908556146](https://github.com/arch4edu/cactus/actions/runs/2908556146)|<script type="text/javascript">localize(1661223885);</script>|
+|x86_64|[x86_64/python-numba-git](https://aur.archlinux.org/pkgbase/python-numba-git)|PUBLISHED||[2908556146](https://github.com/arch4edu/cactus/actions/runs/2908556146)|<script type="text/javascript">localize(1661237468);</script>|
 |x86_64|[x86_64/python-numpy-mkl](https://aur.archlinux.org/pkgbase/python-numpy-mkl)|PUBLISHED||[2860822849](https://github.com/arch4edu/cactus/actions/runs/2860822849)|<script type="text/javascript">localize(1660588987);</script>|
 |x86_64|[x86_64/python-pyerfa](https://aur.archlinux.org/pkgbase/python-pyerfa)|PUBLISHED||[2649006345](https://github.com/arch4edu/cactus/actions/runs/2649006345)|<script type="text/javascript">localize(1657538880);</script>|
 |x86_64|[x86_64/python-pygmo](https://aur.archlinux.org/pkgbase/python-pygmo)|PUBLISHED||[2649233563](https://github.com/arch4edu/cactus/actions/runs/2649233563)|<script type="text/javascript">localize(1657544235);</script>|
