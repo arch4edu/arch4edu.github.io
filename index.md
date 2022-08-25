@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1661435347.7783344);</script>
+Last update: <script type="text/javascript">localize(1661455284.0056508);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -124,7 +124,7 @@ Last update: <script type="text/javascript">localize(1661435347.7783344);</scrip
 |any|[any/python-path-and-address](https://aur.archlinux.org/pkgbase/python-path-and-address)|PUBLISHED||[2647775632](https://github.com/arch4edu/cactus/actions/runs/2647775632)|<script type="text/javascript">localize(1657525191);</script>|
 |any|[any/python-peachpy-git](https://aur.archlinux.org/pkgbase/python-peachpy-git)|PUBLISHED||[2648738146](https://github.com/arch4edu/cactus/actions/runs/2648738146)|<script type="text/javascript">localize(1657535528);</script>|
 |any|[any/python-pep8](https://aur.archlinux.org/pkgbase/python-pep8)|PUBLISHED||[2647673883](https://github.com/arch4edu/cactus/actions/runs/2647673883)|<script type="text/javascript">localize(1657521407);</script>|
-|any|[any/python-plotly](https://aur.archlinux.org/pkgbase/python-plotly)|BUILT||[2926740185](https://github.com/arch4edu/cactus/actions/runs/2926740185)|<script type="text/javascript">localize(1661433002);</script>|
+|any|[any/python-plotly](https://aur.archlinux.org/pkgbase/python-plotly)|PUBLISHED||[2926740185](https://github.com/arch4edu/cactus/actions/runs/2926740185)|<script type="text/javascript">localize(1661452755);</script>|
 |any|[any/python-pooch](https://aur.archlinux.org/pkgbase/python-pooch)|PUBLISHED||[2647751228](https://github.com/arch4edu/cactus/actions/runs/2647751228)|<script type="text/javascript">localize(1657525206);</script>|
 |any|[any/python-property-cached](https://aur.archlinux.org/pkgbase/python-property-cached)|PUBLISHED||[2647673861](https://github.com/arch4edu/cactus/actions/runs/2647673861)|<script type="text/javascript">localize(1657521421);</script>|
 |any|[any/python-pybindgen](https://aur.archlinux.org/pkgbase/python-pybindgen)|PUBLISHED||[2647774624](https://github.com/arch4edu/cactus/actions/runs/2647774624)|<script type="text/javascript">localize(1657525216);</script>|
@@ -210,7 +210,7 @@ Last update: <script type="text/javascript">localize(1661435347.7783344);</scrip
 |x86_64|[x86_64/coin-or-coinmumps](https://aur.archlinux.org/pkgbase/coin-or-coinmumps)|PUBLISHED||[2648274639](https://github.com/arch4edu/cactus/actions/runs/2648274639)|<script type="text/javascript">localize(1657529023);</script>|
 |x86_64|[x86_64/coin-or-ipopt](https://aur.archlinux.org/pkgbase/coin-or-ipopt)|PUBLISHED||[2714035991](https://github.com/arch4edu/cactus/actions/runs/2714035991)|<script type="text/javascript">localize(1658431371);</script>|
 |x86_64|[x86_64/coin-or-lemon](https://aur.archlinux.org/pkgbase/coin-or-lemon)|PUBLISHED||[2709897336](https://github.com/arch4edu/cactus/actions/runs/2709897336)|<script type="text/javascript">localize(1658388289);</script>|
-|x86_64|[x86_64/combblas](https://aur.archlinux.org/pkgbase/combblas)|BUILT||[2926740301](https://github.com/arch4edu/cactus/actions/runs/2926740301)|<script type="text/javascript">localize(1661432833);</script>|
+|x86_64|[x86_64/combblas](https://aur.archlinux.org/pkgbase/combblas)|PUBLISHED||[2926740301](https://github.com/arch4edu/cactus/actions/runs/2926740301)|<script type="text/javascript">localize(1661452768);</script>|
 |x86_64|[x86_64/conftest](https://aur.archlinux.org/pkgbase/conftest)|PUBLISHED||[2866280486](https://github.com/arch4edu/cactus/actions/runs/2866280486)|<script type="text/javascript">localize(1660675366);</script>|
 |x86_64|[x86_64/console-bridge](https://aur.archlinux.org/pkgbase/console-bridge)|PUBLISHED||[2648006199](https://github.com/arch4edu/cactus/actions/runs/2648006199)|<script type="text/javascript">localize(1657529047);</script>|
 |x86_64|[x86_64/cpptest](https://aur.archlinux.org/pkgbase/cpptest)|PUBLISHED||[2647948245](https://github.com/arch4edu/cactus/actions/runs/2647948245)|<script type="text/javascript">localize(1657529059);</script>|
