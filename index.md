@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1661431901.8520126);</script>
+Last update: <script type="text/javascript">localize(1661435347.7783344);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -124,7 +124,7 @@ Last update: <script type="text/javascript">localize(1661431901.8520126);</scrip
 |any|[any/python-path-and-address](https://aur.archlinux.org/pkgbase/python-path-and-address)|PUBLISHED||[2647775632](https://github.com/arch4edu/cactus/actions/runs/2647775632)|<script type="text/javascript">localize(1657525191);</script>|
 |any|[any/python-peachpy-git](https://aur.archlinux.org/pkgbase/python-peachpy-git)|PUBLISHED||[2648738146](https://github.com/arch4edu/cactus/actions/runs/2648738146)|<script type="text/javascript">localize(1657535528);</script>|
 |any|[any/python-pep8](https://aur.archlinux.org/pkgbase/python-pep8)|PUBLISHED||[2647673883](https://github.com/arch4edu/cactus/actions/runs/2647673883)|<script type="text/javascript">localize(1657521407);</script>|
-|any|[any/python-plotly](https://aur.archlinux.org/pkgbase/python-plotly)|PUBLISHED||[2766798676](https://github.com/arch4edu/cactus/actions/runs/2766798676)|<script type="text/javascript">localize(1659208832);</script>|
+|any|[any/python-plotly](https://aur.archlinux.org/pkgbase/python-plotly)|BUILT||[2926740185](https://github.com/arch4edu/cactus/actions/runs/2926740185)|<script type="text/javascript">localize(1661433002);</script>|
 |any|[any/python-pooch](https://aur.archlinux.org/pkgbase/python-pooch)|PUBLISHED||[2647751228](https://github.com/arch4edu/cactus/actions/runs/2647751228)|<script type="text/javascript">localize(1657525206);</script>|
 |any|[any/python-property-cached](https://aur.archlinux.org/pkgbase/python-property-cached)|PUBLISHED||[2647673861](https://github.com/arch4edu/cactus/actions/runs/2647673861)|<script type="text/javascript">localize(1657521421);</script>|
 |any|[any/python-pybindgen](https://aur.archlinux.org/pkgbase/python-pybindgen)|PUBLISHED||[2647774624](https://github.com/arch4edu/cactus/actions/runs/2647774624)|<script type="text/javascript">localize(1657525216);</script>|
@@ -210,7 +210,7 @@ Last update: <script type="text/javascript">localize(1661431901.8520126);</scrip
 |x86_64|[x86_64/coin-or-coinmumps](https://aur.archlinux.org/pkgbase/coin-or-coinmumps)|PUBLISHED||[2648274639](https://github.com/arch4edu/cactus/actions/runs/2648274639)|<script type="text/javascript">localize(1657529023);</script>|
 |x86_64|[x86_64/coin-or-ipopt](https://aur.archlinux.org/pkgbase/coin-or-ipopt)|PUBLISHED||[2714035991](https://github.com/arch4edu/cactus/actions/runs/2714035991)|<script type="text/javascript">localize(1658431371);</script>|
 |x86_64|[x86_64/coin-or-lemon](https://aur.archlinux.org/pkgbase/coin-or-lemon)|PUBLISHED||[2709897336](https://github.com/arch4edu/cactus/actions/runs/2709897336)|<script type="text/javascript">localize(1658388289);</script>|
-|x86_64|[x86_64/combblas](https://aur.archlinux.org/pkgbase/combblas)|PUBLISHED||[2647919246](https://github.com/arch4edu/cactus/actions/runs/2647919246)|<script type="text/javascript">localize(1657529035);</script>|
+|x86_64|[x86_64/combblas](https://aur.archlinux.org/pkgbase/combblas)|BUILT||[2926740301](https://github.com/arch4edu/cactus/actions/runs/2926740301)|<script type="text/javascript">localize(1661432833);</script>|
 |x86_64|[x86_64/conftest](https://aur.archlinux.org/pkgbase/conftest)|PUBLISHED||[2866280486](https://github.com/arch4edu/cactus/actions/runs/2866280486)|<script type="text/javascript">localize(1660675366);</script>|
 |x86_64|[x86_64/console-bridge](https://aur.archlinux.org/pkgbase/console-bridge)|PUBLISHED||[2648006199](https://github.com/arch4edu/cactus/actions/runs/2648006199)|<script type="text/javascript">localize(1657529047);</script>|
 |x86_64|[x86_64/cpptest](https://aur.archlinux.org/pkgbase/cpptest)|PUBLISHED||[2647948245](https://github.com/arch4edu/cactus/actions/runs/2647948245)|<script type="text/javascript">localize(1657529059);</script>|
@@ -559,11 +559,11 @@ Last update: <script type="text/javascript">localize(1661431901.8520126);</scrip
 |x86_64/r|[x86_64/r/r-jaspnetwork](https://aur.archlinux.org/pkgbase/r-jaspnetwork)|PUBLISHED||[2882859544](https://github.com/arch4edu/cactus/actions/runs/2882859544)|<script type="text/javascript">localize(1660848212);</script>|
 |x86_64/r|[x86_64/r/r-jaspprocesscontrol](https://aur.archlinux.org/pkgbase/r-jaspprocesscontrol)|PUBLISHED||[2882859156](https://github.com/arch4edu/cactus/actions/runs/2882859156)|<script type="text/javascript">localize(1660848227);</script>|
 |x86_64/r|[x86_64/r/r-jaspprophet](https://aur.archlinux.org/pkgbase/r-jaspprophet)|PUBLISHED||[2882756937](https://github.com/arch4edu/cactus/actions/runs/2882756937)|<script type="text/javascript">localize(1660848241);</script>|
-|x86_64/r|[x86_64/r/r-jaspregression](https://aur.archlinux.org/pkgbase/r-jaspregression)|FAILED|Dependency issue: x86_64/r/r-bas.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1661310055);</script>|
+|x86_64/r|[x86_64/r/r-jaspregression](https://aur.archlinux.org/pkgbase/r-jaspregression)|FAILED|Dependency issue: x86_64/r/r-bas.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1661432519);</script>|
 |x86_64/r|[x86_64/r/r-jaspreliability](https://aur.archlinux.org/pkgbase/r-jaspreliability)|PUBLISHED||[2882756645](https://github.com/arch4edu/cactus/actions/runs/2882756645)|<script type="text/javascript">localize(1660848255);</script>|
 |x86_64/r|[x86_64/r/r-jaspresults](https://aur.archlinux.org/pkgbase/r-jaspresults)|PUBLISHED||[2751526358](https://github.com/arch4edu/cactus/actions/runs/2751526358)|<script type="text/javascript">localize(1658990048);</script>|
 |x86_64/r|[x86_64/r/r-jaspsem](https://aur.archlinux.org/pkgbase/r-jaspsem)|PUBLISHED||[2882859451](https://github.com/arch4edu/cactus/actions/runs/2882859451)|<script type="text/javascript">localize(1660848269);</script>|
-|x86_64/r|[x86_64/r/r-jaspsummarystatistics](https://aur.archlinux.org/pkgbase/r-jaspsummarystatistics)|FAILED|Dependency issue: x86_64/r/r-jaspregression.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1661310055);</script>|
+|x86_64/r|[x86_64/r/r-jaspsummarystatistics](https://aur.archlinux.org/pkgbase/r-jaspsummarystatistics)|FAILED|Dependency issue: x86_64/r/r-jaspregression.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1661432519);</script>|
 |x86_64/r|[x86_64/r/r-jasptools](https://aur.archlinux.org/pkgbase/r-jasptools)|PUBLISHED||[2720796138](https://github.com/arch4edu/cactus/actions/runs/2720796138)|<script type="text/javascript">localize(1658521966);</script>|
 |x86_64/r|[x86_64/r/r-jaspttests](https://aur.archlinux.org/pkgbase/r-jaspttests)|PUBLISHED||[2882757289](https://github.com/arch4edu/cactus/actions/runs/2882757289)|<script type="text/javascript">localize(1660848283);</script>|
 |x86_64/r|[x86_64/r/r-jaspvisualmodeling](https://aur.archlinux.org/pkgbase/r-jaspvisualmodeling)|PUBLISHED||[2882757303](https://github.com/arch4edu/cactus/actions/runs/2882757303)|<script type="text/javascript">localize(1660848298);</script>|
@@ -876,7 +876,7 @@ Last update: <script type="text/javascript">localize(1661431901.8520126);</scrip
 |x86_64|[x86_64/saxon-he](https://aur.archlinux.org/pkgbase/saxon-he)|PUBLISHED||[2896919768](https://github.com/arch4edu/cactus/actions/runs/2896919768)|<script type="text/javascript">localize(1661064186);</script>|
 |x86_64|[x86_64/sc-im](https://aur.archlinux.org/pkgbase/sc-im)|PUBLISHED||[2648586212](https://github.com/arch4edu/cactus/actions/runs/2648586212)|<script type="text/javascript">localize(1657536248);</script>|
 |x86_64|[x86_64/scalapack](https://aur.archlinux.org/pkgbase/scalapack)|PUBLISHED||[2648363630](https://github.com/arch4edu/cactus/actions/runs/2648363630)|<script type="text/javascript">localize(1657532252);</script>|
-|x86_64|[x86_64/scilab](https://aur.archlinux.org/pkgbase/scilab)|FAILED|Build failed.|[2916160775](https://github.com/arch4edu/cactus/actions/runs/2916160775)|<script type="text/javascript">localize(1661310101);</script>|
+|x86_64|[x86_64/scilab](https://aur.archlinux.org/pkgbase/scilab)|FAILED|Build failed.|[2926740398](https://github.com/arch4edu/cactus/actions/runs/2926740398)|<script type="text/javascript">localize(1661432836);</script>|
 |x86_64|[x86_64/scilab-bin](https://aur.archlinux.org/pkgbase/scilab-bin)|PUBLISHED||[2648738517](https://github.com/arch4edu/cactus/actions/runs/2648738517)|<script type="text/javascript">localize(1657536280);</script>|
 |x86_64|[x86_64/scotch](https://aur.archlinux.org/pkgbase/scotch)|PUBLISHED||[2648303806](https://github.com/arch4edu/cactus/actions/runs/2648303806)|<script type="text/javascript">localize(1657532262);</script>|
 |x86_64|[x86_64/seafile](https://aur.archlinux.org/pkgbase/seafile)|PUBLISHED||[2854189411](https://github.com/arch4edu/cactus/actions/runs/2854189411)|<script type="text/javascript">localize(1660519549);</script>|
