@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1661518241.9398415);</script>
+Last update: <script type="text/javascript">localize(1661521363.4721315);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -303,7 +303,7 @@ Last update: <script type="text/javascript">localize(1661518241.9398415);</scrip
 |x86_64|[x86_64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|PUBLISHED||[2648614297](https://github.com/arch4edu/cactus/actions/runs/2648614297)|<script type="text/javascript">localize(1657535804);</script>|
 |x86_64|[x86_64/mpich](https://aur.archlinux.org/pkgbase/mpich)|PUBLISHED||[2648614437](https://github.com/arch4edu/cactus/actions/runs/2648614437)|<script type="text/javascript">localize(1657538803);</script>|
 |x86_64|[x86_64/mumps](https://aur.archlinux.org/pkgbase/mumps)|PUBLISHED||[2822344001](https://github.com/arch4edu/cactus/actions/runs/2822344001)|<script type="text/javascript">localize(1660087627);</script>|
-|x86_64|[x86_64/mumps-par](https://aur.archlinux.org/pkgbase/mumps-par)|FAILED|Build failed.|[2926507019](https://github.com/arch4edu/cactus/actions/runs/2926507019)|<script type="text/javascript">localize(1661430482);</script>|
+|x86_64|[x86_64/mumps-par](https://aur.archlinux.org/pkgbase/mumps-par)|FAILED|Build failed.|[2933879819](https://github.com/arch4edu/cactus/actions/runs/2933879819)|<script type="text/javascript">localize(1661519147);</script>|
 |x86_64|[x86_64/mysql](https://aur.archlinux.org/pkgbase/mysql)|PUBLISHED||[2879641000](https://github.com/arch4edu/cactus/actions/runs/2879641000)|<script type="text/javascript">localize(1660805072);</script>|
 |x86_64|[x86_64/ncl](https://aur.archlinux.org/pkgbase/ncl)|PUBLISHED||[2648978220](https://github.com/arch4edu/cactus/actions/runs/2648978220)|<script type="text/javascript">localize(1657538837);</script>|
 |x86_64|[x86_64/ncurses5-compat-libs](https://aur.archlinux.org/pkgbase/ncurses5-compat-libs)|PUBLISHED||[2647862465](https://github.com/arch4edu/cactus/actions/runs/2647862465)|<script type="text/javascript">localize(1657525836);</script>|
@@ -839,7 +839,7 @@ Last update: <script type="text/javascript">localize(1661518241.9398415);</scrip
 |x86_64/rocm|[x86_64/rocm/rocsparse](https://aur.archlinux.org/pkgbase/rocsparse)|PUBLISHED||[2898553130](https://github.com/arch4edu/cactus/actions/runs/2898553130)|<script type="text/javascript">localize(1661107129);</script>|
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[2897008697](https://github.com/arch4edu/cactus/actions/runs/2897008697)|<script type="text/javascript">localize(1661064169);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[2722989132](https://github.com/arch4edu/cactus/actions/runs/2722989132)|<script type="text/javascript">localize(1658565196);</script>|
-|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[2923700381](https://github.com/arch4edu/cactus/actions/runs/2923700381)|<script type="text/javascript">localize(1661399772);</script>|
+|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[2933879874](https://github.com/arch4edu/cactus/actions/runs/2933879874)|<script type="text/javascript">localize(1661519739);</script>|
 |x86_64/ros2|[x86_64/ros2/python-catkin_pkg](https://aur.archlinux.org/pkgbase/python-catkin_pkg)|PUBLISHED||[2647891583](https://github.com/arch4edu/cactus/actions/runs/2647891583)|<script type="text/javascript">localize(1657525948);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-argcomplete](https://aur.archlinux.org/pkgbase/python-colcon-argcomplete)|PUBLISHED||[2648831811](https://github.com/arch4edu/cactus/actions/runs/2648831811)|<script type="text/javascript">localize(1657535972);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-bash](https://aur.archlinux.org/pkgbase/python-colcon-bash)|PUBLISHED||[2648768277](https://github.com/arch4edu/cactus/actions/runs/2648768277)|<script type="text/javascript">localize(1657535987);</script>|
