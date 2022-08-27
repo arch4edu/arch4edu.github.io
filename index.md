@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1661607312.2950432);</script>
+Last update: <script type="text/javascript">localize(1661610192.1389499);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -384,7 +384,7 @@ Last update: <script type="text/javascript">localize(1661607312.2950432);</scrip
 |x86_64/r|[x86_64/r/cctz](https://aur.archlinux.org/pkgbase/cctz)|PUBLISHED||[2703355331](https://github.com/arch4edu/cactus/actions/runs/2703355331)|<script type="text/javascript">localize(1658309187);</script>|
 |x86_64/r|[x86_64/r/hopscotch-map](https://aur.archlinux.org/pkgbase/hopscotch-map)|PUBLISHED||[2703562939](https://github.com/arch4edu/cactus/actions/runs/2703562939)|<script type="text/javascript">localize(1658309199);</script>|
 |x86_64/r|[x86_64/r/jags](https://aur.archlinux.org/pkgbase/jags)|PUBLISHED||[2703563299](https://github.com/arch4edu/cactus/actions/runs/2703563299)|<script type="text/javascript">localize(1658309211);</script>|
-|x86_64/r|[x86_64/r/jasp-desktop](https://aur.archlinux.org/pkgbase/jasp-desktop)|BUILDING|GitHubActions|[2939315759](https://github.com/arch4edu/cactus/actions/runs/2939315759)|<script type="text/javascript">localize(1661605071);</script>|
+|x86_64/r|[x86_64/r/jasp-desktop](https://aur.archlinux.org/pkgbase/jasp-desktop)|BUILT||[2939315759](https://github.com/arch4edu/cactus/actions/runs/2939315759)|<script type="text/javascript">localize(1661608314);</script>|
 |x86_64/r|[x86_64/r/r-abind](https://aur.archlinux.org/pkgbase/r-abind)|PUBLISHED||[2703562400](https://github.com/arch4edu/cactus/actions/runs/2703562400)|<script type="text/javascript">localize(1658309225);</script>|
 |x86_64/r|[x86_64/r/r-abtest](https://aur.archlinux.org/pkgbase/r-abtest)|PUBLISHED||[2704117457](https://github.com/arch4edu/cactus/actions/runs/2704117457)|<script type="text/javascript">localize(1658316121);</script>|
 |x86_64/r|[x86_64/r/r-afex](https://aur.archlinux.org/pkgbase/r-afex)|PUBLISHED||[2787416207](https://github.com/arch4edu/cactus/actions/runs/2787416207)|<script type="text/javascript">localize(1659511474);</script>|
