@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1661780844.7876136);</script>
+Last update: <script type="text/javascript">localize(1661790996.600751);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -869,7 +869,7 @@ Last update: <script type="text/javascript">localize(1661780844.7876136);</scrip
 |x86_64/ros2|[x86_64/ros2/python-rospkg](https://aur.archlinux.org/pkgbase/python-rospkg)|PUBLISHED||[2648738601](https://github.com/arch4edu/cactus/actions/runs/2648738601)|<script type="text/javascript">localize(1657536238);</script>|
 |x86_64/ros2|[x86_64/ros2/python-vcstool](https://aur.archlinux.org/pkgbase/python-vcstool)|PUBLISHED||[2647891392](https://github.com/arch4edu/cactus/actions/runs/2647891392)|<script type="text/javascript">localize(1657525978);</script>|
 |x86_64/ros2|[x86_64/ros2/ros2-arch-deps](https://aur.archlinux.org/pkgbase/ros2-arch-deps)|PUBLISHED||[2649261926](https://github.com/arch4edu/cactus/actions/runs/2649261926)|<script type="text/javascript">localize(1657544514);</script>|
-|x86_64/ros2|[x86_64/ros2/ros2-humble](https://aur.archlinux.org/pkgbase/ros2-humble)|BUILDING|GitHubActions|[2948713634](https://github.com/arch4edu/cactus/actions/runs/2948713634)|<script type="text/javascript">localize(1661778144);</script>|
+|x86_64/ros2|[x86_64/ros2/ros2-humble](https://aur.archlinux.org/pkgbase/ros2-humble)|BUILT||[2948713634](https://github.com/arch4edu/cactus/actions/runs/2948713634)|<script type="text/javascript">localize(1661790696);</script>|
 |x86_64/ros2|[x86_64/ros2/ros2-pyqt5-sip-compat](https://aur.archlinux.org/pkgbase/ros2-pyqt5-sip-compat)|PUBLISHED||[2647891457](https://github.com/arch4edu/cactus/actions/runs/2647891457)|<script type="text/javascript">localize(1657525993);</script>|
 |x86_64|[x86_64/rpi-imager](https://aur.archlinux.org/pkgbase/rpi-imager)|PUBLISHED||[2779914724](https://github.com/arch4edu/cactus/actions/runs/2779914724)|<script type="text/javascript">localize(1659422050);</script>|
 |x86_64|[x86_64/rpiusbboot](https://aur.archlinux.org/pkgbase/rpiusbboot)|PUBLISHED||[2648492064](https://github.com/arch4edu/cactus/actions/runs/2648492064)|<script type="text/javascript">localize(1657532241);</script>|
