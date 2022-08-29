@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1661790996.600751);</script>
+Last update: <script type="text/javascript">localize(1661800887.2837994);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -41,7 +41,7 @@ Last update: <script type="text/javascript">localize(1661790996.600751);</script
 |aarch64|[aarch64/timeshift](https://aur.archlinux.org/pkgbase/timeshift)|PUBLISHED||[2850837795](https://github.com/arch4edu/cactus/actions/runs/2850837795)|<script type="text/javascript">localize(1660433075);</script>|
 |aarch64|[aarch64/torque](https://aur.archlinux.org/pkgbase/torque)|PUBLISHED||[2864964016](https://github.com/arch4edu/cactus/actions/runs/2864964016)|<script type="text/javascript">localize(1660632052);</script>|
 |aarch64|[aarch64/ventoy-bin](https://aur.archlinux.org/pkgbase/ventoy-bin)|PUBLISHED||[2945726336](https://github.com/arch4edu/cactus/actions/runs/2945726336)|<script type="text/javascript">localize(1661756314);</script>|
-|aarch64|[aarch64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|BUILT||[2948713352](https://github.com/arch4edu/cactus/actions/runs/2948713352)|<script type="text/javascript">localize(1661778358);</script>|
+|aarch64|[aarch64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[2948713352](https://github.com/arch4edu/cactus/actions/runs/2948713352)|<script type="text/javascript">localize(1661798438);</script>|
 |aarch64|[aarch64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|PUBLISHED||[2879640730](https://github.com/arch4edu/cactus/actions/runs/2879640730)|<script type="text/javascript">localize(1660805011);</script>|
 |aarch64|[aarch64/wxwidgets-gtk2](https://aur.archlinux.org/pkgbase/wxwidgets-gtk2)|PUBLISHED||[2815923886](https://github.com/arch4edu/cactus/actions/runs/2815923886)|<script type="text/javascript">localize(1660001305);</script>|
 |aarch64|[aarch64/yay](https://aur.archlinux.org/pkgbase/yay)|PUBLISHED||[2858159249](https://github.com/arch4edu/cactus/actions/runs/2858159249)|<script type="text/javascript">localize(1660588946);</script>|
@@ -373,7 +373,7 @@ Last update: <script type="text/javascript">localize(1661790996.600751);</script
 |x86_64|[x86_64/python-sequitur-git](https://aur.archlinux.org/pkgbase/python-sequitur-git)|PUBLISHED||[2734511959](https://github.com/arch4edu/cactus/actions/runs/2734511959)|<script type="text/javascript">localize(1658776836);</script>|
 |x86_64|[x86_64/python-synphot](https://aur.archlinux.org/pkgbase/python-synphot)|PUBLISHED||[2654714249](https://github.com/arch4edu/cactus/actions/runs/2654714249)|<script type="text/javascript">localize(1657610882);</script>|
 |x86_64|[x86_64/python-timeout-decorator](https://aur.archlinux.org/pkgbase/python-timeout-decorator)|PUBLISHED||[2648152052](https://github.com/arch4edu/cactus/actions/runs/2648152052)|<script type="text/javascript">localize(1657530264);</script>|
-|x86_64|[x86_64/python-torchvision](https://aur.archlinux.org/pkgbase/python-torchvision)|BUILT||[2948713509](https://github.com/arch4edu/cactus/actions/runs/2948713509)|<script type="text/javascript">localize(1661779798);</script>|
+|x86_64|[x86_64/python-torchvision](https://aur.archlinux.org/pkgbase/python-torchvision)|PUBLISHED||[2948713509](https://github.com/arch4edu/cactus/actions/runs/2948713509)|<script type="text/javascript">localize(1661798460);</script>|
 |x86_64|[x86_64/python-wrf](https://aur.archlinux.org/pkgbase/python-wrf)|PUBLISHED||[2647863455](https://github.com/arch4edu/cactus/actions/runs/2647863455)|<script type="text/javascript">localize(1657525914);</script>|
 |x86_64|[x86_64/python-wxpython-dev](https://aur.archlinux.org/pkgbase/python-wxpython-dev)|PUBLISHED||[2894804097](https://github.com/arch4edu/cactus/actions/runs/2894804097)|<script type="text/javascript">localize(1661020628);</script>|
 |x86_64|[x86_64/qemu-user-static](https://aur.archlinux.org/pkgbase/qemu-user-static)|PUBLISHED||[2829698421](https://github.com/arch4edu/cactus/actions/runs/2829698421)|<script type="text/javascript">localize(1660173980);</script>|
@@ -869,7 +869,7 @@ Last update: <script type="text/javascript">localize(1661790996.600751);</script
 |x86_64/ros2|[x86_64/ros2/python-rospkg](https://aur.archlinux.org/pkgbase/python-rospkg)|PUBLISHED||[2648738601](https://github.com/arch4edu/cactus/actions/runs/2648738601)|<script type="text/javascript">localize(1657536238);</script>|
 |x86_64/ros2|[x86_64/ros2/python-vcstool](https://aur.archlinux.org/pkgbase/python-vcstool)|PUBLISHED||[2647891392](https://github.com/arch4edu/cactus/actions/runs/2647891392)|<script type="text/javascript">localize(1657525978);</script>|
 |x86_64/ros2|[x86_64/ros2/ros2-arch-deps](https://aur.archlinux.org/pkgbase/ros2-arch-deps)|PUBLISHED||[2649261926](https://github.com/arch4edu/cactus/actions/runs/2649261926)|<script type="text/javascript">localize(1657544514);</script>|
-|x86_64/ros2|[x86_64/ros2/ros2-humble](https://aur.archlinux.org/pkgbase/ros2-humble)|BUILT||[2948713634](https://github.com/arch4edu/cactus/actions/runs/2948713634)|<script type="text/javascript">localize(1661790696);</script>|
+|x86_64/ros2|[x86_64/ros2/ros2-humble](https://aur.archlinux.org/pkgbase/ros2-humble)|PUBLISHED||[2948713634](https://github.com/arch4edu/cactus/actions/runs/2948713634)|<script type="text/javascript">localize(1661798486);</script>|
 |x86_64/ros2|[x86_64/ros2/ros2-pyqt5-sip-compat](https://aur.archlinux.org/pkgbase/ros2-pyqt5-sip-compat)|PUBLISHED||[2647891457](https://github.com/arch4edu/cactus/actions/runs/2647891457)|<script type="text/javascript">localize(1657525993);</script>|
 |x86_64|[x86_64/rpi-imager](https://aur.archlinux.org/pkgbase/rpi-imager)|PUBLISHED||[2779914724](https://github.com/arch4edu/cactus/actions/runs/2779914724)|<script type="text/javascript">localize(1659422050);</script>|
 |x86_64|[x86_64/rpiusbboot](https://aur.archlinux.org/pkgbase/rpiusbboot)|PUBLISHED||[2648492064](https://github.com/arch4edu/cactus/actions/runs/2648492064)|<script type="text/javascript">localize(1657532241);</script>|
@@ -903,7 +903,7 @@ Last update: <script type="text/javascript">localize(1661790996.600751);</script
 |x86_64|[x86_64/unityhub](https://aur.archlinux.org/pkgbase/unityhub)|PUBLISHED||[2846907034](https://github.com/arch4edu/cactus/actions/runs/2846907034)|<script type="text/javascript">localize(1660347664);</script>|
 |x86_64|[x86_64/urdfdom](https://aur.archlinux.org/pkgbase/urdfdom)|PUBLISHED||[2648832345](https://github.com/arch4edu/cactus/actions/runs/2648832345)|<script type="text/javascript">localize(1657536323);</script>|
 |x86_64|[x86_64/ventoy-bin](https://aur.archlinux.org/pkgbase/ventoy-bin)|PUBLISHED||[2945638376](https://github.com/arch4edu/cactus/actions/runs/2945638376)|<script type="text/javascript">localize(1661756355);</script>|
-|x86_64|[x86_64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|BUILT||[2948713455](https://github.com/arch4edu/cactus/actions/runs/2948713455)|<script type="text/javascript">localize(1661778323);</script>|
+|x86_64|[x86_64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[2948713455](https://github.com/arch4edu/cactus/actions/runs/2948713455)|<script type="text/javascript">localize(1661798497);</script>|
 |x86_64|[x86_64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|PUBLISHED||[2879640857](https://github.com/arch4edu/cactus/actions/runs/2879640857)|<script type="text/javascript">localize(1660805133);</script>|
 |x86_64|[x86_64/voro++](https://aur.archlinux.org/pkgbase/voro++)|PUBLISHED||[2648553963](https://github.com/arch4edu/cactus/actions/runs/2648553963)|<script type="text/javascript">localize(1657532303);</script>|
 |x86_64|[x86_64/wscat](https://aur.archlinux.org/pkgbase/wscat)|PUBLISHED||[2647862687](https://github.com/arch4edu/cactus/actions/runs/2647862687)|<script type="text/javascript">localize(1657526023);</script>|
