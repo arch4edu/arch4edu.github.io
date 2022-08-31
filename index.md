@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1661929279.201149);</script>
+Last update: <script type="text/javascript">localize(1661931666.10782);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -54,7 +54,7 @@ Last update: <script type="text/javascript">localize(1661929279.201149);</script
 |any|[any/archlinuxarm-keyring](https://aur.archlinux.org/pkgbase/archlinuxarm-keyring)|PUBLISHED||[2746846808](https://github.com/arch4edu/cactus/actions/runs/2746846808)|<script type="text/javascript">localize(1658929940);</script>|
 |any|[any/aurutils](https://aur.archlinux.org/pkgbase/aurutils)|PUBLISHED||[2647674352](https://github.com/arch4edu/cactus/actions/runs/2647674352)|<script type="text/javascript">localize(1657521277);</script>|
 |any|[any/binfmt-qemu-static](https://aur.archlinux.org/pkgbase/binfmt-qemu-static)|PUBLISHED||[2647775291](https://github.com/arch4edu/cactus/actions/runs/2647775291)|<script type="text/javascript">localize(1657524499);</script>|
-|any|[any/bwidget](https://aur.archlinux.org/pkgbase/bwidget)|BUILT||[2961086618](https://github.com/arch4edu/cactus/actions/runs/2961086618)|<script type="text/javascript">localize(1661916364);</script>|
+|any|[any/bwidget](https://aur.archlinux.org/pkgbase/bwidget)|PUBLISHED||[2961086618](https://github.com/arch4edu/cactus/actions/runs/2961086618)|<script type="text/javascript">localize(1661929660);</script>|
 |any|[any/ccache-ext](https://aur.archlinux.org/pkgbase/ccache-ext)|PUBLISHED||[2647803411](https://github.com/arch4edu/cactus/actions/runs/2647803411)|<script type="text/javascript">localize(1657524531);</script>|
 |any|[any/cephadm](https://aur.archlinux.org/pkgbase/cephadm)|PUBLISHED||[2722194403](https://github.com/arch4edu/cactus/actions/runs/2722194403)|<script type="text/javascript">localize(1658548660);</script>|
 |any|[any/devtools-alarm](https://aur.archlinux.org/pkgbase/devtools-alarm)|PUBLISHED||[2746846729](https://github.com/arch4edu/cactus/actions/runs/2746846729)|<script type="text/javascript">localize(1658929956);</script>|
@@ -340,7 +340,7 @@ Last update: <script type="text/javascript">localize(1661929279.201149);</script
 |x86_64|[x86_64/pocketsphinx](https://aur.archlinux.org/pkgbase/pocketsphinx)|PUBLISHED||[2648892344](https://github.com/arch4edu/cactus/actions/runs/2648892344)|<script type="text/javascript">localize(1657535853);</script>|
 |x86_64|[x86_64/popsift](https://aur.archlinux.org/pkgbase/popsift)|PUBLISHED||[2710342737](https://github.com/arch4edu/cactus/actions/runs/2710342737)|<script type="text/javascript">localize(1658392364);</script>|
 |x86_64|[x86_64/praat](https://aur.archlinux.org/pkgbase/praat)|PUBLISHED||[2916140955](https://github.com/arch4edu/cactus/actions/runs/2916140955)|<script type="text/javascript">localize(1661323386);</script>|
-|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|BUILDING|Build failed.|[2961086741](https://github.com/arch4edu/cactus/actions/runs/2961086741)|<script type="text/javascript">localize(1661926441);</script>|
+|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|BUILT||[2961086741](https://github.com/arch4edu/cactus/actions/runs/2961086741)|<script type="text/javascript">localize(1661929780);</script>|
 |x86_64|[x86_64/python-arch](https://aur.archlinux.org/pkgbase/python-arch)|PUBLISHED||[2648671250](https://github.com/arch4edu/cactus/actions/runs/2648671250)|<script type="text/javascript">localize(1657535875);</script>|
 |x86_64|[x86_64/python-astropy](https://aur.archlinux.org/pkgbase/python-astropy)|PUBLISHED||[2654687015](https://github.com/arch4edu/cactus/actions/runs/2654687015)|<script type="text/javascript">localize(1657610830);</script>|
 |x86_64|[x86_64/python-astroquery](https://aur.archlinux.org/pkgbase/python-astroquery)|PUBLISHED||[2654741402](https://github.com/arch4edu/cactus/actions/runs/2654741402)|<script type="text/javascript">localize(1657610842);</script>|
