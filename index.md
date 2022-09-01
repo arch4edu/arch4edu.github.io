@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662042309.475078);</script>
+Last update: <script type="text/javascript">localize(1662050242.2324104);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -330,7 +330,7 @@ Last update: <script type="text/javascript">localize(1662042309.475078);</script
 |x86_64|[x86_64/onedrive](https://aur.archlinux.org/pkgbase/onedrive)|PUBLISHED||[2648006369](https://github.com/arch4edu/cactus/actions/runs/2648006369)|<script type="text/javascript">localize(1657529802);</script>|
 |x86_64|[x86_64/openblas-lapack](https://aur.archlinux.org/pkgbase/openblas-lapack)|PUBLISHED||[2822343935](https://github.com/arch4edu/cactus/actions/runs/2822343935)|<script type="text/javascript">localize(1660087639);</script>|
 |x86_64|[x86_64/openboard](https://aur.archlinux.org/pkgbase/openboard)|PUBLISHED||[2953800842](https://github.com/arch4edu/cactus/actions/runs/2953800842)|<script type="text/javascript">localize(1661842965);</script>|
-|x86_64|[x86_64/openfoam](https://aur.archlinux.org/pkgbase/openfoam)|BUILDING|GitHubActions|[2971835887](https://github.com/arch4edu/cactus/actions/runs/2971835887)|<script type="text/javascript">localize(1662037421);</script>|
+|x86_64|[x86_64/openfoam](https://aur.archlinux.org/pkgbase/openfoam)|BUILT||[2971835887](https://github.com/arch4edu/cactus/actions/runs/2971835887)|<script type="text/javascript">localize(1662047640);</script>|
 |x86_64|[x86_64/openfoam-com](https://aur.archlinux.org/pkgbase/openfoam-com)|PUBLISHED||[2661539727](https://github.com/arch4edu/cactus/actions/runs/2661539727)|<script type="text/javascript">localize(1657716696);</script>|
 |x86_64|[x86_64/openfst](https://aur.archlinux.org/pkgbase/openfst)|PUBLISHED||[2725775868](https://github.com/arch4edu/cactus/actions/runs/2725775868)|<script type="text/javascript">localize(1658635190);</script>|
 |x86_64|[x86_64/opengv-git](https://aur.archlinux.org/pkgbase/opengv-git)|PUBLISHED||[2710378932](https://github.com/arch4edu/cactus/actions/runs/2710378932)|<script type="text/javascript">localize(1658392339);</script>|
