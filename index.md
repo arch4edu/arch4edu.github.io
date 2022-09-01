@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662007319.0008514);</script>
+Last update: <script type="text/javascript">localize(1662011717.845696);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -900,7 +900,7 @@ Last update: <script type="text/javascript">localize(1662007319.0008514);</scrip
 |x86_64/ros|[x86_64/ros/ros-noetic-executive-smach](https://aur.archlinux.org/pkgbase/ros-noetic-executive-smach)|PUBLISHED||[2965508048](https://github.com/arch4edu/cactus/actions/runs/2965508048)|<script type="text/javascript">localize(1661971783);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-filters](https://aur.archlinux.org/pkgbase/ros-noetic-filters)|PUBLISHED||[2965172872](https://github.com/arch4edu/cactus/actions/runs/2965172872)|<script type="text/javascript">localize(1661971794);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-forward-command-controller](https://aur.archlinux.org/pkgbase/ros-noetic-forward-command-controller)|PUBLISHED||[2965508004](https://github.com/arch4edu/cactus/actions/runs/2965508004)|<script type="text/javascript">localize(1661971809);</script>|
-|x86_64/ros|[x86_64/ros/ros-noetic-gazebo-dev](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-dev)|BUILDING|GitHubActions|[2965438903](https://github.com/arch4edu/cactus/actions/runs/2965438903)|<script type="text/javascript">localize(1661962981);</script>|
+|x86_64/ros|[x86_64/ros/ros-noetic-gazebo-dev](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-dev)|FAILED|Build failed.|[2969208267](https://github.com/arch4edu/cactus/actions/runs/2969208267)|<script type="text/javascript">localize(1662011628);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-gazebo-msgs](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-msgs)|PUBLISHED||[2963994350](https://github.com/arch4edu/cactus/actions/runs/2963994350)|<script type="text/javascript">localize(1661971820);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-gazebo-plugins](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-plugins)|STALED|Waiting for dependency: x86_64/ros/ros-noetic-gazebo-dev.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1661980971);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-gazebo-ros](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-ros)|STALED|Waiting for dependency: x86_64/ros/ros-noetic-gazebo-dev.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1661980972);</script>|
