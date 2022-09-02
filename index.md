@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662110779.0749753);</script>
+Last update: <script type="text/javascript">localize(1662114580.3675873);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -17,7 +17,7 @@ Last update: <script type="text/javascript">localize(1662110779.0749753);</scrip
 |aarch64|[aarch64/libsearpc](https://aur.archlinux.org/pkgbase/libsearpc)|PUBLISHED||[2648183447](https://github.com/arch4edu/cactus/actions/runs/2648183447)|<script type="text/javascript">localize(1657528540);</script>|
 |aarch64|[aarch64/lux-dl](https://aur.archlinux.org/pkgbase/lux-dl)|PUBLISHED||[2648062931](https://github.com/arch4edu/cactus/actions/runs/2648062931)|<script type="text/javascript">localize(1657528551);</script>|
 |aarch64|[aarch64/ly](https://aur.archlinux.org/pkgbase/ly)|PUBLISHED||[2850851765](https://github.com/arch4edu/cactus/actions/runs/2850851765)|<script type="text/javascript">localize(1660433065);</script>|
-|aarch64|[aarch64/miktex](https://aur.archlinux.org/pkgbase/miktex)|FAILED|Build failed.|[2976408921](https://github.com/arch4edu/cactus/actions/runs/2976408921)|<script type="text/javascript">localize(1662089814);</script>|
+|aarch64|[aarch64/miktex](https://aur.archlinux.org/pkgbase/miktex)|FAILED|Build failed.|[2978233413](https://github.com/arch4edu/cactus/actions/runs/2978233413)|<script type="text/javascript">localize(1662114203);</script>|
 |aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|PUBLISHED||[2896932063](https://github.com/arch4edu/cactus/actions/runs/2896932063)|<script type="text/javascript">localize(1661063941);</script>|
 |aarch64|[aarch64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|PUBLISHED||[2648213752](https://github.com/arch4edu/cactus/actions/runs/2648213752)|<script type="text/javascript">localize(1657528564);</script>|
 |aarch64|[aarch64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|PUBLISHED||[2858142827](https://github.com/arch4edu/cactus/actions/runs/2858142827)|<script type="text/javascript">localize(1660588936);</script>|
