@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662179036.3356104);</script>
+Last update: <script type="text/javascript">localize(1662189845.9968276);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -309,7 +309,7 @@ Last update: <script type="text/javascript">localize(1662179036.3356104);</scrip
 |x86_64|[x86_64/ly](https://aur.archlinux.org/pkgbase/ly)|PUBLISHED||[2850837848](https://github.com/arch4edu/cactus/actions/runs/2850837848)|<script type="text/javascript">localize(1660433114);</script>|
 |x86_64|[x86_64/mendeleydesktop](https://aur.archlinux.org/pkgbase/mendeleydesktop)|PUBLISHED||[2648118029](https://github.com/arch4edu/cactus/actions/runs/2648118029)|<script type="text/javascript">localize(1657529732);</script>|
 |x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|FAILED|Build failed.|[2979249108](https://github.com/arch4edu/cactus/actions/runs/2979249108)|<script type="text/javascript">localize(1662123866);</script>|
-|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|BUILT||[2982930412](https://github.com/arch4edu/cactus/actions/runs/2982930412)|<script type="text/javascript">localize(1662174477);</script>|
+|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|PUBLISHED||[2982930412](https://github.com/arch4edu/cactus/actions/runs/2982930412)|<script type="text/javascript">localize(1662187204);</script>|
 |x86_64|[x86_64/miktex](https://aur.archlinux.org/pkgbase/miktex)|PUBLISHED||[2939795337](https://github.com/arch4edu/cactus/actions/runs/2939795337)|<script type="text/javascript">localize(1661625504);</script>|
 |x86_64|[x86_64/mmg](https://aur.archlinux.org/pkgbase/mmg)|PUBLISHED||[2648891891](https://github.com/arch4edu/cactus/actions/runs/2648891891)|<script type="text/javascript">localize(1657538791);</script>|
 |x86_64|[x86_64/mongodb](https://aur.archlinux.org/pkgbase/mongodb)|PUBLISHED||[2961087081](https://github.com/arch4edu/cactus/actions/runs/2961087081)|<script type="text/javascript">localize(1661971292);</script>|
@@ -329,7 +329,7 @@ Last update: <script type="text/javascript">localize(1662179036.3356104);</scrip
 |x86_64|[x86_64/ompl](https://aur.archlinux.org/pkgbase/ompl)|PUBLISHED||[2647862821](https://github.com/arch4edu/cactus/actions/runs/2647862821)|<script type="text/javascript">localize(1657525858);</script>|
 |x86_64|[x86_64/onedrive](https://aur.archlinux.org/pkgbase/onedrive)|PUBLISHED||[2648006369](https://github.com/arch4edu/cactus/actions/runs/2648006369)|<script type="text/javascript">localize(1657529802);</script>|
 |x86_64|[x86_64/openblas-lapack](https://aur.archlinux.org/pkgbase/openblas-lapack)|PUBLISHED||[2822343935](https://github.com/arch4edu/cactus/actions/runs/2822343935)|<script type="text/javascript">localize(1660087639);</script>|
-|x86_64|[x86_64/openboard](https://aur.archlinux.org/pkgbase/openboard)|BUILT||[2982930382](https://github.com/arch4edu/cactus/actions/runs/2982930382)|<script type="text/javascript">localize(1662174924);</script>|
+|x86_64|[x86_64/openboard](https://aur.archlinux.org/pkgbase/openboard)|PUBLISHED||[2982930382](https://github.com/arch4edu/cactus/actions/runs/2982930382)|<script type="text/javascript">localize(1662187223);</script>|
 |x86_64|[x86_64/openfoam](https://aur.archlinux.org/pkgbase/openfoam)|PUBLISHED||[2971835887](https://github.com/arch4edu/cactus/actions/runs/2971835887)|<script type="text/javascript">localize(1662057828);</script>|
 |x86_64|[x86_64/openfoam-com](https://aur.archlinux.org/pkgbase/openfoam-com)|PUBLISHED||[2661539727](https://github.com/arch4edu/cactus/actions/runs/2661539727)|<script type="text/javascript">localize(1657716696);</script>|
 |x86_64|[x86_64/openfst](https://aur.archlinux.org/pkgbase/openfst)|PUBLISHED||[2725775868](https://github.com/arch4edu/cactus/actions/runs/2725775868)|<script type="text/javascript">localize(1658635190);</script>|
