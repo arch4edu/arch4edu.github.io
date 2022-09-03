@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662212153.70062);</script>
+Last update: <script type="text/javascript">localize(1662232926.3133993);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -265,10 +265,10 @@ Last update: <script type="text/javascript">localize(1662212153.70062);</script>
 |x86_64|[x86_64/icu58](https://aur.archlinux.org/pkgbase/icu58)|PUBLISHED||[2648554183](https://github.com/arch4edu/cactus/actions/runs/2648554183)|<script type="text/javascript">localize(1657532028);</script>|
 |x86_64|[x86_64/icu59](https://aur.archlinux.org/pkgbase/icu59)|PUBLISHED||[2647863168](https://github.com/arch4edu/cactus/actions/runs/2647863168)|<script type="text/javascript">localize(1657525778);</script>|
 |x86_64|[x86_64/idutils](https://aur.archlinux.org/pkgbase/idutils)|PUBLISHED||[2690723888](https://github.com/arch4edu/cactus/actions/runs/2690723888)|<script type="text/javascript">localize(1658152576);</script>|
-|x86_64|[x86_64/ignition-cmake](https://aur.archlinux.org/pkgbase/ignition-cmake)|BUILT||[2984455247](https://github.com/arch4edu/cactus/actions/runs/2984455247)|<script type="text/javascript">localize(1662209720);</script>|
+|x86_64|[x86_64/ignition-cmake](https://aur.archlinux.org/pkgbase/ignition-cmake)|PUBLISHED||[2984455247](https://github.com/arch4edu/cactus/actions/runs/2984455247)|<script type="text/javascript">localize(1662230308);</script>|
 |x86_64|[x86_64/ignition-common-3](https://aur.archlinux.org/pkgbase/ignition-common-3)|PUBLISHED||[2963031840](https://github.com/arch4edu/cactus/actions/runs/2963031840)|<script type="text/javascript">localize(1661971206);</script>|
 |x86_64|[x86_64/ignition-fuel_tools-4](https://aur.archlinux.org/pkgbase/ignition-fuel_tools-4)|PUBLISHED||[2963073789](https://github.com/arch4edu/cactus/actions/runs/2963073789)|<script type="text/javascript">localize(1661971217);</script>|
-|x86_64|[x86_64/ignition-math](https://aur.archlinux.org/pkgbase/ignition-math)|BUILT||[2984469475](https://github.com/arch4edu/cactus/actions/runs/2984469475)|<script type="text/javascript">localize(1662210109);</script>|
+|x86_64|[x86_64/ignition-math](https://aur.archlinux.org/pkgbase/ignition-math)|PUBLISHED||[2984469475](https://github.com/arch4edu/cactus/actions/runs/2984469475)|<script type="text/javascript">localize(1662230320);</script>|
 |x86_64|[x86_64/ignition-msgs-5](https://aur.archlinux.org/pkgbase/ignition-msgs-5)|PUBLISHED||[2963031722](https://github.com/arch4edu/cactus/actions/runs/2963031722)|<script type="text/javascript">localize(1661971241);</script>|
 |x86_64|[x86_64/ignition-tools](https://aur.archlinux.org/pkgbase/ignition-tools)|PUBLISHED||[2962941007](https://github.com/arch4edu/cactus/actions/runs/2962941007)|<script type="text/javascript">localize(1661971256);</script>|
 |x86_64|[x86_64/ignition-transport-8](https://aur.archlinux.org/pkgbase/ignition-transport-8)|PUBLISHED||[2963073735](https://github.com/arch4edu/cactus/actions/runs/2963073735)|<script type="text/javascript">localize(1661971268);</script>|
