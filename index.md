@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662276247.0451884);</script>
+Last update: <script type="text/javascript">localize(1662298590.9143083);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -81,7 +81,7 @@ Last update: <script type="text/javascript">localize(1662276247.0451884);</scrip
 |any|[any/jlatexmath-fop](https://aur.archlinux.org/pkgbase/jlatexmath-fop)|PUBLISHED||[2647726397](https://github.com/arch4edu/cactus/actions/runs/2647726397)|<script type="text/javascript">localize(1657524790);</script>|
 |any|[any/jrosetta](https://aur.archlinux.org/pkgbase/jrosetta)|PUBLISHED||[2647803452](https://github.com/arch4edu/cactus/actions/runs/2647803452)|<script type="text/javascript">localize(1657524805);</script>|
 |any|[any/kiwiirc](https://aur.archlinux.org/pkgbase/kiwiirc)|PUBLISHED||[2690724157](https://github.com/arch4edu/cactus/actions/runs/2690724157)|<script type="text/javascript">localize(1658152537);</script>|
-|any|[any/mavproxy](https://aur.archlinux.org/pkgbase/mavproxy)|PUBLISHED||[2893222895](https://github.com/arch4edu/cactus/actions/runs/2893222895)|<script type="text/javascript">localize(1660977505);</script>|
+|any|[any/mavproxy](https://aur.archlinux.org/pkgbase/mavproxy)|BUILT||[2988181928](https://github.com/arch4edu/cactus/actions/runs/2988181928)|<script type="text/javascript">localize(1662296651);</script>|
 |any|[any/nvm](https://aur.archlinux.org/pkgbase/nvm)|PUBLISHED||[2647751132](https://github.com/arch4edu/cactus/actions/runs/2647751132)|<script type="text/javascript">localize(1657524821);</script>|
 |any|[any/octave-control](https://aur.archlinux.org/pkgbase/octave-control)|PUBLISHED||[2647726808](https://github.com/arch4edu/cactus/actions/runs/2647726808)|<script type="text/javascript">localize(1657524838);</script>|
 |any|[any/octave-general](https://aur.archlinux.org/pkgbase/octave-general)|PUBLISHED||[2647751176](https://github.com/arch4edu/cactus/actions/runs/2647751176)|<script type="text/javascript">localize(1657524853);</script>|
@@ -181,7 +181,7 @@ Last update: <script type="text/javascript">localize(1662276247.0451884);</scrip
 |any|[any/xalan-java](https://aur.archlinux.org/pkgbase/xalan-java)|PUBLISHED||[2649060947](https://github.com/arch4edu/cactus/actions/runs/2649060947)|<script type="text/javascript">localize(1657538523);</script>|
 |any|[any/xerces2-java](https://aur.archlinux.org/pkgbase/xerces2-java)|PUBLISHED||[2648701221](https://github.com/arch4edu/cactus/actions/runs/2648701221)|<script type="text/javascript">localize(1657535602);</script>|
 |any|[any/ycm-generator-git](https://aur.archlinux.org/pkgbase/ycm-generator-git)|PUBLISHED||[2647726165](https://github.com/arch4edu/cactus/actions/runs/2647726165)|<script type="text/javascript">localize(1657525700);</script>|
-|x86_64|[x86_64/abinit](https://aur.archlinux.org/pkgbase/abinit)|FAILED|Dependency issue: x86_64/libxc.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1662209583);</script>|
+|x86_64|[x86_64/abinit](https://aur.archlinux.org/pkgbase/abinit)|FAILED|Dependency issue: x86_64/libxc.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1662296456);</script>|
 |x86_64|[x86_64/act](https://aur.archlinux.org/pkgbase/act)|PUBLISHED||[2784414867](https://github.com/arch4edu/cactus/actions/runs/2784414867)|<script type="text/javascript">localize(1659468073);</script>|
 |x86_64|[x86_64/adms](https://aur.archlinux.org/pkgbase/adms)|PUBLISHED||[2647948312](https://github.com/arch4edu/cactus/actions/runs/2647948312)|<script type="text/javascript">localize(1657528639);</script>|
 |x86_64|[x86_64/alice-vision](https://aur.archlinux.org/pkgbase/alice-vision)|FAILED|Build failed.|[2984455272](https://github.com/arch4edu/cactus/actions/runs/2984455272)|<script type="text/javascript">localize(1662211173);</script>|
@@ -366,7 +366,7 @@ Last update: <script type="text/javascript">localize(1662276247.0451884);</scrip
 |x86_64|[x86_64/python-astroquery](https://aur.archlinux.org/pkgbase/python-astroquery)|PUBLISHED||[2654741402](https://github.com/arch4edu/cactus/actions/runs/2654741402)|<script type="text/javascript">localize(1657610842);</script>|
 |x86_64|[x86_64/python-av](https://aur.archlinux.org/pkgbase/python-av)|PUBLISHED||[2648522738](https://github.com/arch4edu/cactus/actions/runs/2648522738)|<script type="text/javascript">localize(1657532148);</script>|
 |x86_64|[x86_64/python-bitarray](https://aur.archlinux.org/pkgbase/python-bitarray)|PUBLISHED||[2704975755](https://github.com/arch4edu/cactus/actions/runs/2704975755)|<script type="text/javascript">localize(1658325098);</script>|
-|x86_64|[x86_64/python-cupy](https://aur.archlinux.org/pkgbase/python-cupy)|BUILT||[2971835950](https://github.com/arch4edu/cactus/actions/runs/2971835950)|<script type="text/javascript">localize(1662040336);</script>|
+|x86_64|[x86_64/python-cupy](https://aur.archlinux.org/pkgbase/python-cupy)|BUILDING||[2971835950](https://github.com/arch4edu/cactus/actions/runs/2971835950)|<script type="text/javascript">localize(1662298281);</script>|
 |x86_64|[x86_64/python-dlib](https://aur.archlinux.org/pkgbase/python-dlib)|PUBLISHED||[2665683769](https://github.com/arch4edu/cactus/actions/runs/2665683769)|<script type="text/javascript">localize(1657740091);</script>|
 |x86_64|[x86_64/python-fastcache](https://aur.archlinux.org/pkgbase/python-fastcache)|PUBLISHED||[2648243869](https://github.com/arch4edu/cactus/actions/runs/2648243869)|<script type="text/javascript">localize(1657530206);</script>|
 |x86_64|[x86_64/python-fastrlock](https://aur.archlinux.org/pkgbase/python-fastrlock)|PUBLISHED||[2648303933](https://github.com/arch4edu/cactus/actions/runs/2648303933)|<script type="text/javascript">localize(1657532158);</script>|
@@ -1104,14 +1104,14 @@ Last update: <script type="text/javascript">localize(1662276247.0451884);</scrip
 |x86_64/ros2|[x86_64/ros2/python-catkin_pkg](https://aur.archlinux.org/pkgbase/python-catkin_pkg)|PUBLISHED||[2647891583](https://github.com/arch4edu/cactus/actions/runs/2647891583)|<script type="text/javascript">localize(1657525948);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-argcomplete](https://aur.archlinux.org/pkgbase/python-colcon-argcomplete)|PUBLISHED||[2648831811](https://github.com/arch4edu/cactus/actions/runs/2648831811)|<script type="text/javascript">localize(1657535972);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-bash](https://aur.archlinux.org/pkgbase/python-colcon-bash)|PUBLISHED||[2648768277](https://github.com/arch4edu/cactus/actions/runs/2648768277)|<script type="text/javascript">localize(1657535987);</script>|
-|x86_64/ros2|[x86_64/ros2/python-colcon-cmake](https://aur.archlinux.org/pkgbase/python-colcon-cmake)|PUBLISHED||[2648831918](https://github.com/arch4edu/cactus/actions/runs/2648831918)|<script type="text/javascript">localize(1657536002);</script>|
-|x86_64/ros2|[x86_64/ros2/python-colcon-common-extensions](https://aur.archlinux.org/pkgbase/python-colcon-common-extensions)|PUBLISHED||[2649177950](https://github.com/arch4edu/cactus/actions/runs/2649177950)|<script type="text/javascript">localize(1657544484);</script>|
+|x86_64/ros2|[x86_64/ros2/python-colcon-cmake](https://aur.archlinux.org/pkgbase/python-colcon-cmake)|BUILT||[2988182003](https://github.com/arch4edu/cactus/actions/runs/2988182003)|<script type="text/javascript">localize(1662296591);</script>|
+|x86_64/ros2|[x86_64/ros2/python-colcon-common-extensions](https://aur.archlinux.org/pkgbase/python-colcon-common-extensions)|BUILT||[2988195979](https://github.com/arch4edu/cactus/actions/runs/2988195979)|<script type="text/javascript">localize(1662296973);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-core](https://aur.archlinux.org/pkgbase/python-colcon-core)|PUBLISHED||[2647918754](https://github.com/arch4edu/cactus/actions/runs/2647918754)|<script type="text/javascript">localize(1657525963);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-defaults](https://aur.archlinux.org/pkgbase/python-colcon-defaults)|PUBLISHED||[2648768543](https://github.com/arch4edu/cactus/actions/runs/2648768543)|<script type="text/javascript">localize(1657536017);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-devtools](https://aur.archlinux.org/pkgbase/python-colcon-devtools)|PUBLISHED||[2648768190](https://github.com/arch4edu/cactus/actions/runs/2648768190)|<script type="text/javascript">localize(1657536032);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-library-path](https://aur.archlinux.org/pkgbase/python-colcon-library-path)|PUBLISHED||[2648768008](https://github.com/arch4edu/cactus/actions/runs/2648768008)|<script type="text/javascript">localize(1657536046);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-metadata](https://aur.archlinux.org/pkgbase/python-colcon-metadata)|PUBLISHED||[2648801745](https://github.com/arch4edu/cactus/actions/runs/2648801745)|<script type="text/javascript">localize(1657536061);</script>|
-|x86_64/ros2|[x86_64/ros2/python-colcon-notification](https://aur.archlinux.org/pkgbase/python-colcon-notification)|PUBLISHED||[2648801633](https://github.com/arch4edu/cactus/actions/runs/2648801633)|<script type="text/javascript">localize(1657536075);</script>|
+|x86_64/ros2|[x86_64/ros2/python-colcon-notification](https://aur.archlinux.org/pkgbase/python-colcon-notification)|BUILT||[2988181954](https://github.com/arch4edu/cactus/actions/runs/2988181954)|<script type="text/javascript">localize(1662296594);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-output](https://aur.archlinux.org/pkgbase/python-colcon-output)|PUBLISHED||[2648801827](https://github.com/arch4edu/cactus/actions/runs/2648801827)|<script type="text/javascript">localize(1657536090);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-package-information](https://aur.archlinux.org/pkgbase/python-colcon-package-information)|PUBLISHED||[2648801994](https://github.com/arch4edu/cactus/actions/runs/2648801994)|<script type="text/javascript">localize(1657536105);</script>|
 |x86_64/ros2|[x86_64/ros2/python-colcon-package-selection](https://aur.archlinux.org/pkgbase/python-colcon-package-selection)|PUBLISHED||[2648768361](https://github.com/arch4edu/cactus/actions/runs/2648768361)|<script type="text/javascript">localize(1657536119);</script>|
