@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662387997.7845922);</script>
+Last update: <script type="text/javascript">localize(1662391737.0995343);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -263,7 +263,7 @@ Last update: <script type="text/javascript">localize(1662387997.7845922);</scrip
 |x86_64|[x86_64/hypre](https://aur.archlinux.org/pkgbase/hypre)|PUBLISHED||[2649122236](https://github.com/arch4edu/cactus/actions/runs/2649122236)|<script type="text/javascript">localize(1657538612);</script>|
 |x86_64|[x86_64/icu58](https://aur.archlinux.org/pkgbase/icu58)|PUBLISHED||[2648554183](https://github.com/arch4edu/cactus/actions/runs/2648554183)|<script type="text/javascript">localize(1657532028);</script>|
 |x86_64|[x86_64/icu59](https://aur.archlinux.org/pkgbase/icu59)|PUBLISHED||[2647863168](https://github.com/arch4edu/cactus/actions/runs/2647863168)|<script type="text/javascript">localize(1657525778);</script>|
-|x86_64|[x86_64/ida-free](https://aur.archlinux.org/pkgbase/ida-free)|BUILT||[2993442869](https://github.com/arch4edu/cactus/actions/runs/2993442869)|<script type="text/javascript">localize(1662383383);</script>|
+|x86_64|[x86_64/ida-free](https://aur.archlinux.org/pkgbase/ida-free)|PUBLISHED||[2993442869](https://github.com/arch4edu/cactus/actions/runs/2993442869)|<script type="text/javascript">localize(1662389393);</script>|
 |x86_64|[x86_64/idutils](https://aur.archlinux.org/pkgbase/idutils)|PUBLISHED||[2690723888](https://github.com/arch4edu/cactus/actions/runs/2690723888)|<script type="text/javascript">localize(1658152576);</script>|
 |x86_64|[x86_64/ignition-cmake](https://aur.archlinux.org/pkgbase/ignition-cmake)|PUBLISHED||[2984455247](https://github.com/arch4edu/cactus/actions/runs/2984455247)|<script type="text/javascript">localize(1662230308);</script>|
 |x86_64|[x86_64/ignition-common-3](https://aur.archlinux.org/pkgbase/ignition-common-3)|PUBLISHED||[2963031840](https://github.com/arch4edu/cactus/actions/runs/2963031840)|<script type="text/javascript">localize(1661971206);</script>|
@@ -387,7 +387,7 @@ Last update: <script type="text/javascript">localize(1662387997.7845922);</scrip
 |x86_64|[x86_64/python-pytest-filter-subpackage](https://aur.archlinux.org/pkgbase/python-pytest-filter-subpackage)|PUBLISHED||[2648036224](https://github.com/arch4edu/cactus/actions/runs/2648036224)|<script type="text/javascript">localize(1657530253);</script>|
 |x86_64|[x86_64/python-pytest-openfiles](https://aur.archlinux.org/pkgbase/python-pytest-openfiles)|PUBLISHED||[2648426858](https://github.com/arch4edu/cactus/actions/runs/2648426858)|<script type="text/javascript">localize(1657532189);</script>|
 |x86_64|[x86_64/python-pywavelets](https://aur.archlinux.org/pkgbase/python-pywavelets)|PUBLISHED||[2648586609](https://github.com/arch4edu/cactus/actions/runs/2648586609)|<script type="text/javascript">localize(1657535900);</script>|
-|x86_64|[x86_64/python-ray](https://aur.archlinux.org/pkgbase/python-ray)|BUILT||[2993442788](https://github.com/arch4edu/cactus/actions/runs/2993442788)|<script type="text/javascript">localize(1662386368);</script>|
+|x86_64|[x86_64/python-ray](https://aur.archlinux.org/pkgbase/python-ray)|PUBLISHED||[2993442788](https://github.com/arch4edu/cactus/actions/runs/2993442788)|<script type="text/javascript">localize(1662389409);</script>|
 |x86_64|[x86_64/python-resampy](https://aur.archlinux.org/pkgbase/python-resampy)|PUBLISHED||[2844099388](https://github.com/arch4edu/cactus/actions/runs/2844099388)|<script type="text/javascript">localize(1660347469);</script>|
 |x86_64|[x86_64/python-scikit-image](https://aur.archlinux.org/pkgbase/python-scikit-image)|PUBLISHED||[2649006403](https://github.com/arch4edu/cactus/actions/runs/2649006403)|<script type="text/javascript">localize(1657538892);</script>|
 |x86_64|[x86_64/python-scipy-mkl](https://aur.archlinux.org/pkgbase/python-scipy-mkl)|PUBLISHED||[2939315720](https://github.com/arch4edu/cactus/actions/runs/2939315720)|<script type="text/javascript">localize(1661625520);</script>|
