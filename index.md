@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662363457.1397483);</script>
+Last update: <script type="text/javascript">localize(1662366726.5901988);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -181,7 +181,7 @@ Last update: <script type="text/javascript">localize(1662363457.1397483);</scrip
 |any|[any/xalan-java](https://aur.archlinux.org/pkgbase/xalan-java)|PUBLISHED||[2649060947](https://github.com/arch4edu/cactus/actions/runs/2649060947)|<script type="text/javascript">localize(1657538523);</script>|
 |any|[any/xerces2-java](https://aur.archlinux.org/pkgbase/xerces2-java)|PUBLISHED||[2648701221](https://github.com/arch4edu/cactus/actions/runs/2648701221)|<script type="text/javascript">localize(1657535602);</script>|
 |any|[any/ycm-generator-git](https://aur.archlinux.org/pkgbase/ycm-generator-git)|PUBLISHED||[2647726165](https://github.com/arch4edu/cactus/actions/runs/2647726165)|<script type="text/javascript">localize(1657525700);</script>|
-|x86_64|[x86_64/abinit](https://aur.archlinux.org/pkgbase/abinit)|FAILED|Dependency issue: x86_64/libxc.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1662296456);</script>|
+|x86_64|[x86_64/abinit](https://aur.archlinux.org/pkgbase/abinit)|FAILED|Build failed.|[2991764392](https://github.com/arch4edu/cactus/actions/runs/2991764392)|<script type="text/javascript">localize(1662366399);</script>|
 |x86_64|[x86_64/act](https://aur.archlinux.org/pkgbase/act)|PUBLISHED||[2784414867](https://github.com/arch4edu/cactus/actions/runs/2784414867)|<script type="text/javascript">localize(1659468073);</script>|
 |x86_64|[x86_64/adms](https://aur.archlinux.org/pkgbase/adms)|PUBLISHED||[2647948312](https://github.com/arch4edu/cactus/actions/runs/2647948312)|<script type="text/javascript">localize(1657528639);</script>|
 |x86_64|[x86_64/alice-vision](https://aur.archlinux.org/pkgbase/alice-vision)|FAILED|Build failed.|[2990548364](https://github.com/arch4edu/cactus/actions/runs/2990548364)|<script type="text/javascript">localize(1662348966);</script>|
