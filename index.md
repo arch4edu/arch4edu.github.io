@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662391737.0995343);</script>
+Last update: <script type="text/javascript">localize(1662440363.358934);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -338,12 +338,12 @@ Last update: <script type="text/javascript">localize(1662391737.0995343);</scrip
 |x86_64|[x86_64/openni2](https://aur.archlinux.org/pkgbase/openni2)|PUBLISHED||[2648274276](https://github.com/arch4edu/cactus/actions/runs/2648274276)|<script type="text/javascript">localize(1657529827);</script>|
 |x86_64|[x86_64/opensmile](https://aur.archlinux.org/pkgbase/opensmile)|PUBLISHED||[2850837955](https://github.com/arch4edu/cactus/actions/runs/2850837955)|<script type="text/javascript">localize(1660433143);</script>|
 |x86_64|[x86_64/openvsp](https://aur.archlinux.org/pkgbase/openvsp)|PUBLISHED||[2953271752](https://github.com/arch4edu/cactus/actions/runs/2953271752)|<script type="text/javascript">localize(1661842981);</script>|
-|x86_64|[x86_64/oracle-instantclient-basic](https://aur.archlinux.org/pkgbase/oracle-instantclient-basic)|PUBLISHED||[2962940942](https://github.com/arch4edu/cactus/actions/runs/2962940942)|<script type="text/javascript">localize(1661971315);</script>|
-|x86_64|[x86_64/oracle-instantclient-jdbc](https://aur.archlinux.org/pkgbase/oracle-instantclient-jdbc)|PUBLISHED||[2962988833](https://github.com/arch4edu/cactus/actions/runs/2962988833)|<script type="text/javascript">localize(1661971326);</script>|
-|x86_64|[x86_64/oracle-instantclient-odbc](https://aur.archlinux.org/pkgbase/oracle-instantclient-odbc)|PUBLISHED||[2962988734](https://github.com/arch4edu/cactus/actions/runs/2962988734)|<script type="text/javascript">localize(1661971337);</script>|
-|x86_64|[x86_64/oracle-instantclient-sdk](https://aur.archlinux.org/pkgbase/oracle-instantclient-sdk)|PUBLISHED||[2962988790](https://github.com/arch4edu/cactus/actions/runs/2962988790)|<script type="text/javascript">localize(1661971349);</script>|
-|x86_64|[x86_64/oracle-instantclient-sqlplus](https://aur.archlinux.org/pkgbase/oracle-instantclient-sqlplus)|PUBLISHED||[2962988891](https://github.com/arch4edu/cactus/actions/runs/2962988891)|<script type="text/javascript">localize(1661971360);</script>|
-|x86_64|[x86_64/oracle-instantclient-tools](https://aur.archlinux.org/pkgbase/oracle-instantclient-tools)|PUBLISHED||[2962988972](https://github.com/arch4edu/cactus/actions/runs/2962988972)|<script type="text/javascript">localize(1661971373);</script>|
+|x86_64|[x86_64/oracle-instantclient-basic](https://aur.archlinux.org/pkgbase/oracle-instantclient-basic)|BUILT||[2997277446](https://github.com/arch4edu/cactus/actions/runs/2997277446)|<script type="text/javascript">localize(1662434188);</script>|
+|x86_64|[x86_64/oracle-instantclient-jdbc](https://aur.archlinux.org/pkgbase/oracle-instantclient-jdbc)|BUILT||[2997291209](https://github.com/arch4edu/cactus/actions/runs/2997291209)|<script type="text/javascript">localize(1662434407);</script>|
+|x86_64|[x86_64/oracle-instantclient-odbc](https://aur.archlinux.org/pkgbase/oracle-instantclient-odbc)|BUILT||[2997291147](https://github.com/arch4edu/cactus/actions/runs/2997291147)|<script type="text/javascript">localize(1662434419);</script>|
+|x86_64|[x86_64/oracle-instantclient-sdk](https://aur.archlinux.org/pkgbase/oracle-instantclient-sdk)|BUILT||[2997291188](https://github.com/arch4edu/cactus/actions/runs/2997291188)|<script type="text/javascript">localize(1662434404);</script>|
+|x86_64|[x86_64/oracle-instantclient-sqlplus](https://aur.archlinux.org/pkgbase/oracle-instantclient-sqlplus)|BUILT||[2997291221](https://github.com/arch4edu/cactus/actions/runs/2997291221)|<script type="text/javascript">localize(1662434402);</script>|
+|x86_64|[x86_64/oracle-instantclient-tools](https://aur.archlinux.org/pkgbase/oracle-instantclient-tools)|BUILT||[2997291280](https://github.com/arch4edu/cactus/actions/runs/2997291280)|<script type="text/javascript">localize(1662434410);</script>|
 |x86_64|[x86_64/oracle-xe](https://aur.archlinux.org/pkgbase/oracle-xe)|PUBLISHED||[2647948545](https://github.com/arch4edu/cactus/actions/runs/2647948545)|<script type="text/javascript">localize(1657530183);</script>|
 |x86_64|[x86_64/pacman-static](https://aur.archlinux.org/pkgbase/pacman-static)|PUBLISHED||[2838353854](https://github.com/arch4edu/cactus/actions/runs/2838353854)|<script type="text/javascript">localize(1660260494);</script>|
 |x86_64|[x86_64/pagmo](https://aur.archlinux.org/pkgbase/pagmo)|PUBLISHED||[2649122085](https://github.com/arch4edu/cactus/actions/runs/2649122085)|<script type="text/javascript">localize(1657538848);</script>|
@@ -448,7 +448,7 @@ Last update: <script type="text/javascript">localize(1662391737.0995343);</scrip
 |x86_64/r|[x86_64/r/r-colorspace](https://aur.archlinux.org/pkgbase/r-colorspace)|PUBLISHED||[2703642110](https://github.com/arch4edu/cactus/actions/runs/2703642110)|<script type="text/javascript">localize(1658309398);</script>|
 |x86_64/r|[x86_64/r/r-colourpicker](https://aur.archlinux.org/pkgbase/r-colourpicker)|PUBLISHED||[2720745085](https://github.com/arch4edu/cactus/actions/runs/2720745085)|<script type="text/javascript">localize(1658521751);</script>|
 |x86_64/r|[x86_64/r/r-combinat](https://aur.archlinux.org/pkgbase/r-combinat)|PUBLISHED||[2703273648](https://github.com/arch4edu/cactus/actions/runs/2703273648)|<script type="text/javascript">localize(1658306084);</script>|
-|x86_64/r|[x86_64/r/r-commonmark](https://aur.archlinux.org/pkgbase/r-commonmark)|PUBLISHED||[2703519512](https://github.com/arch4edu/cactus/actions/runs/2703519512)|<script type="text/javascript">localize(1658309410);</script>|
+|x86_64/r|[x86_64/r/r-commonmark](https://aur.archlinux.org/pkgbase/r-commonmark)|BUILT||[2997277391](https://github.com/arch4edu/cactus/actions/runs/2997277391)|<script type="text/javascript">localize(1662434080);</script>|
 |x86_64/r|[x86_64/r/r-conf.design](https://aur.archlinux.org/pkgbase/r-conf.design)|PUBLISHED||[2703395567](https://github.com/arch4edu/cactus/actions/runs/2703395567)|<script type="text/javascript">localize(1658309424);</script>|
 |x86_64/r|[x86_64/r/r-contfrac](https://aur.archlinux.org/pkgbase/r-contfrac)|PUBLISHED||[2703478961](https://github.com/arch4edu/cactus/actions/runs/2703478961)|<script type="text/javascript">localize(1658309435);</script>|
 |x86_64/r|[x86_64/r/r-conting](https://aur.archlinux.org/pkgbase/r-conting)|PUBLISHED||[2739722147](https://github.com/arch4edu/cactus/actions/runs/2739722147)|<script type="text/javascript">localize(1658845479);</script>|
@@ -612,7 +612,7 @@ Last update: <script type="text/javascript">localize(1662391737.0995343);</scrip
 |x86_64/r|[x86_64/r/r-lmtest](https://aur.archlinux.org/pkgbase/r-lmtest)|PUBLISHED||[2872441848](https://github.com/arch4edu/cactus/actions/runs/2872441848)|<script type="text/javascript">localize(1660718751);</script>|
 |x86_64/r|[x86_64/r/r-logspline](https://aur.archlinux.org/pkgbase/r-logspline)|PUBLISHED||[2703313622](https://github.com/arch4edu/cactus/actions/runs/2703313622)|<script type="text/javascript">localize(1658306374);</script>|
 |x86_64/r|[x86_64/r/r-loo](https://aur.archlinux.org/pkgbase/r-loo)|PUBLISHED||[2714104500](https://github.com/arch4edu/cactus/actions/runs/2714104500)|<script type="text/javascript">localize(1658431639);</script>|
-|x86_64/r|[x86_64/r/r-lpsolve](https://aur.archlinux.org/pkgbase/r-lpsolve)|PUBLISHED||[2703642043](https://github.com/arch4edu/cactus/actions/runs/2703642043)|<script type="text/javascript">localize(1658309812);</script>|
+|x86_64/r|[x86_64/r/r-lpsolve](https://aur.archlinux.org/pkgbase/r-lpsolve)|BUILT||[2997277411](https://github.com/arch4edu/cactus/actions/runs/2997277411)|<script type="text/javascript">localize(1662434103);</script>|
 |x86_64/r|[x86_64/r/r-lubridate](https://aur.archlinux.org/pkgbase/r-lubridate)|PUBLISHED||[2836971356](https://github.com/arch4edu/cactus/actions/runs/2836971356)|<script type="text/javascript">localize(1660260562);</script>|
 |x86_64/r|[x86_64/r/r-magrittr](https://aur.archlinux.org/pkgbase/r-magrittr)|PUBLISHED||[2703519688](https://github.com/arch4edu/cactus/actions/runs/2703519688)|<script type="text/javascript">localize(1658309823);</script>|
 |x86_64/r|[x86_64/r/r-maptools](https://aur.archlinux.org/pkgbase/r-maptools)|PUBLISHED||[2703723876](https://github.com/arch4edu/cactus/actions/runs/2703723876)|<script type="text/javascript">localize(1658313848);</script>|
