@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662474489.7475617);</script>
+Last update: <script type="text/javascript">localize(1662492127.3361032);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -9,7 +9,7 @@ Last update: <script type="text/javascript">localize(1662474489.7475617);</scrip
 |aarch64|[aarch64/browsh-bin](https://aur.archlinux.org/pkgbase/browsh-bin)|PUBLISHED||[2780016616](https://github.com/arch4edu/cactus/actions/runs/2780016616)|<script type="text/javascript">localize(1659421963);</script>|
 |aarch64|[aarch64/clash-premium-bin](https://aur.archlinux.org/pkgbase/clash-premium-bin)|PUBLISHED||[2945638268](https://github.com/arch4edu/cactus/actions/runs/2945638268)|<script type="text/javascript">localize(1661756301);</script>|
 |aarch64|[aarch64/conftest](https://aur.archlinux.org/pkgbase/conftest)|PUBLISHED||[2860822781](https://github.com/arch4edu/cactus/actions/runs/2860822781)|<script type="text/javascript">localize(1660588917);</script>|
-|aarch64|[aarch64/cp2k-bin](https://aur.archlinux.org/pkgbase/cp2k-bin)|BUILT||[3000913293](https://github.com/arch4edu/cactus/actions/runs/3000913293)|<script type="text/javascript">localize(1662474303);</script>|
+|aarch64|[aarch64/cp2k-bin](https://aur.archlinux.org/pkgbase/cp2k-bin)|PUBLISHED||[3000913293](https://github.com/arch4edu/cactus/actions/runs/3000913293)|<script type="text/javascript">localize(1662489728);</script>|
 |aarch64|[aarch64/devtools-arch4edu-extra](https://aur.archlinux.org/pkgbase/devtools-arch4edu-extra)|PUBLISHED||[2648243811](https://github.com/arch4edu/cactus/actions/runs/2648243811)|<script type="text/javascript">localize(1657528494);</script>|
 |aarch64|[aarch64/fakeroot-tcp](https://aur.archlinux.org/pkgbase/fakeroot-tcp)|PUBLISHED||[2647976096](https://github.com/arch4edu/cactus/actions/runs/2647976096)|<script type="text/javascript">localize(1657528504);</script>|
 |aarch64|[aarch64/github-actions-bin](https://aur.archlinux.org/pkgbase/github-actions-bin)|PUBLISHED||[2971835587](https://github.com/arch4edu/cactus/actions/runs/2971835587)|<script type="text/javascript">localize(1662057758);</script>|
@@ -219,7 +219,7 @@ Last update: <script type="text/javascript">localize(1662474489.7475617);</scrip
 |x86_64|[x86_64/combblas](https://aur.archlinux.org/pkgbase/combblas)|PUBLISHED||[2926740301](https://github.com/arch4edu/cactus/actions/runs/2926740301)|<script type="text/javascript">localize(1661452768);</script>|
 |x86_64|[x86_64/conftest](https://aur.archlinux.org/pkgbase/conftest)|PUBLISHED||[2866280486](https://github.com/arch4edu/cactus/actions/runs/2866280486)|<script type="text/javascript">localize(1660675366);</script>|
 |x86_64|[x86_64/console-bridge](https://aur.archlinux.org/pkgbase/console-bridge)|PUBLISHED||[2648006199](https://github.com/arch4edu/cactus/actions/runs/2648006199)|<script type="text/javascript">localize(1657529047);</script>|
-|x86_64|[x86_64/cp2k-bin](https://aur.archlinux.org/pkgbase/cp2k-bin)|BUILT||[3000718700](https://github.com/arch4edu/cactus/actions/runs/3000718700)|<script type="text/javascript">localize(1662472644);</script>|
+|x86_64|[x86_64/cp2k-bin](https://aur.archlinux.org/pkgbase/cp2k-bin)|PUBLISHED||[3000718700](https://github.com/arch4edu/cactus/actions/runs/3000718700)|<script type="text/javascript">localize(1662489747);</script>|
 |x86_64|[x86_64/cpptest](https://aur.archlinux.org/pkgbase/cpptest)|PUBLISHED||[2647948245](https://github.com/arch4edu/cactus/actions/runs/2647948245)|<script type="text/javascript">localize(1657529059);</script>|
 |x86_64|[x86_64/devtools-arch4edu-extra](https://aur.archlinux.org/pkgbase/devtools-arch4edu-extra)|PUBLISHED||[2648642921](https://github.com/arch4edu/cactus/actions/runs/2648642921)|<script type="text/javascript">localize(1657535625);</script>|
 |x86_64|[x86_64/devtools-qemu](https://aur.archlinux.org/pkgbase/devtools-qemu)|PUBLISHED||[2648671676](https://github.com/arch4edu/cactus/actions/runs/2648671676)|<script type="text/javascript">localize(1657535635);</script>|
