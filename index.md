@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662559122.59146);</script>
+Last update: <script type="text/javascript">localize(1662564624.5826502);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -816,7 +816,7 @@ Last update: <script type="text/javascript">localize(1662559122.59146);</script>
 |x86_64/r|[x86_64/r/r-zoo](https://aur.archlinux.org/pkgbase/r-zoo)|PUBLISHED||[2703235171](https://github.com/arch4edu/cactus/actions/runs/2703235171)|<script type="text/javascript">localize(1658306648);</script>|
 |x86_64|[x86_64/rdma-core](https://aur.archlinux.org/pkgbase/rdma-core)|PUBLISHED||[2755978339](https://github.com/arch4edu/cactus/actions/runs/2755978339)|<script type="text/javascript">localize(1659036069);</script>|
 |x86_64/rocm|[x86_64/rocm/comgr](https://aur.archlinux.org/pkgbase/comgr)|PUBLISHED||[2896943681](https://github.com/arch4edu/cactus/actions/runs/2896943681)|<script type="text/javascript">localize(1661064037);</script>|
-|x86_64/rocm|[x86_64/rocm/hip-runtime-amd](https://aur.archlinux.org/pkgbase/hip-runtime-amd)|PUBLISHED||[2896967721](https://github.com/arch4edu/cactus/actions/runs/2896967721)|<script type="text/javascript">localize(1661064050);</script>|
+|x86_64/rocm|[x86_64/rocm/hip-runtime-amd](https://aur.archlinux.org/pkgbase/hip-runtime-amd)|BUILT||[3008767206](https://github.com/arch4edu/cactus/actions/runs/3008767206)|<script type="text/javascript">localize(1662564553);</script>|
 |x86_64/rocm|[x86_64/rocm/hip-runtime-nvidia](https://aur.archlinux.org/pkgbase/hip-runtime-nvidia)|PUBLISHED||[2812693135](https://github.com/arch4edu/cactus/actions/runs/2812693135)|<script type="text/javascript">localize(1659914713);</script>|
 |x86_64/rocm|[x86_64/rocm/hipblas](https://aur.archlinux.org/pkgbase/hipblas)|PUBLISHED||[2943105345](https://github.com/arch4edu/cactus/actions/runs/2943105345)|<script type="text/javascript">localize(1661711894);</script>|
 |x86_64/rocm|[x86_64/rocm/hipcub](https://aur.archlinux.org/pkgbase/hipcub)|PUBLISHED||[2897008749](https://github.com/arch4edu/cactus/actions/runs/2897008749)|<script type="text/javascript">localize(1661064061);</script>|
