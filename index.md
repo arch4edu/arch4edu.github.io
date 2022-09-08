@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662644428.6315243);</script>
+Last update: <script type="text/javascript">localize(1662647138.4972408);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -120,7 +120,7 @@ Last update: <script type="text/javascript">localize(1662644428.6315243);</scrip
 |any|[any/python-imread](https://aur.archlinux.org/pkgbase/python-imread)|PUBLISHED||[2893644901](https://github.com/arch4edu/cactus/actions/runs/2893644901)|<script type="text/javascript">localize(1660977548);</script>|
 |any|[any/python-librosa](https://aur.archlinux.org/pkgbase/python-librosa)|PUBLISHED||[2718779317](https://github.com/arch4edu/cactus/actions/runs/2718779317)|<script type="text/javascript">localize(1658497445);</script>|
 |any|[any/python-multipledispatch](https://aur.archlinux.org/pkgbase/python-multipledispatch)|PUBLISHED||[2647702460](https://github.com/arch4edu/cactus/actions/runs/2647702460)|<script type="text/javascript">localize(1657525104);</script>|
-|any|[any/python-multiprocess](https://aur.archlinux.org/pkgbase/python-multiprocess)|PUBLISHED||[2647831859](https://github.com/arch4edu/cactus/actions/runs/2647831859)|<script type="text/javascript">localize(1657525119);</script>|
+|any|[any/python-multiprocess](https://aur.archlinux.org/pkgbase/python-multiprocess)|BUILT||[3015847552](https://github.com/arch4edu/cactus/actions/runs/3015847552)|<script type="text/javascript">localize(1662647091);</script>|
 |any|[any/python-ninja-syntax](https://aur.archlinux.org/pkgbase/python-ninja-syntax)|PUBLISHED||[2647774561](https://github.com/arch4edu/cactus/actions/runs/2647774561)|<script type="text/javascript">localize(1657525147);</script>|
 |any|[any/python-nocasedict](https://aur.archlinux.org/pkgbase/python-nocasedict)|PUBLISHED||[3007952290](https://github.com/arch4edu/cactus/actions/runs/3007952290)|<script type="text/javascript">localize(1662564844);</script>|
 |any|[any/python-nocaselist](https://aur.archlinux.org/pkgbase/python-nocaselist)|PUBLISHED||[3007952401](https://github.com/arch4edu/cactus/actions/runs/3007952401)|<script type="text/javascript">localize(1662564864);</script>|
