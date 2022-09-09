@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662737422.9175022);</script>
+Last update: <script type="text/javascript">localize(1662741609.497967);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -47,7 +47,7 @@ Last update: <script type="text/javascript">localize(1662737422.9175022);</scrip
 |aarch64|[aarch64/ventoy-bin](https://aur.archlinux.org/pkgbase/ventoy-bin)|PUBLISHED||[2953271400](https://github.com/arch4edu/cactus/actions/runs/2953271400)|<script type="text/javascript">localize(1661842934);</script>|
 |aarch64|[aarch64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[2948713352](https://github.com/arch4edu/cactus/actions/runs/2948713352)|<script type="text/javascript">localize(1661798438);</script>|
 |aarch64|[aarch64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|PUBLISHED||[3004927218](https://github.com/arch4edu/cactus/actions/runs/3004927218)|<script type="text/javascript">localize(1662534646);</script>|
-|aarch64|[aarch64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|FAILED|Build failed.|[3022924614](https://github.com/arch4edu/cactus/actions/runs/3022924614)|<script type="text/javascript">localize(1662731940);</script>|
+|aarch64|[aarch64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|BUILT||[3022924614](https://github.com/arch4edu/cactus/actions/runs/3022924614)|<script type="text/javascript">localize(1662741208);</script>|
 |aarch64|[aarch64/vscodium-bin](https://aur.archlinux.org/pkgbase/vscodium-bin)|BUILT||[3022792309](https://github.com/arch4edu/cactus/actions/runs/3022792309)|<script type="text/javascript">localize(1662730849);</script>|
 |aarch64|[aarch64/wxwidgets-gtk2](https://aur.archlinux.org/pkgbase/wxwidgets-gtk2)|PUBLISHED||[2815923886](https://github.com/arch4edu/cactus/actions/runs/2815923886)|<script type="text/javascript">localize(1660001305);</script>|
 |aarch64|[aarch64/yay](https://aur.archlinux.org/pkgbase/yay)|PUBLISHED||[2858159249](https://github.com/arch4edu/cactus/actions/runs/2858159249)|<script type="text/javascript">localize(1660588946);</script>|
