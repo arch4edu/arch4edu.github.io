@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662733857.3875837);</script>
+Last update: <script type="text/javascript">localize(1662737422.9175022);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -1170,7 +1170,7 @@ Last update: <script type="text/javascript">localize(1662733857.3875837);</scrip
 |x86_64|[x86_64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[2948713455](https://github.com/arch4edu/cactus/actions/runs/2948713455)|<script type="text/javascript">localize(1661798497);</script>|
 |x86_64|[x86_64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|PUBLISHED||[3004927237](https://github.com/arch4edu/cactus/actions/runs/3004927237)|<script type="text/javascript">localize(1662534688);</script>|
 |x86_64|[x86_64/voro++](https://aur.archlinux.org/pkgbase/voro++)|PUBLISHED||[2648553963](https://github.com/arch4edu/cactus/actions/runs/2648553963)|<script type="text/javascript">localize(1657532303);</script>|
-|x86_64|[x86_64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|FAILED|Build failed.|[3022631648](https://github.com/arch4edu/cactus/actions/runs/3022631648)|<script type="text/javascript">localize(1662729010);</script>|
+|x86_64|[x86_64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|BUILT||[3022631648](https://github.com/arch4edu/cactus/actions/runs/3022631648)|<script type="text/javascript">localize(1662736850);</script>|
 |x86_64|[x86_64/vscodium-bin](https://aur.archlinux.org/pkgbase/vscodium-bin)|BUILT||[3022631481](https://github.com/arch4edu/cactus/actions/runs/3022631481)|<script type="text/javascript">localize(1662729119);</script>|
 |x86_64|[x86_64/wscat](https://aur.archlinux.org/pkgbase/wscat)|PUBLISHED||[2647862687](https://github.com/arch4edu/cactus/actions/runs/2647862687)|<script type="text/javascript">localize(1657526023);</script>|
 |x86_64|[x86_64/wxgtk-dev](https://aur.archlinux.org/pkgbase/wxgtk-dev)|PUBLISHED||[2648363260](https://github.com/arch4edu/cactus/actions/runs/2648363260)|<script type="text/javascript">localize(1657536350);</script>|
