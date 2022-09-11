@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662903587.812216);</script>
+Last update: <script type="text/javascript">localize(1662924186.1975503);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -55,7 +55,7 @@ Last update: <script type="text/javascript">localize(1662903587.812216);</script
 |any|[any/android-platform](https://aur.archlinux.org/pkgbase/android-platform)|PUBLISHED||[2727308744](https://github.com/arch4edu/cactus/actions/runs/2727308744)|<script type="text/javascript">localize(1658669782);</script>|
 |any|[any/apache-lucene](https://aur.archlinux.org/pkgbase/apache-lucene)|PUBLISHED||[2829566529](https://github.com/arch4edu/cactus/actions/runs/2829566529)|<script type="text/javascript">localize(1660173898);</script>|
 |any|[any/arch4edu-keyring](https://aur.archlinux.org/pkgbase/arch4edu-keyring)|PUBLISHED||[2647751739](https://github.com/arch4edu/cactus/actions/runs/2647751739)|<script type="text/javascript">localize(1657524434);</script>|
-|any|[any/arch4edu-mirrorlist](https://aur.archlinux.org/pkgbase/arch4edu-mirrorlist)|BUILT||[3031906115](https://github.com/arch4edu/cactus/actions/runs/3031906115)|<script type="text/javascript">localize(1662901410);</script>|
+|any|[any/arch4edu-mirrorlist](https://aur.archlinux.org/pkgbase/arch4edu-mirrorlist)|PUBLISHED||[3031906115](https://github.com/arch4edu/cactus/actions/runs/3031906115)|<script type="text/javascript">localize(1662921667);</script>|
 |any|[any/archlinux-java-run](https://aur.archlinux.org/pkgbase/archlinux-java-run)|PUBLISHED||[2647775513](https://github.com/arch4edu/cactus/actions/runs/2647775513)|<script type="text/javascript">localize(1657524467);</script>|
 |any|[any/archlinuxarm-keyring](https://aur.archlinux.org/pkgbase/archlinuxarm-keyring)|PUBLISHED||[2746846808](https://github.com/arch4edu/cactus/actions/runs/2746846808)|<script type="text/javascript">localize(1658929940);</script>|
 |any|[any/aurutils](https://aur.archlinux.org/pkgbase/aurutils)|PUBLISHED||[2647674352](https://github.com/arch4edu/cactus/actions/runs/2647674352)|<script type="text/javascript">localize(1657521277);</script>|
