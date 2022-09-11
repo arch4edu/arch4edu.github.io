@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662870944.9055517);</script>
+Last update: <script type="text/javascript">localize(1662881149.2267077);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -712,7 +712,7 @@ Last update: <script type="text/javascript">localize(1662870944.9055517);</scrip
 |x86_64/r|[x86_64/r/r-rbibutils](https://aur.archlinux.org/pkgbase/r-rbibutils)|PUBLISHED||[2860822942](https://github.com/arch4edu/cactus/actions/runs/2860822942)|<script type="text/javascript">localize(1660589013);</script>|
 |x86_64/r|[x86_64/r/r-rcolorbrewer](https://aur.archlinux.org/pkgbase/r-rcolorbrewer)|PUBLISHED||[2703395706](https://github.com/arch4edu/cactus/actions/runs/2703395706)|<script type="text/javascript">localize(1658310209);</script>|
 |x86_64/r|[x86_64/r/r-rcpp](https://aur.archlinux.org/pkgbase/r-rcpp)|PUBLISHED||[2703234842](https://github.com/arch4edu/cactus/actions/runs/2703234842)|<script type="text/javascript">localize(1658306515);</script>|
-|x86_64/r|[x86_64/r/r-rcpparmadillo](https://aur.archlinux.org/pkgbase/r-rcpparmadillo)|BUILT||[3030321285](https://github.com/arch4edu/cactus/actions/runs/3030321285)|<script type="text/javascript">localize(1662865890);</script>|
+|x86_64/r|[x86_64/r/r-rcpparmadillo](https://aur.archlinux.org/pkgbase/r-rcpparmadillo)|PUBLISHED||[3030321285](https://github.com/arch4edu/cactus/actions/runs/3030321285)|<script type="text/javascript">localize(1662878641);</script>|
 |x86_64/r|[x86_64/r/r-rcppeigen](https://aur.archlinux.org/pkgbase/r-rcppeigen)|PUBLISHED||[2714036277](https://github.com/arch4edu/cactus/actions/runs/2714036277)|<script type="text/javascript">localize(1658431911);</script>|
 |x86_64/r|[x86_64/r/r-rcppparallel](https://aur.archlinux.org/pkgbase/r-rcppparallel)|PUBLISHED||[2703356388](https://github.com/arch4edu/cactus/actions/runs/2703356388)|<script type="text/javascript">localize(1658310236);</script>|
 |x86_64/r|[x86_64/r/r-rcsdp](https://aur.archlinux.org/pkgbase/r-rcsdp)|PUBLISHED||[2703602255](https://github.com/arch4edu/cactus/actions/runs/2703602255)|<script type="text/javascript">localize(1658310248);</script>|
