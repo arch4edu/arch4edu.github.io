@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1662924186.1975503);</script>
+Last update: <script type="text/javascript">localize(1662958976.3345292);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -183,7 +183,7 @@ Last update: <script type="text/javascript">localize(1662924186.1975503);</scrip
 |any|[any/xalan-java](https://aur.archlinux.org/pkgbase/xalan-java)|PUBLISHED||[2649060947](https://github.com/arch4edu/cactus/actions/runs/2649060947)|<script type="text/javascript">localize(1657538523);</script>|
 |any|[any/xerces2-java](https://aur.archlinux.org/pkgbase/xerces2-java)|PUBLISHED||[2648701221](https://github.com/arch4edu/cactus/actions/runs/2648701221)|<script type="text/javascript">localize(1657535602);</script>|
 |any|[any/ycm-generator-git](https://aur.archlinux.org/pkgbase/ycm-generator-git)|PUBLISHED||[2647726165](https://github.com/arch4edu/cactus/actions/runs/2647726165)|<script type="text/javascript">localize(1657525700);</script>|
-|x86_64|[x86_64/abinit](https://aur.archlinux.org/pkgbase/abinit)|FAILED|Build failed.|[3030321375](https://github.com/arch4edu/cactus/actions/runs/3030321375)|<script type="text/javascript">localize(1662865881);</script>|
+|x86_64|[x86_64/abinit](https://aur.archlinux.org/pkgbase/abinit)|FAILED|Build failed.|[3034436532](https://github.com/arch4edu/cactus/actions/runs/3034436532)|<script type="text/javascript">localize(1662952761);</script>|
 |x86_64|[x86_64/act](https://aur.archlinux.org/pkgbase/act)|PUBLISHED||[3026505445](https://github.com/arch4edu/cactus/actions/runs/3026505445)|<script type="text/javascript">localize(1662792383);</script>|
 |x86_64|[x86_64/adms](https://aur.archlinux.org/pkgbase/adms)|PUBLISHED||[2647948312](https://github.com/arch4edu/cactus/actions/runs/2647948312)|<script type="text/javascript">localize(1657528639);</script>|
 |x86_64|[x86_64/alice-vision](https://aur.archlinux.org/pkgbase/alice-vision)|FAILED|Build failed.|[3030321386](https://github.com/arch4edu/cactus/actions/runs/3030321386)|<script type="text/javascript">localize(1662867216);</script>|
@@ -319,7 +319,7 @@ Last update: <script type="text/javascript">localize(1662924186.1975503);</scrip
 |x86_64|[x86_64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|PUBLISHED||[2648614297](https://github.com/arch4edu/cactus/actions/runs/2648614297)|<script type="text/javascript">localize(1657535804);</script>|
 |x86_64|[x86_64/mpich](https://aur.archlinux.org/pkgbase/mpich)|PUBLISHED||[2648614437](https://github.com/arch4edu/cactus/actions/runs/2648614437)|<script type="text/javascript">localize(1657538803);</script>|
 |x86_64|[x86_64/mumps](https://aur.archlinux.org/pkgbase/mumps)|PUBLISHED||[2822344001](https://github.com/arch4edu/cactus/actions/runs/2822344001)|<script type="text/javascript">localize(1660087627);</script>|
-|x86_64|[x86_64/mumps-par](https://aur.archlinux.org/pkgbase/mumps-par)|FAILED|Build failed.|[3030321343](https://github.com/arch4edu/cactus/actions/runs/3030321343)|<script type="text/javascript">localize(1662865828);</script>|
+|x86_64|[x86_64/mumps-par](https://aur.archlinux.org/pkgbase/mumps-par)|FAILED|Build failed.|[3034436511](https://github.com/arch4edu/cactus/actions/runs/3034436511)|<script type="text/javascript">localize(1662952701);</script>|
 |x86_64|[x86_64/mysql](https://aur.archlinux.org/pkgbase/mysql)|PUBLISHED||[2879641000](https://github.com/arch4edu/cactus/actions/runs/2879641000)|<script type="text/javascript">localize(1660805072);</script>|
 |x86_64|[x86_64/ncl](https://aur.archlinux.org/pkgbase/ncl)|PUBLISHED||[2648978220](https://github.com/arch4edu/cactus/actions/runs/2648978220)|<script type="text/javascript">localize(1657538837);</script>|
 |x86_64|[x86_64/ncurses5-compat-libs](https://aur.archlinux.org/pkgbase/ncurses5-compat-libs)|PUBLISHED||[2647862465](https://github.com/arch4edu/cactus/actions/runs/2647862465)|<script type="text/javascript">localize(1657525836);</script>|
@@ -815,7 +815,7 @@ Last update: <script type="text/javascript">localize(1662924186.1975503);</scrip
 |x86_64/r|[x86_64/r/r-yaml](https://aur.archlinux.org/pkgbase/r-yaml)|PUBLISHED||[2703312886](https://github.com/arch4edu/cactus/actions/runs/2703312886)|<script type="text/javascript">localize(1658306624);</script>|
 |x86_64/r|[x86_64/r/r-zip](https://aur.archlinux.org/pkgbase/r-zip)|PUBLISHED||[3015273777](https://github.com/arch4edu/cactus/actions/runs/3015273777)|<script type="text/javascript">localize(1662662656);</script>|
 |x86_64/r|[x86_64/r/r-zoo](https://aur.archlinux.org/pkgbase/r-zoo)|PUBLISHED||[2703235171](https://github.com/arch4edu/cactus/actions/runs/2703235171)|<script type="text/javascript">localize(1658306648);</script>|
-|x86_64|[x86_64/rdma-core](https://aur.archlinux.org/pkgbase/rdma-core)|PUBLISHED||[3012777178](https://github.com/arch4edu/cactus/actions/runs/3012777178)|<script type="text/javascript">localize(1662620446);</script>|
+|x86_64|[x86_64/rdma-core](https://aur.archlinux.org/pkgbase/rdma-core)|FAILED|nvchecker failed|[3012777178](https://github.com/arch4edu/cactus/actions/runs/3012777178)|<script type="text/javascript">localize(1662952552);</script>|
 |x86_64/rocm|[x86_64/rocm/comgr](https://aur.archlinux.org/pkgbase/comgr)|PUBLISHED||[2896943681](https://github.com/arch4edu/cactus/actions/runs/2896943681)|<script type="text/javascript">localize(1661064037);</script>|
 |x86_64/rocm|[x86_64/rocm/hip-runtime-amd](https://aur.archlinux.org/pkgbase/hip-runtime-amd)|PUBLISHED||[3008767206](https://github.com/arch4edu/cactus/actions/runs/3008767206)|<script type="text/javascript">localize(1662564935);</script>|
 |x86_64/rocm|[x86_64/rocm/hip-runtime-nvidia](https://aur.archlinux.org/pkgbase/hip-runtime-nvidia)|PUBLISHED||[2812693135](https://github.com/arch4edu/cactus/actions/runs/2812693135)|<script type="text/javascript">localize(1659914713);</script>|
