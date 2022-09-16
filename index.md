@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1663338908.6941352);</script>
+Last update: <script type="text/javascript">localize(1663356311.3789303);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -244,7 +244,7 @@ Last update: <script type="text/javascript">localize(1663338908.6941352);</scrip
 |x86_64|[x86_64/gcc8](https://aur.archlinux.org/pkgbase/gcc8)|PUBLISHED||[2656798250](https://github.com/arch4edu/cactus/actions/runs/2656798250)|<script type="text/javascript">localize(1657643982);</script>|
 |x86_64|[x86_64/gcc9](https://aur.archlinux.org/pkgbase/gcc9)|PUBLISHED||[2658693205](https://github.com/arch4edu/cactus/actions/runs/2658693205)|<script type="text/javascript">localize(1657668447);</script>|
 |x86_64|[x86_64/gconf](https://aur.archlinux.org/pkgbase/gconf)|PUBLISHED||[2648492140](https://github.com/arch4edu/cactus/actions/runs/2648492140)|<script type="text/javascript">localize(1657531967);</script>|
-|x86_64|[x86_64/geant4](https://aur.archlinux.org/pkgbase/geant4)|BUILT||[3068047933](https://github.com/arch4edu/cactus/actions/runs/3068047933)|<script type="text/javascript">localize(1663336822);</script>|
+|x86_64|[x86_64/geant4](https://aur.archlinux.org/pkgbase/geant4)|PUBLISHED||[3068047933](https://github.com/arch4edu/cactus/actions/runs/3068047933)|<script type="text/javascript">localize(1663353969);</script>|
 |x86_64|[x86_64/genromfs](https://aur.archlinux.org/pkgbase/genromfs)|PUBLISHED||[2648491948](https://github.com/arch4edu/cactus/actions/runs/2648491948)|<script type="text/javascript">localize(1657531982);</script>|
 |x86_64|[x86_64/geogram](https://aur.archlinux.org/pkgbase/geogram)|PUBLISHED||[2709897389](https://github.com/arch4edu/cactus/actions/runs/2709897389)|<script type="text/javascript">localize(1658388302);</script>|
 |x86_64|[x86_64/gerris](https://aur.archlinux.org/pkgbase/gerris)|PUBLISHED||[2648459754](https://github.com/arch4edu/cactus/actions/runs/2648459754)|<script type="text/javascript">localize(1657531993);</script>|
@@ -374,7 +374,7 @@ Last update: <script type="text/javascript">localize(1663338908.6941352);</scrip
 |x86_64|[x86_64/python-fastrlock](https://aur.archlinux.org/pkgbase/python-fastrlock)|PUBLISHED||[2648303933](https://github.com/arch4edu/cactus/actions/runs/2648303933)|<script type="text/javascript">localize(1657532158);</script>|
 |x86_64|[x86_64/python-gensim](https://aur.archlinux.org/pkgbase/python-gensim)|PUBLISHED||[2648738470](https://github.com/arch4edu/cactus/actions/runs/2648738470)|<script type="text/javascript">localize(1657535890);</script>|
 |x86_64|[x86_64/python-imagecodecs](https://aur.archlinux.org/pkgbase/python-imagecodecs)|PUBLISHED||[2962941342](https://github.com/arch4edu/cactus/actions/runs/2962941342)|<script type="text/javascript">localize(1662030046);</script>|
-|x86_64|[x86_64/python-imageio](https://aur.archlinux.org/pkgbase/python-imageio)|BUILT||[3068047786](https://github.com/arch4edu/cactus/actions/runs/3068047786)|<script type="text/javascript">localize(1663333570);</script>|
+|x86_64|[x86_64/python-imageio](https://aur.archlinux.org/pkgbase/python-imageio)|PUBLISHED||[3068047786](https://github.com/arch4edu/cactus/actions/runs/3068047786)|<script type="text/javascript">localize(1663353985);</script>|
 |x86_64|[x86_64/python-leveldb](https://aur.archlinux.org/pkgbase/python-leveldb)|PUBLISHED||[2886714281](https://github.com/arch4edu/cactus/actions/runs/2886714281)|<script type="text/javascript">localize(1660891381);</script>|
 |x86_64|[x86_64/python-llvmlite-git](https://aur.archlinux.org/pkgbase/python-llvmlite-git)|PUBLISHED||[2976377166](https://github.com/arch4edu/cactus/actions/runs/2976377166)|<script type="text/javascript">localize(1662101891);</script>|
 |x86_64|[x86_64/python-mkl-fft](https://aur.archlinux.org/pkgbase/python-mkl-fft)|PUBLISHED||[2648006310](https://github.com/arch4edu/cactus/actions/runs/2648006310)|<script type="text/javascript">localize(1657530229);</script>|
