@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1663336653.2977831);</script>
+Last update: <script type="text/javascript">localize(1663338908.6941352);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -244,7 +244,7 @@ Last update: <script type="text/javascript">localize(1663336653.2977831);</scrip
 |x86_64|[x86_64/gcc8](https://aur.archlinux.org/pkgbase/gcc8)|PUBLISHED||[2656798250](https://github.com/arch4edu/cactus/actions/runs/2656798250)|<script type="text/javascript">localize(1657643982);</script>|
 |x86_64|[x86_64/gcc9](https://aur.archlinux.org/pkgbase/gcc9)|PUBLISHED||[2658693205](https://github.com/arch4edu/cactus/actions/runs/2658693205)|<script type="text/javascript">localize(1657668447);</script>|
 |x86_64|[x86_64/gconf](https://aur.archlinux.org/pkgbase/gconf)|PUBLISHED||[2648492140](https://github.com/arch4edu/cactus/actions/runs/2648492140)|<script type="text/javascript">localize(1657531967);</script>|
-|x86_64|[x86_64/geant4](https://aur.archlinux.org/pkgbase/geant4)|BUILDING|GitHubActions|[3068047933](https://github.com/arch4edu/cactus/actions/runs/3068047933)|<script type="text/javascript">localize(1663333482);</script>|
+|x86_64|[x86_64/geant4](https://aur.archlinux.org/pkgbase/geant4)|BUILT||[3068047933](https://github.com/arch4edu/cactus/actions/runs/3068047933)|<script type="text/javascript">localize(1663336822);</script>|
 |x86_64|[x86_64/genromfs](https://aur.archlinux.org/pkgbase/genromfs)|PUBLISHED||[2648491948](https://github.com/arch4edu/cactus/actions/runs/2648491948)|<script type="text/javascript">localize(1657531982);</script>|
 |x86_64|[x86_64/geogram](https://aur.archlinux.org/pkgbase/geogram)|PUBLISHED||[2709897389](https://github.com/arch4edu/cactus/actions/runs/2709897389)|<script type="text/javascript">localize(1658388302);</script>|
 |x86_64|[x86_64/gerris](https://aur.archlinux.org/pkgbase/gerris)|PUBLISHED||[2648459754](https://github.com/arch4edu/cactus/actions/runs/2648459754)|<script type="text/javascript">localize(1657531993);</script>|
