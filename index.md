@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1663678627.9745011);</script>
+Last update: <script type="text/javascript">localize(1663701905.8050582);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -231,7 +231,7 @@ Last update: <script type="text/javascript">localize(1663678627.9745011);</scrip
 |x86_64|[x86_64/erfa](https://aur.archlinux.org/pkgbase/erfa)|PUBLISHED||[2648586108](https://github.com/arch4edu/cactus/actions/runs/2648586108)|<script type="text/javascript">localize(1657535658);</script>|
 |x86_64|[x86_64/fakeroot-tcp](https://aur.archlinux.org/pkgbase/fakeroot-tcp)|PUBLISHED||[2648005811](https://github.com/arch4edu/cactus/actions/runs/2648005811)|<script type="text/javascript">localize(1657529132);</script>|
 |x86_64|[x86_64/fcl](https://aur.archlinux.org/pkgbase/fcl)|PUBLISHED||[2648892160](https://github.com/arch4edu/cactus/actions/runs/2648892160)|<script type="text/javascript">localize(1657538601);</script>|
-|x86_64|[x86_64/fet-timetabling](https://aur.archlinux.org/pkgbase/fet-timetabling)|BUILT||[3089392795](https://github.com/arch4edu/cactus/actions/runs/3089392795)|<script type="text/javascript">localize(1663672557);</script>|
+|x86_64|[x86_64/fet-timetabling](https://aur.archlinux.org/pkgbase/fet-timetabling)|PUBLISHED||[3089392795](https://github.com/arch4edu/cactus/actions/runs/3089392795)|<script type="text/javascript">localize(1663699461);</script>|
 |x86_64|[x86_64/flann](https://aur.archlinux.org/pkgbase/flann)|PUBLISHED||[2648334016](https://github.com/arch4edu/cactus/actions/runs/2648334016)|<script type="text/javascript">localize(1657531942);</script>|
 |x86_64|[x86_64/flite1](https://aur.archlinux.org/pkgbase/flite1)|PUBLISHED||[2648363920](https://github.com/arch4edu/cactus/actions/runs/2648363920)|<script type="text/javascript">localize(1657531956);</script>|
 |x86_64|[x86_64/g2clib](https://aur.archlinux.org/pkgbase/g2clib)|PUBLISHED||[2647862577](https://github.com/arch4edu/cactus/actions/runs/2647862577)|<script type="text/javascript">localize(1657525742);</script>|
