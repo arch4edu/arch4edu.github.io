@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1663746515.8136194);</script>
+Last update: <script type="text/javascript">localize(1663768849.5735986);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -203,7 +203,7 @@ Last update: <script type="text/javascript">localize(1663746515.8136194);</scrip
 |x86_64|[x86_64/cef-minimal](https://aur.archlinux.org/pkgbase/cef-minimal)|PUBLISHED||[2648091420](https://github.com/arch4edu/cactus/actions/runs/2648091420)|<script type="text/javascript">localize(1657529000);</script>|
 |x86_64|[x86_64/cef-standard](https://aur.archlinux.org/pkgbase/cef-standard)|PUBLISHED||[2648426785](https://github.com/arch4edu/cactus/actions/runs/2648426785)|<script type="text/javascript">localize(1657531895);</script>|
 |x86_64|[x86_64/celt](https://aur.archlinux.org/pkgbase/celt)|PUBLISHED||[2882655818](https://github.com/arch4edu/cactus/actions/runs/2882655818)|<script type="text/javascript">localize(1660847936);</script>|
-|x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|FAILED|Build failed.|[3089392900](https://github.com/arch4edu/cactus/actions/runs/3089392900)|<script type="text/javascript">localize(1663676902);</script>|
+|x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|BUILDING|GitHubActions|[3098072188](https://github.com/arch4edu/cactus/actions/runs/3098072188)|<script type="text/javascript">localize(1663765881);</script>|
 |x86_64|[x86_64/ceres-solver](https://aur.archlinux.org/pkgbase/ceres-solver)|PUBLISHED||[2709897472](https://github.com/arch4edu/cactus/actions/runs/2709897472)|<script type="text/javascript">localize(1658388264);</script>|
 |x86_64|[x86_64/charls](https://aur.archlinux.org/pkgbase/charls)|PUBLISHED||[2648304398](https://github.com/arch4edu/cactus/actions/runs/2648304398)|<script type="text/javascript">localize(1657531906);</script>|
 |x86_64|[x86_64/chromedriver](https://aur.archlinux.org/pkgbase/chromedriver)|PUBLISHED||[2969419237](https://github.com/arch4edu/cactus/actions/runs/2969419237)|<script type="text/javascript">localize(1662014932);</script>|
@@ -360,7 +360,7 @@ Last update: <script type="text/javascript">localize(1663746515.8136194);</scrip
 |x86_64|[x86_64/pocketsphinx](https://aur.archlinux.org/pkgbase/pocketsphinx)|PUBLISHED||[2648892344](https://github.com/arch4edu/cactus/actions/runs/2648892344)|<script type="text/javascript">localize(1657535853);</script>|
 |x86_64|[x86_64/popsift](https://aur.archlinux.org/pkgbase/popsift)|PUBLISHED||[2710342737](https://github.com/arch4edu/cactus/actions/runs/2710342737)|<script type="text/javascript">localize(1658392364);</script>|
 |x86_64|[x86_64/praat](https://aur.archlinux.org/pkgbase/praat)|PUBLISHED||[3042097773](https://github.com/arch4edu/cactus/actions/runs/3042097773)|<script type="text/javascript">localize(1663052855);</script>|
-|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|FAILED|Build failed.|[3089393003](https://github.com/arch4edu/cactus/actions/runs/3089393003)|<script type="text/javascript">localize(1663670488);</script>|
+|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|BUILDING|x86_64|[3098072349](https://github.com/arch4edu/cactus/actions/runs/3098072349)|<script type="text/javascript">localize(1663765918);</script>|
 |x86_64|[x86_64/python-arch](https://aur.archlinux.org/pkgbase/python-arch)|PUBLISHED||[3019691784](https://github.com/arch4edu/cactus/actions/runs/3019691784)|<script type="text/javascript">localize(1662706518);</script>|
 |x86_64|[x86_64/python-astropy](https://aur.archlinux.org/pkgbase/python-astropy)|PUBLISHED||[2654687015](https://github.com/arch4edu/cactus/actions/runs/2654687015)|<script type="text/javascript">localize(1657610830);</script>|
 |x86_64|[x86_64/python-astroquery](https://aur.archlinux.org/pkgbase/python-astroquery)|PUBLISHED||[2654741402](https://github.com/arch4edu/cactus/actions/runs/2654741402)|<script type="text/javascript">localize(1657610842);</script>|
@@ -864,7 +864,7 @@ Last update: <script type="text/javascript">localize(1663746515.8136194);</scrip
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[2897008697](https://github.com/arch4edu/cactus/actions/runs/2897008697)|<script type="text/javascript">localize(1661064169);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[2722989132](https://github.com/arch4edu/cactus/actions/runs/2722989132)|<script type="text/javascript">localize(1658565196);</script>|
 |x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|PUBLISHED||[3059133747](https://github.com/arch4edu/cactus/actions/runs/3059133747)|<script type="text/javascript">localize(1663267540);</script>|
-|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[3087163103](https://github.com/arch4edu/cactus/actions/runs/3087163103)|<script type="text/javascript">localize(1663647970);</script>|
+|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|STALED|Build failed.|[3087163103](https://github.com/arch4edu/cactus/actions/runs/3087163103)|<script type="text/javascript">localize(1663765772);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl](https://aur.archlinux.org/pkgbase/orocos-kdl)|PUBLISHED||[2962941130](https://github.com/arch4edu/cactus/actions/runs/2962941130)|<script type="text/javascript">localize(1661971407);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl-python](https://aur.archlinux.org/pkgbase/orocos-kdl-python)|PUBLISHED||[2962989020](https://github.com/arch4edu/cactus/actions/runs/2962989020)|<script type="text/javascript">localize(1661971419);</script>|
 |x86_64/ros|[x86_64/ros/ros-build-tools](https://aur.archlinux.org/pkgbase/ros-build-tools)|PUBLISHED||[2962941198](https://github.com/arch4edu/cactus/actions/runs/2962941198)|<script type="text/javascript">localize(1661971435);</script>|
