@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1663845926.576799);</script>
+Last update: <script type="text/javascript">localize(1663855004.4204392);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -204,7 +204,7 @@ Last update: <script type="text/javascript">localize(1663845926.576799);</script
 |x86_64|[x86_64/cef-standard](https://aur.archlinux.org/pkgbase/cef-standard)|PUBLISHED||[2648426785](https://github.com/arch4edu/cactus/actions/runs/2648426785)|<script type="text/javascript">localize(1657531895);</script>|
 |x86_64|[x86_64/celt](https://aur.archlinux.org/pkgbase/celt)|PUBLISHED||[2882655818](https://github.com/arch4edu/cactus/actions/runs/2882655818)|<script type="text/javascript">localize(1660847936);</script>|
 |x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|FAILED|Build failed.|[3098072188](https://github.com/arch4edu/cactus/actions/runs/3098072188)|<script type="text/javascript">localize(1663771320);</script>|
-|x86_64|[x86_64/ceph-octopus](https://aur.archlinux.org/pkgbase/ceph-octopus)|BUILDING|GitHubActions|[3104626260](https://github.com/arch4edu/cactus/actions/runs/3104626260)|<script type="text/javascript">localize(1663841694);</script>|
+|x86_64|[x86_64/ceph-octopus](https://aur.archlinux.org/pkgbase/ceph-octopus)|PUBLISHED||[3104626260](https://github.com/arch4edu/cactus/actions/runs/3104626260)|<script type="text/javascript">localize(1663854273);</script>|
 |x86_64|[x86_64/ceres-solver](https://aur.archlinux.org/pkgbase/ceres-solver)|PUBLISHED||[2709897472](https://github.com/arch4edu/cactus/actions/runs/2709897472)|<script type="text/javascript">localize(1658388264);</script>|
 |x86_64|[x86_64/charls](https://aur.archlinux.org/pkgbase/charls)|PUBLISHED||[2648304398](https://github.com/arch4edu/cactus/actions/runs/2648304398)|<script type="text/javascript">localize(1657531906);</script>|
 |x86_64|[x86_64/chromedriver](https://aur.archlinux.org/pkgbase/chromedriver)|PUBLISHED||[2969419237](https://github.com/arch4edu/cactus/actions/runs/2969419237)|<script type="text/javascript">localize(1662014932);</script>|
@@ -555,7 +555,7 @@ Last update: <script type="text/javascript">localize(1663845926.576799);</script
 |x86_64/r|[x86_64/r/r-huge](https://aur.archlinux.org/pkgbase/r-huge)|PUBLISHED||[2703879294](https://github.com/arch4edu/cactus/actions/runs/2703879294)|<script type="text/javascript">localize(1658313558);</script>|
 |x86_64/r|[x86_64/r/r-hypergeo](https://aur.archlinux.org/pkgbase/r-hypergeo)|PUBLISHED||[2712059977](https://github.com/arch4edu/cactus/actions/runs/2712059977)|<script type="text/javascript">localize(1658411326);</script>|
 |x86_64/r|[x86_64/r/r-ic.infer](https://aur.archlinux.org/pkgbase/r-ic.infer)|PUBLISHED||[2703919599](https://github.com/arch4edu/cactus/actions/runs/2703919599)|<script type="text/javascript">localize(1658313573);</script>|
-|x86_64/r|[x86_64/r/r-igraph](https://aur.archlinux.org/pkgbase/r-igraph)|PUBLISHED||[2703763947](https://github.com/arch4edu/cactus/actions/runs/2703763947)|<script type="text/javascript">localize(1658313586);</script>|
+|x86_64/r|[x86_64/r/r-igraph](https://aur.archlinux.org/pkgbase/r-igraph)|PUBLISHED||[3105713850](https://github.com/arch4edu/cactus/actions/runs/3105713850)|<script type="text/javascript">localize(1663854286);</script>|
 |x86_64/r|[x86_64/r/r-inline](https://aur.archlinux.org/pkgbase/r-inline)|PUBLISHED||[2714004364](https://github.com/arch4edu/cactus/actions/runs/2714004364)|<script type="text/javascript">localize(1658431586);</script>|
 |x86_64/r|[x86_64/r/r-interp](https://aur.archlinux.org/pkgbase/r-interp)|PUBLISHED||[2703839968](https://github.com/arch4edu/cactus/actions/runs/2703839968)|<script type="text/javascript">localize(1658313598);</script>|
 |x86_64/r|[x86_64/r/r-inum](https://aur.archlinux.org/pkgbase/r-inum)|PUBLISHED||[2703919422](https://github.com/arch4edu/cactus/actions/runs/2703919422)|<script type="text/javascript">localize(1658313613);</script>|
