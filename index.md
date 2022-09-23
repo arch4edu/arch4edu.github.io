@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1663913237.894115);</script>
+Last update: <script type="text/javascript">localize(1663918948.8657176);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -44,7 +44,7 @@ Last update: <script type="text/javascript">localize(1663913237.894115);</script
 |aarch64|[aarch64/timeshift](https://aur.archlinux.org/pkgbase/timeshift)|PUBLISHED||[2850837795](https://github.com/arch4edu/cactus/actions/runs/2850837795)|<script type="text/javascript">localize(1660433075);</script>|
 |aarch64|[aarch64/torque](https://aur.archlinux.org/pkgbase/torque)|PUBLISHED||[2864964016](https://github.com/arch4edu/cactus/actions/runs/2864964016)|<script type="text/javascript">localize(1660632052);</script>|
 |aarch64|[aarch64/ventoy-bin](https://aur.archlinux.org/pkgbase/ventoy-bin)|PUBLISHED||[2953271400](https://github.com/arch4edu/cactus/actions/runs/2953271400)|<script type="text/javascript">localize(1661842934);</script>|
-|aarch64|[aarch64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|BUILT||[3110155547](https://github.com/arch4edu/cactus/actions/runs/3110155547)|<script type="text/javascript">localize(1663903253);</script>|
+|aarch64|[aarch64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[3110155547](https://github.com/arch4edu/cactus/actions/runs/3110155547)|<script type="text/javascript">localize(1663916527);</script>|
 |aarch64|[aarch64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|PUBLISHED||[3065202121](https://github.com/arch4edu/cactus/actions/runs/3065202121)|<script type="text/javascript">localize(1663311618);</script>|
 |aarch64|[aarch64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|PUBLISHED||[3065270515](https://github.com/arch4edu/cactus/actions/runs/3065270515)|<script type="text/javascript">localize(1663311646);</script>|
 |aarch64|[aarch64/vscodium-bin](https://aur.archlinux.org/pkgbase/vscodium-bin)|PUBLISHED||[3065235443](https://github.com/arch4edu/cactus/actions/runs/3065235443)|<script type="text/javascript">localize(1663311677);</script>|
@@ -312,7 +312,7 @@ Last update: <script type="text/javascript">localize(1663913237.894115);</script
 |x86_64|[x86_64/ly](https://aur.archlinux.org/pkgbase/ly)|PUBLISHED||[2850837848](https://github.com/arch4edu/cactus/actions/runs/2850837848)|<script type="text/javascript">localize(1660433114);</script>|
 |x86_64|[x86_64/mendeleydesktop](https://aur.archlinux.org/pkgbase/mendeleydesktop)|PUBLISHED||[2648118029](https://github.com/arch4edu/cactus/actions/runs/2648118029)|<script type="text/javascript">localize(1657529732);</script>|
 |x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|FAILED|Build failed.|[3104626295](https://github.com/arch4edu/cactus/actions/runs/3104626295)|<script type="text/javascript">localize(1663841738);</script>|
-|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|BUILT||[3110155487](https://github.com/arch4edu/cactus/actions/runs/3110155487)|<script type="text/javascript">localize(1663903260);</script>|
+|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|PUBLISHED||[3110155487](https://github.com/arch4edu/cactus/actions/runs/3110155487)|<script type="text/javascript">localize(1663916572);</script>|
 |x86_64|[x86_64/miktex](https://aur.archlinux.org/pkgbase/miktex)|PUBLISHED||[2939795337](https://github.com/arch4edu/cactus/actions/runs/2939795337)|<script type="text/javascript">localize(1661625504);</script>|
 |x86_64|[x86_64/mmg](https://aur.archlinux.org/pkgbase/mmg)|PUBLISHED||[2648891891](https://github.com/arch4edu/cactus/actions/runs/2648891891)|<script type="text/javascript">localize(1657538791);</script>|
 |x86_64|[x86_64/mongodb](https://aur.archlinux.org/pkgbase/mongodb)|PUBLISHED||[2961087081](https://github.com/arch4edu/cactus/actions/runs/2961087081)|<script type="text/javascript">localize(1661971292);</script>|
@@ -1169,7 +1169,7 @@ Last update: <script type="text/javascript">localize(1663913237.894115);</script
 |x86_64|[x86_64/unityhub](https://aur.archlinux.org/pkgbase/unityhub)|PUBLISHED||[3087162952](https://github.com/arch4edu/cactus/actions/runs/3087162952)|<script type="text/javascript">localize(1663657353);</script>|
 |x86_64|[x86_64/urdfdom](https://aur.archlinux.org/pkgbase/urdfdom)|PUBLISHED||[2648832345](https://github.com/arch4edu/cactus/actions/runs/2648832345)|<script type="text/javascript">localize(1657536323);</script>|
 |x86_64|[x86_64/ventoy-bin](https://aur.archlinux.org/pkgbase/ventoy-bin)|PUBLISHED||[2953271605](https://github.com/arch4edu/cactus/actions/runs/2953271605)|<script type="text/javascript">localize(1661843067);</script>|
-|x86_64|[x86_64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|BUILT||[3110155390](https://github.com/arch4edu/cactus/actions/runs/3110155390)|<script type="text/javascript">localize(1663903092);</script>|
+|x86_64|[x86_64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[3110155390](https://github.com/arch4edu/cactus/actions/runs/3110155390)|<script type="text/javascript">localize(1663916585);</script>|
 |x86_64|[x86_64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|PUBLISHED||[3065187273](https://github.com/arch4edu/cactus/actions/runs/3065187273)|<script type="text/javascript">localize(1663311780);</script>|
 |x86_64|[x86_64/voro++](https://aur.archlinux.org/pkgbase/voro++)|PUBLISHED||[2648553963](https://github.com/arch4edu/cactus/actions/runs/2648553963)|<script type="text/javascript">localize(1657532303);</script>|
 |x86_64|[x86_64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|PUBLISHED||[3065187370](https://github.com/arch4edu/cactus/actions/runs/3065187370)|<script type="text/javascript">localize(1663311810);</script>|
