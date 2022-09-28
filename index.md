@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1664373691.3541718);</script>
+Last update: <script type="text/javascript">localize(1664393301.8179402);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -20,7 +20,7 @@ Last update: <script type="text/javascript">localize(1664373691.3541718);</scrip
 |aarch64|[aarch64/ly](https://aur.archlinux.org/pkgbase/ly)|PUBLISHED||[2850851765](https://github.com/arch4edu/cactus/actions/runs/2850851765)|<script type="text/javascript">localize(1660433065);</script>|
 |aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|PUBLISHED||[3095038008](https://github.com/arch4edu/cactus/actions/runs/3095038008)|<script type="text/javascript">localize(1663744145);</script>|
 |aarch64|[aarch64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|PUBLISHED||[2648213752](https://github.com/arch4edu/cactus/actions/runs/2648213752)|<script type="text/javascript">localize(1657528564);</script>|
-|aarch64|[aarch64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|BUILT||[3143801197](https://github.com/arch4edu/cactus/actions/runs/3143801197)|<script type="text/javascript">localize(1664370745);</script>|
+|aarch64|[aarch64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|PUBLISHED||[3143801197](https://github.com/arch4edu/cactus/actions/runs/3143801197)|<script type="text/javascript">localize(1664391030);</script>|
 |aarch64|[aarch64/nni](https://aur.archlinux.org/pkgbase/nni)|FAILED|Build failed.|[3136145934](https://github.com/arch4edu/cactus/actions/runs/3136145934)|<script type="text/javascript">localize(1664286699);</script>|
 |aarch64|[aarch64/octopi](https://aur.archlinux.org/pkgbase/octopi)|PUBLISHED||[2846959574](https://github.com/arch4edu/cactus/actions/runs/2846959574)|<script type="text/javascript">localize(1660346696);</script>|
 |aarch64|[aarch64/pacman-static](https://aur.archlinux.org/pkgbase/pacman-static)|PUBLISHED||[2838354869](https://github.com/arch4edu/cactus/actions/runs/2838354869)|<script type="text/javascript">localize(1660260386);</script>|
@@ -232,7 +232,7 @@ Last update: <script type="text/javascript">localize(1664373691.3541718);</scrip
 |x86_64|[x86_64/erfa](https://aur.archlinux.org/pkgbase/erfa)|PUBLISHED||[2648586108](https://github.com/arch4edu/cactus/actions/runs/2648586108)|<script type="text/javascript">localize(1657535658);</script>|
 |x86_64|[x86_64/fakeroot-tcp](https://aur.archlinux.org/pkgbase/fakeroot-tcp)|PUBLISHED||[2648005811](https://github.com/arch4edu/cactus/actions/runs/2648005811)|<script type="text/javascript">localize(1657529132);</script>|
 |x86_64|[x86_64/fcl](https://aur.archlinux.org/pkgbase/fcl)|PUBLISHED||[2648892160](https://github.com/arch4edu/cactus/actions/runs/2648892160)|<script type="text/javascript">localize(1657538601);</script>|
-|x86_64|[x86_64/fet-timetabling](https://aur.archlinux.org/pkgbase/fet-timetabling)|BUILT||[3143801323](https://github.com/arch4edu/cactus/actions/runs/3143801323)|<script type="text/javascript">localize(1664373209);</script>|
+|x86_64|[x86_64/fet-timetabling](https://aur.archlinux.org/pkgbase/fet-timetabling)|PUBLISHED||[3143801323](https://github.com/arch4edu/cactus/actions/runs/3143801323)|<script type="text/javascript">localize(1664391045);</script>|
 |x86_64|[x86_64/flann](https://aur.archlinux.org/pkgbase/flann)|PUBLISHED||[2648334016](https://github.com/arch4edu/cactus/actions/runs/2648334016)|<script type="text/javascript">localize(1657531942);</script>|
 |x86_64|[x86_64/flite1](https://aur.archlinux.org/pkgbase/flite1)|PUBLISHED||[2648363920](https://github.com/arch4edu/cactus/actions/runs/2648363920)|<script type="text/javascript">localize(1657531956);</script>|
 |x86_64|[x86_64/g2clib](https://aur.archlinux.org/pkgbase/g2clib)|PUBLISHED||[2647862577](https://github.com/arch4edu/cactus/actions/runs/2647862577)|<script type="text/javascript">localize(1657525742);</script>|
