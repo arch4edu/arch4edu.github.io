@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1664465658.4981625);</script>
+Last update: <script type="text/javascript">localize(1664470030.9342043);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -183,7 +183,7 @@ Last update: <script type="text/javascript">localize(1664465658.4981625);</scrip
 |x86_64|[x86_64/abinit](https://aur.archlinux.org/pkgbase/abinit)|PUBLISHED||[3057561397](https://github.com/arch4edu/cactus/actions/runs/3057561397)|<script type="text/javascript">localize(1663225183);</script>|
 |x86_64|[x86_64/act](https://aur.archlinux.org/pkgbase/act)|PUBLISHED||[3026505445](https://github.com/arch4edu/cactus/actions/runs/3026505445)|<script type="text/javascript">localize(1662792383);</script>|
 |x86_64|[x86_64/adms](https://aur.archlinux.org/pkgbase/adms)|PUBLISHED||[2647948312](https://github.com/arch4edu/cactus/actions/runs/2647948312)|<script type="text/javascript">localize(1657528639);</script>|
-|x86_64|[x86_64/alice-vision](https://aur.archlinux.org/pkgbase/alice-vision)|BUILDING|Build failed.|[3150313458](https://github.com/arch4edu/cactus/actions/runs/3150313458)|<script type="text/javascript">localize(1664463813);</script>|
+|x86_64|[x86_64/alice-vision](https://aur.archlinux.org/pkgbase/alice-vision)|BUILT||[3150313458](https://github.com/arch4edu/cactus/actions/runs/3150313458)|<script type="text/javascript">localize(1664465837);</script>|
 |x86_64|[x86_64/alpm_octopi_utils](https://aur.archlinux.org/pkgbase/alpm_octopi_utils)|PUBLISHED||[2846907170](https://github.com/arch4edu/cactus/actions/runs/2846907170)|<script type="text/javascript">localize(1660346743);</script>|
 |x86_64|[x86_64/anaconda](https://aur.archlinux.org/pkgbase/anaconda)|PUBLISHED||[2986619492](https://github.com/arch4edu/cactus/actions/runs/2986619492)|<script type="text/javascript">localize(1662273937);</script>|
 |x86_64|[x86_64/android-emulator](https://aur.archlinux.org/pkgbase/android-emulator)|PUBLISHED||[2986619517](https://github.com/arch4edu/cactus/actions/runs/2986619517)|<script type="text/javascript">localize(1662274011);</script>|
