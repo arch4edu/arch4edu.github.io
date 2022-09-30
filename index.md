@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1664546656.5681372);</script>
+Last update: <script type="text/javascript">localize(1664548999.183711);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -332,7 +332,7 @@ Last update: <script type="text/javascript">localize(1664546656.5681372);</scrip
 |x86_64|[x86_64/nomachine](https://aur.archlinux.org/pkgbase/nomachine)|PUBLISHED||[3073448411](https://github.com/arch4edu/cactus/actions/runs/3073448411)|<script type="text/javascript">localize(1663440136);</script>|
 |x86_64|[x86_64/nvidia-container-runtime](https://aur.archlinux.org/pkgbase/nvidia-container-runtime)|BUILT||[3159298895](https://github.com/arch4edu/cactus/actions/runs/3159298895)|<script type="text/javascript">localize(1664546435);</script>|
 |x86_64|[x86_64/nvidia-container-toolkit](https://aur.archlinux.org/pkgbase/nvidia-container-toolkit)|BUILT||[3159166615](https://github.com/arch4edu/cactus/actions/runs/3159166615)|<script type="text/javascript">localize(1664545997);</script>|
-|x86_64|[x86_64/nvidia-docker](https://aur.archlinux.org/pkgbase/nvidia-docker)|BUILDING|GitHubActions|[3159332561](https://github.com/arch4edu/cactus/actions/runs/3159332561)|<script type="text/javascript">localize(1664546641);</script>|
+|x86_64|[x86_64/nvidia-docker](https://aur.archlinux.org/pkgbase/nvidia-docker)|BUILT||[3159332561](https://github.com/arch4edu/cactus/actions/runs/3159332561)|<script type="text/javascript">localize(1664546722);</script>|
 |x86_64|[x86_64/octomap](https://aur.archlinux.org/pkgbase/octomap)|PUBLISHED||[2647891255](https://github.com/arch4edu/cactus/actions/runs/2647891255)|<script type="text/javascript">localize(1657525847);</script>|
 |x86_64|[x86_64/octopi](https://aur.archlinux.org/pkgbase/octopi)|PUBLISHED||[2846933719](https://github.com/arch4edu/cactus/actions/runs/2846933719)|<script type="text/javascript">localize(1660347416);</script>|
 |x86_64|[x86_64/ogre-1.9](https://aur.archlinux.org/pkgbase/ogre-1.9)|PUBLISHED||[2647863560](https://github.com/arch4edu/cactus/actions/runs/2647863560)|<script type="text/javascript">localize(1657529791);</script>|
