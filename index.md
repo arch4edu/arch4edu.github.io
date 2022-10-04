@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1664825318.029072);</script>
+Last update: <script type="text/javascript">localize(1664857021.1600807);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -321,7 +321,7 @@ Last update: <script type="text/javascript">localize(1664825318.029072);</script
 |x86_64|[x86_64/ly](https://aur.archlinux.org/pkgbase/ly)|PUBLISHED||[2850837848](https://github.com/arch4edu/cactus/actions/runs/2850837848)|<script type="text/javascript">localize(1660433114);</script>|
 |x86_64|[x86_64/mendeleydesktop](https://aur.archlinux.org/pkgbase/mendeleydesktop)|PUBLISHED||[2648118029](https://github.com/arch4edu/cactus/actions/runs/2648118029)|<script type="text/javascript">localize(1657529732);</script>|
 |x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|FAILED|Build failed.|[3171148715](https://github.com/arch4edu/cactus/actions/runs/3171148715)|<script type="text/javascript">localize(1664765224);</script>|
-|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|PUBLISHED||[3132647803](https://github.com/arch4edu/cactus/actions/runs/3132647803)|<script type="text/javascript">localize(1664262432);</script>|
+|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|BUILT||[3179015862](https://github.com/arch4edu/cactus/actions/runs/3179015862)|<script type="text/javascript">localize(1664851801);</script>|
 |x86_64|[x86_64/miktex](https://aur.archlinux.org/pkgbase/miktex)|PUBLISHED||[2939795337](https://github.com/arch4edu/cactus/actions/runs/2939795337)|<script type="text/javascript">localize(1661625504);</script>|
 |x86_64|[x86_64/mmg](https://aur.archlinux.org/pkgbase/mmg)|PUBLISHED||[2648891891](https://github.com/arch4edu/cactus/actions/runs/2648891891)|<script type="text/javascript">localize(1657538791);</script>|
 |x86_64|[x86_64/mongodb](https://aur.archlinux.org/pkgbase/mongodb)|PUBLISHED||[2961087081](https://github.com/arch4edu/cactus/actions/runs/2961087081)|<script type="text/javascript">localize(1661971292);</script>|
@@ -383,7 +383,7 @@ Last update: <script type="text/javascript">localize(1664825318.029072);</script
 |x86_64|[x86_64/python-bitarray](https://aur.archlinux.org/pkgbase/python-bitarray)|PUBLISHED||[2704975755](https://github.com/arch4edu/cactus/actions/runs/2704975755)|<script type="text/javascript">localize(1658325098);</script>|
 |x86_64|[x86_64/python-cupy](https://aur.archlinux.org/pkgbase/python-cupy)|PUBLISHED||[2971835950](https://github.com/arch4edu/cactus/actions/runs/2971835950)|<script type="text/javascript">localize(1662316726);</script>|
 |x86_64|[x86_64/python-dlib](https://aur.archlinux.org/pkgbase/python-dlib)|PUBLISHED||[2665683769](https://github.com/arch4edu/cactus/actions/runs/2665683769)|<script type="text/javascript">localize(1657740091);</script>|
-|x86_64|[x86_64/python-docplex](https://aur.archlinux.org/pkgbase/python-docplex)|PUBLISHED||[3156966934](https://github.com/arch4edu/cactus/actions/runs/3156966934)|<script type="text/javascript">localize(1664563741);</script>|
+|x86_64|[x86_64/python-docplex](https://aur.archlinux.org/pkgbase/python-docplex)|BUILT||[3179015781](https://github.com/arch4edu/cactus/actions/runs/3179015781)|<script type="text/javascript">localize(1664851544);</script>|
 |x86_64|[x86_64/python-fastcache](https://aur.archlinux.org/pkgbase/python-fastcache)|PUBLISHED||[2648243869](https://github.com/arch4edu/cactus/actions/runs/2648243869)|<script type="text/javascript">localize(1657530206);</script>|
 |x86_64|[x86_64/python-fastdtw](https://aur.archlinux.org/pkgbase/python-fastdtw)|PUBLISHED||[3164678786](https://github.com/arch4edu/cactus/actions/runs/3164678786)|<script type="text/javascript">localize(1664649993);</script>|
 |x86_64|[x86_64/python-fastrlock](https://aur.archlinux.org/pkgbase/python-fastrlock)|PUBLISHED||[2648303933](https://github.com/arch4edu/cactus/actions/runs/2648303933)|<script type="text/javascript">localize(1657532158);</script>|
@@ -402,7 +402,7 @@ Last update: <script type="text/javascript">localize(1664825318.029072);</script
 |x86_64|[x86_64/python-mkl-fft](https://aur.archlinux.org/pkgbase/python-mkl-fft)|PUBLISHED||[2648006310](https://github.com/arch4edu/cactus/actions/runs/2648006310)|<script type="text/javascript">localize(1657530229);</script>|
 |x86_64|[x86_64/python-mkl-random](https://aur.archlinux.org/pkgbase/python-mkl-random)|PUBLISHED||[2647863009](https://github.com/arch4edu/cactus/actions/runs/2647863009)|<script type="text/javascript">localize(1657525891);</script>|
 |x86_64|[x86_64/python-mkl-service](https://aur.archlinux.org/pkgbase/python-mkl-service)|PUBLISHED||[2649233468](https://github.com/arch4edu/cactus/actions/runs/2649233468)|<script type="text/javascript">localize(1657544212);</script>|
-|x86_64|[x86_64/python-multitasking](https://aur.archlinux.org/pkgbase/python-multitasking)|PUBLISHED||[3156967630](https://github.com/arch4edu/cactus/actions/runs/3156967630)|<script type="text/javascript">localize(1664563784);</script>|
+|x86_64|[x86_64/python-multitasking](https://aur.archlinux.org/pkgbase/python-multitasking)|BUILT||[3179015927](https://github.com/arch4edu/cactus/actions/runs/3179015927)|<script type="text/javascript">localize(1664851533);</script>|
 |x86_64|[x86_64/python-numba](https://aur.archlinux.org/pkgbase/python-numba)|PUBLISHED||[2979249380](https://github.com/arch4edu/cactus/actions/runs/2979249380)|<script type="text/javascript">localize(1662144019);</script>|
 |x86_64|[x86_64/python-numba-git](https://aur.archlinux.org/pkgbase/python-numba-git)|PUBLISHED||[3148401954](https://github.com/arch4edu/cactus/actions/runs/3148401954)|<script type="text/javascript">localize(1664435302);</script>|
 |x86_64|[x86_64/python-numpy-mkl](https://aur.archlinux.org/pkgbase/python-numpy-mkl)|PUBLISHED||[3028064099](https://github.com/arch4edu/cactus/actions/runs/3028064099)|<script type="text/javascript">localize(1662835308);</script>|
