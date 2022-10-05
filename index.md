@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1664955577.5955899);</script>
+Last update: <script type="text/javascript">localize(1664959048.4204905);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -206,7 +206,7 @@ Last update: <script type="text/javascript">localize(1664955577.5955899);</scrip
 |x86_64|[x86_64/cef-minimal](https://aur.archlinux.org/pkgbase/cef-minimal)|PUBLISHED||[2648091420](https://github.com/arch4edu/cactus/actions/runs/2648091420)|<script type="text/javascript">localize(1657529000);</script>|
 |x86_64|[x86_64/cef-standard](https://aur.archlinux.org/pkgbase/cef-standard)|PUBLISHED||[2648426785](https://github.com/arch4edu/cactus/actions/runs/2648426785)|<script type="text/javascript">localize(1657531895);</script>|
 |x86_64|[x86_64/celt](https://aur.archlinux.org/pkgbase/celt)|PUBLISHED||[2882655818](https://github.com/arch4edu/cactus/actions/runs/2882655818)|<script type="text/javascript">localize(1660847936);</script>|
-|x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|BUILDING|GitHubActions|[3186921462](https://github.com/arch4edu/cactus/actions/runs/3186921462)|<script type="text/javascript">localize(1664937900);</script>|
+|x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|BUILDING|GitHubActions|[3188168399](https://github.com/arch4edu/cactus/actions/runs/3188168399)|<script type="text/javascript">localize(1664956674);</script>|
 |x86_64|[x86_64/ceph-octopus](https://aur.archlinux.org/pkgbase/ceph-octopus)|PUBLISHED||[3104626260](https://github.com/arch4edu/cactus/actions/runs/3104626260)|<script type="text/javascript">localize(1663854273);</script>|
 |x86_64|[x86_64/ceph-pacific](https://aur.archlinux.org/pkgbase/ceph-pacific)|PUBLISHED||[3155390486](https://github.com/arch4edu/cactus/actions/runs/3155390486)|<script type="text/javascript">localize(1664521640);</script>|
 |x86_64|[x86_64/ceres-solver](https://aur.archlinux.org/pkgbase/ceres-solver)|PUBLISHED||[2709897472](https://github.com/arch4edu/cactus/actions/runs/2709897472)|<script type="text/javascript">localize(1658388264);</script>|
