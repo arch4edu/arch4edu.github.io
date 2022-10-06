@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1665065004.016338);</script>
+Last update: <script type="text/javascript">localize(1665067374.8551555);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -384,7 +384,7 @@ Last update: <script type="text/javascript">localize(1665065004.016338);</script
 |x86_64|[x86_64/python-astroquery](https://aur.archlinux.org/pkgbase/python-astroquery)|PUBLISHED||[2654741402](https://github.com/arch4edu/cactus/actions/runs/2654741402)|<script type="text/javascript">localize(1657610842);</script>|
 |x86_64|[x86_64/python-av](https://aur.archlinux.org/pkgbase/python-av)|PUBLISHED||[2648522738](https://github.com/arch4edu/cactus/actions/runs/2648522738)|<script type="text/javascript">localize(1657532148);</script>|
 |x86_64|[x86_64/python-bitarray](https://aur.archlinux.org/pkgbase/python-bitarray)|PUBLISHED||[2704975755](https://github.com/arch4edu/cactus/actions/runs/2704975755)|<script type="text/javascript">localize(1658325098);</script>|
-|x86_64|[x86_64/python-cupy](https://aur.archlinux.org/pkgbase/python-cupy)|BUILDING|x86_64|[3197456239](https://github.com/arch4edu/cactus/actions/runs/3197456239)|<script type="text/javascript">localize(1665062101);</script>|
+|x86_64|[x86_64/python-cupy](https://aur.archlinux.org/pkgbase/python-cupy)|BUILT||[3197456239](https://github.com/arch4edu/cactus/actions/runs/3197456239)|<script type="text/javascript">localize(1665065561);</script>|
 |x86_64|[x86_64/python-dlib](https://aur.archlinux.org/pkgbase/python-dlib)|PUBLISHED||[2665683769](https://github.com/arch4edu/cactus/actions/runs/2665683769)|<script type="text/javascript">localize(1657740091);</script>|
 |x86_64|[x86_64/python-docplex](https://aur.archlinux.org/pkgbase/python-docplex)|PUBLISHED||[3179015781](https://github.com/arch4edu/cactus/actions/runs/3179015781)|<script type="text/javascript">localize(1664866587);</script>|
 |x86_64|[x86_64/python-fastcache](https://aur.archlinux.org/pkgbase/python-fastcache)|PUBLISHED||[2648243869](https://github.com/arch4edu/cactus/actions/runs/2648243869)|<script type="text/javascript">localize(1657530206);</script>|
