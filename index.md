@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1665214194.0929966);</script>
+Last update: <script type="text/javascript">localize(1665225172.4361703);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -1096,7 +1096,7 @@ Last update: <script type="text/javascript">localize(1665214194.0929966);</scrip
 |x86_64/ros|[x86_64/ros/ros-noetic-rqt-top](https://aur.archlinux.org/pkgbase/ros-noetic-rqt-top)|PUBLISHED||[2965130446](https://github.com/arch4edu/cactus/actions/runs/2965130446)|<script type="text/javascript">localize(1661973143);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-rqt-topic](https://aur.archlinux.org/pkgbase/ros-noetic-rqt-topic)|PUBLISHED||[2965331038](https://github.com/arch4edu/cactus/actions/runs/2965331038)|<script type="text/javascript">localize(1661973157);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-rqt-web](https://aur.archlinux.org/pkgbase/ros-noetic-rqt-web)|PUBLISHED||[2965130600](https://github.com/arch4edu/cactus/actions/runs/2965130600)|<script type="text/javascript">localize(1661973171);</script>|
-|x86_64/ros|[x86_64/ros/ros-noetic-rviz](https://aur.archlinux.org/pkgbase/ros-noetic-rviz)|FAILED|Build failed.|[3208848686](https://github.com/arch4edu/cactus/actions/runs/3208848686)|<script type="text/javascript">localize(1665197869);</script>|
+|x86_64/ros|[x86_64/ros/ros-noetic-rviz](https://aur.archlinux.org/pkgbase/ros-noetic-rviz)|FAILED|Build failed.|[3208848686](https://github.com/arch4edu/cactus/actions/runs/3208848686)|<script type="text/javascript">localize(1665223154);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-rviz-plugin-tutorials](https://aur.archlinux.org/pkgbase/ros-noetic-rviz-plugin-tutorials)|PUBLISHED||[2970112444](https://github.com/arch4edu/cactus/actions/runs/2970112444)|<script type="text/javascript">localize(1662030649);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-rviz-python-tutorial](https://aur.archlinux.org/pkgbase/ros-noetic-rviz-python-tutorial)|PUBLISHED||[2970112372](https://github.com/arch4edu/cactus/actions/runs/2970112372)|<script type="text/javascript">localize(1662030664);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-self-test](https://aur.archlinux.org/pkgbase/ros-noetic-self-test)|PUBLISHED||[2965251215](https://github.com/arch4edu/cactus/actions/runs/2965251215)|<script type="text/javascript">localize(1661973182);</script>|
