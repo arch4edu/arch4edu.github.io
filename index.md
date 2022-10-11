@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1665430413.017438);</script>
+Last update: <script type="text/javascript">localize(1665463801.6477492);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -27,7 +27,7 @@ Last update: <script type="text/javascript">localize(1665430413.017438);</script
 |aarch64|[aarch64/octopi](https://aur.archlinux.org/pkgbase/octopi)|PUBLISHED||[3202000845](https://github.com/arch4edu/cactus/actions/runs/3202000845)|<script type="text/javascript">localize(1665125628);</script>|
 |aarch64|[aarch64/pacman-static](https://aur.archlinux.org/pkgbase/pacman-static)|PUBLISHED||[2838354869](https://github.com/arch4edu/cactus/actions/runs/2838354869)|<script type="text/javascript">localize(1660260386);</script>|
 |aarch64|[aarch64/paru](https://aur.archlinux.org/pkgbase/paru)|PUBLISHED||[2686509289](https://github.com/arch4edu/cactus/actions/runs/2686509289)|<script type="text/javascript">localize(1658085645);</script>|
-|aarch64|[aarch64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|PUBLISHED||[3082677390](https://github.com/arch4edu/cactus/actions/runs/3082677390)|<script type="text/javascript">localize(1663613201);</script>|
+|aarch64|[aarch64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|STALED||[3082677390](https://github.com/arch4edu/cactus/actions/runs/3082677390)|<script type="text/javascript">localize(1665457438);</script>|
 |aarch64|[aarch64/pigpio](https://aur.archlinux.org/pkgbase/pigpio)|PUBLISHED||[2648274215](https://github.com/arch4edu/cactus/actions/runs/2648274215)|<script type="text/javascript">localize(1657528573);</script>|
 |aarch64|[aarch64/pypy-bin](https://aur.archlinux.org/pkgbase/pypy-bin)|PUBLISHED||[2648036019](https://github.com/arch4edu/cactus/actions/runs/2648036019)|<script type="text/javascript">localize(1657528590);</script>|
 |aarch64|[aarch64/pypy3](https://aur.archlinux.org/pkgbase/pypy3)|PUBLISHED||[2836998393](https://github.com/arch4edu/cactus/actions/runs/2836998393)|<script type="text/javascript">localize(1660260399);</script>|
@@ -97,8 +97,8 @@ Last update: <script type="text/javascript">localize(1665430413.017438);</script
 |any|[any/openfoam-selector](https://aur.archlinux.org/pkgbase/openfoam-selector)|PUBLISHED||[2647751811](https://github.com/arch4edu/cactus/actions/runs/2647751811)|<script type="text/javascript">localize(1657524902);</script>|
 |any|[any/opengrok](https://aur.archlinux.org/pkgbase/opengrok)|PUBLISHED||[3208820353](https://github.com/arch4edu/cactus/actions/runs/3208820353)|<script type="text/javascript">localize(1665211778);</script>|
 |any|[any/panoply](https://aur.archlinux.org/pkgbase/panoply)|PUBLISHED||[3156117909](https://github.com/arch4edu/cactus/actions/runs/3156117909)|<script type="text/javascript">localize(1664521594);</script>|
-|any|[any/pi-hole-server](https://aur.archlinux.org/pkgbase/pi-hole-server)|PUBLISHED||[3082712600](https://github.com/arch4edu/cactus/actions/runs/3082712600)|<script type="text/javascript">localize(1663613218);</script>|
-|any|[any/pi-hole-standalone](https://aur.archlinux.org/pkgbase/pi-hole-standalone)|PUBLISHED||[3082712817](https://github.com/arch4edu/cactus/actions/runs/3082712817)|<script type="text/javascript">localize(1663613235);</script>|
+|any|[any/pi-hole-server](https://aur.archlinux.org/pkgbase/pi-hole-server)|STALED|Waiting for dependency: x86_64/pi-hole-ftl.|[3082712600](https://github.com/arch4edu/cactus/actions/runs/3082712600)|<script type="text/javascript">localize(1665463714);</script>|
+|any|[any/pi-hole-standalone](https://aur.archlinux.org/pkgbase/pi-hole-standalone)|STALED|Waiting for dependency: x86_64/pi-hole-ftl.|[3082712817](https://github.com/arch4edu/cactus/actions/runs/3082712817)|<script type="text/javascript">localize(1665463714);</script>|
 |any|[any/pnpm](https://aur.archlinux.org/pkgbase/pnpm)|PUBLISHED||[3183089666](https://github.com/arch4edu/cactus/actions/runs/3183089666)|<script type="text/javascript">localize(1664909582);</script>|
 |any|[any/pyglossary](https://aur.archlinux.org/pkgbase/pyglossary)|PUBLISHED||[2648832251](https://github.com/arch4edu/cactus/actions/runs/2648832251)|<script type="text/javascript">localize(1657535442);</script>|
 |any|[any/pypy3-pip](https://aur.archlinux.org/pkgbase/pypy3-pip)|PUBLISHED||[2648671602](https://github.com/arch4edu/cactus/actions/runs/2648671602)|<script type="text/javascript">localize(1657535457);</script>|
@@ -327,7 +327,7 @@ Last update: <script type="text/javascript">localize(1665430413.017438);</script
 |x86_64|[x86_64/ly](https://aur.archlinux.org/pkgbase/ly)|PUBLISHED||[2850837848](https://github.com/arch4edu/cactus/actions/runs/2850837848)|<script type="text/javascript">localize(1660433114);</script>|
 |x86_64|[x86_64/mendeleydesktop](https://aur.archlinux.org/pkgbase/mendeleydesktop)|PUBLISHED||[2648118029](https://github.com/arch4edu/cactus/actions/runs/2648118029)|<script type="text/javascript">localize(1657529732);</script>|
 |x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|FAILED|Build failed.|[3219653059](https://github.com/arch4edu/cactus/actions/runs/3219653059)|<script type="text/javascript">localize(1665408673);</script>|
-|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|PUBLISHED||[3201909119](https://github.com/arch4edu/cactus/actions/runs/3201909119)|<script type="text/javascript">localize(1665125736);</script>|
+|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|STALED||[3201909119](https://github.com/arch4edu/cactus/actions/runs/3201909119)|<script type="text/javascript">localize(1665457440);</script>|
 |x86_64|[x86_64/miktex](https://aur.archlinux.org/pkgbase/miktex)|PUBLISHED||[2939795337](https://github.com/arch4edu/cactus/actions/runs/2939795337)|<script type="text/javascript">localize(1661625504);</script>|
 |x86_64|[x86_64/mmg](https://aur.archlinux.org/pkgbase/mmg)|PUBLISHED||[2648891891](https://github.com/arch4edu/cactus/actions/runs/2648891891)|<script type="text/javascript">localize(1657538791);</script>|
 |x86_64|[x86_64/mongodb](https://aur.archlinux.org/pkgbase/mongodb)|PUBLISHED||[2961087081](https://github.com/arch4edu/cactus/actions/runs/2961087081)|<script type="text/javascript">localize(1661971292);</script>|
@@ -376,13 +376,13 @@ Last update: <script type="text/javascript">localize(1665430413.017438);</script
 |x86_64|[x86_64/pastix](https://aur.archlinux.org/pkgbase/pastix)|PUBLISHED||[3007952582](https://github.com/arch4edu/cactus/actions/runs/3007952582)|<script type="text/javascript">localize(1662564898);</script>|
 |x86_64|[x86_64/pcl](https://aur.archlinux.org/pkgbase/pcl)|FAILED|Build failed.|[3221045028](https://github.com/arch4edu/cactus/actions/runs/3221045028)|<script type="text/javascript">localize(1665421225);</script>|
 |x86_64|[x86_64/petsc-complex](https://aur.archlinux.org/pkgbase/petsc-complex)|PUBLISHED||[3167137037](https://github.com/arch4edu/cactus/actions/runs/3167137037)|<script type="text/javascript">localize(1664693648);</script>|
-|x86_64|[x86_64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|PUBLISHED||[3082677463](https://github.com/arch4edu/cactus/actions/runs/3082677463)|<script type="text/javascript">localize(1663613248);</script>|
+|x86_64|[x86_64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|STALED||[3082677463](https://github.com/arch4edu/cactus/actions/runs/3082677463)|<script type="text/javascript">localize(1665457440);</script>|
 |x86_64|[x86_64/pio](https://aur.archlinux.org/pkgbase/pio)|PUBLISHED||[2647918996](https://github.com/arch4edu/cactus/actions/runs/2647918996)|<script type="text/javascript">localize(1657525869);</script>|
 |x86_64|[x86_64/plplot](https://aur.archlinux.org/pkgbase/plplot)|PUBLISHED||[2647948355](https://github.com/arch4edu/cactus/actions/runs/2647948355)|<script type="text/javascript">localize(1657530195);</script>|
 |x86_64|[x86_64/pocketsphinx](https://aur.archlinux.org/pkgbase/pocketsphinx)|PUBLISHED||[2648892344](https://github.com/arch4edu/cactus/actions/runs/2648892344)|<script type="text/javascript">localize(1657535853);</script>|
 |x86_64|[x86_64/popsift](https://aur.archlinux.org/pkgbase/popsift)|PUBLISHED||[2710342737](https://github.com/arch4edu/cactus/actions/runs/2710342737)|<script type="text/javascript">localize(1658392364);</script>|
 |x86_64|[x86_64/praat](https://aur.archlinux.org/pkgbase/praat)|PUBLISHED||[3214240899](https://github.com/arch4edu/cactus/actions/runs/3214240899)|<script type="text/javascript">localize(1665341109);</script>|
-|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|PUBLISHED||[3201909029](https://github.com/arch4edu/cactus/actions/runs/3201909029)|<script type="text/javascript">localize(1665125764);</script>|
+|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|STALED||[3201909029](https://github.com/arch4edu/cactus/actions/runs/3201909029)|<script type="text/javascript">localize(1665457441);</script>|
 |x86_64|[x86_64/python-arch](https://aur.archlinux.org/pkgbase/python-arch)|PUBLISHED||[3019691784](https://github.com/arch4edu/cactus/actions/runs/3019691784)|<script type="text/javascript">localize(1662706518);</script>|
 |x86_64|[x86_64/python-astropy](https://aur.archlinux.org/pkgbase/python-astropy)|PUBLISHED||[2654687015](https://github.com/arch4edu/cactus/actions/runs/2654687015)|<script type="text/javascript">localize(1657610830);</script>|
 |x86_64|[x86_64/python-astroquery](https://aur.archlinux.org/pkgbase/python-astroquery)|PUBLISHED||[2654741402](https://github.com/arch4edu/cactus/actions/runs/2654741402)|<script type="text/javascript">localize(1657610842);</script>|
