@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1665474549.6493979);</script>
+Last update: <script type="text/javascript">localize(1665497086.3941977);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -48,7 +48,7 @@ Last update: <script type="text/javascript">localize(1665474549.6493979);</scrip
 |aarch64|[aarch64/ventoy-bin](https://aur.archlinux.org/pkgbase/ventoy-bin)|PUBLISHED||[3116850238](https://github.com/arch4edu/cactus/actions/runs/3116850238)|<script type="text/javascript">localize(1664002080);</script>|
 |aarch64|[aarch64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[3197456117](https://github.com/arch4edu/cactus/actions/runs/3197456117)|<script type="text/javascript">localize(1665082277);</script>|
 |aarch64|[aarch64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|PUBLISHED||[3201908883](https://github.com/arch4edu/cactus/actions/runs/3201908883)|<script type="text/javascript">localize(1665125658);</script>|
-|aarch64|[aarch64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|FAILED|Build failed.|[3216632555](https://github.com/arch4edu/cactus/actions/runs/3216632555)|<script type="text/javascript">localize(1665371939);</script>|
+|aarch64|[aarch64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|FAILED|Build failed.|[3227123788](https://github.com/arch4edu/cactus/actions/runs/3227123788)|<script type="text/javascript">localize(1665494142);</script>|
 |aarch64|[aarch64/vscodium-bin](https://aur.archlinux.org/pkgbase/vscodium-bin)|PUBLISHED||[3201945724](https://github.com/arch4edu/cactus/actions/runs/3201945724)|<script type="text/javascript">localize(1665125687);</script>|
 |aarch64|[aarch64/wxwidgets-gtk2](https://aur.archlinux.org/pkgbase/wxwidgets-gtk2)|PUBLISHED||[2815923886](https://github.com/arch4edu/cactus/actions/runs/2815923886)|<script type="text/javascript">localize(1660001305);</script>|
 |aarch64|[aarch64/yay](https://aur.archlinux.org/pkgbase/yay)|PUBLISHED||[2858159249](https://github.com/arch4edu/cactus/actions/runs/2858159249)|<script type="text/javascript">localize(1660588946);</script>|
@@ -401,7 +401,7 @@ Last update: <script type="text/javascript">localize(1665474549.6493979);</scrip
 |x86_64|[x86_64/python-gensim](https://aur.archlinux.org/pkgbase/python-gensim)|PUBLISHED||[2648738470](https://github.com/arch4edu/cactus/actions/runs/2648738470)|<script type="text/javascript">localize(1657535890);</script>|
 |x86_64|[x86_64/python-ibm-cloud-sdk-core](https://aur.archlinux.org/pkgbase/python-ibm-cloud-sdk-core)|PUBLISHED||[3156967422](https://github.com/arch4edu/cactus/actions/runs/3156967422)|<script type="text/javascript">localize(1664563757);</script>|
 |x86_64|[x86_64/python-ibm-platform-services](https://aur.archlinux.org/pkgbase/python-ibm-platform-services)|PUBLISHED||[3164679041](https://github.com/arch4edu/cactus/actions/runs/3164679041)|<script type="text/javascript">localize(1664650009);</script>|
-|x86_64|[x86_64/python-imagecodecs](https://aur.archlinux.org/pkgbase/python-imagecodecs)|PUBLISHED||[3132647853](https://github.com/arch4edu/cactus/actions/runs/3132647853)|<script type="text/javascript">localize(1664262444);</script>|
+|x86_64|[x86_64/python-imagecodecs](https://aur.archlinux.org/pkgbase/python-imagecodecs)|BUILT||[3227123942](https://github.com/arch4edu/cactus/actions/runs/3227123942)|<script type="text/javascript">localize(1665494372);</script>|
 |x86_64|[x86_64/python-imageio](https://aur.archlinux.org/pkgbase/python-imageio)|PUBLISHED||[3190105858](https://github.com/arch4edu/cactus/actions/runs/3190105858)|<script type="text/javascript">localize(1664996259);</script>|
 |x86_64|[x86_64/python-leveldb](https://aur.archlinux.org/pkgbase/python-leveldb)|PUBLISHED||[2886714281](https://github.com/arch4edu/cactus/actions/runs/2886714281)|<script type="text/javascript">localize(1660891381);</script>|
 |x86_64|[x86_64/python-llvmlite-git](https://aur.archlinux.org/pkgbase/python-llvmlite-git)|PUBLISHED||[2976377166](https://github.com/arch4edu/cactus/actions/runs/2976377166)|<script type="text/javascript">localize(1662101891);</script>|
@@ -1215,7 +1215,7 @@ Last update: <script type="text/javascript">localize(1665474549.6493979);</scrip
 |x86_64|[x86_64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[3197456167](https://github.com/arch4edu/cactus/actions/runs/3197456167)|<script type="text/javascript">localize(1665082619);</script>|
 |x86_64|[x86_64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|PUBLISHED||[3201908943](https://github.com/arch4edu/cactus/actions/runs/3201908943)|<script type="text/javascript">localize(1665125825);</script>|
 |x86_64|[x86_64/voro++](https://aur.archlinux.org/pkgbase/voro++)|PUBLISHED||[2648553963](https://github.com/arch4edu/cactus/actions/runs/2648553963)|<script type="text/javascript">localize(1657532303);</script>|
-|x86_64|[x86_64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|FAILED|Build failed.|[3216632565](https://github.com/arch4edu/cactus/actions/runs/3216632565)|<script type="text/javascript">localize(1665371830);</script>|
+|x86_64|[x86_64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|FAILED|Build failed.|[3227123864](https://github.com/arch4edu/cactus/actions/runs/3227123864)|<script type="text/javascript">localize(1665494070);</script>|
 |x86_64|[x86_64/vscodium-bin](https://aur.archlinux.org/pkgbase/vscodium-bin)|PUBLISHED||[3201909159](https://github.com/arch4edu/cactus/actions/runs/3201909159)|<script type="text/javascript">localize(1665125857);</script>|
 |x86_64|[x86_64/wscat](https://aur.archlinux.org/pkgbase/wscat)|PUBLISHED||[2647862687](https://github.com/arch4edu/cactus/actions/runs/2647862687)|<script type="text/javascript">localize(1657526023);</script>|
 |x86_64|[x86_64/wxgtk-dev](https://aur.archlinux.org/pkgbase/wxgtk-dev)|PUBLISHED||[2648363260](https://github.com/arch4edu/cactus/actions/runs/2648363260)|<script type="text/javascript">localize(1657536350);</script>|
