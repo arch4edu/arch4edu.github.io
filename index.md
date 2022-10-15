@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1665847904.1304424);</script>
+Last update: <script type="text/javascript">localize(1665852142.1254482);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -356,8 +356,8 @@ Last update: <script type="text/javascript">localize(1665847904.1304424);</scrip
 |x86_64|[x86_64/onedrive](https://aur.archlinux.org/pkgbase/onedrive)|PUBLISHED||[2648006369](https://github.com/arch4edu/cactus/actions/runs/2648006369)|<script type="text/javascript">localize(1657529802);</script>|
 |x86_64|[x86_64/openblas-lapack](https://aur.archlinux.org/pkgbase/openblas-lapack)|PUBLISHED||[2822343935](https://github.com/arch4edu/cactus/actions/runs/2822343935)|<script type="text/javascript">localize(1660087639);</script>|
 |x86_64|[x86_64/openboard](https://aur.archlinux.org/pkgbase/openboard)|PUBLISHED||[3214240792](https://github.com/arch4edu/cactus/actions/runs/3214240792)|<script type="text/javascript">localize(1665341095);</script>|
-|x86_64|[x86_64/openfoam](https://aur.archlinux.org/pkgbase/openfoam)|PUBLISHED||[2971835887](https://github.com/arch4edu/cactus/actions/runs/2971835887)|<script type="text/javascript">localize(1662057828);</script>|
-|x86_64|[x86_64/openfoam-com](https://aur.archlinux.org/pkgbase/openfoam-com)|PUBLISHED||[2661539727](https://github.com/arch4edu/cactus/actions/runs/2661539727)|<script type="text/javascript">localize(1657716696);</script>|
+|x86_64|[x86_64/openfoam](https://aur.archlinux.org/pkgbase/openfoam)|BUILDING|GitHubActions|[3256300348](https://github.com/arch4edu/cactus/actions/runs/3256300348)|<script type="text/javascript">localize(1665849835);</script>|
+|x86_64|[x86_64/openfoam-com](https://aur.archlinux.org/pkgbase/openfoam-com)|BUILDING|GitHubActions|[3256300262](https://github.com/arch4edu/cactus/actions/runs/3256300262)|<script type="text/javascript">localize(1665849830);</script>|
 |x86_64|[x86_64/openfst](https://aur.archlinux.org/pkgbase/openfst)|PUBLISHED||[2725775868](https://github.com/arch4edu/cactus/actions/runs/2725775868)|<script type="text/javascript">localize(1658635190);</script>|
 |x86_64|[x86_64/opengv-git](https://aur.archlinux.org/pkgbase/opengv-git)|PUBLISHED||[2710378932](https://github.com/arch4edu/cactus/actions/runs/2710378932)|<script type="text/javascript">localize(1658392339);</script>|
 |x86_64|[x86_64/openjpeg](https://aur.archlinux.org/pkgbase/openjpeg)|PUBLISHED||[2648304268](https://github.com/arch4edu/cactus/actions/runs/2648304268)|<script type="text/javascript">localize(1657532128);</script>|
@@ -888,7 +888,7 @@ Last update: <script type="text/javascript">localize(1665847904.1304424);</scrip
 |x86_64/rocm|[x86_64/rocm/rocm-clang-ocl](https://aur.archlinux.org/pkgbase/rocm-clang-ocl)|PUBLISHED||[3254207641](https://github.com/arch4edu/cactus/actions/runs/3254207641)|<script type="text/javascript">localize(1665816757);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-cmake](https://aur.archlinux.org/pkgbase/rocm-cmake)|PUBLISHED||[3214240685](https://github.com/arch4edu/cactus/actions/runs/3214240685)|<script type="text/javascript">localize(1665341177);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-core](https://aur.archlinux.org/pkgbase/rocm-core)|PUBLISHED||[3239403582](https://github.com/arch4edu/cactus/actions/runs/3239403582)|<script type="text/javascript">localize(1665644669);</script>|
-|x86_64/rocm|[x86_64/rocm/rocm-dbgapi](https://aur.archlinux.org/pkgbase/rocm-dbgapi)|PUBLISHED||[2969445724](https://github.com/arch4edu/cactus/actions/runs/2969445724)|<script type="text/javascript">localize(1662015001);</script>|
+|x86_64/rocm|[x86_64/rocm/rocm-dbgapi](https://aur.archlinux.org/pkgbase/rocm-dbgapi)|BUILT||[3256300431](https://github.com/arch4edu/cactus/actions/runs/3256300431)|<script type="text/javascript">localize(1665850096);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-debug-agent](https://aur.archlinux.org/pkgbase/rocm-debug-agent)|PUBLISHED||[3120692238](https://github.com/arch4edu/cactus/actions/runs/3120692238)|<script type="text/javascript">localize(1664088416);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-device-libs](https://aur.archlinux.org/pkgbase/rocm-device-libs)|PUBLISHED||[3214827264](https://github.com/arch4edu/cactus/actions/runs/3214827264)|<script type="text/javascript">localize(1665341189);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-gdb](https://aur.archlinux.org/pkgbase/rocm-gdb)|PUBLISHED||[2969473802](https://github.com/arch4edu/cactus/actions/runs/2969473802)|<script type="text/javascript">localize(1662030060);</script>|
@@ -1006,7 +1006,7 @@ Last update: <script type="text/javascript">localize(1665847904.1304424);</scrip
 |x86_64/ros|[x86_64/ros/ros-noetic-nodelet-tutorial-math](https://aur.archlinux.org/pkgbase/ros-noetic-nodelet-tutorial-math)|PUBLISHED||[2965130314](https://github.com/arch4edu/cactus/actions/runs/2965130314)|<script type="text/javascript">localize(1661972174);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pcl-conversions](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-conversions)|PUBLISHED||[2965090023](https://github.com/arch4edu/cactus/actions/runs/2965090023)|<script type="text/javascript">localize(1662015172);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pcl-msgs](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-msgs)|PUBLISHED||[2963994223](https://github.com/arch4edu/cactus/actions/runs/2963994223)|<script type="text/javascript">localize(1661972188);</script>|
-|x86_64/ros|[x86_64/ros/ros-noetic-pcl-ros](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-ros)|STALED|Waiting for dependency: x86_64/pcl.|[3220667465](https://github.com/arch4edu/cactus/actions/runs/3220667465)|<script type="text/javascript">localize(1665847598);</script>|
+|x86_64/ros|[x86_64/ros/ros-noetic-pcl-ros](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-ros)|STALED|Waiting for dependency: x86_64/pcl.|[3220667465](https://github.com/arch4edu/cactus/actions/runs/3220667465)|<script type="text/javascript">localize(1665851950);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-perception](https://aur.archlinux.org/pkgbase/ros-noetic-perception)|PUBLISHED||[2969845815](https://github.com/arch4edu/cactus/actions/runs/2969845815)|<script type="text/javascript">localize(1662030361);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-perception-pcl](https://aur.archlinux.org/pkgbase/ros-noetic-perception-pcl)|PUBLISHED||[2969751336](https://github.com/arch4edu/cactus/actions/runs/2969751336)|<script type="text/javascript">localize(1662030389);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pluginlib](https://aur.archlinux.org/pkgbase/ros-noetic-pluginlib)|PUBLISHED||[3212724796](https://github.com/arch4edu/cactus/actions/runs/3212724796)|<script type="text/javascript">localize(1665298133);</script>|
