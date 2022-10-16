@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1665902426.240582);</script>
+Last update: <script type="text/javascript">localize(1665905447.9285507);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -43,7 +43,7 @@ Last update: <script type="text/javascript">localize(1665902426.240582);</script
 |aarch64|[aarch64/sip4](https://aur.archlinux.org/pkgbase/sip4)|PUBLISHED||[3022757182](https://github.com/arch4edu/cactus/actions/runs/3022757182)|<script type="text/javascript">localize(1662742815);</script>|
 |aarch64|[aarch64/sublime-text-dev](https://aur.archlinux.org/pkgbase/sublime-text-dev)|PUBLISHED||[3116840225](https://github.com/arch4edu/cactus/actions/runs/3116840225)|<script type="text/javascript">localize(1664002067);</script>|
 |aarch64|[aarch64/teamviewer](https://aur.archlinux.org/pkgbase/teamviewer)|PUBLISHED||[3163004039](https://github.com/arch4edu/cactus/actions/runs/3163004039)|<script type="text/javascript">localize(1664607305);</script>|
-|aarch64|[aarch64/timeshift](https://aur.archlinux.org/pkgbase/timeshift)|BUILT||[3258072590](https://github.com/arch4edu/cactus/actions/runs/3258072590)|<script type="text/javascript">localize(1665890814);</script>|
+|aarch64|[aarch64/timeshift](https://aur.archlinux.org/pkgbase/timeshift)|PUBLISHED||[3258072590](https://github.com/arch4edu/cactus/actions/runs/3258072590)|<script type="text/javascript">localize(1665903026);</script>|
 |aarch64|[aarch64/torque](https://aur.archlinux.org/pkgbase/torque)|PUBLISHED||[2864964016](https://github.com/arch4edu/cactus/actions/runs/2864964016)|<script type="text/javascript">localize(1660632052);</script>|
 |aarch64|[aarch64/ventoy-bin](https://aur.archlinux.org/pkgbase/ventoy-bin)|PUBLISHED||[3116850238](https://github.com/arch4edu/cactus/actions/runs/3116850238)|<script type="text/javascript">localize(1664002080);</script>|
 |aarch64|[aarch64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[3197456117](https://github.com/arch4edu/cactus/actions/runs/3197456117)|<script type="text/javascript">localize(1665082277);</script>|
@@ -1006,7 +1006,7 @@ Last update: <script type="text/javascript">localize(1665902426.240582);</script
 |x86_64/ros|[x86_64/ros/ros-noetic-nodelet-tutorial-math](https://aur.archlinux.org/pkgbase/ros-noetic-nodelet-tutorial-math)|PUBLISHED||[2965130314](https://github.com/arch4edu/cactus/actions/runs/2965130314)|<script type="text/javascript">localize(1661972174);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pcl-conversions](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-conversions)|PUBLISHED||[2965090023](https://github.com/arch4edu/cactus/actions/runs/2965090023)|<script type="text/javascript">localize(1662015172);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pcl-msgs](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-msgs)|PUBLISHED||[2963994223](https://github.com/arch4edu/cactus/actions/runs/2963994223)|<script type="text/javascript">localize(1661972188);</script>|
-|x86_64/ros|[x86_64/ros/ros-noetic-pcl-ros](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-ros)|STALED|Waiting for dependency: x86_64/pcl.|[3220667465](https://github.com/arch4edu/cactus/actions/runs/3220667465)|<script type="text/javascript">localize(1665902195);</script>|
+|x86_64/ros|[x86_64/ros/ros-noetic-pcl-ros](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-ros)|STALED|Waiting for dependency: x86_64/pcl.|[3220667465](https://github.com/arch4edu/cactus/actions/runs/3220667465)|<script type="text/javascript">localize(1665905331);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-perception](https://aur.archlinux.org/pkgbase/ros-noetic-perception)|PUBLISHED||[2969845815](https://github.com/arch4edu/cactus/actions/runs/2969845815)|<script type="text/javascript">localize(1662030361);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-perception-pcl](https://aur.archlinux.org/pkgbase/ros-noetic-perception-pcl)|PUBLISHED||[2969751336](https://github.com/arch4edu/cactus/actions/runs/2969751336)|<script type="text/javascript">localize(1662030389);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pluginlib](https://aur.archlinux.org/pkgbase/ros-noetic-pluginlib)|PUBLISHED||[3212724796](https://github.com/arch4edu/cactus/actions/runs/3212724796)|<script type="text/javascript">localize(1665298133);</script>|
@@ -1205,7 +1205,7 @@ Last update: <script type="text/javascript">localize(1665902426.240582);</script
 |x86_64|[x86_64/superlu_dist](https://aur.archlinux.org/pkgbase/superlu_dist)|PUBLISHED||[3168699641](https://github.com/arch4edu/cactus/actions/runs/3168699641)|<script type="text/javascript">localize(1664736333);</script>|
 |x86_64|[x86_64/teamviewer](https://aur.archlinux.org/pkgbase/teamviewer)|PUBLISHED||[3163004140](https://github.com/arch4edu/cactus/actions/runs/3163004140)|<script type="text/javascript">localize(1664607359);</script>|
 |x86_64|[x86_64/termcap](https://aur.archlinux.org/pkgbase/termcap)|PUBLISHED||[2648244059](https://github.com/arch4edu/cactus/actions/runs/2648244059)|<script type="text/javascript">localize(1657530398);</script>|
-|x86_64|[x86_64/timeshift](https://aur.archlinux.org/pkgbase/timeshift)|BUILT||[3258072617](https://github.com/arch4edu/cactus/actions/runs/3258072617)|<script type="text/javascript">localize(1665890703);</script>|
+|x86_64|[x86_64/timeshift](https://aur.archlinux.org/pkgbase/timeshift)|PUBLISHED||[3258072617](https://github.com/arch4edu/cactus/actions/runs/3258072617)|<script type="text/javascript">localize(1665903039);</script>|
 |x86_64|[x86_64/tix](https://aur.archlinux.org/pkgbase/tix)|PUBLISHED||[2648005726](https://github.com/arch4edu/cactus/actions/runs/2648005726)|<script type="text/javascript">localize(1657530410);</script>|
 |x86_64|[x86_64/torque](https://aur.archlinux.org/pkgbase/torque)|PUBLISHED||[2864897552](https://github.com/arch4edu/cactus/actions/runs/2864897552)|<script type="text/javascript">localize(1660632099);</script>|
 |x86_64|[x86_64/trilinos](https://aur.archlinux.org/pkgbase/trilinos)|PUBLISHED||[2748877176](https://github.com/arch4edu/cactus/actions/runs/2748877176)|<script type="text/javascript">localize(1658957003);</script>|
