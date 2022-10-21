@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1666377481.5256085);</script>
+Last update: <script type="text/javascript">localize(1666380453.7339473);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -231,7 +231,7 @@ Last update: <script type="text/javascript">localize(1666377481.5256085);</scrip
 |x86_64|[x86_64/devtools-arch4edu-extra](https://aur.archlinux.org/pkgbase/devtools-arch4edu-extra)|PUBLISHED||[2648642921](https://github.com/arch4edu/cactus/actions/runs/2648642921)|<script type="text/javascript">localize(1657535625);</script>|
 |x86_64|[x86_64/devtools-qemu](https://aur.archlinux.org/pkgbase/devtools-qemu)|PUBLISHED||[3247204767](https://github.com/arch4edu/cactus/actions/runs/3247204767)|<script type="text/javascript">localize(1665731278);</script>|
 |x86_64|[x86_64/distccd-alarm](https://aur.archlinux.org/pkgbase/distccd-alarm)|PUBLISHED||[2648118082](https://github.com/arch4edu/cactus/actions/runs/2648118082)|<script type="text/javascript">localize(1657529104);</script>|
-|x86_64|[x86_64/dolfinx](https://aur.archlinux.org/pkgbase/dolfinx)|BUILT||[3297934507](https://github.com/arch4edu/cactus/actions/runs/3297934507)|<script type="text/javascript">localize(1666360439);</script>|
+|x86_64|[x86_64/dolfinx](https://aur.archlinux.org/pkgbase/dolfinx)|PUBLISHED||[3297934507](https://github.com/arch4edu/cactus/actions/runs/3297934507)|<script type="text/javascript">localize(1666378242);</script>|
 |x86_64|[x86_64/dumux](https://aur.archlinux.org/pkgbase/dumux)|PUBLISHED||[3167182406](https://github.com/arch4edu/cactus/actions/runs/3167182406)|<script type="text/javascript">localize(1664693495);</script>|
 |x86_64|[x86_64/dune-common](https://aur.archlinux.org/pkgbase/dune-common)|PUBLISHED||[3167146224](https://github.com/arch4edu/cactus/actions/runs/3167146224)|<script type="text/javascript">localize(1664693520);</script>|
 |x86_64|[x86_64/dune-geometry](https://aur.archlinux.org/pkgbase/dune-geometry)|PUBLISHED||[3167157702](https://github.com/arch4edu/cactus/actions/runs/3167157702)|<script type="text/javascript">localize(1664693543);</script>|
@@ -396,7 +396,7 @@ Last update: <script type="text/javascript">localize(1666377481.5256085);</scrip
 |x86_64|[x86_64/python-fastdtw](https://aur.archlinux.org/pkgbase/python-fastdtw)|PUBLISHED||[3164678786](https://github.com/arch4edu/cactus/actions/runs/3164678786)|<script type="text/javascript">localize(1664649993);</script>|
 |x86_64|[x86_64/python-fastrlock](https://aur.archlinux.org/pkgbase/python-fastrlock)|PUBLISHED||[2648303933](https://github.com/arch4edu/cactus/actions/runs/2648303933)|<script type="text/javascript">localize(1657532158);</script>|
 |x86_64|[x86_64/python-fenics-basix](https://aur.archlinux.org/pkgbase/python-fenics-basix)|PUBLISHED||[3087218968](https://github.com/arch4edu/cactus/actions/runs/3087218968)|<script type="text/javascript">localize(1663657268);</script>|
-|x86_64|[x86_64/python-fenics-dolfinx](https://aur.archlinux.org/pkgbase/python-fenics-dolfinx)|BUILT||[3298235945](https://github.com/arch4edu/cactus/actions/runs/3298235945)|<script type="text/javascript">localize(1666363072);</script>|
+|x86_64|[x86_64/python-fenics-dolfinx](https://aur.archlinux.org/pkgbase/python-fenics-dolfinx)|PUBLISHED||[3298235945](https://github.com/arch4edu/cactus/actions/runs/3298235945)|<script type="text/javascript">localize(1666378255);</script>|
 |x86_64|[x86_64/python-fenics-ffcx](https://aur.archlinux.org/pkgbase/python-fenics-ffcx)|PUBLISHED||[3087238558](https://github.com/arch4edu/cactus/actions/runs/3087238558)|<script type="text/javascript">localize(1663657292);</script>|
 |x86_64|[x86_64/python-fenics-ufl](https://aur.archlinux.org/pkgbase/python-fenics-ufl)|PUBLISHED||[3087163019](https://github.com/arch4edu/cactus/actions/runs/3087163019)|<script type="text/javascript">localize(1663657307);</script>|
 |x86_64|[x86_64/python-gensim](https://aur.archlinux.org/pkgbase/python-gensim)|PUBLISHED||[2648738470](https://github.com/arch4edu/cactus/actions/runs/2648738470)|<script type="text/javascript">localize(1657535890);</script>|
@@ -1004,7 +1004,7 @@ Last update: <script type="text/javascript">localize(1666377481.5256085);</scrip
 |x86_64/ros|[x86_64/ros/ros-noetic-nodelet-tutorial-math](https://aur.archlinux.org/pkgbase/ros-noetic-nodelet-tutorial-math)|PUBLISHED||[2965130314](https://github.com/arch4edu/cactus/actions/runs/2965130314)|<script type="text/javascript">localize(1661972174);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pcl-conversions](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-conversions)|PUBLISHED||[2965090023](https://github.com/arch4edu/cactus/actions/runs/2965090023)|<script type="text/javascript">localize(1662015172);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pcl-msgs](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-msgs)|PUBLISHED||[2963994223](https://github.com/arch4edu/cactus/actions/runs/2963994223)|<script type="text/javascript">localize(1661972188);</script>|
-|x86_64/ros|[x86_64/ros/ros-noetic-pcl-ros](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-ros)|STALED|Waiting for dependency: x86_64/pcl.|[3220667465](https://github.com/arch4edu/cactus/actions/runs/3220667465)|<script type="text/javascript">localize(1666377361);</script>|
+|x86_64/ros|[x86_64/ros/ros-noetic-pcl-ros](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-ros)|STALED|Waiting for dependency: x86_64/pcl.|[3220667465](https://github.com/arch4edu/cactus/actions/runs/3220667465)|<script type="text/javascript">localize(1666380155);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-perception](https://aur.archlinux.org/pkgbase/ros-noetic-perception)|PUBLISHED||[2969845815](https://github.com/arch4edu/cactus/actions/runs/2969845815)|<script type="text/javascript">localize(1662030361);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-perception-pcl](https://aur.archlinux.org/pkgbase/ros-noetic-perception-pcl)|PUBLISHED||[2969751336](https://github.com/arch4edu/cactus/actions/runs/2969751336)|<script type="text/javascript">localize(1662030389);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pluginlib](https://aur.archlinux.org/pkgbase/ros-noetic-pluginlib)|PUBLISHED||[3212724796](https://github.com/arch4edu/cactus/actions/runs/3212724796)|<script type="text/javascript">localize(1665298133);</script>|
