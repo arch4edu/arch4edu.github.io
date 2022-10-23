@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Mirror status
-Last check: <script type="text/javascript">localize(1666546396.0319278);</script>
+Last check: <script type="text/javascript">localize(1666550014.625248);</script>
 
 |Country|Mirror|Last update|
 |:------|:-----|:----------|
@@ -11,7 +11,7 @@ Last check: <script type="text/javascript">localize(1666546396.0319278);</script
 |China|https://mirrors.nju.edu.cn/arch4edu/|ConnectTimeout|
 |China|https://mirrors.pinganyun.com/arch4edu/|<script type="text/javascript">localize(1666507923);</script>|
 |China|https://mirrors.sau.edu.cn/arch4edu/|<script type="text/javascript">localize(1650446957);</script>|
-|China|https://mirrors.tencent.com/arch4edu/|<script type="text/javascript">localize(1666464521);</script>|
+|China|https://mirrors.tencent.com/arch4edu/|<script type="text/javascript">localize(1666507923);</script>|
 |China|https://mirrors.ynu.edu.cn/arch4edu/|ReadTimeout|
 |Austria|https://at.arch4edu.mirror.kescher.at/|<script type="text/javascript">localize(1666507923);</script>|
 |France|https://mirror.lesviallon.fr/arch4edu/|<script type="text/javascript">localize(1666507923);</script>|
