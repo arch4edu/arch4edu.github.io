@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1666637019.4429271);</script>
+Last update: <script type="text/javascript">localize(1666639913.6833045);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -121,7 +121,7 @@ Last update: <script type="text/javascript">localize(1666637019.4429271);</scrip
 |any|[any/python-json-tricks](https://aur.archlinux.org/pkgbase/python-json-tricks)|PUBLISHED||[3135914698](https://github.com/arch4edu/cactus/actions/runs/3135914698)|<script type="text/javascript">localize(1664304782);</script>|
 |any|[any/python-librosa](https://aur.archlinux.org/pkgbase/python-librosa)|PUBLISHED||[2718779317](https://github.com/arch4edu/cactus/actions/runs/2718779317)|<script type="text/javascript">localize(1658497445);</script>|
 |any|[any/python-multipledispatch](https://aur.archlinux.org/pkgbase/python-multipledispatch)|PUBLISHED||[2647702460](https://github.com/arch4edu/cactus/actions/runs/2647702460)|<script type="text/javascript">localize(1657525104);</script>|
-|any|[any/python-multiprocess](https://aur.archlinux.org/pkgbase/python-multiprocess)|BUILT||[3313073111](https://github.com/arch4edu/cactus/actions/runs/3313073111)|<script type="text/javascript">localize(1666617892);</script>|
+|any|[any/python-multiprocess](https://aur.archlinux.org/pkgbase/python-multiprocess)|PUBLISHED||[3313073111](https://github.com/arch4edu/cactus/actions/runs/3313073111)|<script type="text/javascript">localize(1666637867);</script>|
 |any|[any/python-ninja-syntax](https://aur.archlinux.org/pkgbase/python-ninja-syntax)|PUBLISHED||[2647774561](https://github.com/arch4edu/cactus/actions/runs/2647774561)|<script type="text/javascript">localize(1657525147);</script>|
 |any|[any/python-nocasedict](https://aur.archlinux.org/pkgbase/python-nocasedict)|PUBLISHED||[3007952290](https://github.com/arch4edu/cactus/actions/runs/3007952290)|<script type="text/javascript">localize(1662564844);</script>|
 |any|[any/python-nocaselist](https://aur.archlinux.org/pkgbase/python-nocaselist)|PUBLISHED||[3007952401](https://github.com/arch4edu/cactus/actions/runs/3007952401)|<script type="text/javascript">localize(1662564864);</script>|
@@ -246,7 +246,7 @@ Last update: <script type="text/javascript">localize(1666637019.4429271);</scrip
 |x86_64|[x86_64/fakeroot-tcp](https://aur.archlinux.org/pkgbase/fakeroot-tcp)|PUBLISHED||[2648005811](https://github.com/arch4edu/cactus/actions/runs/2648005811)|<script type="text/javascript">localize(1657529132);</script>|
 |x86_64|[x86_64/fastfetch](https://aur.archlinux.org/pkgbase/fastfetch)|PUBLISHED||[3279494188](https://github.com/arch4edu/cactus/actions/runs/3279494188)|<script type="text/javascript">localize(1666194886);</script>|
 |x86_64|[x86_64/fcl](https://aur.archlinux.org/pkgbase/fcl)|PUBLISHED||[2648892160](https://github.com/arch4edu/cactus/actions/runs/2648892160)|<script type="text/javascript">localize(1657538601);</script>|
-|x86_64|[x86_64/fet-timetabling](https://aur.archlinux.org/pkgbase/fet-timetabling)|BUILT||[3313073022](https://github.com/arch4edu/cactus/actions/runs/3313073022)|<script type="text/javascript">localize(1666620110);</script>|
+|x86_64|[x86_64/fet-timetabling](https://aur.archlinux.org/pkgbase/fet-timetabling)|PUBLISHED||[3313073022](https://github.com/arch4edu/cactus/actions/runs/3313073022)|<script type="text/javascript">localize(1666637883);</script>|
 |x86_64|[x86_64/flann](https://aur.archlinux.org/pkgbase/flann)|PUBLISHED||[2648334016](https://github.com/arch4edu/cactus/actions/runs/2648334016)|<script type="text/javascript">localize(1657531942);</script>|
 |x86_64|[x86_64/flite1](https://aur.archlinux.org/pkgbase/flite1)|PUBLISHED||[2648363920](https://github.com/arch4edu/cactus/actions/runs/2648363920)|<script type="text/javascript">localize(1657531956);</script>|
 |x86_64|[x86_64/flutter](https://aur.archlinux.org/pkgbase/flutter)|PUBLISHED||[3301688942](https://github.com/arch4edu/cactus/actions/runs/3301688942)|<script type="text/javascript">localize(1666421569);</script>|
@@ -1002,7 +1002,7 @@ Last update: <script type="text/javascript">localize(1666637019.4429271);</scrip
 |x86_64/ros|[x86_64/ros/ros-noetic-nodelet-tutorial-math](https://aur.archlinux.org/pkgbase/ros-noetic-nodelet-tutorial-math)|PUBLISHED||[2965130314](https://github.com/arch4edu/cactus/actions/runs/2965130314)|<script type="text/javascript">localize(1661972174);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pcl-conversions](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-conversions)|PUBLISHED||[2965090023](https://github.com/arch4edu/cactus/actions/runs/2965090023)|<script type="text/javascript">localize(1662015172);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pcl-msgs](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-msgs)|PUBLISHED||[2963994223](https://github.com/arch4edu/cactus/actions/runs/2963994223)|<script type="text/javascript">localize(1661972188);</script>|
-|x86_64/ros|[x86_64/ros/ros-noetic-pcl-ros](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-ros)|STALED|Waiting for dependency: x86_64/pcl.|[3220667465](https://github.com/arch4edu/cactus/actions/runs/3220667465)|<script type="text/javascript">localize(1666636859);</script>|
+|x86_64/ros|[x86_64/ros/ros-noetic-pcl-ros](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-ros)|STALED|Waiting for dependency: x86_64/pcl.|[3220667465](https://github.com/arch4edu/cactus/actions/runs/3220667465)|<script type="text/javascript">localize(1666639858);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-perception](https://aur.archlinux.org/pkgbase/ros-noetic-perception)|PUBLISHED||[2969845815](https://github.com/arch4edu/cactus/actions/runs/2969845815)|<script type="text/javascript">localize(1662030361);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-perception-pcl](https://aur.archlinux.org/pkgbase/ros-noetic-perception-pcl)|PUBLISHED||[2969751336](https://github.com/arch4edu/cactus/actions/runs/2969751336)|<script type="text/javascript">localize(1662030389);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pluginlib](https://aur.archlinux.org/pkgbase/ros-noetic-pluginlib)|PUBLISHED||[3212724796](https://github.com/arch4edu/cactus/actions/runs/3212724796)|<script type="text/javascript">localize(1665298133);</script>|
