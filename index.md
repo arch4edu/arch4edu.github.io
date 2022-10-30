@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667111388.9023294);</script>
+Last update: <script type="text/javascript">localize(1667114538.1980276);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -33,7 +33,7 @@ Last update: <script type="text/javascript">localize(1667111388.9023294);</scrip
 |aarch64|[aarch64/pypy3](https://aur.archlinux.org/pkgbase/pypy3)|PUBLISHED||[2836998393](https://github.com/arch4edu/cactus/actions/runs/2836998393)|<script type="text/javascript">localize(1660260399);</script>|
 |aarch64|[aarch64/python-oracledb](https://aur.archlinux.org/pkgbase/python-oracledb)|PUBLISHED||[3135990358](https://github.com/arch4edu/cactus/actions/runs/3135990358)|<script type="text/javascript">localize(1664304745);</script>|
 |aarch64|[aarch64/python-wiringpi-git](https://aur.archlinux.org/pkgbase/python-wiringpi-git)|PUBLISHED||[3136026813](https://github.com/arch4edu/cactus/actions/runs/3136026813)|<script type="text/javascript">localize(1664304755);</script>|
-|aarch64|[aarch64/qgroundcontrol](https://aur.archlinux.org/pkgbase/qgroundcontrol)|BUILT||[3353861759](https://github.com/arch4edu/cactus/actions/runs/3353861759)|<script type="text/javascript">localize(1667101791);</script>|
+|aarch64|[aarch64/qgroundcontrol](https://aur.archlinux.org/pkgbase/qgroundcontrol)|PUBLISHED||[3353861759](https://github.com/arch4edu/cactus/actions/runs/3353861759)|<script type="text/javascript">localize(1667112049);</script>|
 |aarch64|[aarch64/rpi-imager](https://aur.archlinux.org/pkgbase/rpi-imager)|PUBLISHED||[3183895773](https://github.com/arch4edu/cactus/actions/runs/3183895773)|<script type="text/javascript">localize(1664909566);</script>|
 |aarch64|[aarch64/rpiusbboot](https://aur.archlinux.org/pkgbase/rpiusbboot)|PUBLISHED||[2648151519](https://github.com/arch4edu/cactus/actions/runs/2648151519)|<script type="text/javascript">localize(1657528609);</script>|
 |aarch64|[aarch64/seafile](https://aur.archlinux.org/pkgbase/seafile)|PUBLISHED||[2854200620](https://github.com/arch4edu/cactus/actions/runs/2854200620)|<script type="text/javascript">localize(1660519464);</script>|
@@ -137,7 +137,7 @@ Last update: <script type="text/javascript">localize(1667111388.9023294);</scrip
 |any|[any/python-pybindgen](https://aur.archlinux.org/pkgbase/python-pybindgen)|PUBLISHED||[2647774624](https://github.com/arch4edu/cactus/actions/runs/2647774624)|<script type="text/javascript">localize(1657525216);</script>|
 |any|[any/python-pydotplus](https://aur.archlinux.org/pkgbase/python-pydotplus)|PUBLISHED||[2872441627](https://github.com/arch4edu/cactus/actions/runs/2872441627)|<script type="text/javascript">localize(1660718679);</script>|
 |any|[any/python-pydub](https://aur.archlinux.org/pkgbase/python-pydub)|PUBLISHED||[3016367907](https://github.com/arch4edu/cactus/actions/runs/3016367907)|<script type="text/javascript">localize(1662662604);</script>|
-|any|[any/python-pymavlink](https://aur.archlinux.org/pkgbase/python-pymavlink)|BUILT||[3353861751](https://github.com/arch4edu/cactus/actions/runs/3353861751)|<script type="text/javascript">localize(1667099015);</script>|
+|any|[any/python-pymavlink](https://aur.archlinux.org/pkgbase/python-pymavlink)|PUBLISHED||[3353861751](https://github.com/arch4edu/cactus/actions/runs/3353861751)|<script type="text/javascript">localize(1667112068);</script>|
 |any|[any/python-pytest-arraydiff](https://aur.archlinux.org/pkgbase/python-pytest-arraydiff)|PUBLISHED||[2654714390](https://github.com/arch4edu/cactus/actions/runs/2654714390)|<script type="text/javascript">localize(1657610716);</script>|
 |any|[any/python-pytest-astropy](https://aur.archlinux.org/pkgbase/python-pytest-astropy)|PUBLISHED||[2654741320](https://github.com/arch4edu/cactus/actions/runs/2654741320)|<script type="text/javascript">localize(1657610732);</script>|
 |any|[any/python-pytest-astropy-header](https://aur.archlinux.org/pkgbase/python-pytest-astropy-header)|PUBLISHED||[3007952151](https://github.com/arch4edu/cactus/actions/runs/3007952151)|<script type="text/javascript">localize(1662564883);</script>|
@@ -866,7 +866,7 @@ Last update: <script type="text/javascript">localize(1667111388.9023294);</scrip
 |x86_64/rocm|[x86_64/rocm/hipcub](https://aur.archlinux.org/pkgbase/hipcub)|PUBLISHED||[3216669774](https://github.com/arch4edu/cactus/actions/runs/3216669774)|<script type="text/javascript">localize(1665385452);</script>|
 |x86_64/rocm|[x86_64/rocm/hipfft](https://aur.archlinux.org/pkgbase/hipfft)|PUBLISHED||[3239420594](https://github.com/arch4edu/cactus/actions/runs/3239420594)|<script type="text/javascript">localize(1665644603);</script>|
 |x86_64/rocm|[x86_64/rocm/hipfort](https://aur.archlinux.org/pkgbase/hipfort)|PUBLISHED||[3231774210](https://github.com/arch4edu/cactus/actions/runs/3231774210)|<script type="text/javascript">localize(1665557780);</script>|
-|x86_64/rocm|[x86_64/rocm/hipify-clang](https://aur.archlinux.org/pkgbase/hipify-clang)|BUILT||[3353861782](https://github.com/arch4edu/cactus/actions/runs/3353861782)|<script type="text/javascript">localize(1667099447);</script>|
+|x86_64/rocm|[x86_64/rocm/hipify-clang](https://aur.archlinux.org/pkgbase/hipify-clang)|PUBLISHED||[3353861782](https://github.com/arch4edu/cactus/actions/runs/3353861782)|<script type="text/javascript">localize(1667112083);</script>|
 |x86_64/rocm|[x86_64/rocm/hipmagma](https://aur.archlinux.org/pkgbase/hipmagma)|PUBLISHED||[2736853982](https://github.com/arch4edu/cactus/actions/runs/2736853982)|<script type="text/javascript">localize(1658814382);</script>|
 |x86_64/rocm|[x86_64/rocm/hipsolver](https://aur.archlinux.org/pkgbase/hipsolver)|PUBLISHED||[3254931077](https://github.com/arch4edu/cactus/actions/runs/3254931077)|<script type="text/javascript">localize(1665859622);</script>|
 |x86_64/rocm|[x86_64/rocm/hipsparse](https://aur.archlinux.org/pkgbase/hipsparse)|PUBLISHED||[3250241634](https://github.com/arch4edu/cactus/actions/runs/3250241634)|<script type="text/javascript">localize(1665773327);</script>|
@@ -1003,7 +1003,7 @@ Last update: <script type="text/javascript">localize(1667111388.9023294);</scrip
 |x86_64/ros|[x86_64/ros/ros-noetic-nodelet-tutorial-math](https://aur.archlinux.org/pkgbase/ros-noetic-nodelet-tutorial-math)|PUBLISHED||[2965130314](https://github.com/arch4edu/cactus/actions/runs/2965130314)|<script type="text/javascript">localize(1661972174);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pcl-conversions](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-conversions)|PUBLISHED||[2965090023](https://github.com/arch4edu/cactus/actions/runs/2965090023)|<script type="text/javascript">localize(1662015172);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pcl-msgs](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-msgs)|PUBLISHED||[2963994223](https://github.com/arch4edu/cactus/actions/runs/2963994223)|<script type="text/javascript">localize(1661972188);</script>|
-|x86_64/ros|[x86_64/ros/ros-noetic-pcl-ros](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-ros)|STALED|Waiting for dependency: x86_64/pcl.|[3220667465](https://github.com/arch4edu/cactus/actions/runs/3220667465)|<script type="text/javascript">localize(1667111174);</script>|
+|x86_64/ros|[x86_64/ros/ros-noetic-pcl-ros](https://aur.archlinux.org/pkgbase/ros-noetic-pcl-ros)|STALED|Waiting for dependency: x86_64/pcl.|[3220667465](https://github.com/arch4edu/cactus/actions/runs/3220667465)|<script type="text/javascript">localize(1667114323);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-perception](https://aur.archlinux.org/pkgbase/ros-noetic-perception)|PUBLISHED||[2969845815](https://github.com/arch4edu/cactus/actions/runs/2969845815)|<script type="text/javascript">localize(1662030361);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-perception-pcl](https://aur.archlinux.org/pkgbase/ros-noetic-perception-pcl)|PUBLISHED||[2969751336](https://github.com/arch4edu/cactus/actions/runs/2969751336)|<script type="text/javascript">localize(1662030389);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-pluginlib](https://aur.archlinux.org/pkgbase/ros-noetic-pluginlib)|PUBLISHED||[3212724796](https://github.com/arch4edu/cactus/actions/runs/3212724796)|<script type="text/javascript">localize(1665298133);</script>|
