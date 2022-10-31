@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667234321.7308364);</script>
+Last update: <script type="text/javascript">localize(1667243983.0291047);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -445,7 +445,7 @@ Last update: <script type="text/javascript">localize(1667234321.7308364);</scrip
 |x86_64|[x86_64/python-wrf](https://aur.archlinux.org/pkgbase/python-wrf)|PUBLISHED||[2647863455](https://github.com/arch4edu/cactus/actions/runs/2647863455)|<script type="text/javascript">localize(1657525914);</script>|
 |x86_64|[x86_64/python-wxpython-dev](https://aur.archlinux.org/pkgbase/python-wxpython-dev)|PUBLISHED||[3196513266](https://github.com/arch4edu/cactus/actions/runs/3196513266)|<script type="text/javascript">localize(1665082330);</script>|
 |x86_64|[x86_64/python-yfinance](https://aur.archlinux.org/pkgbase/python-yfinance)|PUBLISHED||[3334081174](https://github.com/arch4edu/cactus/actions/runs/3334081174)|<script type="text/javascript">localize(1666853102);</script>|
-|x86_64|[x86_64/qgroundcontrol](https://aur.archlinux.org/pkgbase/qgroundcontrol)|BUILT||[3361570577](https://github.com/arch4edu/cactus/actions/runs/3361570577)|<script type="text/javascript">localize(1667224252);</script>|
+|x86_64|[x86_64/qgroundcontrol](https://aur.archlinux.org/pkgbase/qgroundcontrol)|PUBLISHED||[3361570577](https://github.com/arch4edu/cactus/actions/runs/3361570577)|<script type="text/javascript">localize(1667241902);</script>|
 |x86_64|[x86_64/qt4](https://aur.archlinux.org/pkgbase/qt4)|PUBLISHED||[2647919537](https://github.com/arch4edu/cactus/actions/runs/2647919537)|<script type="text/javascript">localize(1657530284);</script>|
 |x86_64|[x86_64/qucs](https://aur.archlinux.org/pkgbase/qucs)|PUBLISHED||[2648832117](https://github.com/arch4edu/cactus/actions/runs/2648832117)|<script type="text/javascript">localize(1657538902);</script>|
 |x86_64/r|[x86_64/r/cctz](https://aur.archlinux.org/pkgbase/cctz)|PUBLISHED||[2703355331](https://github.com/arch4edu/cactus/actions/runs/2703355331)|<script type="text/javascript">localize(1658309187);</script>|
@@ -667,7 +667,7 @@ Last update: <script type="text/javascript">localize(1667234321.7308364);</scrip
 |x86_64/r|[x86_64/r/r-mathjaxr](https://aur.archlinux.org/pkgbase/r-mathjaxr)|PUBLISHED||[3273812409](https://github.com/arch4edu/cactus/actions/runs/3273812409)|<script type="text/javascript">localize(1666120119);</script>|
 |x86_64/r|[x86_64/r/r-matrixmodels](https://aur.archlinux.org/pkgbase/r-matrixmodels)|PUBLISHED||[2703395531](https://github.com/arch4edu/cactus/actions/runs/2703395531)|<script type="text/javascript">localize(1658309854);</script>|
 |x86_64/r|[x86_64/r/r-matrixstats](https://aur.archlinux.org/pkgbase/r-matrixstats)|PUBLISHED||[2703519642](https://github.com/arch4edu/cactus/actions/runs/2703519642)|<script type="text/javascript">localize(1658309866);</script>|
-|x86_64/r|[x86_64/r/r-mclust](https://aur.archlinux.org/pkgbase/r-mclust)|BUILT||[3361499913](https://github.com/arch4edu/cactus/actions/runs/3361499913)|<script type="text/javascript">localize(1667221906);</script>|
+|x86_64/r|[x86_64/r/r-mclust](https://aur.archlinux.org/pkgbase/r-mclust)|PUBLISHED||[3361499913](https://github.com/arch4edu/cactus/actions/runs/3361499913)|<script type="text/javascript">localize(1667241916);</script>|
 |x86_64/r|[x86_64/r/r-mcmc](https://aur.archlinux.org/pkgbase/r-mcmc)|PUBLISHED||[2703562137](https://github.com/arch4edu/cactus/actions/runs/2703562137)|<script type="text/javascript">localize(1658309890);</script>|
 |x86_64/r|[x86_64/r/r-mcmcpack](https://aur.archlinux.org/pkgbase/r-mcmcpack)|PUBLISHED||[2703956472](https://github.com/arch4edu/cactus/actions/runs/2703956472)|<script type="text/javascript">localize(1658313874);</script>|
 |x86_64/r|[x86_64/r/r-mdscore](https://aur.archlinux.org/pkgbase/r-mdscore)|PUBLISHED||[2703436487](https://github.com/arch4edu/cactus/actions/runs/2703436487)|<script type="text/javascript">localize(1658309905);</script>|
