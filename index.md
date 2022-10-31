@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667189235.2397227);</script>
+Last update: <script type="text/javascript">localize(1667201044.350784);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -96,7 +96,7 @@ Last update: <script type="text/javascript">localize(1667189235.2397227);</scrip
 |any|[any/octave-statistics](https://aur.archlinux.org/pkgbase/octave-statistics)|PUBLISHED||[2648671760](https://github.com/arch4edu/cactus/actions/runs/2648671760)|<script type="text/javascript">localize(1657535427);</script>|
 |any|[any/openfoam-selector](https://aur.archlinux.org/pkgbase/openfoam-selector)|PUBLISHED||[2647751811](https://github.com/arch4edu/cactus/actions/runs/2647751811)|<script type="text/javascript">localize(1657524902);</script>|
 |any|[any/opengrok](https://aur.archlinux.org/pkgbase/opengrok)|PUBLISHED||[3208820353](https://github.com/arch4edu/cactus/actions/runs/3208820353)|<script type="text/javascript">localize(1665211778);</script>|
-|any|[any/panoply](https://aur.archlinux.org/pkgbase/panoply)|BUILT||[3358235572](https://github.com/arch4edu/cactus/actions/runs/3358235572)|<script type="text/javascript">localize(1667185428);</script>|
+|any|[any/panoply](https://aur.archlinux.org/pkgbase/panoply)|PUBLISHED||[3358235572](https://github.com/arch4edu/cactus/actions/runs/3358235572)|<script type="text/javascript">localize(1667198736);</script>|
 |any|[any/pi-hole-server](https://aur.archlinux.org/pkgbase/pi-hole-server)|PUBLISHED||[3224278591](https://github.com/arch4edu/cactus/actions/runs/3224278591)|<script type="text/javascript">localize(1665473395);</script>|
 |any|[any/pi-hole-standalone](https://aur.archlinux.org/pkgbase/pi-hole-standalone)|PUBLISHED||[3224278535](https://github.com/arch4edu/cactus/actions/runs/3224278535)|<script type="text/javascript">localize(1665473411);</script>|
 |any|[any/pnpm](https://aur.archlinux.org/pkgbase/pnpm)|PUBLISHED||[3183089666](https://github.com/arch4edu/cactus/actions/runs/3183089666)|<script type="text/javascript">localize(1664909582);</script>|
@@ -375,7 +375,7 @@ Last update: <script type="text/javascript">localize(1667189235.2397227);</scrip
 |x86_64|[x86_64/parmetis](https://aur.archlinux.org/pkgbase/parmetis)|PUBLISHED||[2750930850](https://github.com/arch4edu/cactus/actions/runs/2750930850)|<script type="text/javascript">localize(1658981183);</script>|
 |x86_64|[x86_64/paru](https://aur.archlinux.org/pkgbase/paru)|PUBLISHED||[2686509126](https://github.com/arch4edu/cactus/actions/runs/2686509126)|<script type="text/javascript">localize(1658085696);</script>|
 |x86_64|[x86_64/pastix](https://aur.archlinux.org/pkgbase/pastix)|PUBLISHED||[3007952582](https://github.com/arch4edu/cactus/actions/runs/3007952582)|<script type="text/javascript">localize(1662564898);</script>|
-|x86_64|[x86_64/pcl](https://aur.archlinux.org/pkgbase/pcl)|BUILT||[3358235695](https://github.com/arch4edu/cactus/actions/runs/3358235695)|<script type="text/javascript">localize(1667188022);</script>|
+|x86_64|[x86_64/pcl](https://aur.archlinux.org/pkgbase/pcl)|PUBLISHED||[3358235695](https://github.com/arch4edu/cactus/actions/runs/3358235695)|<script type="text/javascript">localize(1667198753);</script>|
 |x86_64|[x86_64/petsc-complex](https://aur.archlinux.org/pkgbase/petsc-complex)|PUBLISHED||[3334081423](https://github.com/arch4edu/cactus/actions/runs/3334081423)|<script type="text/javascript">localize(1666853049);</script>|
 |x86_64|[x86_64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|PUBLISHED||[3224259457](https://github.com/arch4edu/cactus/actions/runs/3224259457)|<script type="text/javascript">localize(1665473468);</script>|
 |x86_64|[x86_64/pio](https://aur.archlinux.org/pkgbase/pio)|PUBLISHED||[2647918996](https://github.com/arch4edu/cactus/actions/runs/2647918996)|<script type="text/javascript">localize(1657525869);</script>|
