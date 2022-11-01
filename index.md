@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667243983.0291047);</script>
+Last update: <script type="text/javascript">localize(1667270238.4424036);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -207,7 +207,7 @@ Last update: <script type="text/javascript">localize(1667243983.0291047);</scrip
 |x86_64|[x86_64/cef-minimal](https://aur.archlinux.org/pkgbase/cef-minimal)|PUBLISHED||[2648091420](https://github.com/arch4edu/cactus/actions/runs/2648091420)|<script type="text/javascript">localize(1657529000);</script>|
 |x86_64|[x86_64/cef-standard](https://aur.archlinux.org/pkgbase/cef-standard)|PUBLISHED||[2648426785](https://github.com/arch4edu/cactus/actions/runs/2648426785)|<script type="text/javascript">localize(1657531895);</script>|
 |x86_64|[x86_64/celt](https://aur.archlinux.org/pkgbase/celt)|PUBLISHED||[2882655818](https://github.com/arch4edu/cactus/actions/runs/2882655818)|<script type="text/javascript">localize(1660847936);</script>|
-|x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|BUILDING|Build failed.|[3361784541](https://github.com/arch4edu/cactus/actions/runs/3361784541)|<script type="text/javascript">localize(1667228542);</script>|
+|x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|FAILED|Build failed.|[3361784541](https://github.com/arch4edu/cactus/actions/runs/3361784541)|<script type="text/javascript">localize(1667266765);</script>|
 |x86_64|[x86_64/ceph-octopus](https://aur.archlinux.org/pkgbase/ceph-octopus)|PUBLISHED||[3104626260](https://github.com/arch4edu/cactus/actions/runs/3104626260)|<script type="text/javascript">localize(1663854273);</script>|
 |x86_64|[x86_64/ceph-pacific](https://aur.archlinux.org/pkgbase/ceph-pacific)|PUBLISHED||[3155390486](https://github.com/arch4edu/cactus/actions/runs/3155390486)|<script type="text/javascript">localize(1664521640);</script>|
 |x86_64|[x86_64/ceres-solver](https://aur.archlinux.org/pkgbase/ceres-solver)|PUBLISHED||[2709897472](https://github.com/arch4edu/cactus/actions/runs/2709897472)|<script type="text/javascript">localize(1658388264);</script>|
@@ -906,7 +906,7 @@ Last update: <script type="text/javascript">localize(1667243983.0291047);</scrip
 |x86_64/rocm|[x86_64/rocm/rocsparse](https://aur.archlinux.org/pkgbase/rocsparse)|PUBLISHED||[3231774209](https://github.com/arch4edu/cactus/actions/runs/3231774209)|<script type="text/javascript">localize(1665557797);</script>|
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[3231774285](https://github.com/arch4edu/cactus/actions/runs/3231774285)|<script type="text/javascript">localize(1665557808);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[3262153704](https://github.com/arch4edu/cactus/actions/runs/3262153704)|<script type="text/javascript">localize(1665988291);</script>|
-|x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|BUILDING||[3362767539](https://github.com/arch4edu/cactus/actions/runs/3362767539)|<script type="text/javascript">localize(1667232067);</script>|
+|x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|FAILED|Build failed.|[3362767539](https://github.com/arch4edu/cactus/actions/runs/3362767539)|<script type="text/javascript">localize(1667265940);</script>|
 |x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[3351574568](https://github.com/arch4edu/cactus/actions/runs/3351574568)|<script type="text/javascript">localize(1667222196);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl](https://aur.archlinux.org/pkgbase/orocos-kdl)|PUBLISHED||[2962941130](https://github.com/arch4edu/cactus/actions/runs/2962941130)|<script type="text/javascript">localize(1661971407);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl-python](https://aur.archlinux.org/pkgbase/orocos-kdl-python)|PUBLISHED||[2962989020](https://github.com/arch4edu/cactus/actions/runs/2962989020)|<script type="text/javascript">localize(1661971419);</script>|
