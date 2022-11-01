@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667295030.2087739);</script>
+Last update: <script type="text/javascript">localize(1667301687.0592785);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -331,7 +331,7 @@ Last update: <script type="text/javascript">localize(1667295030.2087739);</scrip
 |x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|PUBLISHED||[3366505068](https://github.com/arch4edu/cactus/actions/runs/3366505068)|<script type="text/javascript">localize(1667285498);</script>|
 |x86_64|[x86_64/miktex](https://aur.archlinux.org/pkgbase/miktex)|PUBLISHED||[3367094372](https://github.com/arch4edu/cactus/actions/runs/3367094372)|<script type="text/javascript">localize(1667285515);</script>|
 |x86_64|[x86_64/mmg](https://aur.archlinux.org/pkgbase/mmg)|PUBLISHED||[2648891891](https://github.com/arch4edu/cactus/actions/runs/2648891891)|<script type="text/javascript">localize(1657538791);</script>|
-|x86_64|[x86_64/mongodb](https://aur.archlinux.org/pkgbase/mongodb)|BUILDING|GitHubActions|[3367117303](https://github.com/arch4edu/cactus/actions/runs/3367117303)|<script type="text/javascript">localize(1667281535);</script>|
+|x86_64|[x86_64/mongodb](https://aur.archlinux.org/pkgbase/mongodb)|BUILT||[3367117303](https://github.com/arch4edu/cactus/actions/runs/3367117303)|<script type="text/javascript">localize(1667299886);</script>|
 |x86_64|[x86_64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|PUBLISHED||[2648614297](https://github.com/arch4edu/cactus/actions/runs/2648614297)|<script type="text/javascript">localize(1657535804);</script>|
 |x86_64|[x86_64/mpich](https://aur.archlinux.org/pkgbase/mpich)|PUBLISHED||[2648614437](https://github.com/arch4edu/cactus/actions/runs/2648614437)|<script type="text/javascript">localize(1657538803);</script>|
 |x86_64|[x86_64/mumps](https://aur.archlinux.org/pkgbase/mumps)|PUBLISHED||[3182411365](https://github.com/arch4edu/cactus/actions/runs/3182411365)|<script type="text/javascript">localize(1664909646);</script>|
