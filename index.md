@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667281863.140335);</script>
+Last update: <script type="text/javascript">localize(1667284573.419881);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -269,8 +269,8 @@ Last update: <script type="text/javascript">localize(1667281863.140335);</script
 |x86_64|[x86_64/gmsh](https://aur.archlinux.org/pkgbase/gmsh)|PUBLISHED||[3053060514](https://github.com/arch4edu/cactus/actions/runs/3053060514)|<script type="text/javascript">localize(1663181087);</script>|
 |x86_64|[x86_64/google-chrome](https://aur.archlinux.org/pkgbase/google-chrome)|PUBLISHED||[3342441866](https://github.com/arch4edu/cactus/actions/runs/3342441866)|<script type="text/javascript">localize(1666939460);</script>|
 |x86_64|[x86_64/grass](https://aur.archlinux.org/pkgbase/grass)|PUBLISHED||[3182411471](https://github.com/arch4edu/cactus/actions/runs/3182411471)|<script type="text/javascript">localize(1664909633);</script>|
-|x86_64|[x86_64/gtsam](https://aur.archlinux.org/pkgbase/gtsam)|BUILDING|GitHubActions|[3367094255](https://github.com/arch4edu/cactus/actions/runs/3367094255)|<script type="text/javascript">localize(1667281203);</script>|
-|x86_64|[x86_64/gtsam-mkl](https://aur.archlinux.org/pkgbase/gtsam-mkl)|BUILDING|GitHubActions|[3367094166](https://github.com/arch4edu/cactus/actions/runs/3367094166)|<script type="text/javascript">localize(1667281203);</script>|
+|x86_64|[x86_64/gtsam](https://aur.archlinux.org/pkgbase/gtsam)|BUILT||[3367094255](https://github.com/arch4edu/cactus/actions/runs/3367094255)|<script type="text/javascript">localize(1667281968);</script>|
+|x86_64|[x86_64/gtsam-mkl](https://aur.archlinux.org/pkgbase/gtsam-mkl)|BUILT||[3367094166](https://github.com/arch4edu/cactus/actions/runs/3367094166)|<script type="text/javascript">localize(1667282043);</script>|
 |x86_64|[x86_64/guile2.0](https://aur.archlinux.org/pkgbase/guile2.0)|PUBLISHED||[2647862750](https://github.com/arch4edu/cactus/actions/runs/2647862750)|<script type="text/javascript">localize(1657525754);</script>|
 |x86_64|[x86_64/hadoop](https://aur.archlinux.org/pkgbase/hadoop)|PUBLISHED||[2931033715](https://github.com/arch4edu/cactus/actions/runs/2931033715)|<script type="text/javascript">localize(1661497033);</script>|
 |x86_64|[x86_64/half](https://aur.archlinux.org/pkgbase/half)|PUBLISHED||[2647919405](https://github.com/arch4edu/cactus/actions/runs/2647919405)|<script type="text/javascript">localize(1657525765);</script>|
@@ -329,7 +329,7 @@ Last update: <script type="text/javascript">localize(1667281863.140335);</script
 |x86_64|[x86_64/mendeleydesktop](https://aur.archlinux.org/pkgbase/mendeleydesktop)|PUBLISHED||[2648118029](https://github.com/arch4edu/cactus/actions/runs/2648118029)|<script type="text/javascript">localize(1657529732);</script>|
 |x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|FAILED|Build failed.|[3366505251](https://github.com/arch4edu/cactus/actions/runs/3366505251)|<script type="text/javascript">localize(1667272420);</script>|
 |x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|BUILT||[3366505068](https://github.com/arch4edu/cactus/actions/runs/3366505068)|<script type="text/javascript">localize(1667272660);</script>|
-|x86_64|[x86_64/miktex](https://aur.archlinux.org/pkgbase/miktex)|BUILDING|GitHubActions|[3367094372](https://github.com/arch4edu/cactus/actions/runs/3367094372)|<script type="text/javascript">localize(1667281204);</script>|
+|x86_64|[x86_64/miktex](https://aur.archlinux.org/pkgbase/miktex)|BUILT||[3367094372](https://github.com/arch4edu/cactus/actions/runs/3367094372)|<script type="text/javascript">localize(1667282560);</script>|
 |x86_64|[x86_64/mmg](https://aur.archlinux.org/pkgbase/mmg)|PUBLISHED||[2648891891](https://github.com/arch4edu/cactus/actions/runs/2648891891)|<script type="text/javascript">localize(1657538791);</script>|
 |x86_64|[x86_64/mongodb](https://aur.archlinux.org/pkgbase/mongodb)|BUILDING|GitHubActions|[3367117303](https://github.com/arch4edu/cactus/actions/runs/3367117303)|<script type="text/javascript">localize(1667281535);</script>|
 |x86_64|[x86_64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|PUBLISHED||[2648614297](https://github.com/arch4edu/cactus/actions/runs/2648614297)|<script type="text/javascript">localize(1657535804);</script>|
@@ -351,7 +351,7 @@ Last update: <script type="text/javascript">localize(1667281863.140335);</script
 |x86_64|[x86_64/octomap](https://aur.archlinux.org/pkgbase/octomap)|PUBLISHED||[2647891255](https://github.com/arch4edu/cactus/actions/runs/2647891255)|<script type="text/javascript">localize(1657525847);</script>|
 |x86_64|[x86_64/octopi](https://aur.archlinux.org/pkgbase/octopi)|PUBLISHED||[3201909384](https://github.com/arch4edu/cactus/actions/runs/3201909384)|<script type="text/javascript">localize(1665125750);</script>|
 |x86_64|[x86_64/ogre-1.9](https://aur.archlinux.org/pkgbase/ogre-1.9)|PUBLISHED||[3219614841](https://github.com/arch4edu/cactus/actions/runs/3219614841)|<script type="text/javascript">localize(1665428163);</script>|
-|x86_64|[x86_64/ompl](https://aur.archlinux.org/pkgbase/ompl)|BUILDING|GitHubActions|[3367117197](https://github.com/arch4edu/cactus/actions/runs/3367117197)|<script type="text/javascript">localize(1667281526);</script>|
+|x86_64|[x86_64/ompl](https://aur.archlinux.org/pkgbase/ompl)|BUILT||[3367117197](https://github.com/arch4edu/cactus/actions/runs/3367117197)|<script type="text/javascript">localize(1667282192);</script>|
 |x86_64|[x86_64/onedrive](https://aur.archlinux.org/pkgbase/onedrive)|PUBLISHED||[2648006369](https://github.com/arch4edu/cactus/actions/runs/2648006369)|<script type="text/javascript">localize(1657529802);</script>|
 |x86_64|[x86_64/openblas-lapack](https://aur.archlinux.org/pkgbase/openblas-lapack)|PUBLISHED||[2822343935](https://github.com/arch4edu/cactus/actions/runs/2822343935)|<script type="text/javascript">localize(1660087639);</script>|
 |x86_64|[x86_64/openboard](https://aur.archlinux.org/pkgbase/openboard)|PUBLISHED||[3214240792](https://github.com/arch4edu/cactus/actions/runs/3214240792)|<script type="text/javascript">localize(1665341095);</script>|
