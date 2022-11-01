@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667291529.3315613);</script>
+Last update: <script type="text/javascript">localize(1667295030.2087739);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -706,7 +706,7 @@ Last update: <script type="text/javascript">localize(1667291529.3315613);</scrip
 |x86_64/r|[x86_64/r/r-onewaytests](https://aur.archlinux.org/pkgbase/r-onewaytests)|PUBLISHED||[2787416133](https://github.com/arch4edu/cactus/actions/runs/2787416133)|<script type="text/javascript">localize(1659511575);</script>|
 |x86_64/r|[x86_64/r/r-openmx](https://aur.archlinux.org/pkgbase/r-openmx)|PUBLISHED||[3281985960](https://github.com/arch4edu/cactus/actions/runs/3281985960)|<script type="text/javascript">localize(1666195026);</script>|
 |x86_64/r|[x86_64/r/r-openssl](https://aur.archlinux.org/pkgbase/r-openssl)|PUBLISHED||[3270325197](https://github.com/arch4edu/cactus/actions/runs/3270325197)|<script type="text/javascript">localize(1666077026);</script>|
-|x86_64/r|[x86_64/r/r-openxlsx](https://aur.archlinux.org/pkgbase/r-openxlsx)|FAILED|Build failed.|[3361499976](https://github.com/arch4edu/cactus/actions/runs/3361499976)|<script type="text/javascript">localize(1667221948);</script>|
+|x86_64/r|[x86_64/r/r-openxlsx](https://aur.archlinux.org/pkgbase/r-openxlsx)|BUILT||[3368198982](https://github.com/arch4edu/cactus/actions/runs/3368198982)|<script type="text/javascript">localize(1667294313);</script>|
 |x86_64/r|[x86_64/r/r-optimx](https://aur.archlinux.org/pkgbase/r-optimx)|PUBLISHED||[2703724495](https://github.com/arch4edu/cactus/actions/runs/2703724495)|<script type="text/javascript">localize(1658314046);</script>|
 |x86_64/r|[x86_64/r/r-partitions](https://aur.archlinux.org/pkgbase/r-partitions)|PUBLISHED||[2730408478](https://github.com/arch4edu/cactus/actions/runs/2730408478)|<script type="text/javascript">localize(1658733996);</script>|
 |x86_64/r|[x86_64/r/r-party](https://aur.archlinux.org/pkgbase/r-party)|PUBLISHED||[3208820574](https://github.com/arch4edu/cactus/actions/runs/3208820574)|<script type="text/javascript">localize(1665211930);</script>|
@@ -906,7 +906,7 @@ Last update: <script type="text/javascript">localize(1667291529.3315613);</scrip
 |x86_64/rocm|[x86_64/rocm/rocsparse](https://aur.archlinux.org/pkgbase/rocsparse)|PUBLISHED||[3231774209](https://github.com/arch4edu/cactus/actions/runs/3231774209)|<script type="text/javascript">localize(1665557797);</script>|
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[3231774285](https://github.com/arch4edu/cactus/actions/runs/3231774285)|<script type="text/javascript">localize(1665557808);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[3262153704](https://github.com/arch4edu/cactus/actions/runs/3262153704)|<script type="text/javascript">localize(1665988291);</script>|
-|x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|FAILED|Build failed.|[3367959270](https://github.com/arch4edu/cactus/actions/runs/3367959270)|<script type="text/javascript">localize(1667291441);</script>|
+|x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|BUILDING|Build failed.|[3367959270](https://github.com/arch4edu/cactus/actions/runs/3367959270)|<script type="text/javascript">localize(1667291871);</script>|
 |x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[3351574568](https://github.com/arch4edu/cactus/actions/runs/3351574568)|<script type="text/javascript">localize(1667222196);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl](https://aur.archlinux.org/pkgbase/orocos-kdl)|PUBLISHED||[2962941130](https://github.com/arch4edu/cactus/actions/runs/2962941130)|<script type="text/javascript">localize(1661971407);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl-python](https://aur.archlinux.org/pkgbase/orocos-kdl-python)|PUBLISHED||[2962989020](https://github.com/arch4edu/cactus/actions/runs/2962989020)|<script type="text/javascript">localize(1661971419);</script>|
