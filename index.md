@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667373854.867531);</script>
+Last update: <script type="text/javascript">localize(1667377909.3286922);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -452,7 +452,7 @@ Last update: <script type="text/javascript">localize(1667373854.867531);</script
 |x86_64/r|[x86_64/r/cctz](https://aur.archlinux.org/pkgbase/cctz)|PUBLISHED||[2703355331](https://github.com/arch4edu/cactus/actions/runs/2703355331)|<script type="text/javascript">localize(1658309187);</script>|
 |x86_64/r|[x86_64/r/hopscotch-map](https://aur.archlinux.org/pkgbase/hopscotch-map)|PUBLISHED||[2703562939](https://github.com/arch4edu/cactus/actions/runs/2703562939)|<script type="text/javascript">localize(1658309199);</script>|
 |x86_64/r|[x86_64/r/jags](https://aur.archlinux.org/pkgbase/jags)|PUBLISHED||[2703563299](https://github.com/arch4edu/cactus/actions/runs/2703563299)|<script type="text/javascript">localize(1658309211);</script>|
-|x86_64/r|[x86_64/r/jasp-desktop](https://aur.archlinux.org/pkgbase/jasp-desktop)|STALED|Waiting for dependency: x86_64/r/r-markdown.|[2939315759](https://github.com/arch4edu/cactus/actions/runs/2939315759)|<script type="text/javascript">localize(1667373689);</script>|
+|x86_64/r|[x86_64/r/jasp-desktop](https://aur.archlinux.org/pkgbase/jasp-desktop)|FAILED|Build failed.|[3375860801](https://github.com/arch4edu/cactus/actions/runs/3375860801)|<script type="text/javascript">localize(1667377887);</script>|
 |x86_64/r|[x86_64/r/r-abind](https://aur.archlinux.org/pkgbase/r-abind)|PUBLISHED||[2703562400](https://github.com/arch4edu/cactus/actions/runs/2703562400)|<script type="text/javascript">localize(1658309225);</script>|
 |x86_64/r|[x86_64/r/r-abtest](https://aur.archlinux.org/pkgbase/r-abtest)|PUBLISHED||[2704117457](https://github.com/arch4edu/cactus/actions/runs/2704117457)|<script type="text/javascript">localize(1658316121);</script>|
 |x86_64/r|[x86_64/r/r-afex](https://aur.archlinux.org/pkgbase/r-afex)|PUBLISHED||[3370404239](https://github.com/arch4edu/cactus/actions/runs/3370404239)|<script type="text/javascript">localize(1667328359);</script>|
@@ -624,7 +624,7 @@ Last update: <script type="text/javascript">localize(1667373854.867531);</script
 |x86_64/r|[x86_64/r/r-jasplearnbayes](https://aur.archlinux.org/pkgbase/r-jasplearnbayes)|PUBLISHED||[3370613460](https://github.com/arch4edu/cactus/actions/runs/3370613460)|<script type="text/javascript">localize(1667328531);</script>|
 |x86_64/r|[x86_64/r/r-jaspmachinelearning](https://aur.archlinux.org/pkgbase/r-jaspmachinelearning)|PUBLISHED||[3196514118](https://github.com/arch4edu/cactus/actions/runs/3196514118)|<script type="text/javascript">localize(1665082492);</script>|
 |x86_64/r|[x86_64/r/r-jaspmetaanalysis](https://aur.archlinux.org/pkgbase/r-jaspmetaanalysis)|PUBLISHED||[3196572972](https://github.com/arch4edu/cactus/actions/runs/3196572972)|<script type="text/javascript">localize(1665082509);</script>|
-|x86_64/r|[x86_64/r/r-jaspmixedmodels](https://aur.archlinux.org/pkgbase/r-jaspmixedmodels)|STALED|Waiting for dependency: x86_64/r/r-markdown.|[2882827052](https://github.com/arch4edu/cactus/actions/runs/2882827052)|<script type="text/javascript">localize(1667373689);</script>|
+|x86_64/r|[x86_64/r/r-jaspmixedmodels](https://aur.archlinux.org/pkgbase/r-jaspmixedmodels)|BUILT||[3375742663](https://github.com/arch4edu/cactus/actions/runs/3375742663)|<script type="text/javascript">localize(1667376609);</script>|
 |x86_64/r|[x86_64/r/r-jaspnetwork](https://aur.archlinux.org/pkgbase/r-jaspnetwork)|PUBLISHED||[3370613975](https://github.com/arch4edu/cactus/actions/runs/3370613975)|<script type="text/javascript">localize(1667328550);</script>|
 |x86_64/r|[x86_64/r/r-jaspprocesscontrol](https://aur.archlinux.org/pkgbase/r-jaspprocesscontrol)|PUBLISHED||[3196640560](https://github.com/arch4edu/cactus/actions/runs/3196640560)|<script type="text/javascript">localize(1665082526);</script>|
 |x86_64/r|[x86_64/r/r-jaspprophet](https://aur.archlinux.org/pkgbase/r-jaspprophet)|PUBLISHED||[3196514243](https://github.com/arch4edu/cactus/actions/runs/3196514243)|<script type="text/javascript">localize(1665082543);</script>|
@@ -664,7 +664,7 @@ Last update: <script type="text/javascript">localize(1667373854.867531);</script
 |x86_64/r|[x86_64/r/r-lubridate](https://aur.archlinux.org/pkgbase/r-lubridate)|PUBLISHED||[2836971356](https://github.com/arch4edu/cactus/actions/runs/2836971356)|<script type="text/javascript">localize(1660260562);</script>|
 |x86_64/r|[x86_64/r/r-magrittr](https://aur.archlinux.org/pkgbase/r-magrittr)|PUBLISHED||[2703519688](https://github.com/arch4edu/cactus/actions/runs/2703519688)|<script type="text/javascript">localize(1658309823);</script>|
 |x86_64/r|[x86_64/r/r-maptools](https://aur.archlinux.org/pkgbase/r-maptools)|PUBLISHED||[2703723876](https://github.com/arch4edu/cactus/actions/runs/2703723876)|<script type="text/javascript">localize(1658313848);</script>|
-|x86_64/r|[x86_64/r/r-markdown](https://aur.archlinux.org/pkgbase/r-markdown)|FAILED|Build failed.|[3366505331](https://github.com/arch4edu/cactus/actions/runs/3366505331)|<script type="text/javascript">localize(1667272487);</script>|
+|x86_64/r|[x86_64/r/r-markdown](https://aur.archlinux.org/pkgbase/r-markdown)|BUILT||[3375693642](https://github.com/arch4edu/cactus/actions/runs/3375693642)|<script type="text/javascript">localize(1667375271);</script>|
 |x86_64/r|[x86_64/r/r-mathjaxr](https://aur.archlinux.org/pkgbase/r-mathjaxr)|PUBLISHED||[3273812409](https://github.com/arch4edu/cactus/actions/runs/3273812409)|<script type="text/javascript">localize(1666120119);</script>|
 |x86_64/r|[x86_64/r/r-matrixmodels](https://aur.archlinux.org/pkgbase/r-matrixmodels)|PUBLISHED||[3366505134](https://github.com/arch4edu/cactus/actions/runs/3366505134)|<script type="text/javascript">localize(1667285604);</script>|
 |x86_64/r|[x86_64/r/r-matrixstats](https://aur.archlinux.org/pkgbase/r-matrixstats)|PUBLISHED||[2703519642](https://github.com/arch4edu/cactus/actions/runs/2703519642)|<script type="text/javascript">localize(1658309866);</script>|
@@ -907,7 +907,7 @@ Last update: <script type="text/javascript">localize(1667373854.867531);</script
 |x86_64/rocm|[x86_64/rocm/rocsparse](https://aur.archlinux.org/pkgbase/rocsparse)|PUBLISHED||[3231774209](https://github.com/arch4edu/cactus/actions/runs/3231774209)|<script type="text/javascript">localize(1665557797);</script>|
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[3231774285](https://github.com/arch4edu/cactus/actions/runs/3231774285)|<script type="text/javascript">localize(1665557808);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[3262153704](https://github.com/arch4edu/cactus/actions/runs/3262153704)|<script type="text/javascript">localize(1665988291);</script>|
-|x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|FAILED|Build failed.|[3367959270](https://github.com/arch4edu/cactus/actions/runs/3367959270)|<script type="text/javascript">localize(1667341162);</script>|
+|x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|BUILDING|Build failed.|[3375851238](https://github.com/arch4edu/cactus/actions/runs/3375851238)|<script type="text/javascript">localize(1667376793);</script>|
 |x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[3369707555](https://github.com/arch4edu/cactus/actions/runs/3369707555)|<script type="text/javascript">localize(1667344671);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl](https://aur.archlinux.org/pkgbase/orocos-kdl)|PUBLISHED||[2962941130](https://github.com/arch4edu/cactus/actions/runs/2962941130)|<script type="text/javascript">localize(1661971407);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl-python](https://aur.archlinux.org/pkgbase/orocos-kdl-python)|PUBLISHED||[2962989020](https://github.com/arch4edu/cactus/actions/runs/2962989020)|<script type="text/javascript">localize(1661971419);</script>|
