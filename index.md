@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667569458.340657);</script>
+Last update: <script type="text/javascript">localize(1667571654.5353415);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -445,7 +445,7 @@ Last update: <script type="text/javascript">localize(1667569458.340657);</script
 |x86_64|[x86_64/python-torchvision](https://aur.archlinux.org/pkgbase/python-torchvision)|PUBLISHED||[2948713509](https://github.com/arch4edu/cactus/actions/runs/2948713509)|<script type="text/javascript">localize(1661798460);</script>|
 |x86_64|[x86_64/python-tweedledum](https://aur.archlinux.org/pkgbase/python-tweedledum)|PUBLISHED||[3156967558](https://github.com/arch4edu/cactus/actions/runs/3156967558)|<script type="text/javascript">localize(1664563811);</script>|
 |x86_64|[x86_64/python-wrf](https://aur.archlinux.org/pkgbase/python-wrf)|PUBLISHED||[2647863455](https://github.com/arch4edu/cactus/actions/runs/2647863455)|<script type="text/javascript">localize(1657525914);</script>|
-|x86_64|[x86_64/python-wxpython-dev](https://aur.archlinux.org/pkgbase/python-wxpython-dev)|BUILDING|GitHubActions|[3394045154](https://github.com/arch4edu/cactus/actions/runs/3394045154)|<script type="text/javascript">localize(1667567552);</script>|
+|x86_64|[x86_64/python-wxpython-dev](https://aur.archlinux.org/pkgbase/python-wxpython-dev)|BUILT||[3394045154](https://github.com/arch4edu/cactus/actions/runs/3394045154)|<script type="text/javascript">localize(1667570337);</script>|
 |x86_64|[x86_64/python-yfinance](https://aur.archlinux.org/pkgbase/python-yfinance)|PUBLISHED||[3334081174](https://github.com/arch4edu/cactus/actions/runs/3334081174)|<script type="text/javascript">localize(1666853102);</script>|
 |x86_64|[x86_64/qgroundcontrol](https://aur.archlinux.org/pkgbase/qgroundcontrol)|PUBLISHED||[3361570577](https://github.com/arch4edu/cactus/actions/runs/3361570577)|<script type="text/javascript">localize(1667241902);</script>|
 |x86_64|[x86_64/qt4](https://aur.archlinux.org/pkgbase/qt4)|PUBLISHED||[2647919537](https://github.com/arch4edu/cactus/actions/runs/2647919537)|<script type="text/javascript">localize(1657530284);</script>|
