@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667632856.2972398);</script>
+Last update: <script type="text/javascript">localize(1667636911.125946);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -250,7 +250,7 @@ Last update: <script type="text/javascript">localize(1667632856.2972398);</scrip
 |x86_64|[x86_64/fet-timetabling](https://aur.archlinux.org/pkgbase/fet-timetabling)|PUBLISHED||[3313073022](https://github.com/arch4edu/cactus/actions/runs/3313073022)|<script type="text/javascript">localize(1666637883);</script>|
 |x86_64|[x86_64/flann](https://aur.archlinux.org/pkgbase/flann)|PUBLISHED||[2648334016](https://github.com/arch4edu/cactus/actions/runs/2648334016)|<script type="text/javascript">localize(1657531942);</script>|
 |x86_64|[x86_64/flite1](https://aur.archlinux.org/pkgbase/flite1)|PUBLISHED||[2648363920](https://github.com/arch4edu/cactus/actions/runs/2648363920)|<script type="text/javascript">localize(1657531956);</script>|
-|x86_64|[x86_64/flutter](https://aur.archlinux.org/pkgbase/flutter)|BUILT||[3398334038](https://github.com/arch4edu/cactus/actions/runs/3398334038)|<script type="text/javascript">localize(1667616271);</script>|
+|x86_64|[x86_64/flutter](https://aur.archlinux.org/pkgbase/flutter)|PUBLISHED||[3398334038](https://github.com/arch4edu/cactus/actions/runs/3398334038)|<script type="text/javascript">localize(1667633194);</script>|
 |x86_64|[x86_64/g2clib](https://aur.archlinux.org/pkgbase/g2clib)|PUBLISHED||[2647862577](https://github.com/arch4edu/cactus/actions/runs/2647862577)|<script type="text/javascript">localize(1657525742);</script>|
 |x86_64|[x86_64/gazebo](https://aur.archlinux.org/pkgbase/gazebo)|PUBLISHED||[3265479717](https://github.com/arch4edu/cactus/actions/runs/3265479717)|<script type="text/javascript">localize(1666033354);</script>|
 |x86_64|[x86_64/gcc10](https://aur.archlinux.org/pkgbase/gcc10)|PUBLISHED||[2690724095](https://github.com/arch4edu/cactus/actions/runs/2690724095)|<script type="text/javascript">localize(1658165582);</script>|
@@ -412,8 +412,8 @@ Last update: <script type="text/javascript">localize(1667632856.2972398);</scrip
 |x86_64|[x86_64/python-mkl-random](https://aur.archlinux.org/pkgbase/python-mkl-random)|PUBLISHED||[2647863009](https://github.com/arch4edu/cactus/actions/runs/2647863009)|<script type="text/javascript">localize(1657525891);</script>|
 |x86_64|[x86_64/python-mkl-service](https://aur.archlinux.org/pkgbase/python-mkl-service)|PUBLISHED||[2649233468](https://github.com/arch4edu/cactus/actions/runs/2649233468)|<script type="text/javascript">localize(1657544212);</script>|
 |x86_64|[x86_64/python-multitasking](https://aur.archlinux.org/pkgbase/python-multitasking)|PUBLISHED||[3179015927](https://github.com/arch4edu/cactus/actions/runs/3179015927)|<script type="text/javascript">localize(1664866603);</script>|
-|x86_64|[x86_64/python-numba](https://aur.archlinux.org/pkgbase/python-numba)|BUILT||[3398333852](https://github.com/arch4edu/cactus/actions/runs/3398333852)|<script type="text/javascript">localize(1667615742);</script>|
-|x86_64|[x86_64/python-numba-git](https://aur.archlinux.org/pkgbase/python-numba-git)|BUILT||[3398333880](https://github.com/arch4edu/cactus/actions/runs/3398333880)|<script type="text/javascript">localize(1667615748);</script>|
+|x86_64|[x86_64/python-numba](https://aur.archlinux.org/pkgbase/python-numba)|PUBLISHED||[3398333852](https://github.com/arch4edu/cactus/actions/runs/3398333852)|<script type="text/javascript">localize(1667633221);</script>|
+|x86_64|[x86_64/python-numba-git](https://aur.archlinux.org/pkgbase/python-numba-git)|PUBLISHED||[3398333880](https://github.com/arch4edu/cactus/actions/runs/3398333880)|<script type="text/javascript">localize(1667633280);</script>|
 |x86_64|[x86_64/python-numpy-mkl](https://aur.archlinux.org/pkgbase/python-numpy-mkl)|PUBLISHED||[3242717894](https://github.com/arch4edu/cactus/actions/runs/3242717894)|<script type="text/javascript">localize(1665687179);</script>|
 |x86_64|[x86_64/python-oracledb](https://aur.archlinux.org/pkgbase/python-oracledb)|PUBLISHED||[2962940814](https://github.com/arch4edu/cactus/actions/runs/2962940814)|<script type="text/javascript">localize(1661971396);</script>|
 |x86_64|[x86_64/python-portalocker](https://aur.archlinux.org/pkgbase/python-portalocker)|PUBLISHED||[3167136925](https://github.com/arch4edu/cactus/actions/runs/3167136925)|<script type="text/javascript">localize(1664693665);</script>|
