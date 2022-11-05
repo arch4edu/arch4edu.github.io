@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667620233.9421728);</script>
+Last update: <script type="text/javascript">localize(1667632856.2972398);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -13,7 +13,7 @@ Last update: <script type="text/javascript">localize(1667620233.9421728);</scrip
 |aarch64|[aarch64/devtools-arch4edu-extra](https://aur.archlinux.org/pkgbase/devtools-arch4edu-extra)|PUBLISHED||[2648243811](https://github.com/arch4edu/cactus/actions/runs/2648243811)|<script type="text/javascript">localize(1657528494);</script>|
 |aarch64|[aarch64/fakeroot-tcp](https://aur.archlinux.org/pkgbase/fakeroot-tcp)|PUBLISHED||[2647976096](https://github.com/arch4edu/cactus/actions/runs/2647976096)|<script type="text/javascript">localize(1657528504);</script>|
 |aarch64|[aarch64/fastfetch](https://aur.archlinux.org/pkgbase/fastfetch)|PUBLISHED||[3279494117](https://github.com/arch4edu/cactus/actions/runs/3279494117)|<script type="text/javascript">localize(1666192538);</script>|
-|aarch64|[aarch64/flutter](https://aur.archlinux.org/pkgbase/flutter)|BUILT||[3398334126](https://github.com/arch4edu/cactus/actions/runs/3398334126)|<script type="text/javascript">localize(1667616306);</script>|
+|aarch64|[aarch64/flutter](https://aur.archlinux.org/pkgbase/flutter)|PUBLISHED||[3398334126](https://github.com/arch4edu/cactus/actions/runs/3398334126)|<script type="text/javascript">localize(1667631513);</script>|
 |aarch64|[aarch64/github-actions-bin](https://aur.archlinux.org/pkgbase/github-actions-bin)|PUBLISHED||[3385941898](https://github.com/arch4edu/cactus/actions/runs/3385941898)|<script type="text/javascript">localize(1667501559);</script>|
 |aarch64|[aarch64/jfbview](https://aur.archlinux.org/pkgbase/jfbview)|PUBLISHED||[2846933627](https://github.com/arch4edu/cactus/actions/runs/2846933627)|<script type="text/javascript">localize(1660346686);</script>|
 |aarch64|[aarch64/libsearpc](https://aur.archlinux.org/pkgbase/libsearpc)|PUBLISHED||[2648183447](https://github.com/arch4edu/cactus/actions/runs/2648183447)|<script type="text/javascript">localize(1657528540);</script>|
@@ -30,7 +30,7 @@ Last update: <script type="text/javascript">localize(1667620233.9421728);</scrip
 |aarch64|[aarch64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|PUBLISHED||[3224259445](https://github.com/arch4edu/cactus/actions/runs/3224259445)|<script type="text/javascript">localize(1665471737);</script>|
 |aarch64|[aarch64/pigpio](https://aur.archlinux.org/pkgbase/pigpio)|PUBLISHED||[2648274215](https://github.com/arch4edu/cactus/actions/runs/2648274215)|<script type="text/javascript">localize(1657528573);</script>|
 |aarch64|[aarch64/pypy-bin](https://aur.archlinux.org/pkgbase/pypy-bin)|PUBLISHED||[2648036019](https://github.com/arch4edu/cactus/actions/runs/2648036019)|<script type="text/javascript">localize(1657528590);</script>|
-|aarch64|[aarch64/pypy3](https://aur.archlinux.org/pkgbase/pypy3)|BUILT||[3398374465](https://github.com/arch4edu/cactus/actions/runs/3398374465)|<script type="text/javascript">localize(1667619306);</script>|
+|aarch64|[aarch64/pypy3](https://aur.archlinux.org/pkgbase/pypy3)|PUBLISHED||[3398374465](https://github.com/arch4edu/cactus/actions/runs/3398374465)|<script type="text/javascript">localize(1667631600);</script>|
 |aarch64|[aarch64/python-oracledb](https://aur.archlinux.org/pkgbase/python-oracledb)|PUBLISHED||[3135990358](https://github.com/arch4edu/cactus/actions/runs/3135990358)|<script type="text/javascript">localize(1664304745);</script>|
 |aarch64|[aarch64/python-wiringpi-git](https://aur.archlinux.org/pkgbase/python-wiringpi-git)|PUBLISHED||[3136026813](https://github.com/arch4edu/cactus/actions/runs/3136026813)|<script type="text/javascript">localize(1664304755);</script>|
 |aarch64|[aarch64/qgroundcontrol](https://aur.archlinux.org/pkgbase/qgroundcontrol)|PUBLISHED||[3353861759](https://github.com/arch4edu/cactus/actions/runs/3353861759)|<script type="text/javascript">localize(1667112049);</script>|
