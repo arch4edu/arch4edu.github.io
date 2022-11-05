@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667655155.7517216);</script>
+Last update: <script type="text/javascript">localize(1667675922.793547);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -22,7 +22,7 @@ Last update: <script type="text/javascript">localize(1667655155.7517216);</scrip
 |aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|FAILED|Build failed.|[3400200413](https://github.com/arch4edu/cactus/actions/runs/3400200413)|<script type="text/javascript">localize(1667653966);</script>|
 |aarch64|[aarch64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|PUBLISHED||[2648213752](https://github.com/arch4edu/cactus/actions/runs/2648213752)|<script type="text/javascript">localize(1657528564);</script>|
 |aarch64|[aarch64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|PUBLISHED||[3143801197](https://github.com/arch4edu/cactus/actions/runs/3143801197)|<script type="text/javascript">localize(1664391030);</script>|
-|aarch64|[aarch64/netron](https://aur.archlinux.org/pkgbase/netron)|BUILT||[3400166923](https://github.com/arch4edu/cactus/actions/runs/3400166923)|<script type="text/javascript">localize(1667653660);</script>|
+|aarch64|[aarch64/netron](https://aur.archlinux.org/pkgbase/netron)|PUBLISHED||[3400166923](https://github.com/arch4edu/cactus/actions/runs/3400166923)|<script type="text/javascript">localize(1667673689);</script>|
 |aarch64|[aarch64/nni](https://aur.archlinux.org/pkgbase/nni)|PUBLISHED||[3148402045](https://github.com/arch4edu/cactus/actions/runs/3148402045)|<script type="text/javascript">localize(1664435246);</script>|
 |aarch64|[aarch64/octopi](https://aur.archlinux.org/pkgbase/octopi)|PUBLISHED||[3202000845](https://github.com/arch4edu/cactus/actions/runs/3202000845)|<script type="text/javascript">localize(1665125628);</script>|
 |aarch64|[aarch64/pacman-static](https://aur.archlinux.org/pkgbase/pacman-static)|PUBLISHED||[3259578066](https://github.com/arch4edu/cactus/actions/runs/3259578066)|<script type="text/javascript">localize(1665945901);</script>|
@@ -342,7 +342,7 @@ Last update: <script type="text/javascript">localize(1667655155.7517216);</scrip
 |x86_64|[x86_64/ncl](https://aur.archlinux.org/pkgbase/ncl)|PUBLISHED||[2648978220](https://github.com/arch4edu/cactus/actions/runs/2648978220)|<script type="text/javascript">localize(1657538837);</script>|
 |x86_64|[x86_64/ncurses5-compat-libs](https://aur.archlinux.org/pkgbase/ncurses5-compat-libs)|PUBLISHED||[2647862465](https://github.com/arch4edu/cactus/actions/runs/2647862465)|<script type="text/javascript">localize(1657525836);</script>|
 |x86_64|[x86_64/ncview](https://aur.archlinux.org/pkgbase/ncview)|PUBLISHED||[2648832431](https://github.com/arch4edu/cactus/actions/runs/2648832431)|<script type="text/javascript">localize(1657535814);</script>|
-|x86_64|[x86_64/netron](https://aur.archlinux.org/pkgbase/netron)|BUILT||[3400166862](https://github.com/arch4edu/cactus/actions/runs/3400166862)|<script type="text/javascript">localize(1667653525);</script>|
+|x86_64|[x86_64/netron](https://aur.archlinux.org/pkgbase/netron)|PUBLISHED||[3400166862](https://github.com/arch4edu/cactus/actions/runs/3400166862)|<script type="text/javascript">localize(1667674043);</script>|
 |x86_64|[x86_64/nkf](https://aur.archlinux.org/pkgbase/nkf)|PUBLISHED||[2648523202](https://github.com/arch4edu/cactus/actions/runs/2648523202)|<script type="text/javascript">localize(1657532118);</script>|
 |x86_64|[x86_64/nni](https://aur.archlinux.org/pkgbase/nni)|PUBLISHED||[3135953193](https://github.com/arch4edu/cactus/actions/runs/3135953193)|<script type="text/javascript">localize(1664304857);</script>|
 |x86_64|[x86_64/nomachine](https://aur.archlinux.org/pkgbase/nomachine)|PUBLISHED||[3164678919](https://github.com/arch4edu/cactus/actions/runs/3164678919)|<script type="text/javascript">localize(1664649980);</script>|
