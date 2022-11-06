@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667719281.7209482);</script>
+Last update: <script type="text/javascript">localize(1667738511.2371185);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -759,7 +759,7 @@ Last update: <script type="text/javascript">localize(1667719281.7209482);</scrip
 |x86_64/r|[x86_64/r/r-rcolorbrewer](https://aur.archlinux.org/pkgbase/r-rcolorbrewer)|PUBLISHED||[2703395706](https://github.com/arch4edu/cactus/actions/runs/2703395706)|<script type="text/javascript">localize(1658310209);</script>|
 |x86_64/r|[x86_64/r/r-rcpp](https://aur.archlinux.org/pkgbase/r-rcpp)|PUBLISHED||[2703234842](https://github.com/arch4edu/cactus/actions/runs/2703234842)|<script type="text/javascript">localize(1658306515);</script>|
 |x86_64/r|[x86_64/r/r-rcpparmadillo](https://aur.archlinux.org/pkgbase/r-rcpparmadillo)|PUBLISHED||[3273901735](https://github.com/arch4edu/cactus/actions/runs/3273901735)|<script type="text/javascript">localize(1666120458);</script>|
-|x86_64/r|[x86_64/r/r-rcppeigen](https://aur.archlinux.org/pkgbase/r-rcppeigen)|FAILED|Build failed.|[3402599671](https://github.com/arch4edu/cactus/actions/runs/3402599671)|<script type="text/javascript">localize(1667702468);</script>|
+|x86_64/r|[x86_64/r/r-rcppeigen](https://aur.archlinux.org/pkgbase/r-rcppeigen)|BUILT||[3402599671](https://github.com/arch4edu/cactus/actions/runs/3402599671)|<script type="text/javascript">localize(1667735578);</script>|
 |x86_64/r|[x86_64/r/r-rcppparallel](https://aur.archlinux.org/pkgbase/r-rcppparallel)|PUBLISHED||[2703356388](https://github.com/arch4edu/cactus/actions/runs/2703356388)|<script type="text/javascript">localize(1658310236);</script>|
 |x86_64/r|[x86_64/r/r-rcsdp](https://aur.archlinux.org/pkgbase/r-rcsdp)|PUBLISHED||[2703602255](https://github.com/arch4edu/cactus/actions/runs/2703602255)|<script type="text/javascript">localize(1658310248);</script>|
 |x86_64/r|[x86_64/r/r-rdpack](https://aur.archlinux.org/pkgbase/r-rdpack)|PUBLISHED||[3273945951](https://github.com/arch4edu/cactus/actions/runs/3273945951)|<script type="text/javascript">localize(1666120486);</script>|
