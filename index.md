@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667799087.8393352);</script>
+Last update: <script type="text/javascript">localize(1667805746.8214707);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -267,7 +267,7 @@ Last update: <script type="text/javascript">localize(1667799087.8393352);</scrip
 |x86_64|[x86_64/github-actions-bin](https://aur.archlinux.org/pkgbase/github-actions-bin)|PUBLISHED||[3385941320](https://github.com/arch4edu/cactus/actions/runs/3385941320)|<script type="text/javascript">localize(1667502043);</script>|
 |x86_64|[x86_64/giza-pp-git](https://aur.archlinux.org/pkgbase/giza-pp-git)|PUBLISHED||[2648005633](https://github.com/arch4edu/cactus/actions/runs/2648005633)|<script type="text/javascript">localize(1657529171);</script>|
 |x86_64|[x86_64/glew-egl-glx](https://aur.archlinux.org/pkgbase/glew-egl-glx)|PUBLISHED||[2815876239](https://github.com/arch4edu/cactus/actions/runs/2815876239)|<script type="text/javascript">localize(1660001337);</script>|
-|x86_64|[x86_64/gmsh](https://aur.archlinux.org/pkgbase/gmsh)|BUILT||[3407117083](https://github.com/arch4edu/cactus/actions/runs/3407117083)|<script type="text/javascript">localize(1667790343);</script>|
+|x86_64|[x86_64/gmsh](https://aur.archlinux.org/pkgbase/gmsh)|PUBLISHED||[3407117083](https://github.com/arch4edu/cactus/actions/runs/3407117083)|<script type="text/javascript">localize(1667803342);</script>|
 |x86_64|[x86_64/google-chrome](https://aur.archlinux.org/pkgbase/google-chrome)|PUBLISHED||[3342441866](https://github.com/arch4edu/cactus/actions/runs/3342441866)|<script type="text/javascript">localize(1666939460);</script>|
 |x86_64|[x86_64/grass](https://aur.archlinux.org/pkgbase/grass)|PUBLISHED||[3182411471](https://github.com/arch4edu/cactus/actions/runs/3182411471)|<script type="text/javascript">localize(1664909633);</script>|
 |x86_64|[x86_64/gtsam](https://aur.archlinux.org/pkgbase/gtsam)|PUBLISHED||[3367094255](https://github.com/arch4edu/cactus/actions/runs/3367094255)|<script type="text/javascript">localize(1667285440);</script>|
@@ -567,7 +567,7 @@ Last update: <script type="text/javascript">localize(1667799087.8393352);</scrip
 |x86_64/r|[x86_64/r/r-ggplot2](https://aur.archlinux.org/pkgbase/r-ggplot2)|PUBLISHED||[3402599774](https://github.com/arch4edu/cactus/actions/runs/3402599774)|<script type="text/javascript">localize(1667716878);</script>|
 |x86_64/r|[x86_64/r/r-ggpol](https://aur.archlinux.org/pkgbase/r-ggpol)|PUBLISHED||[2720718382](https://github.com/arch4edu/cactus/actions/runs/2720718382)|<script type="text/javascript">localize(1658521860);</script>|
 |x86_64/r|[x86_64/r/r-ggpp](https://aur.archlinux.org/pkgbase/r-ggpp)|PUBLISHED||[3274074941](https://github.com/arch4edu/cactus/actions/runs/3274074941)|<script type="text/javascript">localize(1666119966);</script>|
-|x86_64/r|[x86_64/r/r-ggrepel](https://aur.archlinux.org/pkgbase/r-ggrepel)|BUILT||[3407117177](https://github.com/arch4edu/cactus/actions/runs/3407117177)|<script type="text/javascript">localize(1667798225);</script>|
+|x86_64/r|[x86_64/r/r-ggrepel](https://aur.archlinux.org/pkgbase/r-ggrepel)|PUBLISHED||[3407117177](https://github.com/arch4edu/cactus/actions/runs/3407117177)|<script type="text/javascript">localize(1667803362);</script>|
 |x86_64/r|[x86_64/r/r-ggridges](https://aur.archlinux.org/pkgbase/r-ggridges)|PUBLISHED||[3128065500](https://github.com/arch4edu/cactus/actions/runs/3128065500)|<script type="text/javascript">localize(1664218042);</script>|
 |x86_64/r|[x86_64/r/r-ggsci](https://aur.archlinux.org/pkgbase/r-ggsci)|PUBLISHED||[3274034625](https://github.com/arch4edu/cactus/actions/runs/3274034625)|<script type="text/javascript">localize(1666119995);</script>|
 |x86_64/r|[x86_64/r/r-glasso](https://aur.archlinux.org/pkgbase/r-glasso)|PUBLISHED||[2703191982](https://github.com/arch4edu/cactus/actions/runs/2703191982)|<script type="text/javascript">localize(1658306241);</script>|
