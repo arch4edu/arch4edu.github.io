@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667932493.825091);</script>
+Last update: <script type="text/javascript">localize(1667935715.526954);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -397,7 +397,7 @@ Last update: <script type="text/javascript">localize(1667932493.825091);</script
 |x86_64|[x86_64/python-fastrlock](https://aur.archlinux.org/pkgbase/python-fastrlock)|PUBLISHED||[3410611627](https://github.com/arch4edu/cactus/actions/runs/3410611627)|<script type="text/javascript">localize(1667846364);</script>|
 |x86_64|[x86_64/python-fenics-basix](https://aur.archlinux.org/pkgbase/python-fenics-basix)|FAILED|Build failed.|[3415901256](https://github.com/arch4edu/cactus/actions/runs/3415901256)|<script type="text/javascript">localize(1667875450);</script>|
 |x86_64|[x86_64/python-fenics-dolfinx](https://aur.archlinux.org/pkgbase/python-fenics-dolfinx)|PUBLISHED||[3345732466](https://github.com/arch4edu/cactus/actions/runs/3345732466)|<script type="text/javascript">localize(1666982692);</script>|
-|x86_64|[x86_64/python-fenics-ffcx](https://aur.archlinux.org/pkgbase/python-fenics-ffcx)|STALED|Waiting for dependency: x86_64/python-fenics-basix.|[3087238558](https://github.com/arch4edu/cactus/actions/runs/3087238558)|<script type="text/javascript">localize(1667932455);</script>|
+|x86_64|[x86_64/python-fenics-ffcx](https://aur.archlinux.org/pkgbase/python-fenics-ffcx)|STALED|Waiting for dependency: x86_64/python-fenics-basix.|[3087238558](https://github.com/arch4edu/cactus/actions/runs/3087238558)|<script type="text/javascript">localize(1667935571);</script>|
 |x86_64|[x86_64/python-fenics-ufl](https://aur.archlinux.org/pkgbase/python-fenics-ufl)|PUBLISHED||[3415858564](https://github.com/arch4edu/cactus/actions/runs/3415858564)|<script type="text/javascript">localize(1667889841);</script>|
 |x86_64|[x86_64/python-gensim](https://aur.archlinux.org/pkgbase/python-gensim)|PUBLISHED||[2648738470](https://github.com/arch4edu/cactus/actions/runs/2648738470)|<script type="text/javascript">localize(1657535890);</script>|
 |x86_64|[x86_64/python-ibm-cloud-sdk-core](https://aur.archlinux.org/pkgbase/python-ibm-cloud-sdk-core)|PUBLISHED||[3156967422](https://github.com/arch4edu/cactus/actions/runs/3156967422)|<script type="text/javascript">localize(1664563757);</script>|
@@ -907,7 +907,7 @@ Last update: <script type="text/javascript">localize(1667932493.825091);</script
 |x86_64/rocm|[x86_64/rocm/rocsparse](https://aur.archlinux.org/pkgbase/rocsparse)|PUBLISHED||[3231774209](https://github.com/arch4edu/cactus/actions/runs/3231774209)|<script type="text/javascript">localize(1665557797);</script>|
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[3231774285](https://github.com/arch4edu/cactus/actions/runs/3231774285)|<script type="text/javascript">localize(1665557808);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[3262153704](https://github.com/arch4edu/cactus/actions/runs/3262153704)|<script type="text/javascript">localize(1665988291);</script>|
-|x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|BUILT||[3410665449](https://github.com/arch4edu/cactus/actions/runs/3410665449)|<script type="text/javascript">localize(1667898613);</script>|
+|x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|PUBLISHED||[3410665449](https://github.com/arch4edu/cactus/actions/runs/3410665449)|<script type="text/javascript">localize(1667933499);</script>|
 |x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[3418033253](https://github.com/arch4edu/cactus/actions/runs/3418033253)|<script type="text/javascript">localize(1667902816);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl](https://aur.archlinux.org/pkgbase/orocos-kdl)|PUBLISHED||[2962941130](https://github.com/arch4edu/cactus/actions/runs/2962941130)|<script type="text/javascript">localize(1661971407);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl-python](https://aur.archlinux.org/pkgbase/orocos-kdl-python)|PUBLISHED||[2962989020](https://github.com/arch4edu/cactus/actions/runs/2962989020)|<script type="text/javascript">localize(1661971419);</script>|
@@ -1225,7 +1225,7 @@ Last update: <script type="text/javascript">localize(1667932493.825091);</script
 |x86_64|[x86_64/xtensor](https://aur.archlinux.org/pkgbase/xtensor)|PUBLISHED||[3087180315](https://github.com/arch4edu/cactus/actions/runs/3087180315)|<script type="text/javascript">localize(1663657363);</script>|
 |x86_64|[x86_64/xtl](https://aur.archlinux.org/pkgbase/xtl)|PUBLISHED||[3087163047](https://github.com/arch4edu/cactus/actions/runs/3087163047)|<script type="text/javascript">localize(1663657377);</script>|
 |x86_64|[x86_64/yay](https://aur.archlinux.org/pkgbase/yay)|PUBLISHED||[2858143242](https://github.com/arch4edu/cactus/actions/runs/2858143242)|<script type="text/javascript">localize(1660589024);</script>|
-|x86_64|[x86_64/zoom](https://aur.archlinux.org/pkgbase/zoom)|BUILT||[3419697465](https://github.com/arch4edu/cactus/actions/runs/3419697465)|<script type="text/javascript">localize(1667913511);</script>|
+|x86_64|[x86_64/zoom](https://aur.archlinux.org/pkgbase/zoom)|PUBLISHED||[3419697465](https://github.com/arch4edu/cactus/actions/runs/3419697465)|<script type="text/javascript">localize(1667933552);</script>|
 |x86_64|[x86_64/zotero](https://aur.archlinux.org/pkgbase/zotero)|FAILED|Build failed.|[3415858463](https://github.com/arch4edu/cactus/actions/runs/3415858463)|<script type="text/javascript">localize(1667875028);</script>|
 |x86_64|[x86_64/zotero-bin](https://aur.archlinux.org/pkgbase/zotero-bin)|PUBLISHED||[3374500844](https://github.com/arch4edu/cactus/actions/runs/3374500844)|<script type="text/javascript">localize(1667371762);</script>|
 
