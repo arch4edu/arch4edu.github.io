@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1667978553.3149917);</script>
+Last update: <script type="text/javascript">localize(1667982711.6093612);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -397,7 +397,7 @@ Last update: <script type="text/javascript">localize(1667978553.3149917);</scrip
 |x86_64|[x86_64/python-fastrlock](https://aur.archlinux.org/pkgbase/python-fastrlock)|PUBLISHED||[3410611627](https://github.com/arch4edu/cactus/actions/runs/3410611627)|<script type="text/javascript">localize(1667846364);</script>|
 |x86_64|[x86_64/python-fenics-basix](https://aur.archlinux.org/pkgbase/python-fenics-basix)|FAILED|Build failed.|[3415901256](https://github.com/arch4edu/cactus/actions/runs/3415901256)|<script type="text/javascript">localize(1667875450);</script>|
 |x86_64|[x86_64/python-fenics-dolfinx](https://aur.archlinux.org/pkgbase/python-fenics-dolfinx)|PUBLISHED||[3345732466](https://github.com/arch4edu/cactus/actions/runs/3345732466)|<script type="text/javascript">localize(1666982692);</script>|
-|x86_64|[x86_64/python-fenics-ffcx](https://aur.archlinux.org/pkgbase/python-fenics-ffcx)|STALED|Waiting for dependency: x86_64/python-fenics-basix.|[3087238558](https://github.com/arch4edu/cactus/actions/runs/3087238558)|<script type="text/javascript">localize(1667978373);</script>|
+|x86_64|[x86_64/python-fenics-ffcx](https://aur.archlinux.org/pkgbase/python-fenics-ffcx)|STALED|Waiting for dependency: x86_64/python-fenics-basix.|[3087238558](https://github.com/arch4edu/cactus/actions/runs/3087238558)|<script type="text/javascript">localize(1667982402);</script>|
 |x86_64|[x86_64/python-fenics-ufl](https://aur.archlinux.org/pkgbase/python-fenics-ufl)|PUBLISHED||[3415858564](https://github.com/arch4edu/cactus/actions/runs/3415858564)|<script type="text/javascript">localize(1667889841);</script>|
 |x86_64|[x86_64/python-gensim](https://aur.archlinux.org/pkgbase/python-gensim)|PUBLISHED||[2648738470](https://github.com/arch4edu/cactus/actions/runs/2648738470)|<script type="text/javascript">localize(1657535890);</script>|
 |x86_64|[x86_64/python-ibm-cloud-sdk-core](https://aur.archlinux.org/pkgbase/python-ibm-cloud-sdk-core)|PUBLISHED||[3156967422](https://github.com/arch4edu/cactus/actions/runs/3156967422)|<script type="text/javascript">localize(1664563757);</script>|
