@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1668064929.8603382);</script>
+Last update: <script type="text/javascript">localize(1668088481.6607196);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -25,7 +25,7 @@ Last update: <script type="text/javascript">localize(1668064929.8603382);</scrip
 |aarch64|[aarch64/netron](https://aur.archlinux.org/pkgbase/netron)|PUBLISHED||[3400166923](https://github.com/arch4edu/cactus/actions/runs/3400166923)|<script type="text/javascript">localize(1667673689);</script>|
 |aarch64|[aarch64/nni](https://aur.archlinux.org/pkgbase/nni)|PUBLISHED||[3148402045](https://github.com/arch4edu/cactus/actions/runs/3148402045)|<script type="text/javascript">localize(1664435246);</script>|
 |aarch64|[aarch64/octopi](https://aur.archlinux.org/pkgbase/octopi)|PUBLISHED||[3424903617](https://github.com/arch4edu/cactus/actions/runs/3424903617)|<script type="text/javascript">localize(1667976470);</script>|
-|aarch64|[aarch64/pacman-static](https://aur.archlinux.org/pkgbase/pacman-static)|PUBLISHED||[3259578066](https://github.com/arch4edu/cactus/actions/runs/3259578066)|<script type="text/javascript">localize(1665945901);</script>|
+|aarch64|[aarch64/pacman-static](https://aur.archlinux.org/pkgbase/pacman-static)|BUILT||[3437086714](https://github.com/arch4edu/cactus/actions/runs/3437086714)|<script type="text/javascript">localize(1668086794);</script>|
 |aarch64|[aarch64/paru](https://aur.archlinux.org/pkgbase/paru)|PUBLISHED||[2686509289](https://github.com/arch4edu/cactus/actions/runs/2686509289)|<script type="text/javascript">localize(1658085645);</script>|
 |aarch64|[aarch64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|PUBLISHED||[3224259445](https://github.com/arch4edu/cactus/actions/runs/3224259445)|<script type="text/javascript">localize(1665471737);</script>|
 |aarch64|[aarch64/pigpio](https://aur.archlinux.org/pkgbase/pigpio)|PUBLISHED||[2648274215](https://github.com/arch4edu/cactus/actions/runs/2648274215)|<script type="text/javascript">localize(1657528573);</script>|
@@ -95,7 +95,7 @@ Last update: <script type="text/javascript">localize(1668064929.8603382);</scrip
 |any|[any/octave-signal](https://aur.archlinux.org/pkgbase/octave-signal)|PUBLISHED||[3351525370](https://github.com/arch4edu/cactus/actions/runs/3351525370)|<script type="text/javascript">localize(1667068804);</script>|
 |any|[any/octave-statistics](https://aur.archlinux.org/pkgbase/octave-statistics)|PUBLISHED||[3415858846](https://github.com/arch4edu/cactus/actions/runs/3415858846)|<script type="text/javascript">localize(1667889784);</script>|
 |any|[any/openfoam-selector](https://aur.archlinux.org/pkgbase/openfoam-selector)|PUBLISHED||[2647751811](https://github.com/arch4edu/cactus/actions/runs/2647751811)|<script type="text/javascript">localize(1657524902);</script>|
-|any|[any/opengrok](https://aur.archlinux.org/pkgbase/opengrok)|FAILED|Build failed.|[3424903451](https://github.com/arch4edu/cactus/actions/runs/3424903451)|<script type="text/javascript">localize(1667962099);</script>|
+|any|[any/opengrok](https://aur.archlinux.org/pkgbase/opengrok)|FAILED|Build failed.|[3437086627](https://github.com/arch4edu/cactus/actions/runs/3437086627)|<script type="text/javascript">localize(1668086201);</script>|
 |any|[any/panoply](https://aur.archlinux.org/pkgbase/panoply)|PUBLISHED||[3358235572](https://github.com/arch4edu/cactus/actions/runs/3358235572)|<script type="text/javascript">localize(1667198736);</script>|
 |any|[any/pi-hole-server](https://aur.archlinux.org/pkgbase/pi-hole-server)|PUBLISHED||[3224278591](https://github.com/arch4edu/cactus/actions/runs/3224278591)|<script type="text/javascript">localize(1665473395);</script>|
 |any|[any/pi-hole-standalone](https://aur.archlinux.org/pkgbase/pi-hole-standalone)|PUBLISHED||[3224278535](https://github.com/arch4edu/cactus/actions/runs/3224278535)|<script type="text/javascript">localize(1665473411);</script>|
@@ -182,7 +182,7 @@ Last update: <script type="text/javascript">localize(1668064929.8603382);</scrip
 |any|[any/xalan-java](https://aur.archlinux.org/pkgbase/xalan-java)|PUBLISHED||[2649060947](https://github.com/arch4edu/cactus/actions/runs/2649060947)|<script type="text/javascript">localize(1657538523);</script>|
 |any|[any/xerces2-java](https://aur.archlinux.org/pkgbase/xerces2-java)|PUBLISHED||[2648701221](https://github.com/arch4edu/cactus/actions/runs/2648701221)|<script type="text/javascript">localize(1657535602);</script>|
 |any|[any/ycm-generator-git](https://aur.archlinux.org/pkgbase/ycm-generator-git)|PUBLISHED||[2647726165](https://github.com/arch4edu/cactus/actions/runs/2647726165)|<script type="text/javascript">localize(1657525700);</script>|
-|x86_64|[x86_64/abinit](https://aur.archlinux.org/pkgbase/abinit)|FAILED|Build failed.|[3424903515](https://github.com/arch4edu/cactus/actions/runs/3424903515)|<script type="text/javascript">localize(1667962135);</script>|
+|x86_64|[x86_64/abinit](https://aur.archlinux.org/pkgbase/abinit)|FAILED|Build failed.|[3437086799](https://github.com/arch4edu/cactus/actions/runs/3437086799)|<script type="text/javascript">localize(1668086258);</script>|
 |x86_64|[x86_64/act](https://aur.archlinux.org/pkgbase/act)|PUBLISHED||[3415858597](https://github.com/arch4edu/cactus/actions/runs/3415858597)|<script type="text/javascript">localize(1667889798);</script>|
 |x86_64|[x86_64/adms](https://aur.archlinux.org/pkgbase/adms)|PUBLISHED||[2647948312](https://github.com/arch4edu/cactus/actions/runs/2647948312)|<script type="text/javascript">localize(1657528639);</script>|
 |x86_64|[x86_64/alice-vision](https://aur.archlinux.org/pkgbase/alice-vision)|PUBLISHED||[3150313458](https://github.com/arch4edu/cactus/actions/runs/3150313458)|<script type="text/javascript">localize(1664477411);</script>|
@@ -371,7 +371,7 @@ Last update: <script type="text/javascript">localize(1668064929.8603382);</scrip
 |x86_64|[x86_64/oracle-instantclient-sqlplus](https://aur.archlinux.org/pkgbase/oracle-instantclient-sqlplus)|PUBLISHED||[2997291221](https://github.com/arch4edu/cactus/actions/runs/2997291221)|<script type="text/javascript">localize(1662448446);</script>|
 |x86_64|[x86_64/oracle-instantclient-tools](https://aur.archlinux.org/pkgbase/oracle-instantclient-tools)|PUBLISHED||[2997291280](https://github.com/arch4edu/cactus/actions/runs/2997291280)|<script type="text/javascript">localize(1662448458);</script>|
 |x86_64|[x86_64/oracle-xe](https://aur.archlinux.org/pkgbase/oracle-xe)|PUBLISHED||[2647948545](https://github.com/arch4edu/cactus/actions/runs/2647948545)|<script type="text/javascript">localize(1657530183);</script>|
-|x86_64|[x86_64/pacman-static](https://aur.archlinux.org/pkgbase/pacman-static)|PUBLISHED||[3259578037](https://github.com/arch4edu/cactus/actions/runs/3259578037)|<script type="text/javascript">localize(1665945914);</script>|
+|x86_64|[x86_64/pacman-static](https://aur.archlinux.org/pkgbase/pacman-static)|BUILT||[3437086437](https://github.com/arch4edu/cactus/actions/runs/3437086437)|<script type="text/javascript">localize(1668086907);</script>|
 |x86_64|[x86_64/pagmo](https://aur.archlinux.org/pkgbase/pagmo)|PUBLISHED||[3376119030](https://github.com/arch4edu/cactus/actions/runs/3376119030)|<script type="text/javascript">localize(1667414562);</script>|
 |x86_64|[x86_64/parmetis](https://aur.archlinux.org/pkgbase/parmetis)|PUBLISHED||[2750930850](https://github.com/arch4edu/cactus/actions/runs/2750930850)|<script type="text/javascript">localize(1658981183);</script>|
 |x86_64|[x86_64/paru](https://aur.archlinux.org/pkgbase/paru)|PUBLISHED||[2686509126](https://github.com/arch4edu/cactus/actions/runs/2686509126)|<script type="text/javascript">localize(1658085696);</script>|
@@ -1185,7 +1185,7 @@ Last update: <script type="text/javascript">localize(1668064929.8603382);</scrip
 |x86_64|[x86_64/saxon-he](https://aur.archlinux.org/pkgbase/saxon-he)|PUBLISHED||[2896919768](https://github.com/arch4edu/cactus/actions/runs/2896919768)|<script type="text/javascript">localize(1661064186);</script>|
 |x86_64|[x86_64/sc-im](https://aur.archlinux.org/pkgbase/sc-im)|PUBLISHED||[2648586212](https://github.com/arch4edu/cactus/actions/runs/2648586212)|<script type="text/javascript">localize(1657536248);</script>|
 |x86_64|[x86_64/scalapack](https://aur.archlinux.org/pkgbase/scalapack)|PUBLISHED||[2648363630](https://github.com/arch4edu/cactus/actions/runs/2648363630)|<script type="text/javascript">localize(1657532252);</script>|
-|x86_64|[x86_64/scilab](https://aur.archlinux.org/pkgbase/scilab)|FAILED|Build failed.|[3424903649](https://github.com/arch4edu/cactus/actions/runs/3424903649)|<script type="text/javascript">localize(1667962623);</script>|
+|x86_64|[x86_64/scilab](https://aur.archlinux.org/pkgbase/scilab)|FAILED|Build failed.|[3437086880](https://github.com/arch4edu/cactus/actions/runs/3437086880)|<script type="text/javascript">localize(1668086353);</script>|
 |x86_64|[x86_64/scilab-bin](https://aur.archlinux.org/pkgbase/scilab-bin)|PUBLISHED||[2648738517](https://github.com/arch4edu/cactus/actions/runs/2648738517)|<script type="text/javascript">localize(1657536280);</script>|
 |x86_64|[x86_64/scotch](https://aur.archlinux.org/pkgbase/scotch)|PUBLISHED||[2648303806](https://github.com/arch4edu/cactus/actions/runs/2648303806)|<script type="text/javascript">localize(1657532262);</script>|
 |x86_64|[x86_64/sdformat-9](https://aur.archlinux.org/pkgbase/sdformat-9)|PUBLISHED||[2963031791](https://github.com/arch4edu/cactus/actions/runs/2963031791)|<script type="text/javascript">localize(1661973623);</script>|
@@ -1227,7 +1227,7 @@ Last update: <script type="text/javascript">localize(1668064929.8603382);</scrip
 |x86_64|[x86_64/xtl](https://aur.archlinux.org/pkgbase/xtl)|PUBLISHED||[3087163047](https://github.com/arch4edu/cactus/actions/runs/3087163047)|<script type="text/javascript">localize(1663657377);</script>|
 |x86_64|[x86_64/yay](https://aur.archlinux.org/pkgbase/yay)|PUBLISHED||[2858143242](https://github.com/arch4edu/cactus/actions/runs/2858143242)|<script type="text/javascript">localize(1660589024);</script>|
 |x86_64|[x86_64/zoom](https://aur.archlinux.org/pkgbase/zoom)|PUBLISHED||[3419697465](https://github.com/arch4edu/cactus/actions/runs/3419697465)|<script type="text/javascript">localize(1667933552);</script>|
-|x86_64|[x86_64/zotero](https://aur.archlinux.org/pkgbase/zotero)|FAILED|Build failed.|[3424903179](https://github.com/arch4edu/cactus/actions/runs/3424903179)|<script type="text/javascript">localize(1667962281);</script>|
+|x86_64|[x86_64/zotero](https://aur.archlinux.org/pkgbase/zotero)|BUILT||[3437086498](https://github.com/arch4edu/cactus/actions/runs/3437086498)|<script type="text/javascript">localize(1668086492);</script>|
 |x86_64|[x86_64/zotero-bin](https://aur.archlinux.org/pkgbase/zotero-bin)|PUBLISHED||[3433522416](https://github.com/arch4edu/cactus/actions/runs/3433522416)|<script type="text/javascript">localize(1668062556);</script>|
 
 <script src="./tablefilter/tablefilter.js"></script>
