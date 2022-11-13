@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1668310600.1353066);</script>
+Last update: <script type="text/javascript">localize(1668324083.259036);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -721,7 +721,7 @@ Last update: <script type="text/javascript">localize(1668310600.1353066);</scrip
 |x86_64/r|[x86_64/r/r-pkgconfig](https://aur.archlinux.org/pkgbase/r-pkgconfig)|PUBLISHED||[3273811414](https://github.com/arch4edu/cactus/actions/runs/3273811414)|<script type="text/javascript">localize(1666120281);</script>|
 |x86_64/r|[x86_64/r/r-pkgload](https://aur.archlinux.org/pkgbase/r-pkgload)|PUBLISHED||[3374501139](https://github.com/arch4edu/cactus/actions/runs/3374501139)|<script type="text/javascript">localize(1667371704);</script>|
 |x86_64/r|[x86_64/r/r-plotrix](https://aur.archlinux.org/pkgbase/r-plotrix)|PUBLISHED||[3273856968](https://github.com/arch4edu/cactus/actions/runs/3273856968)|<script type="text/javascript">localize(1666120297);</script>|
-|x86_64/r|[x86_64/r/r-plyr](https://aur.archlinux.org/pkgbase/r-plyr)|BUILT||[3453487882](https://github.com/arch4edu/cactus/actions/runs/3453487882)|<script type="text/javascript">localize(1668306794);</script>|
+|x86_64/r|[x86_64/r/r-plyr](https://aur.archlinux.org/pkgbase/r-plyr)|PUBLISHED||[3453487882](https://github.com/arch4edu/cactus/actions/runs/3453487882)|<script type="text/javascript">localize(1668321505);</script>|
 |x86_64/r|[x86_64/r/r-png](https://aur.archlinux.org/pkgbase/r-png)|PUBLISHED||[2703272974](https://github.com/arch4edu/cactus/actions/runs/2703272974)|<script type="text/javascript">localize(1658306440);</script>|
 |x86_64/r|[x86_64/r/r-polynom](https://aur.archlinux.org/pkgbase/r-polynom)|PUBLISHED||[3273764718](https://github.com/arch4edu/cactus/actions/runs/3273764718)|<script type="text/javascript">localize(1666120315);</script>|
 |x86_64/r|[x86_64/r/r-posterior](https://aur.archlinux.org/pkgbase/r-posterior)|PUBLISHED||[3004927339](https://github.com/arch4edu/cactus/actions/runs/3004927339)|<script type="text/javascript">localize(1662534661);</script>|
