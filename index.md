@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1668346434.0943246);</script>
+Last update: <script type="text/javascript">localize(1668367115.7563047);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -344,7 +344,7 @@ Last update: <script type="text/javascript">localize(1668346434.0943246);</scrip
 |x86_64|[x86_64/netron](https://aur.archlinux.org/pkgbase/netron)|PUBLISHED||[3451028433](https://github.com/arch4edu/cactus/actions/runs/3451028433)|<script type="text/javascript">localize(1668278300);</script>|
 |x86_64|[x86_64/nkf](https://aur.archlinux.org/pkgbase/nkf)|PUBLISHED||[2648523202](https://github.com/arch4edu/cactus/actions/runs/2648523202)|<script type="text/javascript">localize(1657532118);</script>|
 |x86_64|[x86_64/nni](https://aur.archlinux.org/pkgbase/nni)|PUBLISHED||[3135953193](https://github.com/arch4edu/cactus/actions/runs/3135953193)|<script type="text/javascript">localize(1664304857);</script>|
-|x86_64|[x86_64/nomachine](https://aur.archlinux.org/pkgbase/nomachine)|BUILT||[3455358326](https://github.com/arch4edu/cactus/actions/runs/3455358326)|<script type="text/javascript">localize(1668344746);</script>|
+|x86_64|[x86_64/nomachine](https://aur.archlinux.org/pkgbase/nomachine)|PUBLISHED||[3455358326](https://github.com/arch4edu/cactus/actions/runs/3455358326)|<script type="text/javascript">localize(1668364652);</script>|
 |x86_64|[x86_64/nvidia-container-runtime](https://aur.archlinux.org/pkgbase/nvidia-container-runtime)|PUBLISHED||[3159298895](https://github.com/arch4edu/cactus/actions/runs/3159298895)|<script type="text/javascript">localize(1664563702);</script>|
 |x86_64|[x86_64/nvidia-container-toolkit](https://aur.archlinux.org/pkgbase/nvidia-container-toolkit)|PUBLISHED||[3159166615](https://github.com/arch4edu/cactus/actions/runs/3159166615)|<script type="text/javascript">localize(1664563714);</script>|
 |x86_64|[x86_64/nvidia-docker](https://aur.archlinux.org/pkgbase/nvidia-docker)|PUBLISHED||[3159332561](https://github.com/arch4edu/cactus/actions/runs/3159332561)|<script type="text/javascript">localize(1664563729);</script>|
@@ -1202,7 +1202,7 @@ Last update: <script type="text/javascript">localize(1668346434.0943246);</scrip
 |x86_64|[x86_64/stellarium](https://aur.archlinux.org/pkgbase/stellarium)|PUBLISHED||[3369746508](https://github.com/arch4edu/cactus/actions/runs/3369746508)|<script type="text/javascript">localize(1667328729);</script>|
 |x86_64|[x86_64/stepcode](https://aur.archlinux.org/pkgbase/stepcode)|PUBLISHED||[3201909235](https://github.com/arch4edu/cactus/actions/runs/3201909235)|<script type="text/javascript">localize(1665125792);</script>|
 |x86_64|[x86_64/sublime-text-dev](https://aur.archlinux.org/pkgbase/sublime-text-dev)|PUBLISHED||[3442049444](https://github.com/arch4edu/cactus/actions/runs/3442049444)|<script type="text/javascript">localize(1668149516);</script>|
-|x86_64|[x86_64/superlu_dist](https://aur.archlinux.org/pkgbase/superlu_dist)|BUILT||[3455358203](https://github.com/arch4edu/cactus/actions/runs/3455358203)|<script type="text/javascript">localize(1668344652);</script>|
+|x86_64|[x86_64/superlu_dist](https://aur.archlinux.org/pkgbase/superlu_dist)|PUBLISHED||[3455358203](https://github.com/arch4edu/cactus/actions/runs/3455358203)|<script type="text/javascript">localize(1668364666);</script>|
 |x86_64|[x86_64/teamviewer](https://aur.archlinux.org/pkgbase/teamviewer)|PUBLISHED||[3334081010](https://github.com/arch4edu/cactus/actions/runs/3334081010)|<script type="text/javascript">localize(1666853226);</script>|
 |x86_64|[x86_64/termcap](https://aur.archlinux.org/pkgbase/termcap)|PUBLISHED||[2648244059](https://github.com/arch4edu/cactus/actions/runs/2648244059)|<script type="text/javascript">localize(1657530398);</script>|
 |x86_64|[x86_64/timeshift](https://aur.archlinux.org/pkgbase/timeshift)|PUBLISHED||[3433522546](https://github.com/arch4edu/cactus/actions/runs/3433522546)|<script type="text/javascript">localize(1668062498);</script>|
