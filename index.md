@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1668410551.3101969);</script>
+Last update: <script type="text/javascript">localize(1668414752.7331395);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -889,7 +889,7 @@ Last update: <script type="text/javascript">localize(1668410551.3101969);</scrip
 |x86_64/rocm|[x86_64/rocm/rocm-core](https://aur.archlinux.org/pkgbase/rocm-core)|PUBLISHED||[3239403582](https://github.com/arch4edu/cactus/actions/runs/3239403582)|<script type="text/javascript">localize(1665644669);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-dbgapi](https://aur.archlinux.org/pkgbase/rocm-dbgapi)|PUBLISHED||[3256300431](https://github.com/arch4edu/cactus/actions/runs/3256300431)|<script type="text/javascript">localize(1665859657);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-debug-agent](https://aur.archlinux.org/pkgbase/rocm-debug-agent)|PUBLISHED||[3262153658](https://github.com/arch4edu/cactus/actions/runs/3262153658)|<script type="text/javascript">localize(1665988278);</script>|
-|x86_64/rocm|[x86_64/rocm/rocm-device-libs](https://aur.archlinux.org/pkgbase/rocm-device-libs)|STALED|Waiting for dependency: x86_64/rocm/rocm-cmake.|[3214827264](https://github.com/arch4edu/cactus/actions/runs/3214827264)|<script type="text/javascript">localize(1668410373);</script>|
+|x86_64/rocm|[x86_64/rocm/rocm-device-libs](https://aur.archlinux.org/pkgbase/rocm-device-libs)|STALED|Waiting for dependency: x86_64/rocm/rocm-cmake.|[3214827264](https://github.com/arch4edu/cactus/actions/runs/3214827264)|<script type="text/javascript">localize(1668414548);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-gdb](https://aur.archlinux.org/pkgbase/rocm-gdb)|PUBLISHED||[3259578315](https://github.com/arch4edu/cactus/actions/runs/3259578315)|<script type="text/javascript">localize(1665945970);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-hip-libraries](https://aur.archlinux.org/pkgbase/rocm-hip-libraries)|PUBLISHED||[3120733841](https://github.com/arch4edu/cactus/actions/runs/3120733841)|<script type="text/javascript">localize(1664088429);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-hip-runtime](https://aur.archlinux.org/pkgbase/rocm-hip-runtime)|PUBLISHED||[3239420476](https://github.com/arch4edu/cactus/actions/runs/3239420476)|<script type="text/javascript">localize(1665644681);</script>|
@@ -909,7 +909,7 @@ Last update: <script type="text/javascript">localize(1668410551.3101969);</scrip
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[3231774285](https://github.com/arch4edu/cactus/actions/runs/3231774285)|<script type="text/javascript">localize(1665557808);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[3262153704](https://github.com/arch4edu/cactus/actions/runs/3262153704)|<script type="text/javascript">localize(1665988291);</script>|
 |x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|PUBLISHED||[3410665449](https://github.com/arch4edu/cactus/actions/runs/3410665449)|<script type="text/javascript">localize(1667933499);</script>|
-|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|STALED|Waiting for dependency: x86_64/rocm/rocm-cmake.|[3451060495](https://github.com/arch4edu/cactus/actions/runs/3451060495)|<script type="text/javascript">localize(1668410369);</script>|
+|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|STALED|Waiting for dependency: x86_64/rocm/rocm-cmake.|[3451060495](https://github.com/arch4edu/cactus/actions/runs/3451060495)|<script type="text/javascript">localize(1668414542);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl](https://aur.archlinux.org/pkgbase/orocos-kdl)|PUBLISHED||[2962941130](https://github.com/arch4edu/cactus/actions/runs/2962941130)|<script type="text/javascript">localize(1661971407);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl-python](https://aur.archlinux.org/pkgbase/orocos-kdl-python)|PUBLISHED||[2962989020](https://github.com/arch4edu/cactus/actions/runs/2962989020)|<script type="text/javascript">localize(1661971419);</script>|
 |x86_64/ros|[x86_64/ros/ros-build-tools](https://aur.archlinux.org/pkgbase/ros-build-tools)|PUBLISHED||[2962941198](https://github.com/arch4edu/cactus/actions/runs/2962941198)|<script type="text/javascript">localize(1661971435);</script>|
