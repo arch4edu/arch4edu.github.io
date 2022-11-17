@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1668659283.3991988);</script>
+Last update: <script type="text/javascript">localize(1668662493.896279);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -467,7 +467,7 @@ Last update: <script type="text/javascript">localize(1668659283.3991988);</scrip
 |x86_64/r|[x86_64/r/r-base64enc](https://aur.archlinux.org/pkgbase/r-base64enc)|PUBLISHED||[2703601803](https://github.com/arch4edu/cactus/actions/runs/2703601803)|<script type="text/javascript">localize(1658309262);</script>|
 |x86_64/r|[x86_64/r/r-bayesfactor](https://aur.archlinux.org/pkgbase/r-bayesfactor)|PUBLISHED||[2739722029](https://github.com/arch4edu/cactus/actions/runs/2739722029)|<script type="text/javascript">localize(1658845450);</script>|
 |x86_64/r|[x86_64/r/r-bayesplay](https://aur.archlinux.org/pkgbase/r-bayesplay)|PUBLISHED||[2720744637](https://github.com/arch4edu/cactus/actions/runs/2720744637)|<script type="text/javascript">localize(1658521720);</script>|
-|x86_64/r|[x86_64/r/r-bayesplot](https://aur.archlinux.org/pkgbase/r-bayesplot)|FAILED|Build failed.|[3484811813](https://github.com/arch4edu/cactus/actions/runs/3484811813)|<script type="text/javascript">localize(1668652189);</script>|
+|x86_64/r|[x86_64/r/r-bayesplot](https://aur.archlinux.org/pkgbase/r-bayesplot)|BUILT||[3484811813](https://github.com/arch4edu/cactus/actions/runs/3484811813)|<script type="text/javascript">localize(1668660541);</script>|
 |x86_64/r|[x86_64/r/r-bayesrel](https://aur.archlinux.org/pkgbase/r-bayesrel)|PUBLISHED||[3329347230](https://github.com/arch4edu/cactus/actions/runs/3329347230)|<script type="text/javascript">localize(1666810365);</script>|
 |x86_64/r|[x86_64/r/r-bayestools](https://aur.archlinux.org/pkgbase/r-bayestools)|PUBLISHED||[3057561444](https://github.com/arch4edu/cactus/actions/runs/3057561444)|<script type="text/javascript">localize(1663225245);</script>|
 |x86_64/r|[x86_64/r/r-bh](https://aur.archlinux.org/pkgbase/r-bh)|PUBLISHED||[2703643446](https://github.com/arch4edu/cactus/actions/runs/2703643446)|<script type="text/javascript">localize(1658309277);</script>|
@@ -875,7 +875,7 @@ Last update: <script type="text/javascript">localize(1668659283.3991988);</scrip
 |x86_64/rocm|[x86_64/rocm/hipsolver](https://aur.archlinux.org/pkgbase/hipsolver)|PUBLISHED||[3254931077](https://github.com/arch4edu/cactus/actions/runs/3254931077)|<script type="text/javascript">localize(1665859622);</script>|
 |x86_64/rocm|[x86_64/rocm/hipsparse](https://aur.archlinux.org/pkgbase/hipsparse)|PUBLISHED||[3250241634](https://github.com/arch4edu/cactus/actions/runs/3250241634)|<script type="text/javascript">localize(1665773327);</script>|
 |x86_64/rocm|[x86_64/rocm/hsa-amd-aqlprofile-bin](https://aur.archlinux.org/pkgbase/hsa-amd-aqlprofile-bin)|PUBLISHED||[3239403602](https://github.com/arch4edu/cactus/actions/runs/3239403602)|<script type="text/javascript">localize(1665644615);</script>|
-|x86_64/rocm|[x86_64/rocm/hsa-rocr](https://aur.archlinux.org/pkgbase/hsa-rocr)|STALED|Waiting for dependency: x86_64/rocm/hsakmt-roct.|[3342442147](https://github.com/arch4edu/cactus/actions/runs/3342442147)|<script type="text/javascript">localize(1668658989);</script>|
+|x86_64/rocm|[x86_64/rocm/hsa-rocr](https://aur.archlinux.org/pkgbase/hsa-rocr)|STALED|Waiting for dependency: x86_64/rocm/hsakmt-roct.|[3342442147](https://github.com/arch4edu/cactus/actions/runs/3342442147)|<script type="text/javascript">localize(1668662204);</script>|
 |x86_64/rocm|[x86_64/rocm/hsakmt-roct](https://aur.archlinux.org/pkgbase/hsakmt-roct)|FAILED|Build failed.|[3484811705](https://github.com/arch4edu/cactus/actions/runs/3484811705)|<script type="text/javascript">localize(1668652093);</script>|
 |x86_64/rocm|[x86_64/rocm/migraphx](https://aur.archlinux.org/pkgbase/migraphx)|PUBLISHED||[3351525478](https://github.com/arch4edu/cactus/actions/runs/3351525478)|<script type="text/javascript">localize(1667068864);</script>|
 |x86_64/rocm|[x86_64/rocm/miopen-hip](https://aur.archlinux.org/pkgbase/miopen-hip)|PUBLISHED||[3254622321](https://github.com/arch4edu/cactus/actions/runs/3254622321)|<script type="text/javascript">localize(1665859646);</script>|
