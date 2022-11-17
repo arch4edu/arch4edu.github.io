@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1668662493.896279);</script>
+Last update: <script type="text/javascript">localize(1668666516.978642);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -186,7 +186,7 @@ Last update: <script type="text/javascript">localize(1668662493.896279);</script
 |x86_64|[x86_64/abinit](https://aur.archlinux.org/pkgbase/abinit)|FAILED|Build failed.|[3475857425](https://github.com/arch4edu/cactus/actions/runs/3475857425)|<script type="text/javascript">localize(1668566042);</script>|
 |x86_64|[x86_64/act](https://aur.archlinux.org/pkgbase/act)|PUBLISHED||[3415858597](https://github.com/arch4edu/cactus/actions/runs/3415858597)|<script type="text/javascript">localize(1667889798);</script>|
 |x86_64|[x86_64/adms](https://aur.archlinux.org/pkgbase/adms)|PUBLISHED||[2647948312](https://github.com/arch4edu/cactus/actions/runs/2647948312)|<script type="text/javascript">localize(1657528639);</script>|
-|x86_64|[x86_64/alice-vision](https://aur.archlinux.org/pkgbase/alice-vision)|PUBLISHED||[3150313458](https://github.com/arch4edu/cactus/actions/runs/3150313458)|<script type="text/javascript">localize(1664477411);</script>|
+|x86_64|[x86_64/alice-vision](https://aur.archlinux.org/pkgbase/alice-vision)|FAILED|Build failed.|[3485855235](https://github.com/arch4edu/cactus/actions/runs/3485855235)|<script type="text/javascript">localize(1668666203);</script>|
 |x86_64|[x86_64/alpm_octopi_utils](https://aur.archlinux.org/pkgbase/alpm_octopi_utils)|PUBLISHED||[2846907170](https://github.com/arch4edu/cactus/actions/runs/2846907170)|<script type="text/javascript">localize(1660346743);</script>|
 |x86_64|[x86_64/anaconda](https://aur.archlinux.org/pkgbase/anaconda)|PUBLISHED||[3273763788](https://github.com/arch4edu/cactus/actions/runs/3273763788)|<script type="text/javascript">localize(1666119673);</script>|
 |x86_64|[x86_64/android-emulator](https://aur.archlinux.org/pkgbase/android-emulator)|PUBLISHED||[3366505219](https://github.com/arch4edu/cactus/actions/runs/3366505219)|<script type="text/javascript">localize(1667285427);</script>|
@@ -211,7 +211,7 @@ Last update: <script type="text/javascript">localize(1668662493.896279);</script
 |x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|PUBLISHED||[3402599590](https://github.com/arch4edu/cactus/actions/runs/3402599590)|<script type="text/javascript">localize(1667846294);</script>|
 |x86_64|[x86_64/ceph-octopus](https://aur.archlinux.org/pkgbase/ceph-octopus)|PUBLISHED||[3104626260](https://github.com/arch4edu/cactus/actions/runs/3104626260)|<script type="text/javascript">localize(1663854273);</script>|
 |x86_64|[x86_64/ceph-pacific](https://aur.archlinux.org/pkgbase/ceph-pacific)|PUBLISHED||[3155390486](https://github.com/arch4edu/cactus/actions/runs/3155390486)|<script type="text/javascript">localize(1664521640);</script>|
-|x86_64|[x86_64/ceres-solver](https://aur.archlinux.org/pkgbase/ceres-solver)|PUBLISHED||[2709897472](https://github.com/arch4edu/cactus/actions/runs/2709897472)|<script type="text/javascript">localize(1658388264);</script>|
+|x86_64|[x86_64/ceres-solver](https://aur.archlinux.org/pkgbase/ceres-solver)|BUILT||[3485799007](https://github.com/arch4edu/cactus/actions/runs/3485799007)|<script type="text/javascript">localize(1668665660);</script>|
 |x86_64|[x86_64/charls](https://aur.archlinux.org/pkgbase/charls)|PUBLISHED||[2648304398](https://github.com/arch4edu/cactus/actions/runs/2648304398)|<script type="text/javascript">localize(1657531906);</script>|
 |x86_64|[x86_64/chromedriver](https://aur.archlinux.org/pkgbase/chromedriver)|PUBLISHED||[3325806728](https://github.com/arch4edu/cactus/actions/runs/3325806728)|<script type="text/javascript">localize(1666766829);</script>|
 |x86_64|[x86_64/cider](https://aur.archlinux.org/pkgbase/cider)|PUBLISHED||[3345698863](https://github.com/arch4edu/cactus/actions/runs/3345698863)|<script type="text/javascript">localize(1666982571);</script>|
@@ -875,8 +875,8 @@ Last update: <script type="text/javascript">localize(1668662493.896279);</script
 |x86_64/rocm|[x86_64/rocm/hipsolver](https://aur.archlinux.org/pkgbase/hipsolver)|PUBLISHED||[3254931077](https://github.com/arch4edu/cactus/actions/runs/3254931077)|<script type="text/javascript">localize(1665859622);</script>|
 |x86_64/rocm|[x86_64/rocm/hipsparse](https://aur.archlinux.org/pkgbase/hipsparse)|PUBLISHED||[3250241634](https://github.com/arch4edu/cactus/actions/runs/3250241634)|<script type="text/javascript">localize(1665773327);</script>|
 |x86_64/rocm|[x86_64/rocm/hsa-amd-aqlprofile-bin](https://aur.archlinux.org/pkgbase/hsa-amd-aqlprofile-bin)|PUBLISHED||[3239403602](https://github.com/arch4edu/cactus/actions/runs/3239403602)|<script type="text/javascript">localize(1665644615);</script>|
-|x86_64/rocm|[x86_64/rocm/hsa-rocr](https://aur.archlinux.org/pkgbase/hsa-rocr)|STALED|Waiting for dependency: x86_64/rocm/hsakmt-roct.|[3342442147](https://github.com/arch4edu/cactus/actions/runs/3342442147)|<script type="text/javascript">localize(1668662204);</script>|
-|x86_64/rocm|[x86_64/rocm/hsakmt-roct](https://aur.archlinux.org/pkgbase/hsakmt-roct)|FAILED|Build failed.|[3484811705](https://github.com/arch4edu/cactus/actions/runs/3484811705)|<script type="text/javascript">localize(1668652093);</script>|
+|x86_64/rocm|[x86_64/rocm/hsa-rocr](https://aur.archlinux.org/pkgbase/hsa-rocr)|BUILDING|GitHubActions|[3485912007](https://github.com/arch4edu/cactus/actions/runs/3485912007)|<script type="text/javascript">localize(1668666477);</script>|
+|x86_64/rocm|[x86_64/rocm/hsakmt-roct](https://aur.archlinux.org/pkgbase/hsakmt-roct)|BUILT||[3484811705](https://github.com/arch4edu/cactus/actions/runs/3484811705)|<script type="text/javascript">localize(1668666153);</script>|
 |x86_64/rocm|[x86_64/rocm/migraphx](https://aur.archlinux.org/pkgbase/migraphx)|PUBLISHED||[3351525478](https://github.com/arch4edu/cactus/actions/runs/3351525478)|<script type="text/javascript">localize(1667068864);</script>|
 |x86_64/rocm|[x86_64/rocm/miopen-hip](https://aur.archlinux.org/pkgbase/miopen-hip)|PUBLISHED||[3254622321](https://github.com/arch4edu/cactus/actions/runs/3254622321)|<script type="text/javascript">localize(1665859646);</script>|
 |x86_64/rocm|[x86_64/rocm/miopengemm](https://aur.archlinux.org/pkgbase/miopengemm)|PUBLISHED||[3254207561](https://github.com/arch4edu/cactus/actions/runs/3254207561)|<script type="text/javascript">localize(1665816745);</script>|
@@ -928,7 +928,7 @@ Last update: <script type="text/javascript">localize(1668662493.896279);</script
 |x86_64/ros|[x86_64/ros/ros-noetic-camera-calibration-parsers](https://aur.archlinux.org/pkgbase/ros-noetic-camera-calibration-parsers)|PUBLISHED||[3219727113](https://github.com/arch4edu/cactus/actions/runs/3219727113)|<script type="text/javascript">localize(1665428234);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-camera-info-manager](https://aur.archlinux.org/pkgbase/ros-noetic-camera-info-manager)|PUBLISHED||[3219837720](https://github.com/arch4edu/cactus/actions/runs/3219837720)|<script type="text/javascript">localize(1665428245);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-catkin](https://aur.archlinux.org/pkgbase/ros-noetic-catkin)|PUBLISHED||[2962989057](https://github.com/arch4edu/cactus/actions/runs/2962989057)|<script type="text/javascript">localize(1661971571);</script>|
-|x86_64/ros|[x86_64/ros/ros-noetic-class-loader](https://aur.archlinux.org/pkgbase/ros-noetic-class-loader)|PUBLISHED||[3212684217](https://github.com/arch4edu/cactus/actions/runs/3212684217)|<script type="text/javascript">localize(1665298095);</script>|
+|x86_64/ros|[x86_64/ros/ros-noetic-class-loader](https://aur.archlinux.org/pkgbase/ros-noetic-class-loader)|BUILT||[3485799063](https://github.com/arch4edu/cactus/actions/runs/3485799063)|<script type="text/javascript">localize(1668665372);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-cmake-modules](https://aur.archlinux.org/pkgbase/ros-noetic-cmake-modules)|PUBLISHED||[2963031898](https://github.com/arch4edu/cactus/actions/runs/2963031898)|<script type="text/javascript">localize(1661971596);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-common-msgs](https://aur.archlinux.org/pkgbase/ros-noetic-common-msgs)|PUBLISHED||[2965089927](https://github.com/arch4edu/cactus/actions/runs/2965089927)|<script type="text/javascript">localize(1661971610);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-common-tutorials](https://aur.archlinux.org/pkgbase/ros-noetic-common-tutorials)|PUBLISHED||[2965507862](https://github.com/arch4edu/cactus/actions/runs/2965507862)|<script type="text/javascript">localize(1661971624);</script>|
@@ -958,7 +958,7 @@ Last update: <script type="text/javascript">localize(1668662493.896279);</script
 |x86_64/ros|[x86_64/ros/ros-noetic-forward-command-controller](https://aur.archlinux.org/pkgbase/ros-noetic-forward-command-controller)|PUBLISHED||[2965508004](https://github.com/arch4edu/cactus/actions/runs/2965508004)|<script type="text/javascript">localize(1661971809);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-gazebo-dev](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-dev)|PUBLISHED||[2969222243](https://github.com/arch4edu/cactus/actions/runs/2969222243)|<script type="text/javascript">localize(1662015082);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-gazebo-msgs](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-msgs)|PUBLISHED||[2963994350](https://github.com/arch4edu/cactus/actions/runs/2963994350)|<script type="text/javascript">localize(1661971820);</script>|
-|x86_64/ros|[x86_64/ros/ros-noetic-gazebo-plugins](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-plugins)|PUBLISHED||[3220666980](https://github.com/arch4edu/cactus/actions/runs/3220666980)|<script type="text/javascript">localize(1665428332);</script>|
+|x86_64/ros|[x86_64/ros/ros-noetic-gazebo-plugins](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-plugins)|BUILDING|Build failed.|[3485827560](https://github.com/arch4edu/cactus/actions/runs/3485827560)|<script type="text/javascript">localize(1668666377);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-gazebo-ros](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-ros)|PUBLISHED||[3220667410](https://github.com/arch4edu/cactus/actions/runs/3220667410)|<script type="text/javascript">localize(1665428344);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-gazebo-ros-control](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-ros-control)|PUBLISHED||[3220739365](https://github.com/arch4edu/cactus/actions/runs/3220739365)|<script type="text/javascript">localize(1665428355);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-gazebo-ros-pkgs](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-ros-pkgs)|PUBLISHED||[2969719966](https://github.com/arch4edu/cactus/actions/runs/2969719966)|<script type="text/javascript">localize(1662030182);</script>|
