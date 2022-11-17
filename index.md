@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1668692355.2264805);</script>
+Last update: <script type="text/javascript">localize(1668694886.576796);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -1003,7 +1003,7 @@ Last update: <script type="text/javascript">localize(1668692355.2264805);</scrip
 |x86_64/ros|[x86_64/ros/ros-noetic-map-msgs](https://aur.archlinux.org/pkgbase/ros-noetic-map-msgs)|PUBLISHED||[2963994440](https://github.com/arch4edu/cactus/actions/runs/2963994440)|<script type="text/javascript">localize(1661972064);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-mavlink](https://aur.archlinux.org/pkgbase/ros-noetic-mavlink)|BUILT||[3488502149](https://github.com/arch4edu/cactus/actions/runs/3488502149)|<script type="text/javascript">localize(1668690457);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-mavros](https://aur.archlinux.org/pkgbase/ros-noetic-mavros)|BUILT||[3488657797](https://github.com/arch4edu/cactus/actions/runs/3488657797)|<script type="text/javascript">localize(1668692139);</script>|
-|x86_64/ros|[x86_64/ros/ros-noetic-mavros-extras](https://aur.archlinux.org/pkgbase/ros-noetic-mavros-extras)|STALED|Waiting for dependency: x86_64/ros/ros-noetic-mavros.|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1668692091);</script>|
+|x86_64/ros|[x86_64/ros/ros-noetic-mavros-extras](https://aur.archlinux.org/pkgbase/ros-noetic-mavros-extras)|BUILT||[3488769054](https://github.com/arch4edu/cactus/actions/runs/3488769054)|<script type="text/javascript">localize(1668693053);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-mavros-msgs](https://aur.archlinux.org/pkgbase/ros-noetic-mavros-msgs)|BUILT||[3488579072](https://github.com/arch4edu/cactus/actions/runs/3488579072)|<script type="text/javascript">localize(1668691192);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-media-export](https://aur.archlinux.org/pkgbase/ros-noetic-media-export)|PUBLISHED||[2963073654](https://github.com/arch4edu/cactus/actions/runs/2963073654)|<script type="text/javascript">localize(1661972079);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-message-filters](https://aur.archlinux.org/pkgbase/ros-noetic-message-filters)|PUBLISHED||[3219727478](https://github.com/arch4edu/cactus/actions/runs/3219727478)|<script type="text/javascript">localize(1665428452);</script>|
