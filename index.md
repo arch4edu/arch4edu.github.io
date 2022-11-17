@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1668669625.3432233);</script>
+Last update: <script type="text/javascript">localize(1668673874.1795704);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -881,7 +881,7 @@ Last update: <script type="text/javascript">localize(1668669625.3432233);</scrip
 |x86_64/rocm|[x86_64/rocm/miopen-hip](https://aur.archlinux.org/pkgbase/miopen-hip)|PUBLISHED||[3254622321](https://github.com/arch4edu/cactus/actions/runs/3254622321)|<script type="text/javascript">localize(1665859646);</script>|
 |x86_64/rocm|[x86_64/rocm/miopengemm](https://aur.archlinux.org/pkgbase/miopengemm)|PUBLISHED||[3254207561](https://github.com/arch4edu/cactus/actions/runs/3254207561)|<script type="text/javascript">localize(1665816745);</script>|
 |x86_64/rocm|[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|PUBLISHED||[2953271802](https://github.com/arch4edu/cactus/actions/runs/2953271802)|<script type="text/javascript">localize(1661843037);</script>|
-|x86_64/rocm|[x86_64/rocm/python-cupy-rocm](https://aur.archlinux.org/pkgbase/python-cupy-rocm)|FAILED|Build failed.|[3479572976](https://github.com/arch4edu/cactus/actions/runs/3479572976)|<script type="text/javascript">localize(1668669146);</script>|
+|x86_64/rocm|[x86_64/rocm/python-cupy-rocm](https://aur.archlinux.org/pkgbase/python-cupy-rocm)|FAILED|Build failed.|[3479572976](https://github.com/arch4edu/cactus/actions/runs/3479572976)|<script type="text/javascript">localize(1668671259);</script>|
 |x86_64/rocm|[x86_64/rocm/python-pytorch-rocm](https://aur.archlinux.org/pkgbase/python-pytorch-rocm)|PUBLISHED||[3310102094](https://github.com/arch4edu/cactus/actions/runs/3310102094)|<script type="text/javascript">localize(1666853193);</script>|
 |x86_64/rocm|[x86_64/rocm/rccl](https://aur.archlinux.org/pkgbase/rccl)|PUBLISHED||[3250275792](https://github.com/arch4edu/cactus/actions/runs/3250275792)|<script type="text/javascript">localize(1665773341);</script>|
 |x86_64/rocm|[x86_64/rocm/rocalution](https://aur.archlinux.org/pkgbase/rocalution)|PUBLISHED||[3240949155](https://github.com/arch4edu/cactus/actions/runs/3240949155)|<script type="text/javascript">localize(1665687224);</script>|
