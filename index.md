@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1668763336.5348878);</script>
+Last update: <script type="text/javascript">localize(1668775323.9904034);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -187,7 +187,7 @@ Last update: <script type="text/javascript">localize(1668763336.5348878);</scrip
 |x86_64|[x86_64/abinit](https://aur.archlinux.org/pkgbase/abinit)|FAILED|Build failed.|[3488501871](https://github.com/arch4edu/cactus/actions/runs/3488501871)|<script type="text/javascript">localize(1668690895);</script>|
 |x86_64|[x86_64/act](https://aur.archlinux.org/pkgbase/act)|PUBLISHED||[3415858597](https://github.com/arch4edu/cactus/actions/runs/3415858597)|<script type="text/javascript">localize(1667889798);</script>|
 |x86_64|[x86_64/adms](https://aur.archlinux.org/pkgbase/adms)|PUBLISHED||[2647948312](https://github.com/arch4edu/cactus/actions/runs/2647948312)|<script type="text/javascript">localize(1657528639);</script>|
-|x86_64|[x86_64/alice-vision](https://aur.archlinux.org/pkgbase/alice-vision)|FAILED|Build failed.|[3485855235](https://github.com/arch4edu/cactus/actions/runs/3485855235)|<script type="text/javascript">localize(1668666203);</script>|
+|x86_64|[x86_64/alice-vision](https://aur.archlinux.org/pkgbase/alice-vision)|FAILED|Build failed.|[3485855235](https://github.com/arch4edu/cactus/actions/runs/3485855235)|<script type="text/javascript">localize(1668773111);</script>|
 |x86_64|[x86_64/alpm_octopi_utils](https://aur.archlinux.org/pkgbase/alpm_octopi_utils)|PUBLISHED||[2846907170](https://github.com/arch4edu/cactus/actions/runs/2846907170)|<script type="text/javascript">localize(1660346743);</script>|
 |x86_64|[x86_64/anaconda](https://aur.archlinux.org/pkgbase/anaconda)|PUBLISHED||[3273763788](https://github.com/arch4edu/cactus/actions/runs/3273763788)|<script type="text/javascript">localize(1666119673);</script>|
 |x86_64|[x86_64/android-emulator](https://aur.archlinux.org/pkgbase/android-emulator)|PUBLISHED||[3366505219](https://github.com/arch4edu/cactus/actions/runs/3366505219)|<script type="text/javascript">localize(1667285427);</script>|
@@ -212,7 +212,7 @@ Last update: <script type="text/javascript">localize(1668763336.5348878);</scrip
 |x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|PUBLISHED||[3402599590](https://github.com/arch4edu/cactus/actions/runs/3402599590)|<script type="text/javascript">localize(1667846294);</script>|
 |x86_64|[x86_64/ceph-octopus](https://aur.archlinux.org/pkgbase/ceph-octopus)|PUBLISHED||[3104626260](https://github.com/arch4edu/cactus/actions/runs/3104626260)|<script type="text/javascript">localize(1663854273);</script>|
 |x86_64|[x86_64/ceph-pacific](https://aur.archlinux.org/pkgbase/ceph-pacific)|PUBLISHED||[3155390486](https://github.com/arch4edu/cactus/actions/runs/3155390486)|<script type="text/javascript">localize(1664521640);</script>|
-|x86_64|[x86_64/ceres-solver](https://aur.archlinux.org/pkgbase/ceres-solver)|FAILED|Build failed.|[3485799007](https://github.com/arch4edu/cactus/actions/runs/3485799007)|<script type="text/javascript">localize(1668666871);</script>|
+|x86_64|[x86_64/ceres-solver](https://aur.archlinux.org/pkgbase/ceres-solver)|BUILT||[3485799007](https://github.com/arch4edu/cactus/actions/runs/3485799007)|<script type="text/javascript">localize(1668772887);</script>|
 |x86_64|[x86_64/charls](https://aur.archlinux.org/pkgbase/charls)|PUBLISHED||[2648304398](https://github.com/arch4edu/cactus/actions/runs/2648304398)|<script type="text/javascript">localize(1657531906);</script>|
 |x86_64|[x86_64/chromedriver](https://aur.archlinux.org/pkgbase/chromedriver)|PUBLISHED||[3325806728](https://github.com/arch4edu/cactus/actions/runs/3325806728)|<script type="text/javascript">localize(1666766829);</script>|
 |x86_64|[x86_64/cider](https://aur.archlinux.org/pkgbase/cider)|PUBLISHED||[3345698863](https://github.com/arch4edu/cactus/actions/runs/3345698863)|<script type="text/javascript">localize(1666982571);</script>|
@@ -885,7 +885,7 @@ Last update: <script type="text/javascript">localize(1668763336.5348878);</scrip
 |x86_64/rocm|[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|PUBLISHED||[2953271802](https://github.com/arch4edu/cactus/actions/runs/2953271802)|<script type="text/javascript">localize(1661843037);</script>|
 |x86_64/rocm|[x86_64/rocm/python-cupy-rocm](https://aur.archlinux.org/pkgbase/python-cupy-rocm)|FAILED|Build failed.|[3479572976](https://github.com/arch4edu/cactus/actions/runs/3479572976)|<script type="text/javascript">localize(1668671259);</script>|
 |x86_64/rocm|[x86_64/rocm/python-pytorch-rocm](https://aur.archlinux.org/pkgbase/python-pytorch-rocm)|PUBLISHED||[3310102094](https://github.com/arch4edu/cactus/actions/runs/3310102094)|<script type="text/javascript">localize(1666853193);</script>|
-|x86_64/rocm|[x86_64/rocm/python-torchvision-rocm](https://aur.archlinux.org/pkgbase/python-torchvision-rocm)|FAILED|Build failed.|[3489468839](https://github.com/arch4edu/cactus/actions/runs/3489468839)|<script type="text/javascript">localize(1668698262);</script>|
+|x86_64/rocm|[x86_64/rocm/python-torchvision-rocm](https://aur.archlinux.org/pkgbase/python-torchvision-rocm)|FAILED|Build failed.|[3489468839](https://github.com/arch4edu/cactus/actions/runs/3489468839)|<script type="text/javascript">localize(1668773303);</script>|
 |x86_64/rocm|[x86_64/rocm/rccl](https://aur.archlinux.org/pkgbase/rccl)|PUBLISHED||[3250275792](https://github.com/arch4edu/cactus/actions/runs/3250275792)|<script type="text/javascript">localize(1665773341);</script>|
 |x86_64/rocm|[x86_64/rocm/rocalution](https://aur.archlinux.org/pkgbase/rocalution)|PUBLISHED||[3240949155](https://github.com/arch4edu/cactus/actions/runs/3240949155)|<script type="text/javascript">localize(1665687224);</script>|
 |x86_64/rocm|[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|PUBLISHED||[3239612210](https://github.com/arch4edu/cactus/actions/runs/3239612210)|<script type="text/javascript">localize(1665687249);</script>|
