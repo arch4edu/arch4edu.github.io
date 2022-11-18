@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1668756033.6808317);</script>
+Last update: <script type="text/javascript">localize(1668763336.5348878);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -723,7 +723,7 @@ Last update: <script type="text/javascript">localize(1668756033.6808317);</scrip
 |x86_64/r|[x86_64/r/r-pillar](https://aur.archlinux.org/pkgbase/r-pillar)|PUBLISHED||[2893222998](https://github.com/arch4edu/cactus/actions/runs/2893222998)|<script type="text/javascript">localize(1660977624);</script>|
 |x86_64/r|[x86_64/r/r-pkgbuild](https://aur.archlinux.org/pkgbase/r-pkgbuild)|PUBLISHED||[2709763592](https://github.com/arch4edu/cactus/actions/runs/2709763592)|<script type="text/javascript">localize(1658385313);</script>|
 |x86_64/r|[x86_64/r/r-pkgconfig](https://aur.archlinux.org/pkgbase/r-pkgconfig)|PUBLISHED||[3273811414](https://github.com/arch4edu/cactus/actions/runs/3273811414)|<script type="text/javascript">localize(1666120281);</script>|
-|x86_64/r|[x86_64/r/r-pkgload](https://aur.archlinux.org/pkgbase/r-pkgload)|FAILED|Build failed.|[3493680532](https://github.com/arch4edu/cactus/actions/runs/3493680532)|<script type="text/javascript">localize(1668739028);</script>|
+|x86_64/r|[x86_64/r/r-pkgload](https://aur.archlinux.org/pkgbase/r-pkgload)|BUILT||[3493680532](https://github.com/arch4edu/cactus/actions/runs/3493680532)|<script type="text/javascript">localize(1668760459);</script>|
 |x86_64/r|[x86_64/r/r-plotrix](https://aur.archlinux.org/pkgbase/r-plotrix)|PUBLISHED||[3273856968](https://github.com/arch4edu/cactus/actions/runs/3273856968)|<script type="text/javascript">localize(1666120297);</script>|
 |x86_64/r|[x86_64/r/r-plyr](https://aur.archlinux.org/pkgbase/r-plyr)|PUBLISHED||[3453487882](https://github.com/arch4edu/cactus/actions/runs/3453487882)|<script type="text/javascript">localize(1668321505);</script>|
 |x86_64/r|[x86_64/r/r-png](https://aur.archlinux.org/pkgbase/r-png)|PUBLISHED||[2703272974](https://github.com/arch4edu/cactus/actions/runs/2703272974)|<script type="text/javascript">localize(1658306440);</script>|
