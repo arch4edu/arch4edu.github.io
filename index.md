@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1668878355.9937057);</script>
+Last update: <script type="text/javascript">localize(1668882393.9886);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -885,7 +885,7 @@ Last update: <script type="text/javascript">localize(1668878355.9937057);</scrip
 |x86_64/rocm|[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|PUBLISHED||[2953271802](https://github.com/arch4edu/cactus/actions/runs/2953271802)|<script type="text/javascript">localize(1661843037);</script>|
 |x86_64/rocm|[x86_64/rocm/python-cupy-rocm](https://aur.archlinux.org/pkgbase/python-cupy-rocm)|FAILED|Build failed.|[3497089102](https://github.com/arch4edu/cactus/actions/runs/3497089102)|<script type="text/javascript">localize(1668777046);</script>|
 |x86_64/rocm|[x86_64/rocm/python-pytorch-rocm](https://aur.archlinux.org/pkgbase/python-pytorch-rocm)|PUBLISHED||[3310102094](https://github.com/arch4edu/cactus/actions/runs/3310102094)|<script type="text/javascript">localize(1666853193);</script>|
-|x86_64/rocm|[x86_64/rocm/python-torchvision-rocm](https://aur.archlinux.org/pkgbase/python-torchvision-rocm)|STALED|Waiting for dependency: x86_64/rocm/rocminfo.|[3489468839](https://github.com/arch4edu/cactus/actions/runs/3489468839)|<script type="text/javascript">localize(1668878328);</script>|
+|x86_64/rocm|[x86_64/rocm/python-torchvision-rocm](https://aur.archlinux.org/pkgbase/python-torchvision-rocm)|FAILED|Build failed.|[3504506116](https://github.com/arch4edu/cactus/actions/runs/3504506116)|<script type="text/javascript">localize(1668880518);</script>|
 |x86_64/rocm|[x86_64/rocm/rccl](https://aur.archlinux.org/pkgbase/rccl)|PUBLISHED||[3250275792](https://github.com/arch4edu/cactus/actions/runs/3250275792)|<script type="text/javascript">localize(1665773341);</script>|
 |x86_64/rocm|[x86_64/rocm/rocalution](https://aur.archlinux.org/pkgbase/rocalution)|PUBLISHED||[3240949155](https://github.com/arch4edu/cactus/actions/runs/3240949155)|<script type="text/javascript">localize(1665687224);</script>|
 |x86_64/rocm|[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|PUBLISHED||[3239612210](https://github.com/arch4edu/cactus/actions/runs/3239612210)|<script type="text/javascript">localize(1665687249);</script>|
@@ -906,7 +906,7 @@ Last update: <script type="text/javascript">localize(1668878355.9937057);</scrip
 |x86_64/rocm|[x86_64/rocm/rocm-opencl-runtime](https://aur.archlinux.org/pkgbase/rocm-opencl-runtime)|PUBLISHED||[3216616374](https://github.com/arch4edu/cactus/actions/runs/3216616374)|<script type="text/javascript">localize(1665385465);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-opencl-sdk](https://aur.archlinux.org/pkgbase/rocm-opencl-sdk)|PUBLISHED||[3120711678](https://github.com/arch4edu/cactus/actions/runs/3120711678)|<script type="text/javascript">localize(1664088478);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-smi-lib](https://aur.archlinux.org/pkgbase/rocm-smi-lib)|PUBLISHED||[3250242207](https://github.com/arch4edu/cactus/actions/runs/3250242207)|<script type="text/javascript">localize(1665773353);</script>|
-|x86_64/rocm|[x86_64/rocm/rocminfo](https://aur.archlinux.org/pkgbase/rocminfo)|FAILED|Build failed.|[3504416139](https://github.com/arch4edu/cactus/actions/runs/3504416139)|<script type="text/javascript">localize(1668878147);</script>|
+|x86_64/rocm|[x86_64/rocm/rocminfo](https://aur.archlinux.org/pkgbase/rocminfo)|BUILT||[3504416139](https://github.com/arch4edu/cactus/actions/runs/3504416139)|<script type="text/javascript">localize(1668879467);</script>|
 |x86_64/rocm|[x86_64/rocm/rocprim](https://aur.archlinux.org/pkgbase/rocprim)|PUBLISHED||[3216650902](https://github.com/arch4edu/cactus/actions/runs/3216650902)|<script type="text/javascript">localize(1665385477);</script>|
 |x86_64/rocm|[x86_64/rocm/rocprofiler](https://aur.archlinux.org/pkgbase/rocprofiler)|PUBLISHED||[3259578400](https://github.com/arch4edu/cactus/actions/runs/3259578400)|<script type="text/javascript">localize(1665945980);</script>|
 |x86_64/rocm|[x86_64/rocm/rocrand](https://aur.archlinux.org/pkgbase/rocrand)|PUBLISHED||[3216650893](https://github.com/arch4edu/cactus/actions/runs/3216650893)|<script type="text/javascript">localize(1665385493);</script>|
