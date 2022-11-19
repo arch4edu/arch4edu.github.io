@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1668871325.4160519);</script>
+Last update: <script type="text/javascript">localize(1668875408.30445);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -877,7 +877,7 @@ Last update: <script type="text/javascript">localize(1668871325.4160519);</scrip
 |x86_64/rocm|[x86_64/rocm/hipsolver](https://aur.archlinux.org/pkgbase/hipsolver)|PUBLISHED||[3254931077](https://github.com/arch4edu/cactus/actions/runs/3254931077)|<script type="text/javascript">localize(1665859622);</script>|
 |x86_64/rocm|[x86_64/rocm/hipsparse](https://aur.archlinux.org/pkgbase/hipsparse)|PUBLISHED||[3250241634](https://github.com/arch4edu/cactus/actions/runs/3250241634)|<script type="text/javascript">localize(1665773327);</script>|
 |x86_64/rocm|[x86_64/rocm/hsa-amd-aqlprofile-bin](https://aur.archlinux.org/pkgbase/hsa-amd-aqlprofile-bin)|PUBLISHED||[3239403602](https://github.com/arch4edu/cactus/actions/runs/3239403602)|<script type="text/javascript">localize(1665644615);</script>|
-|x86_64/rocm|[x86_64/rocm/hsa-rocr](https://aur.archlinux.org/pkgbase/hsa-rocr)|STALED|Waiting for dependency: x86_64/rocm/rocm-device-libs.|[3485912007](https://github.com/arch4edu/cactus/actions/runs/3485912007)|<script type="text/javascript">localize(1668871021);</script>|
+|x86_64/rocm|[x86_64/rocm/hsa-rocr](https://aur.archlinux.org/pkgbase/hsa-rocr)|STALED|Waiting for dependency: x86_64/rocm/rocm-device-libs.|[3485912007](https://github.com/arch4edu/cactus/actions/runs/3485912007)|<script type="text/javascript">localize(1668875324);</script>|
 |x86_64/rocm|[x86_64/rocm/hsakmt-roct](https://aur.archlinux.org/pkgbase/hsakmt-roct)|PUBLISHED||[3484811705](https://github.com/arch4edu/cactus/actions/runs/3484811705)|<script type="text/javascript">localize(1668667180);</script>|
 |x86_64/rocm|[x86_64/rocm/migraphx](https://aur.archlinux.org/pkgbase/migraphx)|PUBLISHED||[3351525478](https://github.com/arch4edu/cactus/actions/runs/3351525478)|<script type="text/javascript">localize(1667068864);</script>|
 |x86_64/rocm|[x86_64/rocm/miopen-hip](https://aur.archlinux.org/pkgbase/miopen-hip)|PUBLISHED||[3254622321](https://github.com/arch4edu/cactus/actions/runs/3254622321)|<script type="text/javascript">localize(1665859646);</script>|
@@ -885,7 +885,7 @@ Last update: <script type="text/javascript">localize(1668871325.4160519);</scrip
 |x86_64/rocm|[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|PUBLISHED||[2953271802](https://github.com/arch4edu/cactus/actions/runs/2953271802)|<script type="text/javascript">localize(1661843037);</script>|
 |x86_64/rocm|[x86_64/rocm/python-cupy-rocm](https://aur.archlinux.org/pkgbase/python-cupy-rocm)|FAILED|Build failed.|[3497089102](https://github.com/arch4edu/cactus/actions/runs/3497089102)|<script type="text/javascript">localize(1668777046);</script>|
 |x86_64/rocm|[x86_64/rocm/python-pytorch-rocm](https://aur.archlinux.org/pkgbase/python-pytorch-rocm)|PUBLISHED||[3310102094](https://github.com/arch4edu/cactus/actions/runs/3310102094)|<script type="text/javascript">localize(1666853193);</script>|
-|x86_64/rocm|[x86_64/rocm/python-torchvision-rocm](https://aur.archlinux.org/pkgbase/python-torchvision-rocm)|STALED|Waiting for dependency: x86_64/rocm/hsa-rocr.|[3489468839](https://github.com/arch4edu/cactus/actions/runs/3489468839)|<script type="text/javascript">localize(1668871013);</script>|
+|x86_64/rocm|[x86_64/rocm/python-torchvision-rocm](https://aur.archlinux.org/pkgbase/python-torchvision-rocm)|STALED|Waiting for dependency: x86_64/rocm/hsa-rocr.|[3489468839](https://github.com/arch4edu/cactus/actions/runs/3489468839)|<script type="text/javascript">localize(1668875316);</script>|
 |x86_64/rocm|[x86_64/rocm/rccl](https://aur.archlinux.org/pkgbase/rccl)|PUBLISHED||[3250275792](https://github.com/arch4edu/cactus/actions/runs/3250275792)|<script type="text/javascript">localize(1665773341);</script>|
 |x86_64/rocm|[x86_64/rocm/rocalution](https://aur.archlinux.org/pkgbase/rocalution)|PUBLISHED||[3240949155](https://github.com/arch4edu/cactus/actions/runs/3240949155)|<script type="text/javascript">localize(1665687224);</script>|
 |x86_64/rocm|[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|PUBLISHED||[3239612210](https://github.com/arch4edu/cactus/actions/runs/3239612210)|<script type="text/javascript">localize(1665687249);</script>|
@@ -895,7 +895,7 @@ Last update: <script type="text/javascript">localize(1668871325.4160519);</scrip
 |x86_64/rocm|[x86_64/rocm/rocm-core](https://aur.archlinux.org/pkgbase/rocm-core)|PUBLISHED||[3239403582](https://github.com/arch4edu/cactus/actions/runs/3239403582)|<script type="text/javascript">localize(1665644669);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-dbgapi](https://aur.archlinux.org/pkgbase/rocm-dbgapi)|PUBLISHED||[3256300431](https://github.com/arch4edu/cactus/actions/runs/3256300431)|<script type="text/javascript">localize(1665859657);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-debug-agent](https://aur.archlinux.org/pkgbase/rocm-debug-agent)|PUBLISHED||[3262153658](https://github.com/arch4edu/cactus/actions/runs/3262153658)|<script type="text/javascript">localize(1665988278);</script>|
-|x86_64/rocm|[x86_64/rocm/rocm-device-libs](https://aur.archlinux.org/pkgbase/rocm-device-libs)|STALED|Waiting for dependency: x86_64/rocm/rocm-llvm.|[3461802842](https://github.com/arch4edu/cactus/actions/runs/3461802842)|<script type="text/javascript">localize(1668871022);</script>|
+|x86_64/rocm|[x86_64/rocm/rocm-device-libs](https://aur.archlinux.org/pkgbase/rocm-device-libs)|STALED|Waiting for dependency: x86_64/rocm/rocm-llvm.|[3461802842](https://github.com/arch4edu/cactus/actions/runs/3461802842)|<script type="text/javascript">localize(1668875325);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-gdb](https://aur.archlinux.org/pkgbase/rocm-gdb)|PUBLISHED||[3259578315](https://github.com/arch4edu/cactus/actions/runs/3259578315)|<script type="text/javascript">localize(1665945970);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-hip-libraries](https://aur.archlinux.org/pkgbase/rocm-hip-libraries)|PUBLISHED||[3120733841](https://github.com/arch4edu/cactus/actions/runs/3120733841)|<script type="text/javascript">localize(1664088429);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-hip-runtime](https://aur.archlinux.org/pkgbase/rocm-hip-runtime)|PUBLISHED||[3239420476](https://github.com/arch4edu/cactus/actions/runs/3239420476)|<script type="text/javascript">localize(1665644681);</script>|
@@ -906,7 +906,7 @@ Last update: <script type="text/javascript">localize(1668871325.4160519);</scrip
 |x86_64/rocm|[x86_64/rocm/rocm-opencl-runtime](https://aur.archlinux.org/pkgbase/rocm-opencl-runtime)|PUBLISHED||[3216616374](https://github.com/arch4edu/cactus/actions/runs/3216616374)|<script type="text/javascript">localize(1665385465);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-opencl-sdk](https://aur.archlinux.org/pkgbase/rocm-opencl-sdk)|PUBLISHED||[3120711678](https://github.com/arch4edu/cactus/actions/runs/3120711678)|<script type="text/javascript">localize(1664088478);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-smi-lib](https://aur.archlinux.org/pkgbase/rocm-smi-lib)|PUBLISHED||[3250242207](https://github.com/arch4edu/cactus/actions/runs/3250242207)|<script type="text/javascript">localize(1665773353);</script>|
-|x86_64/rocm|[x86_64/rocm/rocminfo](https://aur.archlinux.org/pkgbase/rocminfo)|STALED|Waiting for dependency: x86_64/rocm/hsa-rocr.|[3214852115](https://github.com/arch4edu/cactus/actions/runs/3214852115)|<script type="text/javascript">localize(1668871015);</script>|
+|x86_64/rocm|[x86_64/rocm/rocminfo](https://aur.archlinux.org/pkgbase/rocminfo)|STALED|Waiting for dependency: x86_64/rocm/hsa-rocr.|[3214852115](https://github.com/arch4edu/cactus/actions/runs/3214852115)|<script type="text/javascript">localize(1668875318);</script>|
 |x86_64/rocm|[x86_64/rocm/rocprim](https://aur.archlinux.org/pkgbase/rocprim)|PUBLISHED||[3216650902](https://github.com/arch4edu/cactus/actions/runs/3216650902)|<script type="text/javascript">localize(1665385477);</script>|
 |x86_64/rocm|[x86_64/rocm/rocprofiler](https://aur.archlinux.org/pkgbase/rocprofiler)|PUBLISHED||[3259578400](https://github.com/arch4edu/cactus/actions/runs/3259578400)|<script type="text/javascript">localize(1665945980);</script>|
 |x86_64/rocm|[x86_64/rocm/rocrand](https://aur.archlinux.org/pkgbase/rocrand)|PUBLISHED||[3216650893](https://github.com/arch4edu/cactus/actions/runs/3216650893)|<script type="text/javascript">localize(1665385493);</script>|
