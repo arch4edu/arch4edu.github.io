@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1669364806.7221828);</script>
+Last update: <script type="text/javascript">localize(1669368024.0221663);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -278,7 +278,7 @@ Last update: <script type="text/javascript">localize(1669364806.7221828);</scrip
 |x86_64|[x86_64/hdf4](https://aur.archlinux.org/pkgbase/hdf4)|PUBLISHED||[2648244158](https://github.com/arch4edu/cactus/actions/runs/2648244158)|<script type="text/javascript">localize(1657529276);</script>|
 |x86_64|[x86_64/hdf5110](https://aur.archlinux.org/pkgbase/hdf5110)|PUBLISHED||[2648522992](https://github.com/arch4edu/cactus/actions/runs/2648522992)|<script type="text/javascript">localize(1657535722);</script>|
 |x86_64|[x86_64/hdfview](https://aur.archlinux.org/pkgbase/hdfview)|PUBLISHED||[2801783508](https://github.com/arch4edu/cactus/actions/runs/2801783508)|<script type="text/javascript">localize(1659684303);</script>|
-|x86_64|[x86_64/heasoft](https://aur.archlinux.org/pkgbase/heasoft)|BUILDING|GitHubActions|[3523606756](https://github.com/arch4edu/cactus/actions/runs/3523606756)|<script type="text/javascript">localize(1669129452);</script>|
+|x86_64|[x86_64/heasoft](https://aur.archlinux.org/pkgbase/heasoft)|BUILDING|x86_64|[3546486262](https://github.com/arch4edu/cactus/actions/runs/3546486262)|<script type="text/javascript">localize(1669365524);</script>|
 |x86_64|[x86_64/hts-engine](https://aur.archlinux.org/pkgbase/hts-engine)|PUBLISHED||[2648586077](https://github.com/arch4edu/cactus/actions/runs/2648586077)|<script type="text/javascript">localize(1657535733);</script>|
 |x86_64|[x86_64/hypre](https://aur.archlinux.org/pkgbase/hypre)|PUBLISHED||[3250241723](https://github.com/arch4edu/cactus/actions/runs/3250241723)|<script type="text/javascript">localize(1665773314);</script>|
 |x86_64|[x86_64/icu58](https://aur.archlinux.org/pkgbase/icu58)|PUBLISHED||[2648554183](https://github.com/arch4edu/cactus/actions/runs/2648554183)|<script type="text/javascript">localize(1657532028);</script>|
@@ -425,15 +425,15 @@ Last update: <script type="text/javascript">localize(1669364806.7221828);</scrip
 |x86_64|[x86_64/python-pytest-filter-subpackage](https://aur.archlinux.org/pkgbase/python-pytest-filter-subpackage)|PUBLISHED||[2648036224](https://github.com/arch4edu/cactus/actions/runs/2648036224)|<script type="text/javascript">localize(1657530253);</script>|
 |x86_64|[x86_64/python-pytest-openfiles](https://aur.archlinux.org/pkgbase/python-pytest-openfiles)|PUBLISHED||[2648426858](https://github.com/arch4edu/cactus/actions/runs/2648426858)|<script type="text/javascript">localize(1657532189);</script>|
 |x86_64|[x86_64/python-pywavelets](https://aur.archlinux.org/pkgbase/python-pywavelets)|PUBLISHED||[3071880107](https://github.com/arch4edu/cactus/actions/runs/3071880107)|<script type="text/javascript">localize(1663397055);</script>|
-|x86_64|[x86_64/python-qiskit](https://aur.archlinux.org/pkgbase/python-qiskit)|STALED|Waiting for dependency: x86_64/python-qiskit-terra.|[3247237764](https://github.com/arch4edu/cactus/actions/runs/3247237764)|<script type="text/javascript">localize(1669364520);</script>|
+|x86_64|[x86_64/python-qiskit](https://aur.archlinux.org/pkgbase/python-qiskit)|STALED|Waiting for dependency: x86_64/python-qiskit-terra.|[3247237764](https://github.com/arch4edu/cactus/actions/runs/3247237764)|<script type="text/javascript">localize(1669367970);</script>|
 |x86_64|[x86_64/python-qiskit-aer](https://aur.archlinux.org/pkgbase/python-qiskit-aer)|PUBLISHED||[3366505371](https://github.com/arch4edu/cactus/actions/runs/3366505371)|<script type="text/javascript">localize(1667285571);</script>|
 |x86_64|[x86_64/python-qiskit-experiments](https://aur.archlinux.org/pkgbase/python-qiskit-experiments)|PUBLISHED||[3172438360](https://github.com/arch4edu/cactus/actions/runs/3172438360)|<script type="text/javascript">localize(1664823089);</script>|
 |x86_64|[x86_64/python-qiskit-finance](https://aur.archlinux.org/pkgbase/python-qiskit-finance)|PUBLISHED||[3172438427](https://github.com/arch4edu/cactus/actions/runs/3172438427)|<script type="text/javascript">localize(1664823105);</script>|
 |x86_64|[x86_64/python-qiskit-ibm-experiment](https://aur.archlinux.org/pkgbase/python-qiskit-ibm-experiment)|PUBLISHED||[3172407929](https://github.com/arch4edu/cactus/actions/runs/3172407929)|<script type="text/javascript">localize(1664823121);</script>|
-|x86_64|[x86_64/python-qiskit-ibm-runtime](https://aur.archlinux.org/pkgbase/python-qiskit-ibm-runtime)|STALED|Waiting for dependency: x86_64/python-qiskit-terra.|[3366529429](https://github.com/arch4edu/cactus/actions/runs/3366529429)|<script type="text/javascript">localize(1669364519);</script>|
+|x86_64|[x86_64/python-qiskit-ibm-runtime](https://aur.archlinux.org/pkgbase/python-qiskit-ibm-runtime)|STALED|Waiting for dependency: x86_64/python-qiskit-terra.|[3366529429](https://github.com/arch4edu/cactus/actions/runs/3366529429)|<script type="text/javascript">localize(1669367971);</script>|
 |x86_64|[x86_64/python-qiskit-ibmq-provider](https://aur.archlinux.org/pkgbase/python-qiskit-ibmq-provider)|PUBLISHED||[3172407758](https://github.com/arch4edu/cactus/actions/runs/3172407758)|<script type="text/javascript">localize(1664823137);</script>|
-|x86_64|[x86_64/python-qiskit-machine-learning](https://aur.archlinux.org/pkgbase/python-qiskit-machine-learning)|STALED|Waiting for dependency: x86_64/python-qiskit-terra.|[3172438572](https://github.com/arch4edu/cactus/actions/runs/3172438572)|<script type="text/javascript">localize(1669364518);</script>|
-|x86_64|[x86_64/python-qiskit-nature](https://aur.archlinux.org/pkgbase/python-qiskit-nature)|STALED|Waiting for dependency: x86_64/python-qiskit-terra.|[3172408017](https://github.com/arch4edu/cactus/actions/runs/3172408017)|<script type="text/javascript">localize(1669364520);</script>|
+|x86_64|[x86_64/python-qiskit-machine-learning](https://aur.archlinux.org/pkgbase/python-qiskit-machine-learning)|STALED|Waiting for dependency: x86_64/python-qiskit-terra.|[3172438572](https://github.com/arch4edu/cactus/actions/runs/3172438572)|<script type="text/javascript">localize(1669367970);</script>|
+|x86_64|[x86_64/python-qiskit-nature](https://aur.archlinux.org/pkgbase/python-qiskit-nature)|STALED|Waiting for dependency: x86_64/python-qiskit-terra.|[3172408017](https://github.com/arch4edu/cactus/actions/runs/3172408017)|<script type="text/javascript">localize(1669367972);</script>|
 |x86_64|[x86_64/python-qiskit-optimization](https://aur.archlinux.org/pkgbase/python-qiskit-optimization)|PUBLISHED||[3172408114](https://github.com/arch4edu/cactus/actions/runs/3172408114)|<script type="text/javascript">localize(1664823176);</script>|
 |x86_64|[x86_64/python-qiskit-terra](https://aur.archlinux.org/pkgbase/python-qiskit-terra)|FAILED|Build failed.|[3540809713](https://github.com/arch4edu/cactus/actions/runs/3540809713)|<script type="text/javascript">localize(1669295091);</script>|
 |x86_64|[x86_64/python-quandl](https://aur.archlinux.org/pkgbase/python-quandl)|PUBLISHED||[3156967117](https://github.com/arch4edu/cactus/actions/runs/3156967117)|<script type="text/javascript">localize(1664563799);</script>|
