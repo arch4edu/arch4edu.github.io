@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1669555570.3588753);</script>
+Last update: <script type="text/javascript">localize(1669558679.3660064);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -11,6 +11,7 @@ Last update: <script type="text/javascript">localize(1669555570.3588753);</scrip
 |aarch64|[aarch64/conftest](https://aur.archlinux.org/pkgbase/conftest)|PUBLISHED||[3548139055](https://github.com/arch4edu/cactus/actions/runs/3548139055)|<script type="text/javascript">localize(1669401268);</script>|
 |aarch64|[aarch64/cp2k-bin](https://aur.archlinux.org/pkgbase/cp2k-bin)|PUBLISHED||[3000913293](https://github.com/arch4edu/cactus/actions/runs/3000913293)|<script type="text/javascript">localize(1662489728);</script>|
 |aarch64|[aarch64/devtools-arch4edu-extra](https://aur.archlinux.org/pkgbase/devtools-arch4edu-extra)|PUBLISHED||[2648243811](https://github.com/arch4edu/cactus/actions/runs/2648243811)|<script type="text/javascript">localize(1657528494);</script>|
+|aarch64|[aarch64/dotnet-core-6.0](https://aur.archlinux.org/pkgbase/dotnet-core-6.0)|FAILED|nvchecker failed|[](https://github.com/arch4edu/cactus/actions/runs/)|<script type="text/javascript">localize(1669557055);</script>|
 |aarch64|[aarch64/fakeroot-tcp](https://aur.archlinux.org/pkgbase/fakeroot-tcp)|PUBLISHED||[2647976096](https://github.com/arch4edu/cactus/actions/runs/2647976096)|<script type="text/javascript">localize(1657528504);</script>|
 |aarch64|[aarch64/fastfetch](https://aur.archlinux.org/pkgbase/fastfetch)|PUBLISHED||[3279494117](https://github.com/arch4edu/cactus/actions/runs/3279494117)|<script type="text/javascript">localize(1666192538);</script>|
 |aarch64|[aarch64/flutter](https://aur.archlinux.org/pkgbase/flutter)|BUILT||[3558283496](https://github.com/arch4edu/cactus/actions/runs/3558283496)|<script type="text/javascript">localize(1669554398);</script>|
@@ -559,7 +560,7 @@ Last update: <script type="text/javascript">localize(1669555570.3588753);</scrip
 |x86_64/r|[x86_64/r/r-ggalluvial](https://aur.archlinux.org/pkgbase/r-ggalluvial)|PUBLISHED||[2720744504](https://github.com/arch4edu/cactus/actions/runs/2720744504)|<script type="text/javascript">localize(1658521783);</script>|
 |x86_64/r|[x86_64/r/r-ggally](https://aur.archlinux.org/pkgbase/r-ggally)|PUBLISHED||[2720744451](https://github.com/arch4edu/cactus/actions/runs/2720744451)|<script type="text/javascript">localize(1658521799);</script>|
 |x86_64/r|[x86_64/r/r-ggdendro](https://aur.archlinux.org/pkgbase/r-ggdendro)|PUBLISHED||[3556345184](https://github.com/arch4edu/cactus/actions/runs/3556345184)|<script type="text/javascript">localize(1669531031);</script>|
-|x86_64/r|[x86_64/r/r-ggdist](https://aur.archlinux.org/pkgbase/r-ggdist)|FAILED|Build failed.|[3557569208](https://github.com/arch4edu/cactus/actions/runs/3557569208)|<script type="text/javascript">localize(1669540611);</script>|
+|x86_64/r|[x86_64/r/r-ggdist](https://aur.archlinux.org/pkgbase/r-ggdist)|FAILED|Build failed.|[3558511519](https://github.com/arch4edu/cactus/actions/runs/3558511519)|<script type="text/javascript">localize(1669557467);</script>|
 |x86_64/r|[x86_64/r/r-gginnards](https://aur.archlinux.org/pkgbase/r-gginnards)|PUBLISHED||[3259578457](https://github.com/arch4edu/cactus/actions/runs/3259578457)|<script type="text/javascript">localize(1665945946);</script>|
 |x86_64/r|[x86_64/r/r-ggmcmc](https://aur.archlinux.org/pkgbase/r-ggmcmc)|PUBLISHED||[2720771222](https://github.com/arch4edu/cactus/actions/runs/2720771222)|<script type="text/javascript">localize(1658521846);</script>|
 |x86_64/r|[x86_64/r/r-ggnetwork](https://aur.archlinux.org/pkgbase/r-ggnetwork)|PUBLISHED||[2787415909](https://github.com/arch4edu/cactus/actions/runs/2787415909)|<script type="text/javascript">localize(1659511488);</script>|
@@ -835,7 +836,7 @@ Last update: <script type="text/javascript">localize(1669555570.3588753);</scrip
 |x86_64/r|[x86_64/r/r-tidyselect](https://aur.archlinux.org/pkgbase/r-tidyselect)|PUBLISHED||[3242718349](https://github.com/arch4edu/cactus/actions/runs/3242718349)|<script type="text/javascript">localize(1665687211);</script>|
 |x86_64/r|[x86_64/r/r-timechange](https://aur.archlinux.org/pkgbase/r-timechange)|PUBLISHED||[3410611890](https://github.com/arch4edu/cactus/actions/runs/3410611890)|<script type="text/javascript">localize(1667846407);</script>|
 |x86_64/r|[x86_64/r/r-tmvnsim](https://aur.archlinux.org/pkgbase/r-tmvnsim)|PUBLISHED||[3273811847](https://github.com/arch4edu/cactus/actions/runs/3273811847)|<script type="text/javascript">localize(1666120624);</script>|
-|x86_64/r|[x86_64/r/r-toster](https://aur.archlinux.org/pkgbase/r-toster)|STALED|Waiting for dependency: x86_64/r/r-ggdist.|[3094971299](https://github.com/arch4edu/cactus/actions/runs/3094971299)|<script type="text/javascript">localize(1669555421);</script>|
+|x86_64/r|[x86_64/r/r-toster](https://aur.archlinux.org/pkgbase/r-toster)|STALED|Waiting for dependency: x86_64/r/r-ggdist.|[3094971299](https://github.com/arch4edu/cactus/actions/runs/3094971299)|<script type="text/javascript">localize(1669558591);</script>|
 |x86_64/r|[x86_64/r/r-truncnorm](https://aur.archlinux.org/pkgbase/r-truncnorm)|PUBLISHED||[2703435779](https://github.com/arch4edu/cactus/actions/runs/2703435779)|<script type="text/javascript">localize(1658310531);</script>|
 |x86_64/r|[x86_64/r/r-tseries](https://aur.archlinux.org/pkgbase/r-tseries)|PUBLISHED||[3219614949](https://github.com/arch4edu/cactus/actions/runs/3219614949)|<script type="text/javascript">localize(1665428187);</script>|
 |x86_64/r|[x86_64/r/r-ttr](https://aur.archlinux.org/pkgbase/r-ttr)|PUBLISHED||[2703840189](https://github.com/arch4edu/cactus/actions/runs/2703840189)|<script type="text/javascript">localize(1658314650);</script>|
@@ -1195,7 +1196,7 @@ Last update: <script type="text/javascript">localize(1669555570.3588753);</scrip
 |x86_64|[x86_64/saxon-he](https://aur.archlinux.org/pkgbase/saxon-he)|PUBLISHED||[2896919768](https://github.com/arch4edu/cactus/actions/runs/2896919768)|<script type="text/javascript">localize(1661064186);</script>|
 |x86_64|[x86_64/sc-im](https://aur.archlinux.org/pkgbase/sc-im)|PUBLISHED||[2648586212](https://github.com/arch4edu/cactus/actions/runs/2648586212)|<script type="text/javascript">localize(1657536248);</script>|
 |x86_64|[x86_64/scalapack](https://aur.archlinux.org/pkgbase/scalapack)|PUBLISHED||[2648363630](https://github.com/arch4edu/cactus/actions/runs/2648363630)|<script type="text/javascript">localize(1657532252);</script>|
-|x86_64|[x86_64/scilab](https://aur.archlinux.org/pkgbase/scilab)|FAILED|Build failed.|[3553800760](https://github.com/arch4edu/cactus/actions/runs/3553800760)|<script type="text/javascript">localize(1669467865);</script>|
+|x86_64|[x86_64/scilab](https://aur.archlinux.org/pkgbase/scilab)|FAILED|Build failed.|[3558510859](https://github.com/arch4edu/cactus/actions/runs/3558510859)|<script type="text/javascript">localize(1669557739);</script>|
 |x86_64|[x86_64/scilab-bin](https://aur.archlinux.org/pkgbase/scilab-bin)|PUBLISHED||[2648738517](https://github.com/arch4edu/cactus/actions/runs/2648738517)|<script type="text/javascript">localize(1657536280);</script>|
 |x86_64|[x86_64/scotch](https://aur.archlinux.org/pkgbase/scotch)|PUBLISHED||[2648303806](https://github.com/arch4edu/cactus/actions/runs/2648303806)|<script type="text/javascript">localize(1657532262);</script>|
 |x86_64|[x86_64/sdformat-9](https://aur.archlinux.org/pkgbase/sdformat-9)|PUBLISHED||[2963031791](https://github.com/arch4edu/cactus/actions/runs/2963031791)|<script type="text/javascript">localize(1661973623);</script>|
