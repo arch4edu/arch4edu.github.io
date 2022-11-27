@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1669523154.5608573);</script>
+Last update: <script type="text/javascript">localize(1669526310.2116032);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -557,7 +557,7 @@ Last update: <script type="text/javascript">localize(1669523154.5608573);</scrip
 |x86_64/r|[x86_64/r/r-ggalluvial](https://aur.archlinux.org/pkgbase/r-ggalluvial)|PUBLISHED||[2720744504](https://github.com/arch4edu/cactus/actions/runs/2720744504)|<script type="text/javascript">localize(1658521783);</script>|
 |x86_64/r|[x86_64/r/r-ggally](https://aur.archlinux.org/pkgbase/r-ggally)|PUBLISHED||[2720744451](https://github.com/arch4edu/cactus/actions/runs/2720744451)|<script type="text/javascript">localize(1658521799);</script>|
 |x86_64/r|[x86_64/r/r-ggdendro](https://aur.archlinux.org/pkgbase/r-ggdendro)|BUILT||[3556345184](https://github.com/arch4edu/cactus/actions/runs/3556345184)|<script type="text/javascript">localize(1669516309);</script>|
-|x86_64/r|[x86_64/r/r-ggdist](https://aur.archlinux.org/pkgbase/r-ggdist)|STALED|Waiting for dependency: x86_64/r/r-distributional.|[2720744931](https://github.com/arch4edu/cactus/actions/runs/2720744931)|<script type="text/javascript">localize(1669523080);</script>|
+|x86_64/r|[x86_64/r/r-ggdist](https://aur.archlinux.org/pkgbase/r-ggdist)|STALED|Waiting for dependency: x86_64/r/r-distributional.|[2720744931](https://github.com/arch4edu/cactus/actions/runs/2720744931)|<script type="text/javascript">localize(1669526229);</script>|
 |x86_64/r|[x86_64/r/r-gginnards](https://aur.archlinux.org/pkgbase/r-gginnards)|PUBLISHED||[3259578457](https://github.com/arch4edu/cactus/actions/runs/3259578457)|<script type="text/javascript">localize(1665945946);</script>|
 |x86_64/r|[x86_64/r/r-ggmcmc](https://aur.archlinux.org/pkgbase/r-ggmcmc)|PUBLISHED||[2720771222](https://github.com/arch4edu/cactus/actions/runs/2720771222)|<script type="text/javascript">localize(1658521846);</script>|
 |x86_64/r|[x86_64/r/r-ggnetwork](https://aur.archlinux.org/pkgbase/r-ggnetwork)|PUBLISHED||[2787415909](https://github.com/arch4edu/cactus/actions/runs/2787415909)|<script type="text/javascript">localize(1659511488);</script>|
@@ -833,7 +833,7 @@ Last update: <script type="text/javascript">localize(1669523154.5608573);</scrip
 |x86_64/r|[x86_64/r/r-tidyselect](https://aur.archlinux.org/pkgbase/r-tidyselect)|PUBLISHED||[3242718349](https://github.com/arch4edu/cactus/actions/runs/3242718349)|<script type="text/javascript">localize(1665687211);</script>|
 |x86_64/r|[x86_64/r/r-timechange](https://aur.archlinux.org/pkgbase/r-timechange)|PUBLISHED||[3410611890](https://github.com/arch4edu/cactus/actions/runs/3410611890)|<script type="text/javascript">localize(1667846407);</script>|
 |x86_64/r|[x86_64/r/r-tmvnsim](https://aur.archlinux.org/pkgbase/r-tmvnsim)|PUBLISHED||[3273811847](https://github.com/arch4edu/cactus/actions/runs/3273811847)|<script type="text/javascript">localize(1666120624);</script>|
-|x86_64/r|[x86_64/r/r-toster](https://aur.archlinux.org/pkgbase/r-toster)|STALED|Waiting for dependency: x86_64/r/r-distributional.|[3094971299](https://github.com/arch4edu/cactus/actions/runs/3094971299)|<script type="text/javascript">localize(1669523080);</script>|
+|x86_64/r|[x86_64/r/r-toster](https://aur.archlinux.org/pkgbase/r-toster)|STALED|Waiting for dependency: x86_64/r/r-distributional.|[3094971299](https://github.com/arch4edu/cactus/actions/runs/3094971299)|<script type="text/javascript">localize(1669526230);</script>|
 |x86_64/r|[x86_64/r/r-truncnorm](https://aur.archlinux.org/pkgbase/r-truncnorm)|PUBLISHED||[2703435779](https://github.com/arch4edu/cactus/actions/runs/2703435779)|<script type="text/javascript">localize(1658310531);</script>|
 |x86_64/r|[x86_64/r/r-tseries](https://aur.archlinux.org/pkgbase/r-tseries)|PUBLISHED||[3219614949](https://github.com/arch4edu/cactus/actions/runs/3219614949)|<script type="text/javascript">localize(1665428187);</script>|
 |x86_64/r|[x86_64/r/r-ttr](https://aur.archlinux.org/pkgbase/r-ttr)|PUBLISHED||[2703840189](https://github.com/arch4edu/cactus/actions/runs/2703840189)|<script type="text/javascript">localize(1658314650);</script>|
