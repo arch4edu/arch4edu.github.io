@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1669562407.60356);</script>
+Last update: <script type="text/javascript">localize(1669569487.0827925);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -431,7 +431,7 @@ Last update: <script type="text/javascript">localize(1669562407.60356);</script>
 |x86_64|[x86_64/python-qiskit-ibm-runtime](https://aur.archlinux.org/pkgbase/python-qiskit-ibm-runtime)|PUBLISHED||[3554393126](https://github.com/arch4edu/cactus/actions/runs/3554393126)|<script type="text/javascript">localize(1669487744);</script>|
 |x86_64|[x86_64/python-qiskit-ibmq-provider](https://aur.archlinux.org/pkgbase/python-qiskit-ibmq-provider)|PUBLISHED||[3172407758](https://github.com/arch4edu/cactus/actions/runs/3172407758)|<script type="text/javascript">localize(1664823137);</script>|
 |x86_64|[x86_64/python-qiskit-machine-learning](https://aur.archlinux.org/pkgbase/python-qiskit-machine-learning)|PUBLISHED||[3554393152](https://github.com/arch4edu/cactus/actions/runs/3554393152)|<script type="text/javascript">localize(1669487757);</script>|
-|x86_64|[x86_64/python-qiskit-nature](https://aur.archlinux.org/pkgbase/python-qiskit-nature)|FAILED|Build failed.|[3554393111](https://github.com/arch4edu/cactus/actions/runs/3554393111)|<script type="text/javascript">localize(1669478372);</script>|
+|x86_64|[x86_64/python-qiskit-nature](https://aur.archlinux.org/pkgbase/python-qiskit-nature)|BUILT||[3554393111](https://github.com/arch4edu/cactus/actions/runs/3554393111)|<script type="text/javascript">localize(1669569030);</script>|
 |x86_64|[x86_64/python-qiskit-optimization](https://aur.archlinux.org/pkgbase/python-qiskit-optimization)|PUBLISHED||[3172408114](https://github.com/arch4edu/cactus/actions/runs/3172408114)|<script type="text/javascript">localize(1664823176);</script>|
 |x86_64|[x86_64/python-qiskit-terra](https://aur.archlinux.org/pkgbase/python-qiskit-terra)|PUBLISHED||[3554363566](https://github.com/arch4edu/cactus/actions/runs/3554363566)|<script type="text/javascript">localize(1669487772);</script>|
 |x86_64|[x86_64/python-quandl](https://aur.archlinux.org/pkgbase/python-quandl)|PUBLISHED||[3156967117](https://github.com/arch4edu/cactus/actions/runs/3156967117)|<script type="text/javascript">localize(1664563799);</script>|
@@ -836,7 +836,7 @@ Last update: <script type="text/javascript">localize(1669562407.60356);</script>
 |x86_64/r|[x86_64/r/r-tidyselect](https://aur.archlinux.org/pkgbase/r-tidyselect)|PUBLISHED||[3242718349](https://github.com/arch4edu/cactus/actions/runs/3242718349)|<script type="text/javascript">localize(1665687211);</script>|
 |x86_64/r|[x86_64/r/r-timechange](https://aur.archlinux.org/pkgbase/r-timechange)|PUBLISHED||[3410611890](https://github.com/arch4edu/cactus/actions/runs/3410611890)|<script type="text/javascript">localize(1667846407);</script>|
 |x86_64/r|[x86_64/r/r-tmvnsim](https://aur.archlinux.org/pkgbase/r-tmvnsim)|PUBLISHED||[3273811847](https://github.com/arch4edu/cactus/actions/runs/3273811847)|<script type="text/javascript">localize(1666120624);</script>|
-|x86_64/r|[x86_64/r/r-toster](https://aur.archlinux.org/pkgbase/r-toster)|FAILED|Build failed.|[3558767197](https://github.com/arch4edu/cactus/actions/runs/3558767197)|<script type="text/javascript">localize(1669562084);</script>|
+|x86_64/r|[x86_64/r/r-toster](https://aur.archlinux.org/pkgbase/r-toster)|FAILED|Build failed.|[3558767197](https://github.com/arch4edu/cactus/actions/runs/3558767197)|<script type="text/javascript">localize(1669568987);</script>|
 |x86_64/r|[x86_64/r/r-truncnorm](https://aur.archlinux.org/pkgbase/r-truncnorm)|PUBLISHED||[2703435779](https://github.com/arch4edu/cactus/actions/runs/2703435779)|<script type="text/javascript">localize(1658310531);</script>|
 |x86_64/r|[x86_64/r/r-tseries](https://aur.archlinux.org/pkgbase/r-tseries)|PUBLISHED||[3219614949](https://github.com/arch4edu/cactus/actions/runs/3219614949)|<script type="text/javascript">localize(1665428187);</script>|
 |x86_64/r|[x86_64/r/r-ttr](https://aur.archlinux.org/pkgbase/r-ttr)|PUBLISHED||[2703840189](https://github.com/arch4edu/cactus/actions/runs/2703840189)|<script type="text/javascript">localize(1658314650);</script>|
