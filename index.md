@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1669645176.3510544);</script>
+Last update: <script type="text/javascript">localize(1669648777.0185034);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -344,7 +344,7 @@ Last update: <script type="text/javascript">localize(1669645176.3510544);</scrip
 |x86_64|[x86_64/ncview](https://aur.archlinux.org/pkgbase/ncview)|PUBLISHED||[2648832431](https://github.com/arch4edu/cactus/actions/runs/2648832431)|<script type="text/javascript">localize(1657535814);</script>|
 |x86_64|[x86_64/netron](https://aur.archlinux.org/pkgbase/netron)|PUBLISHED||[3553783416](https://github.com/arch4edu/cactus/actions/runs/3553783416)|<script type="text/javascript">localize(1669487690);</script>|
 |x86_64|[x86_64/nkf](https://aur.archlinux.org/pkgbase/nkf)|PUBLISHED||[2648523202](https://github.com/arch4edu/cactus/actions/runs/2648523202)|<script type="text/javascript">localize(1657532118);</script>|
-|x86_64|[x86_64/nni](https://aur.archlinux.org/pkgbase/nni)|FAILED|Build failed.|[3564970792](https://github.com/arch4edu/cactus/actions/runs/3564970792)|<script type="text/javascript">localize(1669640453);</script>|
+|x86_64|[x86_64/nni](https://aur.archlinux.org/pkgbase/nni)|BUILT||[3564970792](https://github.com/arch4edu/cactus/actions/runs/3564970792)|<script type="text/javascript">localize(1669646542);</script>|
 |x86_64|[x86_64/nomachine](https://aur.archlinux.org/pkgbase/nomachine)|PUBLISHED||[3455358326](https://github.com/arch4edu/cactus/actions/runs/3455358326)|<script type="text/javascript">localize(1668364652);</script>|
 |x86_64|[x86_64/nvidia-container-runtime](https://aur.archlinux.org/pkgbase/nvidia-container-runtime)|PUBLISHED||[3159298895](https://github.com/arch4edu/cactus/actions/runs/3159298895)|<script type="text/javascript">localize(1664563702);</script>|
 |x86_64|[x86_64/nvidia-container-toolkit](https://aur.archlinux.org/pkgbase/nvidia-container-toolkit)|PUBLISHED||[3159166615](https://github.com/arch4edu/cactus/actions/runs/3159166615)|<script type="text/javascript">localize(1664563714);</script>|
@@ -863,7 +863,7 @@ Last update: <script type="text/javascript">localize(1669645176.3510544);</scrip
 |x86_64/r|[x86_64/r/r-zip](https://aur.archlinux.org/pkgbase/r-zip)|PUBLISHED||[3329347083](https://github.com/arch4edu/cactus/actions/runs/3329347083)|<script type="text/javascript">localize(1666810379);</script>|
 |x86_64/r|[x86_64/r/r-zoo](https://aur.archlinux.org/pkgbase/r-zoo)|PUBLISHED||[3077222681](https://github.com/arch4edu/cactus/actions/runs/3077222681)|<script type="text/javascript">localize(1663526701);</script>|
 |x86_64/rocm|[x86_64/rocm/comgr](https://aur.archlinux.org/pkgbase/comgr)|PUBLISHED||[3508080543](https://github.com/arch4edu/cactus/actions/runs/3508080543)|<script type="text/javascript">localize(1668969399);</script>|
-|x86_64/rocm|[x86_64/rocm/hip-runtime-amd](https://aur.archlinux.org/pkgbase/hip-runtime-amd)|FAILED|Build failed.|[3560367728](https://github.com/arch4edu/cactus/actions/runs/3560367728)|<script type="text/javascript">localize(1669590571);</script>|
+|x86_64/rocm|[x86_64/rocm/hip-runtime-amd](https://aur.archlinux.org/pkgbase/hip-runtime-amd)|BUILT||[3560367728](https://github.com/arch4edu/cactus/actions/runs/3560367728)|<script type="text/javascript">localize(1669646051);</script>|
 |x86_64/rocm|[x86_64/rocm/hip-runtime-nvidia](https://aur.archlinux.org/pkgbase/hip-runtime-nvidia)|PUBLISHED||[3289930422](https://github.com/arch4edu/cactus/actions/runs/3289930422)|<script type="text/javascript">localize(1666292366);</script>|
 |x86_64/rocm|[x86_64/rocm/hipblas](https://aur.archlinux.org/pkgbase/hipblas)|PUBLISHED||[3254931053](https://github.com/arch4edu/cactus/actions/runs/3254931053)|<script type="text/javascript">localize(1665859611);</script>|
 |x86_64/rocm|[x86_64/rocm/hipcub](https://aur.archlinux.org/pkgbase/hipcub)|PUBLISHED||[3216669774](https://github.com/arch4edu/cactus/actions/runs/3216669774)|<script type="text/javascript">localize(1665385452);</script>|
@@ -882,7 +882,7 @@ Last update: <script type="text/javascript">localize(1669645176.3510544);</scrip
 |x86_64/rocm|[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|PUBLISHED||[2953271802](https://github.com/arch4edu/cactus/actions/runs/2953271802)|<script type="text/javascript">localize(1661843037);</script>|
 |x86_64/rocm|[x86_64/rocm/python-cupy-rocm](https://aur.archlinux.org/pkgbase/python-cupy-rocm)|PUBLISHED||[3537123891](https://github.com/arch4edu/cactus/actions/runs/3537123891)|<script type="text/javascript">localize(1669401903);</script>|
 |x86_64/rocm|[x86_64/rocm/python-pytorch-rocm](https://aur.archlinux.org/pkgbase/python-pytorch-rocm)|PUBLISHED||[3310102094](https://github.com/arch4edu/cactus/actions/runs/3310102094)|<script type="text/javascript">localize(1666853193);</script>|
-|x86_64/rocm|[x86_64/rocm/python-torchvision-rocm](https://aur.archlinux.org/pkgbase/python-torchvision-rocm)|STALED|Waiting for dependency: x86_64/rocm/hip-runtime-amd.|[3554476267](https://github.com/arch4edu/cactus/actions/runs/3554476267)|<script type="text/javascript">localize(1669645002);</script>|
+|x86_64/rocm|[x86_64/rocm/python-torchvision-rocm](https://aur.archlinux.org/pkgbase/python-torchvision-rocm)|FAILED|Build failed.|[3565945705](https://github.com/arch4edu/cactus/actions/runs/3565945705)|<script type="text/javascript">localize(1669648368);</script>|
 |x86_64/rocm|[x86_64/rocm/rccl](https://aur.archlinux.org/pkgbase/rccl)|PUBLISHED||[3250275792](https://github.com/arch4edu/cactus/actions/runs/3250275792)|<script type="text/javascript">localize(1665773341);</script>|
 |x86_64/rocm|[x86_64/rocm/rocalution](https://aur.archlinux.org/pkgbase/rocalution)|PUBLISHED||[3240949155](https://github.com/arch4edu/cactus/actions/runs/3240949155)|<script type="text/javascript">localize(1665687224);</script>|
 |x86_64/rocm|[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|PUBLISHED||[3239612210](https://github.com/arch4edu/cactus/actions/runs/3239612210)|<script type="text/javascript">localize(1665687249);</script>|
@@ -912,7 +912,7 @@ Last update: <script type="text/javascript">localize(1669645176.3510544);</scrip
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[3231774285](https://github.com/arch4edu/cactus/actions/runs/3231774285)|<script type="text/javascript">localize(1665557808);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[3262153704](https://github.com/arch4edu/cactus/actions/runs/3262153704)|<script type="text/javascript">localize(1665988291);</script>|
 |x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|PUBLISHED||[3410665449](https://github.com/arch4edu/cactus/actions/runs/3410665449)|<script type="text/javascript">localize(1667933499);</script>|
-|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|STALED|Waiting for dependency: x86_64/rocm/hip-runtime-amd.|[3537169131](https://github.com/arch4edu/cactus/actions/runs/3537169131)|<script type="text/javascript">localize(1669645003);</script>|
+|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[3565786711](https://github.com/arch4edu/cactus/actions/runs/3565786711)|<script type="text/javascript">localize(1669647503);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl](https://aur.archlinux.org/pkgbase/orocos-kdl)|PUBLISHED||[2962941130](https://github.com/arch4edu/cactus/actions/runs/2962941130)|<script type="text/javascript">localize(1661971407);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl-python](https://aur.archlinux.org/pkgbase/orocos-kdl-python)|PUBLISHED||[2962989020](https://github.com/arch4edu/cactus/actions/runs/2962989020)|<script type="text/javascript">localize(1661971419);</script>|
 |x86_64/ros|[x86_64/ros/ros-build-tools](https://aur.archlinux.org/pkgbase/ros-build-tools)|PUBLISHED||[2962941198](https://github.com/arch4edu/cactus/actions/runs/2962941198)|<script type="text/javascript">localize(1661971435);</script>|
