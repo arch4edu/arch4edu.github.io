@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1669690572.8091893);</script>
+Last update: <script type="text/javascript">localize(1669706350.5415528);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -329,7 +329,7 @@ Last update: <script type="text/javascript">localize(1669690572.8091893);</scrip
 |x86_64|[x86_64/mendeleydesktop](https://aur.archlinux.org/pkgbase/mendeleydesktop)|PUBLISHED||[2648118029](https://github.com/arch4edu/cactus/actions/runs/2648118029)|<script type="text/javascript">localize(1657529732);</script>|
 |x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|FAILED|Build failed.|[3564970525](https://github.com/arch4edu/cactus/actions/runs/3564970525)|<script type="text/javascript">localize(1669640918);</script>|
 |x86_64|[x86_64/metis](https://aur.archlinux.org/pkgbase/metis)|PUBLISHED||[3523606704](https://github.com/arch4edu/cactus/actions/runs/3523606704)|<script type="text/javascript">localize(1669142243);</script>|
-|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|BUILT||[3570322577](https://github.com/arch4edu/cactus/actions/runs/3570322577)|<script type="text/javascript">localize(1669687808);</script>|
+|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|PUBLISHED||[3570322577](https://github.com/arch4edu/cactus/actions/runs/3570322577)|<script type="text/javascript">localize(1669704232);</script>|
 |x86_64|[x86_64/miktex](https://aur.archlinux.org/pkgbase/miktex)|PUBLISHED||[3367094372](https://github.com/arch4edu/cactus/actions/runs/3367094372)|<script type="text/javascript">localize(1667285515);</script>|
 |x86_64|[x86_64/mmg](https://aur.archlinux.org/pkgbase/mmg)|PUBLISHED||[2648891891](https://github.com/arch4edu/cactus/actions/runs/2648891891)|<script type="text/javascript">localize(1657538791);</script>|
 |x86_64|[x86_64/mongodb](https://aur.archlinux.org/pkgbase/mongodb)|PUBLISHED||[3466901458](https://github.com/arch4edu/cactus/actions/runs/3466901458)|<script type="text/javascript">localize(1668494342);</script>|
@@ -1233,7 +1233,7 @@ Last update: <script type="text/javascript">localize(1669690572.8091893);</scrip
 |x86_64|[x86_64/wxwidgets-gtk2](https://aur.archlinux.org/pkgbase/wxwidgets-gtk2)|PUBLISHED||[3279780772](https://github.com/arch4edu/cactus/actions/runs/3279780772)|<script type="text/javascript">localize(1666205844);</script>|
 |x86_64|[x86_64/xflr5](https://aur.archlinux.org/pkgbase/xflr5)|PUBLISHED||[2687819685](https://github.com/arch4edu/cactus/actions/runs/2687819685)|<script type="text/javascript">localize(1658117473);</script>|
 |x86_64|[x86_64/yay](https://aur.archlinux.org/pkgbase/yay)|PUBLISHED||[3475857143](https://github.com/arch4edu/cactus/actions/runs/3475857143)|<script type="text/javascript">localize(1668581150);</script>|
-|x86_64|[x86_64/zoom](https://aur.archlinux.org/pkgbase/zoom)|BUILT||[3570322485](https://github.com/arch4edu/cactus/actions/runs/3570322485)|<script type="text/javascript">localize(1669687832);</script>|
+|x86_64|[x86_64/zoom](https://aur.archlinux.org/pkgbase/zoom)|PUBLISHED||[3570322485](https://github.com/arch4edu/cactus/actions/runs/3570322485)|<script type="text/javascript">localize(1669704340);</script>|
 |x86_64|[x86_64/zotero](https://aur.archlinux.org/pkgbase/zotero)|PUBLISHED||[3437086498](https://github.com/arch4edu/cactus/actions/runs/3437086498)|<script type="text/javascript">localize(1668105647);</script>|
 |x86_64|[x86_64/zotero-bin](https://aur.archlinux.org/pkgbase/zotero-bin)|PUBLISHED||[3433522416](https://github.com/arch4edu/cactus/actions/runs/3433522416)|<script type="text/javascript">localize(1668062556);</script>|
 
