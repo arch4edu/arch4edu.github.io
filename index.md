@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1669815224.8165169);</script>
+Last update: <script type="text/javascript">localize(1669817990.641653);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -249,7 +249,7 @@ Last update: <script type="text/javascript">localize(1669815224.8165169);</scrip
 |x86_64|[x86_64/fastfetch](https://aur.archlinux.org/pkgbase/fastfetch)|PUBLISHED||[3279494188](https://github.com/arch4edu/cactus/actions/runs/3279494188)|<script type="text/javascript">localize(1666194886);</script>|
 |x86_64|[x86_64/fbx-sdk](https://aur.archlinux.org/pkgbase/fbx-sdk)|BUILT||[3583525840](https://github.com/arch4edu/cactus/actions/runs/3583525840)|<script type="text/javascript">localize(1669813599);</script>|
 |x86_64|[x86_64/fcl](https://aur.archlinux.org/pkgbase/fcl)|PUBLISHED||[2648892160](https://github.com/arch4edu/cactus/actions/runs/2648892160)|<script type="text/javascript">localize(1657538601);</script>|
-|x86_64|[x86_64/fet-timetabling](https://aur.archlinux.org/pkgbase/fet-timetabling)|BUILDING|GitHubActions|[3583525939](https://github.com/arch4edu/cactus/actions/runs/3583525939)|<script type="text/javascript">localize(1669813460);</script>|
+|x86_64|[x86_64/fet-timetabling](https://aur.archlinux.org/pkgbase/fet-timetabling)|BUILT||[3583525939](https://github.com/arch4edu/cactus/actions/runs/3583525939)|<script type="text/javascript">localize(1669816433);</script>|
 |x86_64|[x86_64/flite1](https://aur.archlinux.org/pkgbase/flite1)|PUBLISHED||[3461802465](https://github.com/arch4edu/cactus/actions/runs/3461802465)|<script type="text/javascript">localize(1668451216);</script>|
 |x86_64|[x86_64/flutter](https://aur.archlinux.org/pkgbase/flutter)|PUBLISHED||[3558283354](https://github.com/arch4edu/cactus/actions/runs/3558283354)|<script type="text/javascript">localize(1669574144);</script>|
 |x86_64|[x86_64/g2clib](https://aur.archlinux.org/pkgbase/g2clib)|PUBLISHED||[2647862577](https://github.com/arch4edu/cactus/actions/runs/2647862577)|<script type="text/javascript">localize(1657525742);</script>|
@@ -333,7 +333,7 @@ Last update: <script type="text/javascript">localize(1669815224.8165169);</scrip
 |x86_64|[x86_64/makemkv](https://aur.archlinux.org/pkgbase/makemkv)|PUBLISHED||[3479572563](https://github.com/arch4edu/cactus/actions/runs/3479572563)|<script type="text/javascript">localize(1668623836);</script>|
 |x86_64|[x86_64/mathpix-snipping-tool](https://aur.archlinux.org/pkgbase/mathpix-snipping-tool)|PUBLISHED||[3556313928](https://github.com/arch4edu/cactus/actions/runs/3556313928)|<script type="text/javascript">localize(1669530923);</script>|
 |x86_64|[x86_64/mendeleydesktop](https://aur.archlinux.org/pkgbase/mendeleydesktop)|PUBLISHED||[2648118029](https://github.com/arch4edu/cactus/actions/runs/2648118029)|<script type="text/javascript">localize(1657529732);</script>|
-|x86_64|[x86_64/meshlab](https://aur.archlinux.org/pkgbase/meshlab)|BUILDING|GitHubActions|[3583606500](https://github.com/arch4edu/cactus/actions/runs/3583606500)|<script type="text/javascript">localize(1669814083);</script>|
+|x86_64|[x86_64/meshlab](https://aur.archlinux.org/pkgbase/meshlab)|BUILT||[3583606500](https://github.com/arch4edu/cactus/actions/runs/3583606500)|<script type="text/javascript">localize(1669815800);</script>|
 |x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|FAILED|Build failed.|[3579675758](https://github.com/arch4edu/cactus/actions/runs/3579675758)|<script type="text/javascript">localize(1669774216);</script>|
 |x86_64|[x86_64/metis](https://aur.archlinux.org/pkgbase/metis)|PUBLISHED||[3523606704](https://github.com/arch4edu/cactus/actions/runs/3523606704)|<script type="text/javascript">localize(1669142243);</script>|
 |x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|PUBLISHED||[3570322577](https://github.com/arch4edu/cactus/actions/runs/3570322577)|<script type="text/javascript">localize(1669704232);</script>|
