@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1669792742.97752);</script>
+Last update: <script type="text/javascript">localize(1669796847.6372502);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -718,7 +718,7 @@ Last update: <script type="text/javascript">localize(1669792742.97752);</script>
 |x86_64/r|[x86_64/r/r-pbivnorm](https://aur.archlinux.org/pkgbase/r-pbivnorm)|PUBLISHED||[2703563228](https://github.com/arch4edu/cactus/actions/runs/2703563228)|<script type="text/javascript">localize(1658310055);</script>|
 |x86_64/r|[x86_64/r/r-pbkrtest](https://aur.archlinux.org/pkgbase/r-pbkrtest)|PUBLISHED||[3278564967](https://github.com/arch4edu/cactus/actions/runs/3278564967)|<script type="text/javascript">localize(1666163796);</script>|
 |x86_64/r|[x86_64/r/r-pillar](https://aur.archlinux.org/pkgbase/r-pillar)|PUBLISHED||[2893222998](https://github.com/arch4edu/cactus/actions/runs/2893222998)|<script type="text/javascript">localize(1660977624);</script>|
-|x86_64/r|[x86_64/r/r-pkgbuild](https://aur.archlinux.org/pkgbase/r-pkgbuild)|FAILED|Build failed.|[3574276049](https://github.com/arch4edu/cactus/actions/runs/3574276049)|<script type="text/javascript">localize(1669732188);</script>|
+|x86_64/r|[x86_64/r/r-pkgbuild](https://aur.archlinux.org/pkgbase/r-pkgbuild)|BUILT||[3574276049](https://github.com/arch4edu/cactus/actions/runs/3574276049)|<script type="text/javascript">localize(1669793315);</script>|
 |x86_64/r|[x86_64/r/r-pkgconfig](https://aur.archlinux.org/pkgbase/r-pkgconfig)|PUBLISHED||[3273811414](https://github.com/arch4edu/cactus/actions/runs/3273811414)|<script type="text/javascript">localize(1666120281);</script>|
 |x86_64/r|[x86_64/r/r-pkgload](https://aur.archlinux.org/pkgbase/r-pkgload)|PUBLISHED||[3493680532](https://github.com/arch4edu/cactus/actions/runs/3493680532)|<script type="text/javascript">localize(1668796742);</script>|
 |x86_64/r|[x86_64/r/r-plotrix](https://aur.archlinux.org/pkgbase/r-plotrix)|PUBLISHED||[3273856968](https://github.com/arch4edu/cactus/actions/runs/3273856968)|<script type="text/javascript">localize(1666120297);</script>|
