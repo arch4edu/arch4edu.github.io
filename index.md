@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1669821797.3961227);</script>
+Last update: <script type="text/javascript">localize(1669828789.279179);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -215,7 +215,7 @@ Last update: <script type="text/javascript">localize(1669821797.3961227);</scrip
 |x86_64|[x86_64/chromedriver](https://aur.archlinux.org/pkgbase/chromedriver)|PUBLISHED||[3325806728](https://github.com/arch4edu/cactus/actions/runs/3325806728)|<script type="text/javascript">localize(1666766829);</script>|
 |x86_64|[x86_64/cider](https://aur.archlinux.org/pkgbase/cider)|PUBLISHED||[3345698863](https://github.com/arch4edu/cactus/actions/runs/3345698863)|<script type="text/javascript">localize(1666982571);</script>|
 |x86_64|[x86_64/clash-premium-bin](https://aur.archlinux.org/pkgbase/clash-premium-bin)|PUBLISHED||[3553783400](https://github.com/arch4edu/cactus/actions/runs/3553783400)|<script type="text/javascript">localize(1669487642);</script>|
-|x86_64|[x86_64/cloudcompare](https://aur.archlinux.org/pkgbase/cloudcompare)|FAILED|Build failed.|[3583606576](https://github.com/arch4edu/cactus/actions/runs/3583606576)|<script type="text/javascript">localize(1669814270);</script>|
+|x86_64|[x86_64/cloudcompare](https://aur.archlinux.org/pkgbase/cloudcompare)|FAILED|Build failed.|[3583606576](https://github.com/arch4edu/cactus/actions/runs/3583606576)|<script type="text/javascript">localize(1669827139);</script>|
 |x86_64|[x86_64/cminpack](https://aur.archlinux.org/pkgbase/cminpack)|PUBLISHED||[2648523138](https://github.com/arch4edu/cactus/actions/runs/2648523138)|<script type="text/javascript">localize(1657531917);</script>|
 |x86_64|[x86_64/cmuclmtk](https://aur.archlinux.org/pkgbase/cmuclmtk)|PUBLISHED||[2647948186](https://github.com/arch4edu/cactus/actions/runs/2647948186)|<script type="text/javascript">localize(1657529012);</script>|
 |x86_64|[x86_64/code_saturne](https://aur.archlinux.org/pkgbase/code_saturne)|PUBLISHED||[2648922098](https://github.com/arch4edu/cactus/actions/runs/2648922098)|<script type="text/javascript">localize(1657538579);</script>|
@@ -1205,7 +1205,7 @@ Last update: <script type="text/javascript">localize(1669821797.3961227);</scrip
 |x86_64|[x86_64/saxon-he](https://aur.archlinux.org/pkgbase/saxon-he)|PUBLISHED||[2896919768](https://github.com/arch4edu/cactus/actions/runs/2896919768)|<script type="text/javascript">localize(1661064186);</script>|
 |x86_64|[x86_64/sc-im](https://aur.archlinux.org/pkgbase/sc-im)|PUBLISHED||[2648586212](https://github.com/arch4edu/cactus/actions/runs/2648586212)|<script type="text/javascript">localize(1657536248);</script>|
 |x86_64|[x86_64/scalapack](https://aur.archlinux.org/pkgbase/scalapack)|PUBLISHED||[2648363630](https://github.com/arch4edu/cactus/actions/runs/2648363630)|<script type="text/javascript">localize(1657532252);</script>|
-|x86_64|[x86_64/scilab](https://aur.archlinux.org/pkgbase/scilab)|FAILED|Build failed.|[3583565079](https://github.com/arch4edu/cactus/actions/runs/3583565079)|<script type="text/javascript">localize(1669814031);</script>|
+|x86_64|[x86_64/scilab](https://aur.archlinux.org/pkgbase/scilab)|FAILED|Build failed.|[3583565079](https://github.com/arch4edu/cactus/actions/runs/3583565079)|<script type="text/javascript">localize(1669826463);</script>|
 |x86_64|[x86_64/scilab-bin](https://aur.archlinux.org/pkgbase/scilab-bin)|PUBLISHED||[2648738517](https://github.com/arch4edu/cactus/actions/runs/2648738517)|<script type="text/javascript">localize(1657536280);</script>|
 |x86_64|[x86_64/scotch](https://aur.archlinux.org/pkgbase/scotch)|PUBLISHED||[2648303806](https://github.com/arch4edu/cactus/actions/runs/2648303806)|<script type="text/javascript">localize(1657532262);</script>|
 |x86_64|[x86_64/sdformat-9](https://aur.archlinux.org/pkgbase/sdformat-9)|PUBLISHED||[2963031791](https://github.com/arch4edu/cactus/actions/runs/2963031791)|<script type="text/javascript">localize(1661973623);</script>|
