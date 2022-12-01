@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1669901845.5667124);</script>
+Last update: <script type="text/javascript">localize(1669922232.1344635);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -411,10 +411,10 @@ Last update: <script type="text/javascript">localize(1669901845.5667124);</scrip
 |x86_64|[x86_64/python-gensim](https://aur.archlinux.org/pkgbase/python-gensim)|PUBLISHED||[2648738470](https://github.com/arch4edu/cactus/actions/runs/2648738470)|<script type="text/javascript">localize(1657535890);</script>|
 |x86_64|[x86_64/python-ibm-cloud-sdk-core](https://aur.archlinux.org/pkgbase/python-ibm-cloud-sdk-core)|PUBLISHED||[3156967422](https://github.com/arch4edu/cactus/actions/runs/3156967422)|<script type="text/javascript">localize(1664563757);</script>|
 |x86_64|[x86_64/python-ibm-platform-services](https://aur.archlinux.org/pkgbase/python-ibm-platform-services)|PUBLISHED||[3544791421](https://github.com/arch4edu/cactus/actions/runs/3544791421)|<script type="text/javascript">localize(1669358238);</script>|
-|x86_64|[x86_64/python-imagecodecs](https://aur.archlinux.org/pkgbase/python-imagecodecs)|BUILT||[3590661564](https://github.com/arch4edu/cactus/actions/runs/3590661564)|<script type="text/javascript">localize(1669882416);</script>|
+|x86_64|[x86_64/python-imagecodecs](https://aur.archlinux.org/pkgbase/python-imagecodecs)|PUBLISHED||[3590661564](https://github.com/arch4edu/cactus/actions/runs/3590661564)|<script type="text/javascript">localize(1669919712);</script>|
 |x86_64|[x86_64/python-imageio](https://aur.archlinux.org/pkgbase/python-imageio)|PUBLISHED||[3410611560](https://github.com/arch4edu/cactus/actions/runs/3410611560)|<script type="text/javascript">localize(1667846382);</script>|
 |x86_64|[x86_64/python-leveldb](https://aur.archlinux.org/pkgbase/python-leveldb)|PUBLISHED||[3449200073](https://github.com/arch4edu/cactus/actions/runs/3449200073)|<script type="text/javascript">localize(1668235192);</script>|
-|x86_64|[x86_64/python-llvmlite-git](https://aur.archlinux.org/pkgbase/python-llvmlite-git)|BUILT||[3592815751](https://github.com/arch4edu/cactus/actions/runs/3592815751)|<script type="text/javascript">localize(1669899871);</script>|
+|x86_64|[x86_64/python-llvmlite-git](https://aur.archlinux.org/pkgbase/python-llvmlite-git)|PUBLISHED||[3592815751](https://github.com/arch4edu/cactus/actions/runs/3592815751)|<script type="text/javascript">localize(1669919725);</script>|
 |x86_64|[x86_64/python-lmfit](https://aur.archlinux.org/pkgbase/python-lmfit)|PUBLISHED||[3156967750](https://github.com/arch4edu/cactus/actions/runs/3156967750)|<script type="text/javascript">localize(1664563769);</script>|
 |x86_64|[x86_64/python-mkl-fft](https://aur.archlinux.org/pkgbase/python-mkl-fft)|PUBLISHED||[2648006310](https://github.com/arch4edu/cactus/actions/runs/2648006310)|<script type="text/javascript">localize(1657530229);</script>|
 |x86_64|[x86_64/python-mkl-random](https://aur.archlinux.org/pkgbase/python-mkl-random)|PUBLISHED||[2647863009](https://github.com/arch4edu/cactus/actions/runs/2647863009)|<script type="text/javascript">localize(1657525891);</script>|
