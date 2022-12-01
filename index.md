@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1669883269.9857001);</script>
+Last update: <script type="text/javascript">localize(1669901845.5667124);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -414,7 +414,7 @@ Last update: <script type="text/javascript">localize(1669883269.9857001);</scrip
 |x86_64|[x86_64/python-imagecodecs](https://aur.archlinux.org/pkgbase/python-imagecodecs)|BUILT||[3590661564](https://github.com/arch4edu/cactus/actions/runs/3590661564)|<script type="text/javascript">localize(1669882416);</script>|
 |x86_64|[x86_64/python-imageio](https://aur.archlinux.org/pkgbase/python-imageio)|PUBLISHED||[3410611560](https://github.com/arch4edu/cactus/actions/runs/3410611560)|<script type="text/javascript">localize(1667846382);</script>|
 |x86_64|[x86_64/python-leveldb](https://aur.archlinux.org/pkgbase/python-leveldb)|PUBLISHED||[3449200073](https://github.com/arch4edu/cactus/actions/runs/3449200073)|<script type="text/javascript">localize(1668235192);</script>|
-|x86_64|[x86_64/python-llvmlite-git](https://aur.archlinux.org/pkgbase/python-llvmlite-git)|PUBLISHED||[3466901372](https://github.com/arch4edu/cactus/actions/runs/3466901372)|<script type="text/javascript">localize(1668494359);</script>|
+|x86_64|[x86_64/python-llvmlite-git](https://aur.archlinux.org/pkgbase/python-llvmlite-git)|BUILT||[3592815751](https://github.com/arch4edu/cactus/actions/runs/3592815751)|<script type="text/javascript">localize(1669899871);</script>|
 |x86_64|[x86_64/python-lmfit](https://aur.archlinux.org/pkgbase/python-lmfit)|PUBLISHED||[3156967750](https://github.com/arch4edu/cactus/actions/runs/3156967750)|<script type="text/javascript">localize(1664563769);</script>|
 |x86_64|[x86_64/python-mkl-fft](https://aur.archlinux.org/pkgbase/python-mkl-fft)|PUBLISHED||[2648006310](https://github.com/arch4edu/cactus/actions/runs/2648006310)|<script type="text/javascript">localize(1657530229);</script>|
 |x86_64|[x86_64/python-mkl-random](https://aur.archlinux.org/pkgbase/python-mkl-random)|PUBLISHED||[2647863009](https://github.com/arch4edu/cactus/actions/runs/2647863009)|<script type="text/javascript">localize(1657525891);</script>|
@@ -892,7 +892,7 @@ Last update: <script type="text/javascript">localize(1669883269.9857001);</scrip
 |x86_64/rocm|[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|PUBLISHED||[2953271802](https://github.com/arch4edu/cactus/actions/runs/2953271802)|<script type="text/javascript">localize(1661843037);</script>|
 |x86_64/rocm|[x86_64/rocm/python-cupy-rocm](https://aur.archlinux.org/pkgbase/python-cupy-rocm)|PUBLISHED||[3537123891](https://github.com/arch4edu/cactus/actions/runs/3537123891)|<script type="text/javascript">localize(1669401903);</script>|
 |x86_64/rocm|[x86_64/rocm/python-pytorch-rocm](https://aur.archlinux.org/pkgbase/python-pytorch-rocm)|PUBLISHED||[3310102094](https://github.com/arch4edu/cactus/actions/runs/3310102094)|<script type="text/javascript">localize(1666853193);</script>|
-|x86_64/rocm|[x86_64/rocm/python-torchvision-rocm](https://aur.archlinux.org/pkgbase/python-torchvision-rocm)|FAILED|Build failed.|[3579903985](https://github.com/arch4edu/cactus/actions/runs/3579903985)|<script type="text/javascript">localize(1669777768);</script>|
+|x86_64/rocm|[x86_64/rocm/python-torchvision-rocm](https://aur.archlinux.org/pkgbase/python-torchvision-rocm)|FAILED|Build failed.|[3592985993](https://github.com/arch4edu/cactus/actions/runs/3592985993)|<script type="text/javascript">localize(1669901714);</script>|
 |x86_64/rocm|[x86_64/rocm/rccl](https://aur.archlinux.org/pkgbase/rccl)|PUBLISHED||[3250275792](https://github.com/arch4edu/cactus/actions/runs/3250275792)|<script type="text/javascript">localize(1665773341);</script>|
 |x86_64/rocm|[x86_64/rocm/rocalution](https://aur.archlinux.org/pkgbase/rocalution)|PUBLISHED||[3240949155](https://github.com/arch4edu/cactus/actions/runs/3240949155)|<script type="text/javascript">localize(1665687224);</script>|
 |x86_64/rocm|[x86_64/rocm/rocblas](https://aur.archlinux.org/pkgbase/rocblas)|PUBLISHED||[3239612210](https://github.com/arch4edu/cactus/actions/runs/3239612210)|<script type="text/javascript">localize(1665687249);</script>|
@@ -922,7 +922,7 @@ Last update: <script type="text/javascript">localize(1669883269.9857001);</scrip
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[3231774285](https://github.com/arch4edu/cactus/actions/runs/3231774285)|<script type="text/javascript">localize(1665557808);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[3262153704](https://github.com/arch4edu/cactus/actions/runs/3262153704)|<script type="text/javascript">localize(1665988291);</script>|
 |x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|PUBLISHED||[3410665449](https://github.com/arch4edu/cactus/actions/runs/3410665449)|<script type="text/javascript">localize(1667933499);</script>|
-|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[3579676133](https://github.com/arch4edu/cactus/actions/runs/3579676133)|<script type="text/javascript">localize(1669776819);</script>|
+|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[3592815895](https://github.com/arch4edu/cactus/actions/runs/3592815895)|<script type="text/javascript">localize(1669900637);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl](https://aur.archlinux.org/pkgbase/orocos-kdl)|PUBLISHED||[2962941130](https://github.com/arch4edu/cactus/actions/runs/2962941130)|<script type="text/javascript">localize(1661971407);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl-python](https://aur.archlinux.org/pkgbase/orocos-kdl-python)|PUBLISHED||[2962989020](https://github.com/arch4edu/cactus/actions/runs/2962989020)|<script type="text/javascript">localize(1661971419);</script>|
 |x86_64/ros|[x86_64/ros/ros-build-tools](https://aur.archlinux.org/pkgbase/ros-build-tools)|PUBLISHED||[2962941198](https://github.com/arch4edu/cactus/actions/runs/2962941198)|<script type="text/javascript">localize(1661971435);</script>|
