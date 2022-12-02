@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1669969510.6825225);</script>
+Last update: <script type="text/javascript">localize(1669987537.569202);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -185,7 +185,7 @@ Last update: <script type="text/javascript">localize(1669969510.6825225);</scrip
 |any|[any/xalan-java](https://aur.archlinux.org/pkgbase/xalan-java)|PUBLISHED||[2649060947](https://github.com/arch4edu/cactus/actions/runs/2649060947)|<script type="text/javascript">localize(1657538523);</script>|
 |any|[any/xerces2-java](https://aur.archlinux.org/pkgbase/xerces2-java)|PUBLISHED||[2648701221](https://github.com/arch4edu/cactus/actions/runs/2648701221)|<script type="text/javascript">localize(1657535602);</script>|
 |any|[any/ycm-generator-git](https://aur.archlinux.org/pkgbase/ycm-generator-git)|PUBLISHED||[2647726165](https://github.com/arch4edu/cactus/actions/runs/2647726165)|<script type="text/javascript">localize(1657525700);</script>|
-|x86_64|[x86_64/abinit](https://aur.archlinux.org/pkgbase/abinit)|FAILED|Build failed.|[3588861259](https://github.com/arch4edu/cactus/actions/runs/3588861259)|<script type="text/javascript">localize(1669861586);</script>|
+|x86_64|[x86_64/abinit](https://aur.archlinux.org/pkgbase/abinit)|FAILED|Build failed.|[3601843866](https://github.com/arch4edu/cactus/actions/runs/3601843866)|<script type="text/javascript">localize(1669985840);</script>|
 |x86_64|[x86_64/act](https://aur.archlinux.org/pkgbase/act)|PUBLISHED||[3415858597](https://github.com/arch4edu/cactus/actions/runs/3415858597)|<script type="text/javascript">localize(1667889798);</script>|
 |x86_64|[x86_64/adms](https://aur.archlinux.org/pkgbase/adms)|PUBLISHED||[2647948312](https://github.com/arch4edu/cactus/actions/runs/2647948312)|<script type="text/javascript">localize(1657528639);</script>|
 |x86_64|[x86_64/alpm_octopi_utils](https://aur.archlinux.org/pkgbase/alpm_octopi_utils)|PUBLISHED||[2846907170](https://github.com/arch4edu/cactus/actions/runs/2846907170)|<script type="text/javascript">localize(1660346743);</script>|
@@ -325,7 +325,7 @@ Last update: <script type="text/javascript">localize(1669969510.6825225);</scrip
 |x86_64|[x86_64/libnvidia-container](https://aur.archlinux.org/pkgbase/libnvidia-container)|PUBLISHED||[3102578397](https://github.com/arch4edu/cactus/actions/runs/3102578397)|<script type="text/javascript">localize(1663830375);</script>|
 |x86_64|[x86_64/libsearpc](https://aur.archlinux.org/pkgbase/libsearpc)|PUBLISHED||[3466901336](https://github.com/arch4edu/cactus/actions/runs/3466901336)|<script type="text/javascript">localize(1668494309);</script>|
 |x86_64|[x86_64/libxc](https://aur.archlinux.org/pkgbase/libxc)|PUBLISHED||[3255791304](https://github.com/arch4edu/cactus/actions/runs/3255791304)|<script type="text/javascript">localize(1665859511);</script>|
-|x86_64|[x86_64/lief](https://aur.archlinux.org/pkgbase/lief)|FAILED|Build failed.|[3588860943](https://github.com/arch4edu/cactus/actions/runs/3588860943)|<script type="text/javascript">localize(1669861599);</script>|
+|x86_64|[x86_64/lief](https://aur.archlinux.org/pkgbase/lief)|FAILED|Build failed.|[3601843592](https://github.com/arch4edu/cactus/actions/runs/3601843592)|<script type="text/javascript">localize(1669985780);</script>|
 |x86_64|[x86_64/lis](https://aur.archlinux.org/pkgbase/lis)|PUBLISHED||[2647862364](https://github.com/arch4edu/cactus/actions/runs/2647862364)|<script type="text/javascript">localize(1657525814);</script>|
 |x86_64|[x86_64/lua51-cjson](https://aur.archlinux.org/pkgbase/lua51-cjson)|PUBLISHED||[2647862934](https://github.com/arch4edu/cactus/actions/runs/2647862934)|<script type="text/javascript">localize(1657525825);</script>|
 |x86_64|[x86_64/lux-dl](https://aur.archlinux.org/pkgbase/lux-dl)|PUBLISHED||[3415858633](https://github.com/arch4edu/cactus/actions/runs/3415858633)|<script type="text/javascript">localize(1667889824);</script>|
@@ -334,7 +334,7 @@ Last update: <script type="text/javascript">localize(1669969510.6825225);</scrip
 |x86_64|[x86_64/mathpix-snipping-tool](https://aur.archlinux.org/pkgbase/mathpix-snipping-tool)|PUBLISHED||[3556313928](https://github.com/arch4edu/cactus/actions/runs/3556313928)|<script type="text/javascript">localize(1669530923);</script>|
 |x86_64|[x86_64/mendeleydesktop](https://aur.archlinux.org/pkgbase/mendeleydesktop)|PUBLISHED||[2648118029](https://github.com/arch4edu/cactus/actions/runs/2648118029)|<script type="text/javascript">localize(1657529732);</script>|
 |x86_64|[x86_64/meshlab](https://aur.archlinux.org/pkgbase/meshlab)|PUBLISHED||[3583606500](https://github.com/arch4edu/cactus/actions/runs/3583606500)|<script type="text/javascript">localize(1669833433);</script>|
-|x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|FAILED|Build failed.|[3588860973](https://github.com/arch4edu/cactus/actions/runs/3588860973)|<script type="text/javascript">localize(1669862044);</script>|
+|x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|FAILED|Build failed.|[3601843667](https://github.com/arch4edu/cactus/actions/runs/3601843667)|<script type="text/javascript">localize(1669985675);</script>|
 |x86_64|[x86_64/metis](https://aur.archlinux.org/pkgbase/metis)|PUBLISHED||[3523606704](https://github.com/arch4edu/cactus/actions/runs/3523606704)|<script type="text/javascript">localize(1669142243);</script>|
 |x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|PUBLISHED||[3570322577](https://github.com/arch4edu/cactus/actions/runs/3570322577)|<script type="text/javascript">localize(1669704232);</script>|
 |x86_64|[x86_64/miktex](https://aur.archlinux.org/pkgbase/miktex)|PUBLISHED||[3367094372](https://github.com/arch4edu/cactus/actions/runs/3367094372)|<script type="text/javascript">localize(1667285515);</script>|
@@ -859,7 +859,7 @@ Last update: <script type="text/javascript">localize(1669969510.6825225);</scrip
 |x86_64/r|[x86_64/r/r-viridis](https://aur.archlinux.org/pkgbase/r-viridis)|PUBLISHED||[2720718322](https://github.com/arch4edu/cactus/actions/runs/2720718322)|<script type="text/javascript">localize(1658522096);</script>|
 |x86_64/r|[x86_64/r/r-viridislite](https://aur.archlinux.org/pkgbase/r-viridislite)|PUBLISHED||[3037543930](https://github.com/arch4edu/cactus/actions/runs/3037543930)|<script type="text/javascript">localize(1663008466);</script>|
 |x86_64/r|[x86_64/r/r-waldo](https://aur.archlinux.org/pkgbase/r-waldo)|PUBLISHED||[2720690892](https://github.com/arch4edu/cactus/actions/runs/2720690892)|<script type="text/javascript">localize(1658517979);</script>|
-|x86_64/r|[x86_64/r/r-weibullness](https://aur.archlinux.org/pkgbase/r-weibullness)|PUBLISHED||[2703396308](https://github.com/arch4edu/cactus/actions/runs/2703396308)|<script type="text/javascript">localize(1658310590);</script>|
+|x86_64/r|[x86_64/r/r-weibullness](https://aur.archlinux.org/pkgbase/r-weibullness)|BUILT||[3601843759](https://github.com/arch4edu/cactus/actions/runs/3601843759)|<script type="text/javascript">localize(1669985726);</script>|
 |x86_64/r|[x86_64/r/r-weightr](https://aur.archlinux.org/pkgbase/r-weightr)|PUBLISHED||[2720744338](https://github.com/arch4edu/cactus/actions/runs/2720744338)|<script type="text/javascript">localize(1658522111);</script>|
 |x86_64/r|[x86_64/r/r-weights](https://aur.archlinux.org/pkgbase/r-weights)|PUBLISHED||[2751527558](https://github.com/arch4edu/cactus/actions/runs/2751527558)|<script type="text/javascript">localize(1658990086);</script>|
 |x86_64/r|[x86_64/r/r-withr](https://aur.archlinux.org/pkgbase/r-withr)|PUBLISHED||[2703436339](https://github.com/arch4edu/cactus/actions/runs/2703436339)|<script type="text/javascript">localize(1658310605);</script>|
