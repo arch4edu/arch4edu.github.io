@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1670035138.8942544);</script>
+Last update: <script type="text/javascript">localize(1670044669.5690155);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -829,7 +829,7 @@ Last update: <script type="text/javascript">localize(1670035138.8942544);</scrip
 |x86_64/r|[x86_64/r/r-statmod](https://aur.archlinux.org/pkgbase/r-statmod)|PUBLISHED||[3273764008](https://github.com/arch4edu/cactus/actions/runs/3273764008)|<script type="text/javascript">localize(1666120581);</script>|
 |x86_64/r|[x86_64/r/r-statnet.common](https://aur.archlinux.org/pkgbase/r-statnet.common)|PUBLISHED||[3019691812](https://github.com/arch4edu/cactus/actions/runs/3019691812)|<script type="text/javascript">localize(1662706559);</script>|
 |x86_64/r|[x86_64/r/r-stringi](https://aur.archlinux.org/pkgbase/r-stringi)|PUBLISHED||[3367094287](https://github.com/arch4edu/cactus/actions/runs/3367094287)|<script type="text/javascript">localize(1667285637);</script>|
-|x86_64/r|[x86_64/r/r-stringr](https://aur.archlinux.org/pkgbase/r-stringr)|FAILED|Build failed.|[3606430483](https://github.com/arch4edu/cactus/actions/runs/3606430483)|<script type="text/javascript">localize(1670032580);</script>|
+|x86_64/r|[x86_64/r/r-stringr](https://aur.archlinux.org/pkgbase/r-stringr)|BUILT||[3606430483](https://github.com/arch4edu/cactus/actions/runs/3606430483)|<script type="text/javascript">localize(1670044275);</script>|
 |x86_64/r|[x86_64/r/r-strucchange](https://aur.archlinux.org/pkgbase/r-strucchange)|PUBLISHED||[2703840410](https://github.com/arch4edu/cactus/actions/runs/2703840410)|<script type="text/javascript">localize(1658314564);</script>|
 |x86_64/r|[x86_64/r/r-suppdists](https://aur.archlinux.org/pkgbase/r-suppdists)|PUBLISHED||[2703436212](https://github.com/arch4edu/cactus/actions/runs/2703436212)|<script type="text/javascript">localize(1658310480);</script>|
 |x86_64/r|[x86_64/r/r-svglite](https://aur.archlinux.org/pkgbase/r-svglite)|PUBLISHED||[2703840755](https://github.com/arch4edu/cactus/actions/runs/2703840755)|<script type="text/javascript">localize(1658314575);</script>|
