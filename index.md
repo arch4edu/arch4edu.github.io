@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1670915890.9669337);</script>
+Last update: <script type="text/javascript">localize(1670919975.2528949);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -920,7 +920,7 @@ Last update: <script type="text/javascript">localize(1670915890.9669337);</scrip
 |x86_64/rocm|[x86_64/rocm/rocprim](https://aur.archlinux.org/pkgbase/rocprim)|PUBLISHED||[3639063611](https://github.com/arch4edu/cactus/actions/runs/3639063611)|<script type="text/javascript">localize(1670438073);</script>|
 |x86_64/rocm|[x86_64/rocm/rocprofiler](https://aur.archlinux.org/pkgbase/rocprofiler)|PUBLISHED||[3259578400](https://github.com/arch4edu/cactus/actions/runs/3259578400)|<script type="text/javascript">localize(1665945980);</script>|
 |x86_64/rocm|[x86_64/rocm/rocrand](https://aur.archlinux.org/pkgbase/rocrand)|PUBLISHED||[3648459027](https://github.com/arch4edu/cactus/actions/runs/3648459027)|<script type="text/javascript">localize(1670524395);</script>|
-|x86_64/rocm|[x86_64/rocm/rocsolver](https://aur.archlinux.org/pkgbase/rocsolver)|BUILDING|GitHubActions|[3681569519](https://github.com/arch4edu/cactus/actions/runs/3681569519)|<script type="text/javascript">localize(1670897311);</script>|
+|x86_64/rocm|[x86_64/rocm/rocsolver](https://aur.archlinux.org/pkgbase/rocsolver)|FAILED|Build failed.|[3681569519](https://github.com/arch4edu/cactus/actions/runs/3681569519)|<script type="text/javascript">localize(1670918860);</script>|
 |x86_64/rocm|[x86_64/rocm/rocsparse](https://aur.archlinux.org/pkgbase/rocsparse)|PUBLISHED||[3653787154](https://github.com/arch4edu/cactus/actions/runs/3653787154)|<script type="text/javascript">localize(1670610868);</script>|
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[3644522936](https://github.com/arch4edu/cactus/actions/runs/3644522936)|<script type="text/javascript">localize(1670481332);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[3262153704](https://github.com/arch4edu/cactus/actions/runs/3262153704)|<script type="text/javascript">localize(1665988291);</script>|
