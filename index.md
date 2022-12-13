@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1670900097.405997);</script>
+Last update: <script type="text/javascript">localize(1670915890.9669337);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -913,9 +913,9 @@ Last update: <script type="text/javascript">localize(1670900097.405997);</script
 |x86_64/rocm|[x86_64/rocm/rocm-language-runtime](https://aur.archlinux.org/pkgbase/rocm-language-runtime)|PUBLISHED||[3676008089](https://github.com/arch4edu/cactus/actions/runs/3676008089)|<script type="text/javascript">localize(1670870291);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-llvm](https://aur.archlinux.org/pkgbase/rocm-llvm)|PUBLISHED||[3598196215](https://github.com/arch4edu/cactus/actions/runs/3598196215)|<script type="text/javascript">localize(1670006128);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-llvm-mlir](https://aur.archlinux.org/pkgbase/rocm-llvm-mlir)|PUBLISHED||[3317930225](https://github.com/arch4edu/cactus/actions/runs/3317930225)|<script type="text/javascript">localize(1666682075);</script>|
-|x86_64/rocm|[x86_64/rocm/rocm-opencl-runtime](https://aur.archlinux.org/pkgbase/rocm-opencl-runtime)|BUILT||[3681569461](https://github.com/arch4edu/cactus/actions/runs/3681569461)|<script type="text/javascript">localize(1670897599);</script>|
+|x86_64/rocm|[x86_64/rocm/rocm-opencl-runtime](https://aur.archlinux.org/pkgbase/rocm-opencl-runtime)|PUBLISHED||[3681569461](https://github.com/arch4edu/cactus/actions/runs/3681569461)|<script type="text/javascript">localize(1670913270);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-opencl-sdk](https://aur.archlinux.org/pkgbase/rocm-opencl-sdk)|PUBLISHED||[3676055398](https://github.com/arch4edu/cactus/actions/runs/3676055398)|<script type="text/javascript">localize(1670870303);</script>|
-|x86_64/rocm|[x86_64/rocm/rocm-smi-lib](https://aur.archlinux.org/pkgbase/rocm-smi-lib)|BUILT||[3681569404](https://github.com/arch4edu/cactus/actions/runs/3681569404)|<script type="text/javascript">localize(1670897527);</script>|
+|x86_64/rocm|[x86_64/rocm/rocm-smi-lib](https://aur.archlinux.org/pkgbase/rocm-smi-lib)|PUBLISHED||[3681569404](https://github.com/arch4edu/cactus/actions/runs/3681569404)|<script type="text/javascript">localize(1670913283);</script>|
 |x86_64/rocm|[x86_64/rocm/rocminfo](https://aur.archlinux.org/pkgbase/rocminfo)|PUBLISHED||[3635177913](https://github.com/arch4edu/cactus/actions/runs/3635177913)|<script type="text/javascript">localize(1670395029);</script>|
 |x86_64/rocm|[x86_64/rocm/rocprim](https://aur.archlinux.org/pkgbase/rocprim)|PUBLISHED||[3639063611](https://github.com/arch4edu/cactus/actions/runs/3639063611)|<script type="text/javascript">localize(1670438073);</script>|
 |x86_64/rocm|[x86_64/rocm/rocprofiler](https://aur.archlinux.org/pkgbase/rocprofiler)|PUBLISHED||[3259578400](https://github.com/arch4edu/cactus/actions/runs/3259578400)|<script type="text/javascript">localize(1665945980);</script>|
