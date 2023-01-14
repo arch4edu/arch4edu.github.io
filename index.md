@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1673687844.4134455);</script>
+Last update: <script type="text/javascript">localize(1673691561.953132);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -102,8 +102,8 @@ Last update: <script type="text/javascript">localize(1673687844.4134455);</scrip
 |any|[any/pi-hole-standalone](https://aur.archlinux.org/pkgbase/pi-hole-standalone)|PUBLISHED||[3470781496](https://github.com/arch4edu/cactus/actions/runs/3470781496)|<script type="text/javascript">localize(1668537490);</script>|
 |any|[any/pnpm](https://aur.archlinux.org/pkgbase/pnpm)|PUBLISHED||[3902448894](https://github.com/arch4edu/cactus/actions/runs/3902448894)|<script type="text/javascript">localize(1673548477);</script>|
 |any|[any/pyglossary](https://aur.archlinux.org/pkgbase/pyglossary)|PUBLISHED||[2648832251](https://github.com/arch4edu/cactus/actions/runs/2648832251)|<script type="text/javascript">localize(1657535442);</script>|
-|any|[any/pypy3-pip](https://aur.archlinux.org/pkgbase/pypy3-pip)|PUBLISHED||[2648671602](https://github.com/arch4edu/cactus/actions/runs/2648671602)|<script type="text/javascript">localize(1657535457);</script>|
-|any|[any/pypy3-setuptools](https://aur.archlinux.org/pkgbase/pypy3-setuptools)|PUBLISHED||[2647674512](https://github.com/arch4edu/cactus/actions/runs/2647674512)|<script type="text/javascript">localize(1657521317);</script>|
+|any|[any/pypy3-pip](https://aur.archlinux.org/pkgbase/pypy3-pip)|STALE|Waiting for dependency: any/pypy3-setuptools.|[2648671602](https://github.com/arch4edu/cactus/actions/runs/2648671602)|<script type="text/javascript">localize(1673691298);</script>|
+|any|[any/pypy3-setuptools](https://aur.archlinux.org/pkgbase/pypy3-setuptools)|BUILT||[3918043940](https://github.com/arch4edu/cactus/actions/runs/3918043940)|<script type="text/javascript">localize(1673691475);</script>|
 |any|[any/python-astropy-helpers](https://aur.archlinux.org/pkgbase/python-astropy-helpers)|PUBLISHED||[2647726227](https://github.com/arch4edu/cactus/actions/runs/2647726227)|<script type="text/javascript">localize(1657524939);</script>|
 |any|[any/python-astropy-sphinx-theme](https://aur.archlinux.org/pkgbase/python-astropy-sphinx-theme)|PUBLISHED||[2647751663](https://github.com/arch4edu/cactus/actions/runs/2647751663)|<script type="text/javascript">localize(1657524954);</script>|
 |any|[any/python-audioread](https://aur.archlinux.org/pkgbase/python-audioread)|PUBLISHED||[2855811912](https://github.com/arch4edu/cactus/actions/runs/2855811912)|<script type="text/javascript">localize(1660519499);</script>|
@@ -923,7 +923,7 @@ Last update: <script type="text/javascript">localize(1673687844.4134455);</scrip
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[3720284529](https://github.com/arch4edu/cactus/actions/runs/3720284529)|<script type="text/javascript">localize(1671302001);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[3727712001](https://github.com/arch4edu/cactus/actions/runs/3727712001)|<script type="text/javascript">localize(1671431690);</script>|
 |x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|PUBLISHED||[3410665449](https://github.com/arch4edu/cactus/actions/runs/3410665449)|<script type="text/javascript">localize(1667933499);</script>|
-|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|STALE|Waiting for dependency: any/python-cppheaderparser.|[3676437540](https://github.com/arch4edu/cactus/actions/runs/3676437540)|<script type="text/javascript">localize(1673687754);</script>|
+|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|STALE|Waiting for dependency: any/python-cppheaderparser.|[3676437540](https://github.com/arch4edu/cactus/actions/runs/3676437540)|<script type="text/javascript">localize(1673691289);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl](https://aur.archlinux.org/pkgbase/orocos-kdl)|PUBLISHED||[2962941130](https://github.com/arch4edu/cactus/actions/runs/2962941130)|<script type="text/javascript">localize(1661971407);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl-python](https://aur.archlinux.org/pkgbase/orocos-kdl-python)|PUBLISHED||[2962989020](https://github.com/arch4edu/cactus/actions/runs/2962989020)|<script type="text/javascript">localize(1661971419);</script>|
 |x86_64/ros|[x86_64/ros/ros-build-tools](https://aur.archlinux.org/pkgbase/ros-build-tools)|PUBLISHED||[2962941198](https://github.com/arch4edu/cactus/actions/runs/2962941198)|<script type="text/javascript">localize(1661971435);</script>|
