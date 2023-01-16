@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1673893412.1199968);</script>
+Last update: <script type="text/javascript">localize(1673896516.8320754);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -24,7 +24,7 @@ Last update: <script type="text/javascript">localize(1673893412.1199968);</scrip
 |aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|PUBLISHED||[3501664838](https://github.com/arch4edu/cactus/actions/runs/3501664838)|<script type="text/javascript">localize(1668839817);</script>|
 |aarch64|[aarch64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|PUBLISHED||[3402599629](https://github.com/arch4edu/cactus/actions/runs/3402599629)|<script type="text/javascript">localize(1667716718);</script>|
 |aarch64|[aarch64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|PUBLISHED||[3902532739](https://github.com/arch4edu/cactus/actions/runs/3902532739)|<script type="text/javascript">localize(1673548458);</script>|
-|aarch64|[aarch64/netron](https://aur.archlinux.org/pkgbase/netron)|BUILT||[3930586039](https://github.com/arch4edu/cactus/actions/runs/3930586039)|<script type="text/javascript">localize(1673874352);</script>|
+|aarch64|[aarch64/netron](https://aur.archlinux.org/pkgbase/netron)|PUBLISHED||[3930586039](https://github.com/arch4edu/cactus/actions/runs/3930586039)|<script type="text/javascript">localize(1673893909);</script>|
 |aarch64|[aarch64/nni](https://aur.archlinux.org/pkgbase/nni)|PUBLISHED||[3470741153](https://github.com/arch4edu/cactus/actions/runs/3470741153)|<script type="text/javascript">localize(1668537442);</script>|
 |aarch64|[aarch64/octopi](https://aur.archlinux.org/pkgbase/octopi)|PUBLISHED||[3424903617](https://github.com/arch4edu/cactus/actions/runs/3424903617)|<script type="text/javascript">localize(1667976470);</script>|
 |aarch64|[aarch64/pacman-static](https://aur.archlinux.org/pkgbase/pacman-static)|PUBLISHED||[3501616029](https://github.com/arch4edu/cactus/actions/runs/3501616029)|<script type="text/javascript">localize(1668839829);</script>|
@@ -227,10 +227,10 @@ Last update: <script type="text/javascript">localize(1673893412.1199968);</scrip
 |x86_64|[x86_64/cp2k-bin](https://aur.archlinux.org/pkgbase/cp2k-bin)|PUBLISHED||[3902448781](https://github.com/arch4edu/cactus/actions/runs/3902448781)|<script type="text/javascript">localize(1673548498);</script>|
 |x86_64|[x86_64/cpptest](https://aur.archlinux.org/pkgbase/cpptest)|PUBLISHED||[2647948245](https://github.com/arch4edu/cactus/actions/runs/2647948245)|<script type="text/javascript">localize(1657529059);</script>|
 |x86_64|[x86_64/devtools-arch4edu-extra](https://aur.archlinux.org/pkgbase/devtools-arch4edu-extra)|FAILED|nvchecker failed|[2648642921](https://github.com/arch4edu/cactus/actions/runs/2648642921)|<script type="text/javascript">localize(1673614226);</script>|
-|x86_64|[x86_64/devtools-qemu](https://aur.archlinux.org/pkgbase/devtools-qemu)|STALE|Waiting for dependency: any/devtools-arch4edu.|[3540809833](https://github.com/arch4edu/cactus/actions/runs/3540809833)|<script type="text/javascript">localize(1673893182);</script>|
+|x86_64|[x86_64/devtools-qemu](https://aur.archlinux.org/pkgbase/devtools-qemu)|STALE|Waiting for dependency: any/devtools-arch4edu.|[3540809833](https://github.com/arch4edu/cactus/actions/runs/3540809833)|<script type="text/javascript">localize(1673896358);</script>|
 |x86_64|[x86_64/distccd-alarm](https://aur.archlinux.org/pkgbase/distccd-alarm)|PUBLISHED||[2648118082](https://github.com/arch4edu/cactus/actions/runs/2648118082)|<script type="text/javascript">localize(1657529104);</script>|
 |x86_64|[x86_64/dlib](https://aur.archlinux.org/pkgbase/dlib)|PUBLISHED||[3583525541](https://github.com/arch4edu/cactus/actions/runs/3583525541)|<script type="text/javascript">localize(1669833333);</script>|
-|x86_64|[x86_64/dolfinx](https://aur.archlinux.org/pkgbase/dolfinx)|STALE|Waiting for dependency: x86_64/petsc-complex.|[3349736821](https://github.com/arch4edu/cactus/actions/runs/3349736821)|<script type="text/javascript">localize(1673893187);</script>|
+|x86_64|[x86_64/dolfinx](https://aur.archlinux.org/pkgbase/dolfinx)|STALE|Waiting for dependency: x86_64/petsc-complex.|[3349736821](https://github.com/arch4edu/cactus/actions/runs/3349736821)|<script type="text/javascript">localize(1673896364);</script>|
 |x86_64|[x86_64/dumux](https://aur.archlinux.org/pkgbase/dumux)|PUBLISHED||[3639063511](https://github.com/arch4edu/cactus/actions/runs/3639063511)|<script type="text/javascript">localize(1670438040);</script>|
 |x86_64|[x86_64/dune-common](https://aur.archlinux.org/pkgbase/dune-common)|PUBLISHED||[3653757317](https://github.com/arch4edu/cactus/actions/runs/3653757317)|<script type="text/javascript">localize(1670567652);</script>|
 |x86_64|[x86_64/dune-geometry](https://aur.archlinux.org/pkgbase/dune-geometry)|PUBLISHED||[3630349686](https://github.com/arch4edu/cactus/actions/runs/3630349686)|<script type="text/javascript">localize(1670351629);</script>|
@@ -348,7 +348,7 @@ Last update: <script type="text/javascript">localize(1673893412.1199968);</scrip
 |x86_64|[x86_64/ncl](https://aur.archlinux.org/pkgbase/ncl)|PUBLISHED||[3410127571](https://github.com/arch4edu/cactus/actions/runs/3410127571)|<script type="text/javascript">localize(1667846316);</script>|
 |x86_64|[x86_64/ncurses5-compat-libs](https://aur.archlinux.org/pkgbase/ncurses5-compat-libs)|PUBLISHED||[2647862465](https://github.com/arch4edu/cactus/actions/runs/2647862465)|<script type="text/javascript">localize(1657525836);</script>|
 |x86_64|[x86_64/ncview](https://aur.archlinux.org/pkgbase/ncview)|PUBLISHED||[2648832431](https://github.com/arch4edu/cactus/actions/runs/2648832431)|<script type="text/javascript">localize(1657535814);</script>|
-|x86_64|[x86_64/netron](https://aur.archlinux.org/pkgbase/netron)|BUILT||[3930586248](https://github.com/arch4edu/cactus/actions/runs/3930586248)|<script type="text/javascript">localize(1673874205);</script>|
+|x86_64|[x86_64/netron](https://aur.archlinux.org/pkgbase/netron)|PUBLISHED||[3930586248](https://github.com/arch4edu/cactus/actions/runs/3930586248)|<script type="text/javascript">localize(1673893971);</script>|
 |x86_64|[x86_64/nkf](https://aur.archlinux.org/pkgbase/nkf)|PUBLISHED||[2648523202](https://github.com/arch4edu/cactus/actions/runs/2648523202)|<script type="text/javascript">localize(1657532118);</script>|
 |x86_64|[x86_64/nni](https://aur.archlinux.org/pkgbase/nni)|PUBLISHED||[3564970792](https://github.com/arch4edu/cactus/actions/runs/3564970792)|<script type="text/javascript">localize(1669660537);</script>|
 |x86_64|[x86_64/nomachine](https://aur.archlinux.org/pkgbase/nomachine)|PUBLISHED||[3455358326](https://github.com/arch4edu/cactus/actions/runs/3455358326)|<script type="text/javascript">localize(1668364652);</script>|
@@ -404,7 +404,7 @@ Last update: <script type="text/javascript">localize(1673893412.1199968);</scrip
 |x86_64|[x86_64/python-fastdtw](https://aur.archlinux.org/pkgbase/python-fastdtw)|PUBLISHED||[3164678786](https://github.com/arch4edu/cactus/actions/runs/3164678786)|<script type="text/javascript">localize(1664649993);</script>|
 |x86_64|[x86_64/python-fastrlock](https://aur.archlinux.org/pkgbase/python-fastrlock)|PUBLISHED||[3410611627](https://github.com/arch4edu/cactus/actions/runs/3410611627)|<script type="text/javascript">localize(1667846364);</script>|
 |x86_64|[x86_64/python-fenics-basix](https://aur.archlinux.org/pkgbase/python-fenics-basix)|PUBLISHED||[3921307499](https://github.com/arch4edu/cactus/actions/runs/3921307499)|<script type="text/javascript">localize(1673764293);</script>|
-|x86_64|[x86_64/python-fenics-dolfinx](https://aur.archlinux.org/pkgbase/python-fenics-dolfinx)|STALE|Waiting for dependency: x86_64/petsc-complex.|[3345732466](https://github.com/arch4edu/cactus/actions/runs/3345732466)|<script type="text/javascript">localize(1673893188);</script>|
+|x86_64|[x86_64/python-fenics-dolfinx](https://aur.archlinux.org/pkgbase/python-fenics-dolfinx)|STALE|Waiting for dependency: x86_64/petsc-complex.|[3345732466](https://github.com/arch4edu/cactus/actions/runs/3345732466)|<script type="text/javascript">localize(1673896364);</script>|
 |x86_64|[x86_64/python-fenics-ffcx](https://aur.archlinux.org/pkgbase/python-fenics-ffcx)|PUBLISHED||[3921343514](https://github.com/arch4edu/cactus/actions/runs/3921343514)|<script type="text/javascript">localize(1673764306);</script>|
 |x86_64|[x86_64/python-fenics-ufl](https://aur.archlinux.org/pkgbase/python-fenics-ufl)|PUBLISHED||[3911464747](https://github.com/arch4edu/cactus/actions/runs/3911464747)|<script type="text/javascript">localize(1673634725);</script>|
 |x86_64|[x86_64/python-gensim](https://aur.archlinux.org/pkgbase/python-gensim)|PUBLISHED||[3749427976](https://github.com/arch4edu/cactus/actions/runs/3749427976)|<script type="text/javascript">localize(1671647603);</script>|
@@ -923,7 +923,7 @@ Last update: <script type="text/javascript">localize(1673893412.1199968);</scrip
 |x86_64/rocm|[x86_64/rocm/rocthrust](https://aur.archlinux.org/pkgbase/rocthrust)|PUBLISHED||[3720284529](https://github.com/arch4edu/cactus/actions/runs/3720284529)|<script type="text/javascript">localize(1671302001);</script>|
 |x86_64/rocm|[x86_64/rocm/roctracer](https://aur.archlinux.org/pkgbase/roctracer)|PUBLISHED||[3727712001](https://github.com/arch4edu/cactus/actions/runs/3727712001)|<script type="text/javascript">localize(1671431690);</script>|
 |x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|PUBLISHED||[3410665449](https://github.com/arch4edu/cactus/actions/runs/3410665449)|<script type="text/javascript">localize(1667933499);</script>|
-|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|STALE|Waiting for dependency: any/python-cppheaderparser.|[3676437540](https://github.com/arch4edu/cactus/actions/runs/3676437540)|<script type="text/javascript">localize(1673893183);</script>|
+|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|STALE|Waiting for dependency: any/python-cppheaderparser.|[3676437540](https://github.com/arch4edu/cactus/actions/runs/3676437540)|<script type="text/javascript">localize(1673896360);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl](https://aur.archlinux.org/pkgbase/orocos-kdl)|PUBLISHED||[2962941130](https://github.com/arch4edu/cactus/actions/runs/2962941130)|<script type="text/javascript">localize(1661971407);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl-python](https://aur.archlinux.org/pkgbase/orocos-kdl-python)|PUBLISHED||[2962989020](https://github.com/arch4edu/cactus/actions/runs/2962989020)|<script type="text/javascript">localize(1661971419);</script>|
 |x86_64/ros|[x86_64/ros/ros-build-tools](https://aur.archlinux.org/pkgbase/ros-build-tools)|PUBLISHED||[2962941198](https://github.com/arch4edu/cactus/actions/runs/2962941198)|<script type="text/javascript">localize(1661971435);</script>|
@@ -1247,7 +1247,7 @@ Last update: <script type="text/javascript">localize(1673893412.1199968);</scrip
 |x86_64|[x86_64/yay](https://aur.archlinux.org/pkgbase/yay)|PUBLISHED||[3851932562](https://github.com/arch4edu/cactus/actions/runs/3851932562)|<script type="text/javascript">localize(1672986828);</script>|
 |x86_64|[x86_64/zoom](https://aur.archlinux.org/pkgbase/zoom)|PUBLISHED||[3883509748](https://github.com/arch4edu/cactus/actions/runs/3883509748)|<script type="text/javascript">localize(1673375819);</script>|
 |x86_64|[x86_64/zotero](https://aur.archlinux.org/pkgbase/zotero)|PUBLISHED||[3437086498](https://github.com/arch4edu/cactus/actions/runs/3437086498)|<script type="text/javascript">localize(1668105647);</script>|
-|x86_64|[x86_64/zotero-bin](https://aur.archlinux.org/pkgbase/zotero-bin)|BUILT||[3930586144](https://github.com/arch4edu/cactus/actions/runs/3930586144)|<script type="text/javascript">localize(1673874140);</script>|
+|x86_64|[x86_64/zotero-bin](https://aur.archlinux.org/pkgbase/zotero-bin)|PUBLISHED||[3930586144](https://github.com/arch4edu/cactus/actions/runs/3930586144)|<script type="text/javascript">localize(1673894009);</script>|
 
 <script src="./tablefilter/tablefilter.js"></script>
 <script src="./table.js"></script>
