@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1674411738.873867);</script>
+Last update: <script type="text/javascript">localize(1674414899.7159429);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -226,10 +226,10 @@ Last update: <script type="text/javascript">localize(1674411738.873867);</script
 |x86_64|[x86_64/cp2k-bin](https://aur.archlinux.org/pkgbase/cp2k-bin)|PUBLISHED||[3902448781](https://github.com/arch4edu/cactus/actions/runs/3902448781)|<script type="text/javascript">localize(1673548498);</script>|
 |x86_64|[x86_64/cpptest](https://aur.archlinux.org/pkgbase/cpptest)|PUBLISHED||[2647948245](https://github.com/arch4edu/cactus/actions/runs/2647948245)|<script type="text/javascript">localize(1657529059);</script>|
 |x86_64|[x86_64/devtools-arch4edu-extra](https://aur.archlinux.org/pkgbase/devtools-arch4edu-extra)|FAILED|nvchecker failed|[2648642921](https://github.com/arch4edu/cactus/actions/runs/2648642921)|<script type="text/javascript">localize(1673614226);</script>|
-|x86_64|[x86_64/devtools-qemu](https://aur.archlinux.org/pkgbase/devtools-qemu)|STALE|Waiting for dependency: any/devtools-arch4edu.|[3540809833](https://github.com/arch4edu/cactus/actions/runs/3540809833)|<script type="text/javascript">localize(1674411724);</script>|
+|x86_64|[x86_64/devtools-qemu](https://aur.archlinux.org/pkgbase/devtools-qemu)|STALE|Waiting for dependency: any/devtools-arch4edu.|[3540809833](https://github.com/arch4edu/cactus/actions/runs/3540809833)|<script type="text/javascript">localize(1674414676);</script>|
 |x86_64|[x86_64/distccd-alarm](https://aur.archlinux.org/pkgbase/distccd-alarm)|PUBLISHED||[2648118082](https://github.com/arch4edu/cactus/actions/runs/2648118082)|<script type="text/javascript">localize(1657529104);</script>|
 |x86_64|[x86_64/dlib](https://aur.archlinux.org/pkgbase/dlib)|PUBLISHED||[3583525541](https://github.com/arch4edu/cactus/actions/runs/3583525541)|<script type="text/javascript">localize(1669833333);</script>|
-|x86_64|[x86_64/dolfinx](https://aur.archlinux.org/pkgbase/dolfinx)|BUILT||[3980313749](https://github.com/arch4edu/cactus/actions/runs/3980313749)|<script type="text/javascript">localize(1674404412);</script>|
+|x86_64|[x86_64/dolfinx](https://aur.archlinux.org/pkgbase/dolfinx)|PUBLISHED||[3980313749](https://github.com/arch4edu/cactus/actions/runs/3980313749)|<script type="text/javascript">localize(1674412240);</script>|
 |x86_64|[x86_64/dumux](https://aur.archlinux.org/pkgbase/dumux)|PUBLISHED||[3639063511](https://github.com/arch4edu/cactus/actions/runs/3639063511)|<script type="text/javascript">localize(1670438040);</script>|
 |x86_64|[x86_64/dune-common](https://aur.archlinux.org/pkgbase/dune-common)|PUBLISHED||[3653757317](https://github.com/arch4edu/cactus/actions/runs/3653757317)|<script type="text/javascript">localize(1670567652);</script>|
 |x86_64|[x86_64/dune-geometry](https://aur.archlinux.org/pkgbase/dune-geometry)|PUBLISHED||[3630349686](https://github.com/arch4edu/cactus/actions/runs/3630349686)|<script type="text/javascript">localize(1670351629);</script>|
@@ -620,7 +620,7 @@ Last update: <script type="text/javascript">localize(1674411738.873867);</script
 |x86_64/r|[x86_64/r/r-jaspanova](https://aur.archlinux.org/pkgbase/r-jaspanova)|PUBLISHED||[3540848178](https://github.com/arch4edu/cactus/actions/runs/3540848178)|<script type="text/javascript">localize(1669314963);</script>|
 |x86_64/r|[x86_64/r/r-jaspaudit](https://aur.archlinux.org/pkgbase/r-jaspaudit)|PUBLISHED||[3196513826](https://github.com/arch4edu/cactus/actions/runs/3196513826)|<script type="text/javascript">localize(1665082364);</script>|
 |x86_64/r|[x86_64/r/r-jaspbain](https://aur.archlinux.org/pkgbase/r-jaspbain)|PUBLISHED||[3196603997](https://github.com/arch4edu/cactus/actions/runs/3196603997)|<script type="text/javascript">localize(1665082382);</script>|
-|x86_64/r|[x86_64/r/r-jaspbase](https://aur.archlinux.org/pkgbase/r-jaspbase)|STALE|Waiting for dependency: x86_64/r/r-gdtools.|[3369707811](https://github.com/arch4edu/cactus/actions/runs/3369707811)|<script type="text/javascript">localize(1674411727);</script>|
+|x86_64/r|[x86_64/r/r-jaspbase](https://aur.archlinux.org/pkgbase/r-jaspbase)|STALE|Waiting for dependency: x86_64/r/r-gdtools.|[3369707811](https://github.com/arch4edu/cactus/actions/runs/3369707811)|<script type="text/javascript">localize(1674414679);</script>|
 |x86_64/r|[x86_64/r/r-jaspbsts](https://aur.archlinux.org/pkgbase/r-jaspbsts)|PUBLISHED||[3196543068](https://github.com/arch4edu/cactus/actions/runs/3196543068)|<script type="text/javascript">localize(1665082399);</script>|
 |x86_64/r|[x86_64/r/r-jaspcircular](https://aur.archlinux.org/pkgbase/r-jaspcircular)|PUBLISHED||[3196514188](https://github.com/arch4edu/cactus/actions/runs/3196514188)|<script type="text/javascript">localize(1665082416);</script>|
 |x86_64/r|[x86_64/r/r-jaspcochrane](https://aur.archlinux.org/pkgbase/r-jaspcochrane)|PUBLISHED||[3196673550](https://github.com/arch4edu/cactus/actions/runs/3196673550)|<script type="text/javascript">localize(1665082440);</script>|
@@ -783,7 +783,7 @@ Last update: <script type="text/javascript">localize(1674411738.873867);</script
 |x86_64/r|[x86_64/r/r-rjags](https://aur.archlinux.org/pkgbase/r-rjags)|PUBLISHED||[2703764510](https://github.com/arch4edu/cactus/actions/runs/2703764510)|<script type="text/javascript">localize(1658314336);</script>|
 |x86_64/r|[x86_64/r/r-rjson](https://aur.archlinux.org/pkgbase/r-rjson)|PUBLISHED||[2703313533](https://github.com/arch4edu/cactus/actions/runs/2703313533)|<script type="text/javascript">localize(1658306537);</script>|
 |x86_64/r|[x86_64/r/r-rlang](https://aur.archlinux.org/pkgbase/r-rlang)|PUBLISHED||[3128026491](https://github.com/arch4edu/cactus/actions/runs/3128026491)|<script type="text/javascript">localize(1664218067);</script>|
-|x86_64/r|[x86_64/r/r-rmarkdown](https://aur.archlinux.org/pkgbase/r-rmarkdown)|BUILT||[3979737346](https://github.com/arch4edu/cactus/actions/runs/3979737346)|<script type="text/javascript">localize(1674392005);</script>|
+|x86_64/r|[x86_64/r/r-rmarkdown](https://aur.archlinux.org/pkgbase/r-rmarkdown)|PUBLISHED||[3979737346](https://github.com/arch4edu/cactus/actions/runs/3979737346)|<script type="text/javascript">localize(1674412269);</script>|
 |x86_64/r|[x86_64/r/r-robma](https://aur.archlinux.org/pkgbase/r-robma)|PUBLISHED||[3556378378](https://github.com/arch4edu/cactus/actions/runs/3556378378)|<script type="text/javascript">localize(1669531277);</script>|
 |x86_64/r|[x86_64/r/r-robustbase](https://aur.archlinux.org/pkgbase/r-robustbase)|PUBLISHED||[2703684343](https://github.com/arch4edu/cactus/actions/runs/2703684343)|<script type="text/javascript">localize(1658314348);</script>|
 |x86_64/r|[x86_64/r/r-rockchalk](https://aur.archlinux.org/pkgbase/r-rockchalk)|PUBLISHED||[2811067458](https://github.com/arch4edu/cactus/actions/runs/2811067458)|<script type="text/javascript">localize(1659914700);</script>|
