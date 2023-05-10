@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1683713948.0069146);</script>
+Last update: <script type="text/javascript">localize(1683717275.38651);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -436,9 +436,9 @@ Last update: <script type="text/javascript">localize(1683713948.0069146);</scrip
 |x86_64|[x86_64/python-ibm-platform-services](https://aur.archlinux.org/pkgbase/python-ibm-platform-services)|PUBLISHED||[4899003366](https://github.com/arch4edu/cactus/actions/runs/4899003366)|<script type="text/javascript">localize(1683354643);</script>|
 |x86_64|[x86_64/python-imagecodecs](https://aur.archlinux.org/pkgbase/python-imagecodecs)|PUBLISHED||[4878826743](https://github.com/arch4edu/cactus/actions/runs/4878826743)|<script type="text/javascript">localize(1683183024);</script>|
 |x86_64|[x86_64/python-imageio](https://aur.archlinux.org/pkgbase/python-imageio)|PUBLISHED||[4878536617](https://github.com/arch4edu/cactus/actions/runs/4878536617)|<script type="text/javascript">localize(1683183042);</script>|
-|x86_64|[x86_64/python-jax](https://aur.archlinux.org/pkgbase/python-jax)|STALE|Waiting for dependency: x86_64/python-ml-dtypes.|[4570733833](https://github.com/arch4edu/cactus/actions/runs/4570733833)|<script type="text/javascript">localize(1683713723);</script>|
-|x86_64|[x86_64/python-jaxlib](https://aur.archlinux.org/pkgbase/python-jaxlib)|STALE|Waiting for dependency: x86_64/python-ml-dtypes.|[4542255446](https://github.com/arch4edu/cactus/actions/runs/4542255446)|<script type="text/javascript">localize(1683713724);</script>|
-|x86_64|[x86_64/python-jaxlib-cuda](https://aur.archlinux.org/pkgbase/python-jaxlib-cuda)|STALE|Waiting for dependency: x86_64/python-ml-dtypes.|[4542255602](https://github.com/arch4edu/cactus/actions/runs/4542255602)|<script type="text/javascript">localize(1683713724);</script>|
+|x86_64|[x86_64/python-jax](https://aur.archlinux.org/pkgbase/python-jax)|STALE|Waiting for dependency: x86_64/python-ml-dtypes.|[4570733833](https://github.com/arch4edu/cactus/actions/runs/4570733833)|<script type="text/javascript">localize(1683717162);</script>|
+|x86_64|[x86_64/python-jaxlib](https://aur.archlinux.org/pkgbase/python-jaxlib)|STALE|Waiting for dependency: x86_64/python-ml-dtypes.|[4542255446](https://github.com/arch4edu/cactus/actions/runs/4542255446)|<script type="text/javascript">localize(1683717162);</script>|
+|x86_64|[x86_64/python-jaxlib-cuda](https://aur.archlinux.org/pkgbase/python-jaxlib-cuda)|STALE|Waiting for dependency: x86_64/python-ml-dtypes.|[4542255602](https://github.com/arch4edu/cactus/actions/runs/4542255602)|<script type="text/javascript">localize(1683717161);</script>|
 |x86_64|[x86_64/python-leveldb](https://aur.archlinux.org/pkgbase/python-leveldb)|PUBLISHED||[4878536486](https://github.com/arch4edu/cactus/actions/runs/4878536486)|<script type="text/javascript">localize(1683183054);</script>|
 |x86_64|[x86_64/python-llvmlite-git](https://aur.archlinux.org/pkgbase/python-llvmlite-git)|PUBLISHED||[4878605789](https://github.com/arch4edu/cactus/actions/runs/4878605789)|<script type="text/javascript">localize(1683183068);</script>|
 |x86_64|[x86_64/python-lmfit](https://aur.archlinux.org/pkgbase/python-lmfit)|PUBLISHED||[4878536579](https://github.com/arch4edu/cactus/actions/runs/4878536579)|<script type="text/javascript">localize(1683183080);</script>|
