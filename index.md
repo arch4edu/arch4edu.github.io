@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1683858752.8560827);</script>
+Last update: <script type="text/javascript">localize(1683897639.3276107);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -489,7 +489,7 @@ Last update: <script type="text/javascript">localize(1683858752.8560827);</scrip
 |x86_64/r|[x86_64/r/cctz](https://aur.archlinux.org/pkgbase/cctz)|PUBLISHED||[2703355331](https://github.com/arch4edu/cactus/actions/runs/2703355331)|<script type="text/javascript">localize(1658309187);</script>|
 |x86_64/r|[x86_64/r/hopscotch-map](https://aur.archlinux.org/pkgbase/hopscotch-map)|PUBLISHED||[2703562939](https://github.com/arch4edu/cactus/actions/runs/2703562939)|<script type="text/javascript">localize(1658309199);</script>|
 |x86_64/r|[x86_64/r/jags](https://aur.archlinux.org/pkgbase/jags)|PUBLISHED||[4474696182](https://github.com/arch4edu/cactus/actions/runs/4474696182)|<script type="text/javascript">localize(1679380308);</script>|
-|x86_64/r|[x86_64/r/jasp-desktop](https://aur.archlinux.org/pkgbase/jasp-desktop)|PUBLISHED||[4902175436](https://github.com/arch4edu/cactus/actions/runs/4902175436)|<script type="text/javascript">localize(1683397734);</script>|
+|x86_64/r|[x86_64/r/jasp-desktop](https://aur.archlinux.org/pkgbase/jasp-desktop)|STALE||[4902175436](https://github.com/arch4edu/cactus/actions/runs/4902175436)|<script type="text/javascript">localize(1683895512);</script>|
 |x86_64/r|[x86_64/r/r-abind](https://aur.archlinux.org/pkgbase/r-abind)|PUBLISHED||[2703562400](https://github.com/arch4edu/cactus/actions/runs/2703562400)|<script type="text/javascript">localize(1658309225);</script>|
 |x86_64/r|[x86_64/r/r-abtest](https://aur.archlinux.org/pkgbase/r-abtest)|PUBLISHED||[2704117457](https://github.com/arch4edu/cactus/actions/runs/2704117457)|<script type="text/javascript">localize(1658316121);</script>|
 |x86_64/r|[x86_64/r/r-acceptancesampling](https://aur.archlinux.org/pkgbase/r-acceptancesampling)|PUBLISHED||[4054724535](https://github.com/arch4edu/cactus/actions/runs/4054724535)|<script type="text/javascript">localize(1675190004);</script>|
@@ -679,22 +679,22 @@ Last update: <script type="text/javascript">localize(1683858752.8560827);</scrip
 |x86_64/r|[x86_64/r/r-jaspdistributions](https://aur.archlinux.org/pkgbase/r-jaspdistributions)|STALE||[4209921899](https://github.com/arch4edu/cactus/actions/runs/4209921899)|<script type="text/javascript">localize(1683855766);</script>|
 |x86_64/r|[x86_64/r/r-jaspequivalencettests](https://aur.archlinux.org/pkgbase/r-jaspequivalencettests)|STALE||[4209979838](https://github.com/arch4edu/cactus/actions/runs/4209979838)|<script type="text/javascript">localize(1683855766);</script>|
 |x86_64/r|[x86_64/r/r-jaspfactor](https://aur.archlinux.org/pkgbase/r-jaspfactor)|STALE||[4900291015](https://github.com/arch4edu/cactus/actions/runs/4900291015)|<script type="text/javascript">localize(1683855767);</script>|
-|x86_64/r|[x86_64/r/r-jaspfrequencies](https://aur.archlinux.org/pkgbase/r-jaspfrequencies)|PUBLISHED||[4209901395](https://github.com/arch4edu/cactus/actions/runs/4209901395)|<script type="text/javascript">localize(1676702154);</script>|
+|x86_64/r|[x86_64/r/r-jaspfrequencies](https://aur.archlinux.org/pkgbase/r-jaspfrequencies)|STALE||[4209901395](https://github.com/arch4edu/cactus/actions/runs/4209901395)|<script type="text/javascript">localize(1683895515);</script>|
 |x86_64/r|[x86_64/r/r-jaspgraphs](https://aur.archlinux.org/pkgbase/r-jaspgraphs)|STALE||[4189945886](https://github.com/arch4edu/cactus/actions/runs/4189945886)|<script type="text/javascript">localize(1683855767);</script>|
 |x86_64/r|[x86_64/r/r-jaspjags](https://aur.archlinux.org/pkgbase/r-jaspjags)|STALE||[4209856999](https://github.com/arch4edu/cactus/actions/runs/4209856999)|<script type="text/javascript">localize(1683855767);</script>|
 |x86_64/r|[x86_64/r/r-jasplearnbayes](https://aur.archlinux.org/pkgbase/r-jasplearnbayes)|STALE||[4209856950](https://github.com/arch4edu/cactus/actions/runs/4209856950)|<script type="text/javascript">localize(1683855768);</script>|
 |x86_64/r|[x86_64/r/r-jaspmachinelearning](https://aur.archlinux.org/pkgbase/r-jaspmachinelearning)|STALE||[4209856851](https://github.com/arch4edu/cactus/actions/runs/4209856851)|<script type="text/javascript">localize(1683855768);</script>|
 |x86_64/r|[x86_64/r/r-jaspmetaanalysis](https://aur.archlinux.org/pkgbase/r-jaspmetaanalysis)|STALE||[4209856836](https://github.com/arch4edu/cactus/actions/runs/4209856836)|<script type="text/javascript">localize(1683855768);</script>|
 |x86_64/r|[x86_64/r/r-jaspmixedmodels](https://aur.archlinux.org/pkgbase/r-jaspmixedmodels)|STALE||[4209922000](https://github.com/arch4edu/cactus/actions/runs/4209922000)|<script type="text/javascript">localize(1683855769);</script>|
-|x86_64/r|[x86_64/r/r-jaspnetwork](https://aur.archlinux.org/pkgbase/r-jaspnetwork)|PUBLISHED||[4209922033](https://github.com/arch4edu/cactus/actions/runs/4209922033)|<script type="text/javascript">localize(1676745205);</script>|
+|x86_64/r|[x86_64/r/r-jaspnetwork](https://aur.archlinux.org/pkgbase/r-jaspnetwork)|STALE||[4209922033](https://github.com/arch4edu/cactus/actions/runs/4209922033)|<script type="text/javascript">localize(1683895516);</script>|
 |x86_64/r|[x86_64/r/r-jaspprocesscontrol](https://aur.archlinux.org/pkgbase/r-jaspprocesscontrol)|PUBLISHED||[4320634852](https://github.com/arch4edu/cactus/actions/runs/4320634852)|<script type="text/javascript">localize(1677868533);</script>|
 |x86_64/r|[x86_64/r/r-jaspprophet](https://aur.archlinux.org/pkgbase/r-jaspprophet)|STALE||[4209901442](https://github.com/arch4edu/cactus/actions/runs/4209901442)|<script type="text/javascript">localize(1683855769);</script>|
 |x86_64/r|[x86_64/r/r-jaspqualitycontrol](https://aur.archlinux.org/pkgbase/r-jaspqualitycontrol)|STALE||[4209921941](https://github.com/arch4edu/cactus/actions/runs/4209921941)|<script type="text/javascript">localize(1683855769);</script>|
-|x86_64/r|[x86_64/r/r-jaspregression](https://aur.archlinux.org/pkgbase/r-jaspregression)|PUBLISHED||[4210031913](https://github.com/arch4edu/cactus/actions/runs/4210031913)|<script type="text/javascript">localize(1676745231);</script>|
+|x86_64/r|[x86_64/r/r-jaspregression](https://aur.archlinux.org/pkgbase/r-jaspregression)|STALE||[4210031913](https://github.com/arch4edu/cactus/actions/runs/4210031913)|<script type="text/javascript">localize(1683895517);</script>|
 |x86_64/r|[x86_64/r/r-jaspreliability](https://aur.archlinux.org/pkgbase/r-jaspreliability)|STALE||[4209856813](https://github.com/arch4edu/cactus/actions/runs/4209856813)|<script type="text/javascript">localize(1683855770);</script>|
 |x86_64/r|[x86_64/r/r-jaspresults](https://aur.archlinux.org/pkgbase/r-jaspresults)|PUBLISHED||[2751526358](https://github.com/arch4edu/cactus/actions/runs/2751526358)|<script type="text/javascript">localize(1658990048);</script>|
 |x86_64/r|[x86_64/r/r-jaspsem](https://aur.archlinux.org/pkgbase/r-jaspsem)|STALE||[4900240965](https://github.com/arch4edu/cactus/actions/runs/4900240965)|<script type="text/javascript">localize(1683855770);</script>|
-|x86_64/r|[x86_64/r/r-jaspsummarystatistics](https://aur.archlinux.org/pkgbase/r-jaspsummarystatistics)|PUBLISHED||[4210085166](https://github.com/arch4edu/cactus/actions/runs/4210085166)|<script type="text/javascript">localize(1676745247);</script>|
+|x86_64/r|[x86_64/r/r-jaspsummarystatistics](https://aur.archlinux.org/pkgbase/r-jaspsummarystatistics)|STALE||[4210085166](https://github.com/arch4edu/cactus/actions/runs/4210085166)|<script type="text/javascript">localize(1683895517);</script>|
 |x86_64/r|[x86_64/r/r-jasptools](https://aur.archlinux.org/pkgbase/r-jasptools)|STALE||[4189975265](https://github.com/arch4edu/cactus/actions/runs/4189975265)|<script type="text/javascript">localize(1683855770);</script>|
 |x86_64/r|[x86_64/r/r-jaspttests](https://aur.archlinux.org/pkgbase/r-jaspttests)|STALE||[4209921906](https://github.com/arch4edu/cactus/actions/runs/4209921906)|<script type="text/javascript">localize(1683855771);</script>|
 |x86_64/r|[x86_64/r/r-jaspvisualmodeling](https://aur.archlinux.org/pkgbase/r-jaspvisualmodeling)|STALE||[4209901474](https://github.com/arch4edu/cactus/actions/runs/4209901474)|<script type="text/javascript">localize(1683855771);</script>|
