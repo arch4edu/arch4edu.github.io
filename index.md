@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1683897639.3276107);</script>
+Last update: <script type="text/javascript">localize(1683945121.032001);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -214,7 +214,7 @@ Last update: <script type="text/javascript">localize(1683897639.3276107);</scrip
 |x86_64|[x86_64/cef-minimal](https://aur.archlinux.org/pkgbase/cef-minimal)|PUBLISHED||[4559753290](https://github.com/arch4edu/cactus/actions/runs/4559753290)|<script type="text/javascript">localize(1680157944);</script>|
 |x86_64|[x86_64/cef-standard](https://aur.archlinux.org/pkgbase/cef-standard)|PUBLISHED||[4559753476](https://github.com/arch4edu/cactus/actions/runs/4559753476)|<script type="text/javascript">localize(1680157995);</script>|
 |x86_64|[x86_64/celt](https://aur.archlinux.org/pkgbase/celt)|PUBLISHED||[4333926139](https://github.com/arch4edu/cactus/actions/runs/4333926139)|<script type="text/javascript">localize(1677997943);</script>|
-|x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|PUBLISHED||[4841856542](https://github.com/arch4edu/cactus/actions/runs/4841856542)|<script type="text/javascript">localize(1682836151);</script>|
+|x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|STALE||[4841856542](https://github.com/arch4edu/cactus/actions/runs/4841856542)|<script type="text/javascript">localize(1683942153);</script>|
 |x86_64|[x86_64/ceph-octopus](https://aur.archlinux.org/pkgbase/ceph-octopus)|PUBLISHED||[4334637056](https://github.com/arch4edu/cactus/actions/runs/4334637056)|<script type="text/javascript">localize(1678041151);</script>|
 |x86_64|[x86_64/ceph-pacific](https://aur.archlinux.org/pkgbase/ceph-pacific)|PUBLISHED||[4335367126](https://github.com/arch4edu/cactus/actions/runs/4335367126)|<script type="text/javascript">localize(1678041205);</script>|
 |x86_64|[x86_64/charls](https://aur.archlinux.org/pkgbase/charls)|PUBLISHED||[4844409551](https://github.com/arch4edu/cactus/actions/runs/4844409551)|<script type="text/javascript">localize(1682879239);</script>|
@@ -459,7 +459,7 @@ Last update: <script type="text/javascript">localize(1683897639.3276107);</scrip
 |x86_64|[x86_64/python-pywavelets](https://aur.archlinux.org/pkgbase/python-pywavelets)|PUBLISHED||[4878606108](https://github.com/arch4edu/cactus/actions/runs/4878606108)|<script type="text/javascript">localize(1683183212);</script>|
 |x86_64|[x86_64/python-qiskit](https://aur.archlinux.org/pkgbase/python-qiskit)|PUBLISHED||[4926602706](https://github.com/arch4edu/cactus/actions/runs/4926602706)|<script type="text/javascript">localize(1683743668);</script>|
 |x86_64|[x86_64/python-qiskit-aer](https://aur.archlinux.org/pkgbase/python-qiskit-aer)|PUBLISHED||[4926492715](https://github.com/arch4edu/cactus/actions/runs/4926492715)|<script type="text/javascript">localize(1683656979);</script>|
-|x86_64|[x86_64/python-qiskit-experiments](https://aur.archlinux.org/pkgbase/python-qiskit-experiments)|PUBLISHED||[4932228886](https://github.com/arch4edu/cactus/actions/runs/4932228886)|<script type="text/javascript">localize(1683700268);</script>|
+|x86_64|[x86_64/python-qiskit-experiments](https://aur.archlinux.org/pkgbase/python-qiskit-experiments)|STALE||[4932228886](https://github.com/arch4edu/cactus/actions/runs/4932228886)|<script type="text/javascript">localize(1683942158);</script>|
 |x86_64|[x86_64/python-qiskit-finance](https://aur.archlinux.org/pkgbase/python-qiskit-finance)|PUBLISHED||[4926549230](https://github.com/arch4edu/cactus/actions/runs/4926549230)|<script type="text/javascript">localize(1683657014);</script>|
 |x86_64|[x86_64/python-qiskit-ibm-experiment](https://aur.archlinux.org/pkgbase/python-qiskit-ibm-experiment)|PUBLISHED||[4926493359](https://github.com/arch4edu/cactus/actions/runs/4926493359)|<script type="text/javascript">localize(1683657032);</script>|
 |x86_64|[x86_64/python-qiskit-ibm-runtime](https://aur.archlinux.org/pkgbase/python-qiskit-ibm-runtime)|PUBLISHED||[4926493700](https://github.com/arch4edu/cactus/actions/runs/4926493700)|<script type="text/javascript">localize(1683657050);</script>|
