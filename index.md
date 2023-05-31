@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1685539215.7749786);</script>
+Last update: <script type="text/javascript">localize(1685542541.921635);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -469,7 +469,7 @@ Last update: <script type="text/javascript">localize(1685539215.7749786);</scrip
 |x86_64|[x86_64/python-qiskit-optimization](https://aur.archlinux.org/pkgbase/python-qiskit-optimization)|PUBLISHED||[4926493514](https://github.com/arch4edu/cactus/actions/runs/4926493514)|<script type="text/javascript">localize(1683657112);</script>|
 |x86_64|[x86_64/python-qiskit-terra](https://aur.archlinux.org/pkgbase/python-qiskit-terra)|PUBLISHED||[4926374083](https://github.com/arch4edu/cactus/actions/runs/4926374083)|<script type="text/javascript">localize(1683657127);</script>|
 |x86_64|[x86_64/python-quandl](https://aur.archlinux.org/pkgbase/python-quandl)|PUBLISHED||[4878497480](https://github.com/arch4edu/cactus/actions/runs/4878497480)|<script type="text/javascript">localize(1683183229);</script>|
-|x86_64|[x86_64/python-ray](https://aur.archlinux.org/pkgbase/python-ray)|FAILED|Build failed.|[5133068703](https://github.com/arch4edu/cactus/actions/runs/5133068703)|<script type="text/javascript">localize(1685537830);</script>|
+|x86_64|[x86_64/python-ray](https://aur.archlinux.org/pkgbase/python-ray)|BUILDING|Build failed.|[5133068703](https://github.com/arch4edu/cactus/actions/runs/5133068703)|<script type="text/javascript">localize(1685541904);</script>|
 |x86_64|[x86_64/python-resampy](https://aur.archlinux.org/pkgbase/python-resampy)|PUBLISHED||[4878606044](https://github.com/arch4edu/cactus/actions/runs/4878606044)|<script type="text/javascript">localize(1683183247);</script>|
 |x86_64|[x86_64/python-retworkx](https://aur.archlinux.org/pkgbase/python-retworkx)|PUBLISHED||[4878605911](https://github.com/arch4edu/cactus/actions/runs/4878605911)|<script type="text/javascript">localize(1683183260);</script>|
 |x86_64|[x86_64/python-rustworkx](https://aur.archlinux.org/pkgbase/python-rustworkx)|PUBLISHED||[4889083510](https://github.com/arch4edu/cactus/actions/runs/4889083510)|<script type="text/javascript">localize(1683268372);</script>|
@@ -1044,12 +1044,12 @@ Last update: <script type="text/javascript">localize(1685539215.7749786);</scrip
 |x86_64/ros|[x86_64/ros/ros-noetic-laser-filters](https://aur.archlinux.org/pkgbase/ros-noetic-laser-filters)|BUILT||[5132535473](https://github.com/arch4edu/cactus/actions/runs/5132535473)|<script type="text/javascript">localize(1685534852);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-laser-geometry](https://aur.archlinux.org/pkgbase/ros-noetic-laser-geometry)|BUILT||[5132449389](https://github.com/arch4edu/cactus/actions/runs/5132449389)|<script type="text/javascript">localize(1685534118);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-laser-pipeline](https://aur.archlinux.org/pkgbase/ros-noetic-laser-pipeline)|PUBLISHED||[3880665385](https://github.com/arch4edu/cactus/actions/runs/3880665385)|<script type="text/javascript">localize(1673332476);</script>|
-|x86_64/ros|[x86_64/ros/ros-noetic-libmavconn](https://aur.archlinux.org/pkgbase/ros-noetic-libmavconn)|STALE|Waiting for dependency: x86_64/ros/ros-noetic-mavlink.|[4468408539](https://github.com/arch4edu/cactus/actions/runs/4468408539)|<script type="text/javascript">localize(1685539128);</script>|
+|x86_64/ros|[x86_64/ros/ros-noetic-libmavconn](https://aur.archlinux.org/pkgbase/ros-noetic-libmavconn)|STALE|Waiting for dependency: x86_64/ros/ros-noetic-mavlink.|[4468408539](https://github.com/arch4edu/cactus/actions/runs/4468408539)|<script type="text/javascript">localize(1685542315);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-librviz-tutorial](https://aur.archlinux.org/pkgbase/ros-noetic-librviz-tutorial)|PUBLISHED||[3880733275](https://github.com/arch4edu/cactus/actions/runs/3880733275)|<script type="text/javascript">localize(1673332488);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-map-msgs](https://aur.archlinux.org/pkgbase/ros-noetic-map-msgs)|PUBLISHED||[5122322535](https://github.com/arch4edu/cactus/actions/runs/5122322535)|<script type="text/javascript">localize(1685471624);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-mavlink](https://aur.archlinux.org/pkgbase/ros-noetic-mavlink)|FAILED|Build failed.|[5121995156](https://github.com/arch4edu/cactus/actions/runs/5121995156)|<script type="text/javascript">localize(1685452879);</script>|
-|x86_64/ros|[x86_64/ros/ros-noetic-mavros](https://aur.archlinux.org/pkgbase/ros-noetic-mavros)|STALE|Waiting for dependency: x86_64/ros/ros-noetic-mavlink.|[4460128222](https://github.com/arch4edu/cactus/actions/runs/4460128222)|<script type="text/javascript">localize(1685539128);</script>|
-|x86_64/ros|[x86_64/ros/ros-noetic-mavros-extras](https://aur.archlinux.org/pkgbase/ros-noetic-mavros-extras)|STALE|Waiting for dependency: x86_64/ros/ros-noetic-mavlink.|[4468575303](https://github.com/arch4edu/cactus/actions/runs/4468575303)|<script type="text/javascript">localize(1685539129);</script>|
+|x86_64/ros|[x86_64/ros/ros-noetic-mavros](https://aur.archlinux.org/pkgbase/ros-noetic-mavros)|STALE|Waiting for dependency: x86_64/ros/ros-noetic-mavlink.|[4460128222](https://github.com/arch4edu/cactus/actions/runs/4460128222)|<script type="text/javascript">localize(1685542315);</script>|
+|x86_64/ros|[x86_64/ros/ros-noetic-mavros-extras](https://aur.archlinux.org/pkgbase/ros-noetic-mavros-extras)|STALE|Waiting for dependency: x86_64/ros/ros-noetic-mavlink.|[4468575303](https://github.com/arch4edu/cactus/actions/runs/4468575303)|<script type="text/javascript">localize(1685542316);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-mavros-msgs](https://aur.archlinux.org/pkgbase/ros-noetic-mavros-msgs)|PUBLISHED||[4968532474](https://github.com/arch4edu/cactus/actions/runs/4968532474)|<script type="text/javascript">localize(1684046775);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-media-export](https://aur.archlinux.org/pkgbase/ros-noetic-media-export)|PUBLISHED||[3872004640](https://github.com/arch4edu/cactus/actions/runs/3872004640)|<script type="text/javascript">localize(1673290625);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-message-filters](https://aur.archlinux.org/pkgbase/ros-noetic-message-filters)|BUILT||[5131861587](https://github.com/arch4edu/cactus/actions/runs/5131861587)|<script type="text/javascript">localize(1685529950);</script>|
