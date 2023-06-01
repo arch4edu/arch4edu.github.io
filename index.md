@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1685625751.4141216);</script>
+Last update: <script type="text/javascript">localize(1685632652.7436984);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -389,7 +389,7 @@ Last update: <script type="text/javascript">localize(1685625751.4141216);</scrip
 |x86_64|[x86_64/opencv3-opt](https://aur.archlinux.org/pkgbase/opencv3-opt)|PUBLISHED||[4711681533](https://github.com/arch4edu/cactus/actions/runs/4711681533)|<script type="text/javascript">localize(1681626652);</script>|
 |x86_64|[x86_64/openface](https://aur.archlinux.org/pkgbase/openface)|PUBLISHED||[4288759767](https://github.com/arch4edu/cactus/actions/runs/4288759767)|<script type="text/javascript">localize(1677609377);</script>|
 |x86_64|[x86_64/openfoam](https://aur.archlinux.org/pkgbase/openfoam)|PUBLISHED||[4460127887](https://github.com/arch4edu/cactus/actions/runs/4460127887)|<script type="text/javascript">localize(1679250719);</script>|
-|x86_64|[x86_64/openfoam-com](https://aur.archlinux.org/pkgbase/openfoam-com)|STALE||[4460755535](https://github.com/arch4edu/cactus/actions/runs/4460755535)|<script type="text/javascript">localize(1685623677);</script>|
+|x86_64|[x86_64/openfoam-com](https://aur.archlinux.org/pkgbase/openfoam-com)|FAILED|Build failed.|[5145569395](https://github.com/arch4edu/cactus/actions/runs/5145569395)|<script type="text/javascript">localize(1685629876);</script>|
 |x86_64|[x86_64/openfst](https://aur.archlinux.org/pkgbase/openfst)|PUBLISHED||[2725775868](https://github.com/arch4edu/cactus/actions/runs/2725775868)|<script type="text/javascript">localize(1658635190);</script>|
 |x86_64|[x86_64/openjpeg](https://aur.archlinux.org/pkgbase/openjpeg)|PUBLISHED||[2648304268](https://github.com/arch4edu/cactus/actions/runs/2648304268)|<script type="text/javascript">localize(1657532128);</script>|
 |x86_64|[x86_64/openni2](https://aur.archlinux.org/pkgbase/openni2)|PUBLISHED||[2648274276](https://github.com/arch4edu/cactus/actions/runs/2648274276)|<script type="text/javascript">localize(1657529827);</script>|
@@ -417,7 +417,7 @@ Last update: <script type="text/javascript">localize(1685625751.4141216);</scrip
 |x86_64|[x86_64/pocketsphinx](https://aur.archlinux.org/pkgbase/pocketsphinx)|PUBLISHED||[4841856584](https://github.com/arch4edu/cactus/actions/runs/4841856584)|<script type="text/javascript">localize(1682836180);</script>|
 |x86_64|[x86_64/praat](https://aur.archlinux.org/pkgbase/praat)|PUBLISHED||[4878655214](https://github.com/arch4edu/cactus/actions/runs/4878655214)|<script type="text/javascript">localize(1683182859);</script>|
 |x86_64|[x86_64/pspp](https://aur.archlinux.org/pkgbase/pspp)|PUBLISHED||[4360447734](https://github.com/arch4edu/cactus/actions/runs/4360447734)|<script type="text/javascript">localize(1678257329);</script>|
-|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|BUILDING|x86_64|[5144542317](https://github.com/arch4edu/cactus/actions/runs/5144542317)|<script type="text/javascript">localize(1685623922);</script>|
+|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|BUILT||[5144542317](https://github.com/arch4edu/cactus/actions/runs/5144542317)|<script type="text/javascript">localize(1685629276);</script>|
 |x86_64|[x86_64/python-arch](https://aur.archlinux.org/pkgbase/python-arch)|PUBLISHED||[5128202483](https://github.com/arch4edu/cactus/actions/runs/5128202483)|<script type="text/javascript">localize(1685514718);</script>|
 |x86_64|[x86_64/python-astroquery](https://aur.archlinux.org/pkgbase/python-astroquery)|PUBLISHED||[4915498195](https://github.com/arch4edu/cactus/actions/runs/4915498195)|<script type="text/javascript">localize(1683570559);</script>|
 |x86_64|[x86_64/python-av](https://aur.archlinux.org/pkgbase/python-av)|PUBLISHED||[4932228698](https://github.com/arch4edu/cactus/actions/runs/4932228698)|<script type="text/javascript">localize(1683700235);</script>|
