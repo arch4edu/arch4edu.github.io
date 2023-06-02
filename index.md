@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1685675910.1512418);</script>
+Last update: <script type="text/javascript">localize(1685679624.9287672);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -35,7 +35,7 @@ Last update: <script type="text/javascript">localize(1685675910.1512418);</scrip
 |aarch64|[aarch64/pigpio](https://aur.archlinux.org/pkgbase/pigpio)|PUBLISHED||[2648274215](https://github.com/arch4edu/cactus/actions/runs/2648274215)|<script type="text/javascript">localize(1657528573);</script>|
 |aarch64|[aarch64/pypy-bin](https://aur.archlinux.org/pkgbase/pypy-bin)|PUBLISHED||[2648036019](https://github.com/arch4edu/cactus/actions/runs/2648036019)|<script type="text/javascript">localize(1657528590);</script>|
 |aarch64|[aarch64/pypy3](https://aur.archlinux.org/pkgbase/pypy3)|PUBLISHED||[4238734170](https://github.com/arch4edu/cactus/actions/runs/4238734170)|<script type="text/javascript">localize(1677041229);</script>|
-|aarch64|[aarch64/python-jaxlib](https://aur.archlinux.org/pkgbase/python-jaxlib)|BUILDING|aarch64|[5151151256](https://github.com/arch4edu/cactus/actions/runs/5151151256)|<script type="text/javascript">localize(1685672502);</script>|
+|aarch64|[aarch64/python-jaxlib](https://aur.archlinux.org/pkgbase/python-jaxlib)|BUILT||[5151151256](https://github.com/arch4edu/cactus/actions/runs/5151151256)|<script type="text/javascript">localize(1685678553);</script>|
 |aarch64|[aarch64/python-ml-dtypes](https://aur.archlinux.org/pkgbase/python-ml-dtypes)|PUBLISHED||[5057462841](https://github.com/arch4edu/cactus/actions/runs/5057462841)|<script type="text/javascript">localize(1684866510);</script>|
 |aarch64|[aarch64/python-oracledb](https://aur.archlinux.org/pkgbase/python-oracledb)|PUBLISHED||[4878333871](https://github.com/arch4edu/cactus/actions/runs/4878333871)|<script type="text/javascript">localize(1683181818);</script>|
 |aarch64|[aarch64/python-wiringpi-git](https://aur.archlinux.org/pkgbase/python-wiringpi-git)|PUBLISHED||[4878418097](https://github.com/arch4edu/cactus/actions/runs/4878418097)|<script type="text/javascript">localize(1684759573);</script>|
@@ -437,7 +437,7 @@ Last update: <script type="text/javascript">localize(1685675910.1512418);</scrip
 |x86_64|[x86_64/python-ibm-platform-services](https://aur.archlinux.org/pkgbase/python-ibm-platform-services)|PUBLISHED||[5144597748](https://github.com/arch4edu/cactus/actions/runs/5144597748)|<script type="text/javascript">localize(1685644325);</script>|
 |x86_64|[x86_64/python-imagecodecs](https://aur.archlinux.org/pkgbase/python-imagecodecs)|PUBLISHED||[4878826743](https://github.com/arch4edu/cactus/actions/runs/4878826743)|<script type="text/javascript">localize(1683183024);</script>|
 |x86_64|[x86_64/python-imageio](https://aur.archlinux.org/pkgbase/python-imageio)|PUBLISHED||[4878536617](https://github.com/arch4edu/cactus/actions/runs/4878536617)|<script type="text/javascript">localize(1683183042);</script>|
-|x86_64|[x86_64/python-jax](https://aur.archlinux.org/pkgbase/python-jax)|STALE|Waiting for dependency: x86_64/python-jaxlib.|[5060712781](https://github.com/arch4edu/cactus/actions/runs/5060712781)|<script type="text/javascript">localize(1685675795);</script>|
+|x86_64|[x86_64/python-jax](https://aur.archlinux.org/pkgbase/python-jax)|STALE|Waiting for dependency: x86_64/python-jaxlib.|[5060712781](https://github.com/arch4edu/cactus/actions/runs/5060712781)|<script type="text/javascript">localize(1685679587);</script>|
 |x86_64|[x86_64/python-jaxlib](https://aur.archlinux.org/pkgbase/python-jaxlib)|BUILDING|GitHubActions|[5151088357](https://github.com/arch4edu/cactus/actions/runs/5151088357)|<script type="text/javascript">localize(1685671765);</script>|
 |x86_64|[x86_64/python-jaxlib-cuda](https://aur.archlinux.org/pkgbase/python-jaxlib-cuda)|FAILED|Build failed.|[5059199657](https://github.com/arch4edu/cactus/actions/runs/5059199657)|<script type="text/javascript">localize(1684881122);</script>|
 |x86_64|[x86_64/python-leveldb](https://aur.archlinux.org/pkgbase/python-leveldb)|PUBLISHED||[4878536486](https://github.com/arch4edu/cactus/actions/runs/4878536486)|<script type="text/javascript">localize(1683183054);</script>|
