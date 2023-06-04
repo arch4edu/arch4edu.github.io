@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1685852378.6634893);</script>
+Last update: <script type="text/javascript">localize(1685855771.1464937);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -237,7 +237,7 @@ Last update: <script type="text/javascript">localize(1685852378.6634893);</scrip
 |x86_64|[x86_64/cpptest](https://aur.archlinux.org/pkgbase/cpptest)|PUBLISHED||[2647948245](https://github.com/arch4edu/cactus/actions/runs/2647948245)|<script type="text/javascript">localize(1657529059);</script>|
 |x86_64|[x86_64/cython3](https://aur.archlinux.org/pkgbase/cython3)|PUBLISHED||[5128130796](https://github.com/arch4edu/cactus/actions/runs/5128130796)|<script type="text/javascript">localize(1685514669);</script>|
 |x86_64|[x86_64/devtools-arch4edu-extra](https://aur.archlinux.org/pkgbase/devtools-arch4edu-extra)|PUBLISHED||[5063881046](https://github.com/arch4edu/cactus/actions/runs/5063881046)|<script type="text/javascript">localize(1684909766);</script>|
-|x86_64|[x86_64/devtools-qemu](https://aur.archlinux.org/pkgbase/devtools-qemu)|STALE|Waiting for dependency: any/devtools-arch4edu.|[5155700120](https://github.com/arch4edu/cactus/actions/runs/5155700120)|<script type="text/javascript">localize(1685852168);</script>|
+|x86_64|[x86_64/devtools-qemu](https://aur.archlinux.org/pkgbase/devtools-qemu)|STALE|Waiting for dependency: any/devtools-arch4edu.|[5155700120](https://github.com/arch4edu/cactus/actions/runs/5155700120)|<script type="text/javascript">localize(1685855598);</script>|
 |x86_64|[x86_64/distccd-alarm](https://aur.archlinux.org/pkgbase/distccd-alarm)|PUBLISHED||[2648118082](https://github.com/arch4edu/cactus/actions/runs/2648118082)|<script type="text/javascript">localize(1657529104);</script>|
 |x86_64|[x86_64/dlib](https://aur.archlinux.org/pkgbase/dlib)|PUBLISHED||[3583525541](https://github.com/arch4edu/cactus/actions/runs/3583525541)|<script type="text/javascript">localize(1669833333);</script>|
 |x86_64|[x86_64/docker-rootless-extras](https://aur.archlinux.org/pkgbase/docker-rootless-extras)|PUBLISHED||[4360423497](https://github.com/arch4edu/cactus/actions/runs/4360423497)|<script type="text/javascript">localize(1678257267);</script>|
