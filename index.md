@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1685848130.6631744);</script>
+Last update: <script type="text/javascript">localize(1685852378.6634893);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -237,7 +237,7 @@ Last update: <script type="text/javascript">localize(1685848130.6631744);</scrip
 |x86_64|[x86_64/cpptest](https://aur.archlinux.org/pkgbase/cpptest)|PUBLISHED||[2647948245](https://github.com/arch4edu/cactus/actions/runs/2647948245)|<script type="text/javascript">localize(1657529059);</script>|
 |x86_64|[x86_64/cython3](https://aur.archlinux.org/pkgbase/cython3)|PUBLISHED||[5128130796](https://github.com/arch4edu/cactus/actions/runs/5128130796)|<script type="text/javascript">localize(1685514669);</script>|
 |x86_64|[x86_64/devtools-arch4edu-extra](https://aur.archlinux.org/pkgbase/devtools-arch4edu-extra)|PUBLISHED||[5063881046](https://github.com/arch4edu/cactus/actions/runs/5063881046)|<script type="text/javascript">localize(1684909766);</script>|
-|x86_64|[x86_64/devtools-qemu](https://aur.archlinux.org/pkgbase/devtools-qemu)|STALE|Waiting for dependency: any/devtools-arch4edu.|[5155700120](https://github.com/arch4edu/cactus/actions/runs/5155700120)|<script type="text/javascript">localize(1685848113);</script>|
+|x86_64|[x86_64/devtools-qemu](https://aur.archlinux.org/pkgbase/devtools-qemu)|STALE|Waiting for dependency: any/devtools-arch4edu.|[5155700120](https://github.com/arch4edu/cactus/actions/runs/5155700120)|<script type="text/javascript">localize(1685852168);</script>|
 |x86_64|[x86_64/distccd-alarm](https://aur.archlinux.org/pkgbase/distccd-alarm)|PUBLISHED||[2648118082](https://github.com/arch4edu/cactus/actions/runs/2648118082)|<script type="text/javascript">localize(1657529104);</script>|
 |x86_64|[x86_64/dlib](https://aur.archlinux.org/pkgbase/dlib)|PUBLISHED||[3583525541](https://github.com/arch4edu/cactus/actions/runs/3583525541)|<script type="text/javascript">localize(1669833333);</script>|
 |x86_64|[x86_64/docker-rootless-extras](https://aur.archlinux.org/pkgbase/docker-rootless-extras)|PUBLISHED||[4360423497](https://github.com/arch4edu/cactus/actions/runs/4360423497)|<script type="text/javascript">localize(1678257267);</script>|
@@ -269,7 +269,7 @@ Last update: <script type="text/javascript">localize(1685848130.6631744);</scrip
 |x86_64|[x86_64/gcc10](https://aur.archlinux.org/pkgbase/gcc10)|PUBLISHED||[2690724095](https://github.com/arch4edu/cactus/actions/runs/2690724095)|<script type="text/javascript">localize(1658165582);</script>|
 |x86_64|[x86_64/gcc11](https://aur.archlinux.org/pkgbase/gcc11)|PUBLISHED||[4699981071](https://github.com/arch4edu/cactus/actions/runs/4699981071)|<script type="text/javascript">localize(1681496978);</script>|
 |x86_64|[x86_64/gcc5](https://aur.archlinux.org/pkgbase/gcc5)|PUBLISHED||[2656797652](https://github.com/arch4edu/cactus/actions/runs/2656797652)|<script type="text/javascript">localize(1657640370);</script>|
-|x86_64|[x86_64/gcc6](https://aur.archlinux.org/pkgbase/gcc6)|BUILDING|GitHubActions|[5166755693](https://github.com/arch4edu/cactus/actions/runs/5166755693)|<script type="text/javascript">localize(1685845670);</script>|
+|x86_64|[x86_64/gcc6](https://aur.archlinux.org/pkgbase/gcc6)|BUILT||[5166755693](https://github.com/arch4edu/cactus/actions/runs/5166755693)|<script type="text/javascript">localize(1685848920);</script>|
 |x86_64|[x86_64/gcc7](https://aur.archlinux.org/pkgbase/gcc7)|PUBLISHED||[2648243985](https://github.com/arch4edu/cactus/actions/runs/2648243985)|<script type="text/javascript">localize(1657535696);</script>|
 |x86_64|[x86_64/gcc8](https://aur.archlinux.org/pkgbase/gcc8)|PUBLISHED||[2656798250](https://github.com/arch4edu/cactus/actions/runs/2656798250)|<script type="text/javascript">localize(1657643982);</script>|
 |x86_64|[x86_64/gcc9](https://aur.archlinux.org/pkgbase/gcc9)|PUBLISHED||[2658693205](https://github.com/arch4edu/cactus/actions/runs/2658693205)|<script type="text/javascript">localize(1657668447);</script>|
