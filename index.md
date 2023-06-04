@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1685884710.297634);</script>
+Last update: <script type="text/javascript">localize(1685906085.683263);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -417,7 +417,7 @@ Last update: <script type="text/javascript">localize(1685884710.297634);</script
 |x86_64|[x86_64/pocketsphinx](https://aur.archlinux.org/pkgbase/pocketsphinx)|PUBLISHED||[4841856584](https://github.com/arch4edu/cactus/actions/runs/4841856584)|<script type="text/javascript">localize(1682836180);</script>|
 |x86_64|[x86_64/praat](https://aur.archlinux.org/pkgbase/praat)|PUBLISHED||[4878655214](https://github.com/arch4edu/cactus/actions/runs/4878655214)|<script type="text/javascript">localize(1683182859);</script>|
 |x86_64|[x86_64/pspp](https://aur.archlinux.org/pkgbase/pspp)|PUBLISHED||[4360447734](https://github.com/arch4edu/cactus/actions/runs/4360447734)|<script type="text/javascript">localize(1678257329);</script>|
-|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|BUILT||[5166755666](https://github.com/arch4edu/cactus/actions/runs/5166755666)|<script type="text/javascript">localize(1685883966);</script>|
+|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|PUBLISHED||[5166755666](https://github.com/arch4edu/cactus/actions/runs/5166755666)|<script type="text/javascript">localize(1685903239);</script>|
 |x86_64|[x86_64/python-arch](https://aur.archlinux.org/pkgbase/python-arch)|PUBLISHED||[5128202483](https://github.com/arch4edu/cactus/actions/runs/5128202483)|<script type="text/javascript">localize(1685514718);</script>|
 |x86_64|[x86_64/python-astroquery](https://aur.archlinux.org/pkgbase/python-astroquery)|PUBLISHED||[4915498195](https://github.com/arch4edu/cactus/actions/runs/4915498195)|<script type="text/javascript">localize(1683570559);</script>|
 |x86_64|[x86_64/python-av](https://aur.archlinux.org/pkgbase/python-av)|PUBLISHED||[4932228698](https://github.com/arch4edu/cactus/actions/runs/4932228698)|<script type="text/javascript">localize(1683700235);</script>|
