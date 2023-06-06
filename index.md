@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1686043032.767156);</script>
+Last update: <script type="text/javascript">localize(1686057649.615405);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -104,7 +104,7 @@ Last update: <script type="text/javascript">localize(1686043032.767156);</script
 |any|[any/panoply](https://aur.archlinux.org/pkgbase/panoply)|PUBLISHED||[5131400425](https://github.com/arch4edu/cactus/actions/runs/5131400425)|<script type="text/javascript">localize(1685557757);</script>|
 |any|[any/pi-hole-server](https://aur.archlinux.org/pkgbase/pi-hole-server)|PUBLISHED||[5128131043](https://github.com/arch4edu/cactus/actions/runs/5128131043)|<script type="text/javascript">localize(1685514637);</script>|
 |any|[any/pi-hole-standalone](https://aur.archlinux.org/pkgbase/pi-hole-standalone)|PUBLISHED||[5128131097](https://github.com/arch4edu/cactus/actions/runs/5128131097)|<script type="text/javascript">localize(1685514655);</script>|
-|any|[any/pnpm](https://aur.archlinux.org/pkgbase/pnpm)|PUBLISHED||[5112034808](https://github.com/arch4edu/cactus/actions/runs/5112034808)|<script type="text/javascript">localize(1685384938);</script>|
+|any|[any/pnpm](https://aur.archlinux.org/pkgbase/pnpm)|FAILED|nvchecker failed, previously PUBLISHED|[5112034808](https://github.com/arch4edu/cactus/actions/runs/5112034808)|<script type="text/javascript">localize(1686055742);</script>|
 |any|[any/pyglossary](https://aur.archlinux.org/pkgbase/pyglossary)|PUBLISHED||[4878826600](https://github.com/arch4edu/cactus/actions/runs/4878826600)|<script type="text/javascript">localize(1683181858);</script>|
 |any|[any/pypy3-pip](https://aur.archlinux.org/pkgbase/pypy3-pip)|PUBLISHED||[4817333787](https://github.com/arch4edu/cactus/actions/runs/4817333787)|<script type="text/javascript">localize(1682584427);</script>|
 |any|[any/pypy3-setuptools](https://aur.archlinux.org/pkgbase/pypy3-setuptools)|PUBLISHED||[3918043940](https://github.com/arch4edu/cactus/actions/runs/3918043940)|<script type="text/javascript">localize(1673721020);</script>|
@@ -456,7 +456,7 @@ Last update: <script type="text/javascript">localize(1686043032.767156);</script
 |x86_64|[x86_64/python-qiskit-optimization](https://aur.archlinux.org/pkgbase/python-qiskit-optimization)|PUBLISHED||[4926493514](https://github.com/arch4edu/cactus/actions/runs/4926493514)|<script type="text/javascript">localize(1683657112);</script>|
 |x86_64|[x86_64/python-qiskit-terra](https://aur.archlinux.org/pkgbase/python-qiskit-terra)|PUBLISHED||[5155700054](https://github.com/arch4edu/cactus/actions/runs/5155700054)|<script type="text/javascript">localize(1685730603);</script>|
 |x86_64|[x86_64/python-quandl](https://aur.archlinux.org/pkgbase/python-quandl)|PUBLISHED||[4878497480](https://github.com/arch4edu/cactus/actions/runs/4878497480)|<script type="text/javascript">localize(1683183229);</script>|
-|x86_64|[x86_64/python-ray](https://aur.archlinux.org/pkgbase/python-ray)|FAILED|Build failed.|[5172467369](https://github.com/arch4edu/cactus/actions/runs/5172467369)|<script type="text/javascript">localize(1685931527);</script>|
+|x86_64|[x86_64/python-ray](https://aur.archlinux.org/pkgbase/python-ray)|FAILED|Build failed.|[5188779686](https://github.com/arch4edu/cactus/actions/runs/5188779686)|<script type="text/javascript">localize(1686056856);</script>|
 |x86_64|[x86_64/python-resampy](https://aur.archlinux.org/pkgbase/python-resampy)|PUBLISHED||[4878606044](https://github.com/arch4edu/cactus/actions/runs/4878606044)|<script type="text/javascript">localize(1683183247);</script>|
 |x86_64|[x86_64/python-retworkx](https://aur.archlinux.org/pkgbase/python-retworkx)|PUBLISHED||[4878605911](https://github.com/arch4edu/cactus/actions/runs/4878605911)|<script type="text/javascript">localize(1683183260);</script>|
 |x86_64|[x86_64/python-rustworkx](https://aur.archlinux.org/pkgbase/python-rustworkx)|PUBLISHED||[4889083510](https://github.com/arch4edu/cactus/actions/runs/4889083510)|<script type="text/javascript">localize(1683268372);</script>|
