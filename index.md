@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1686057649.615405);</script>
+Last update: <script type="text/javascript">localize(1686078839.9305325);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -377,7 +377,7 @@ Last update: <script type="text/javascript">localize(1686057649.615405);</script
 |x86_64|[x86_64/opencv3-opt](https://aur.archlinux.org/pkgbase/opencv3-opt)|PUBLISHED||[4711681533](https://github.com/arch4edu/cactus/actions/runs/4711681533)|<script type="text/javascript">localize(1681626652);</script>|
 |x86_64|[x86_64/openface](https://aur.archlinux.org/pkgbase/openface)|PUBLISHED||[4288759767](https://github.com/arch4edu/cactus/actions/runs/4288759767)|<script type="text/javascript">localize(1677609377);</script>|
 |x86_64|[x86_64/openfoam](https://aur.archlinux.org/pkgbase/openfoam)|PUBLISHED||[4460127887](https://github.com/arch4edu/cactus/actions/runs/4460127887)|<script type="text/javascript">localize(1679250719);</script>|
-|x86_64|[x86_64/openfoam-com](https://aur.archlinux.org/pkgbase/openfoam-com)|BUILT||[5169271635](https://github.com/arch4edu/cactus/actions/runs/5169271635)|<script type="text/javascript">localize(1686039936);</script>|
+|x86_64|[x86_64/openfoam-com](https://aur.archlinux.org/pkgbase/openfoam-com)|PUBLISHED||[5169271635](https://github.com/arch4edu/cactus/actions/runs/5169271635)|<script type="text/javascript">localize(1686076128);</script>|
 |x86_64|[x86_64/openfst](https://aur.archlinux.org/pkgbase/openfst)|PUBLISHED||[2725775868](https://github.com/arch4edu/cactus/actions/runs/2725775868)|<script type="text/javascript">localize(1658635190);</script>|
 |x86_64|[x86_64/openjpeg](https://aur.archlinux.org/pkgbase/openjpeg)|PUBLISHED||[2648304268](https://github.com/arch4edu/cactus/actions/runs/2648304268)|<script type="text/javascript">localize(1657532128);</script>|
 |x86_64|[x86_64/openni2](https://aur.archlinux.org/pkgbase/openni2)|PUBLISHED||[2648274276](https://github.com/arch4edu/cactus/actions/runs/2648274276)|<script type="text/javascript">localize(1657529827);</script>|
