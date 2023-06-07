@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1686106532.6867738);</script>
+Last update: <script type="text/javascript">localize(1686122175.149232);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -343,7 +343,7 @@ Last update: <script type="text/javascript">localize(1686106532.6867738);</scrip
 |x86_64|[x86_64/meshlab](https://aur.archlinux.org/pkgbase/meshlab)|PUBLISHED||[3583606500](https://github.com/arch4edu/cactus/actions/runs/3583606500)|<script type="text/javascript">localize(1669833433);</script>|
 |x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|PUBLISHED||[4645232032](https://github.com/arch4edu/cactus/actions/runs/4645232032)|<script type="text/javascript">localize(1680978534);</script>|
 |x86_64|[x86_64/metis](https://aur.archlinux.org/pkgbase/metis)|PUBLISHED||[4060253653](https://github.com/arch4edu/cactus/actions/runs/4060253653)|<script type="text/javascript">localize(1675233250);</script>|
-|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|BUILT||[5195212618](https://github.com/arch4edu/cactus/actions/runs/5195212618)|<script type="text/javascript">localize(1686104239);</script>|
+|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|PUBLISHED||[5195212618](https://github.com/arch4edu/cactus/actions/runs/5195212618)|<script type="text/javascript">localize(1686119402);</script>|
 |x86_64|[x86_64/miktex](https://aur.archlinux.org/pkgbase/miktex)|PUBLISHED||[4899003035](https://github.com/arch4edu/cactus/actions/runs/4899003035)|<script type="text/javascript">localize(1683354614);</script>|
 |x86_64|[x86_64/mmg](https://aur.archlinux.org/pkgbase/mmg)|PUBLISHED||[3745685879](https://github.com/arch4edu/cactus/actions/runs/3745685879)|<script type="text/javascript">localize(1671604370);</script>|
 |x86_64|[x86_64/mongodb](https://aur.archlinux.org/pkgbase/mongodb)|PUBLISHED||[4453050391](https://github.com/arch4edu/cactus/actions/runs/4453050391)|<script type="text/javascript">localize(1679121091);</script>|
