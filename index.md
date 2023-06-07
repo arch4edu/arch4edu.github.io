@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1686122175.149232);</script>
+Last update: <script type="text/javascript">localize(1686144248.5783925);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -158,7 +158,7 @@ Last update: <script type="text/javascript">localize(1686122175.149232);</script
 |any|[any/python-smart_open](https://aur.archlinux.org/pkgbase/python-smart_open)|PUBLISHED||[4878334490](https://github.com/arch4edu/cactus/actions/runs/4878334490)|<script type="text/javascript">localize(1683182543);</script>|
 |any|[any/python-soundfile](https://aur.archlinux.org/pkgbase/python-soundfile)|PUBLISHED||[4904710700](https://github.com/arch4edu/cactus/actions/runs/4904710700)|<script type="text/javascript">localize(1683440986);</script>|
 |any|[any/python-sparse](https://aur.archlinux.org/pkgbase/python-sparse)|PUBLISHED||[5045979920](https://github.com/arch4edu/cactus/actions/runs/5045979920)|<script type="text/javascript">localize(1684780140);</script>|
-|any|[any/python-sphinx-astropy](https://aur.archlinux.org/pkgbase/python-sphinx-astropy)|PUBLISHED||[4915376351](https://github.com/arch4edu/cactus/actions/runs/4915376351)|<script type="text/javascript">localize(1683570533);</script>|
+|any|[any/python-sphinx-astropy](https://aur.archlinux.org/pkgbase/python-sphinx-astropy)|FAILED|Build failed.|[5200212048](https://github.com/arch4edu/cactus/actions/runs/5200212048)|<script type="text/javascript">localize(1686142679);</script>|
 |any|[any/python-sphinx-automodapi](https://aur.archlinux.org/pkgbase/python-sphinx-automodapi)|PUBLISHED||[4878252500](https://github.com/arch4edu/cactus/actions/runs/4878252500)|<script type="text/javascript">localize(1683182595);</script>|
 |any|[any/python-sphinx-gallery](https://aur.archlinux.org/pkgbase/python-sphinx-gallery)|PUBLISHED||[4878293111](https://github.com/arch4edu/cactus/actions/runs/4878293111)|<script type="text/javascript">localize(1683182613);</script>|
 |any|[any/python-sphinxcontrib-plantuml](https://aur.archlinux.org/pkgbase/python-sphinxcontrib-plantuml)|PUBLISHED||[4907255775](https://github.com/arch4edu/cactus/actions/runs/4907255775)|<script type="text/javascript">localize(1683484063);</script>|
@@ -436,7 +436,7 @@ Last update: <script type="text/javascript">localize(1686122175.149232);</script
 |x86_64|[x86_64/python-ml-dtypes](https://aur.archlinux.org/pkgbase/python-ml-dtypes)|PUBLISHED||[5045980515](https://github.com/arch4edu/cactus/actions/runs/5045980515)|<script type="text/javascript">localize(1684866870);</script>|
 |x86_64|[x86_64/python-multitasking](https://aur.archlinux.org/pkgbase/python-multitasking)|PUBLISHED||[4882967672](https://github.com/arch4edu/cactus/actions/runs/4882967672)|<script type="text/javascript">localize(1683224991);</script>|
 |x86_64|[x86_64/python-ninja](https://aur.archlinux.org/pkgbase/python-ninja)|PUBLISHED||[5101849777](https://github.com/arch4edu/cactus/actions/runs/5101849777)|<script type="text/javascript">localize(1685255435);</script>|
-|x86_64|[x86_64/python-numba-git](https://aur.archlinux.org/pkgbase/python-numba-git)|PUBLISHED||[5183819188](https://github.com/arch4edu/cactus/actions/runs/5183819188)|<script type="text/javascript">localize(1686027749);</script>|
+|x86_64|[x86_64/python-numba-git](https://aur.archlinux.org/pkgbase/python-numba-git)|BUILT||[5200211894](https://github.com/arch4edu/cactus/actions/runs/5200211894)|<script type="text/javascript">localize(1686142710);</script>|
 |x86_64|[x86_64/python-numpy-mkl](https://aur.archlinux.org/pkgbase/python-numpy-mkl)|PUBLISHED||[5045980848](https://github.com/arch4edu/cactus/actions/runs/5045980848)|<script type="text/javascript">localize(1684780154);</script>|
 |x86_64|[x86_64/python-oracledb](https://aur.archlinux.org/pkgbase/python-oracledb)|PUBLISHED||[4878497744](https://github.com/arch4edu/cactus/actions/runs/4878497744)|<script type="text/javascript">localize(1683183142);</script>|
 |x86_64|[x86_64/python-portalocker](https://aur.archlinux.org/pkgbase/python-portalocker)|PUBLISHED||[4910529809](https://github.com/arch4edu/cactus/actions/runs/4910529809)|<script type="text/javascript">localize(1683527436);</script>|
@@ -1223,7 +1223,7 @@ Last update: <script type="text/javascript">localize(1686122175.149232);</script
 |x86_64/ros2|[x86_64/ros2/python-rospkg](https://aur.archlinux.org/pkgbase/python-rospkg)|PUBLISHED||[4878826404](https://github.com/arch4edu/cactus/actions/runs/4878826404)|<script type="text/javascript">localize(1683183845);</script>|
 |x86_64/ros2|[x86_64/ros2/python-vcstool](https://aur.archlinux.org/pkgbase/python-vcstool)|PUBLISHED||[4878573348](https://github.com/arch4edu/cactus/actions/runs/4878573348)|<script type="text/javascript">localize(1683183867);</script>|
 |x86_64/ros2|[x86_64/ros2/ros2-arch-deps](https://aur.archlinux.org/pkgbase/ros2-arch-deps)|PUBLISHED||[4299379410](https://github.com/arch4edu/cactus/actions/runs/4299379410)|<script type="text/javascript">localize(1677696222);</script>|
-|x86_64/ros2|[x86_64/ros2/ros2-humble](https://aur.archlinux.org/pkgbase/ros2-humble)|FAILED|Build failed.|[5183789517](https://github.com/arch4edu/cactus/actions/runs/5183789517)|<script type="text/javascript">localize(1686020008);</script>|
+|x86_64/ros2|[x86_64/ros2/ros2-humble](https://aur.archlinux.org/pkgbase/ros2-humble)|FAILED|Build failed.|[5200212201](https://github.com/arch4edu/cactus/actions/runs/5200212201)|<script type="text/javascript">localize(1686144169);</script>|
 |x86_64/ros2|[x86_64/ros2/ros2-pyqt5-sip-compat](https://aur.archlinux.org/pkgbase/ros2-pyqt5-sip-compat)|PUBLISHED||[2647891457](https://github.com/arch4edu/cactus/actions/runs/2647891457)|<script type="text/javascript">localize(1657525993);</script>|
 |x86_64|[x86_64/rpi-imager](https://aur.archlinux.org/pkgbase/rpi-imager)|PUBLISHED||[5045980947](https://github.com/arch4edu/cactus/actions/runs/5045980947)|<script type="text/javascript">localize(1684780294);</script>|
 |x86_64|[x86_64/rpiusbboot](https://aur.archlinux.org/pkgbase/rpiusbboot)|PUBLISHED||[3736758799](https://github.com/arch4edu/cactus/actions/runs/3736758799)|<script type="text/javascript">localize(1671518060);</script>|
