@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1686144248.5783925);</script>
+Last update: <script type="text/javascript">localize(1686165273.3930917);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -436,7 +436,7 @@ Last update: <script type="text/javascript">localize(1686144248.5783925);</scrip
 |x86_64|[x86_64/python-ml-dtypes](https://aur.archlinux.org/pkgbase/python-ml-dtypes)|PUBLISHED||[5045980515](https://github.com/arch4edu/cactus/actions/runs/5045980515)|<script type="text/javascript">localize(1684866870);</script>|
 |x86_64|[x86_64/python-multitasking](https://aur.archlinux.org/pkgbase/python-multitasking)|PUBLISHED||[4882967672](https://github.com/arch4edu/cactus/actions/runs/4882967672)|<script type="text/javascript">localize(1683224991);</script>|
 |x86_64|[x86_64/python-ninja](https://aur.archlinux.org/pkgbase/python-ninja)|PUBLISHED||[5101849777](https://github.com/arch4edu/cactus/actions/runs/5101849777)|<script type="text/javascript">localize(1685255435);</script>|
-|x86_64|[x86_64/python-numba-git](https://aur.archlinux.org/pkgbase/python-numba-git)|BUILT||[5200211894](https://github.com/arch4edu/cactus/actions/runs/5200211894)|<script type="text/javascript">localize(1686142710);</script>|
+|x86_64|[x86_64/python-numba-git](https://aur.archlinux.org/pkgbase/python-numba-git)|PUBLISHED||[5200211894](https://github.com/arch4edu/cactus/actions/runs/5200211894)|<script type="text/javascript">localize(1686162571);</script>|
 |x86_64|[x86_64/python-numpy-mkl](https://aur.archlinux.org/pkgbase/python-numpy-mkl)|PUBLISHED||[5045980848](https://github.com/arch4edu/cactus/actions/runs/5045980848)|<script type="text/javascript">localize(1684780154);</script>|
 |x86_64|[x86_64/python-oracledb](https://aur.archlinux.org/pkgbase/python-oracledb)|PUBLISHED||[4878497744](https://github.com/arch4edu/cactus/actions/runs/4878497744)|<script type="text/javascript">localize(1683183142);</script>|
 |x86_64|[x86_64/python-portalocker](https://aur.archlinux.org/pkgbase/python-portalocker)|PUBLISHED||[4910529809](https://github.com/arch4edu/cactus/actions/runs/4910529809)|<script type="text/javascript">localize(1683527436);</script>|
