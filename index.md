@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1686244580.6575873);</script>
+Last update: <script type="text/javascript">localize(1686248474.4818742);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -398,7 +398,7 @@ Last update: <script type="text/javascript">localize(1686244580.6575873);</scrip
 |x86_64|[x86_64/pastix](https://aur.archlinux.org/pkgbase/pastix)|PUBLISHED||[5062718504](https://github.com/arch4edu/cactus/actions/runs/5062718504)|<script type="text/javascript">localize(1684909778);</script>|
 |x86_64|[x86_64/pcl](https://aur.archlinux.org/pkgbase/pcl)|PUBLISHED||[4937170061](https://github.com/arch4edu/cactus/actions/runs/4937170061)|<script type="text/javascript">localize(1683743650);</script>|
 |x86_64|[x86_64/petsc](https://aur.archlinux.org/pkgbase/petsc)|FAILED|Build failed.|[5211370110](https://github.com/arch4edu/cactus/actions/runs/5211370110)|<script type="text/javascript">localize(1686229541);</script>|
-|x86_64|[x86_64/petsc-complex](https://aur.archlinux.org/pkgbase/petsc-complex)|FAILED|Build failed.|[5211370238](https://github.com/arch4edu/cactus/actions/runs/5211370238)|<script type="text/javascript">localize(1686228631);</script>|
+|x86_64|[x86_64/petsc-complex](https://aur.archlinux.org/pkgbase/petsc-complex)|FAILED|Build failed.|[5211370238](https://github.com/arch4edu/cactus/actions/runs/5211370238)|<script type="text/javascript">localize(1686248426);</script>|
 |x86_64|[x86_64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|PUBLISHED||[5107605379](https://github.com/arch4edu/cactus/actions/runs/5107605379)|<script type="text/javascript">localize(1685341868);</script>|
 |x86_64|[x86_64/pio](https://aur.archlinux.org/pkgbase/pio)|PUBLISHED||[2647918996](https://github.com/arch4edu/cactus/actions/runs/2647918996)|<script type="text/javascript">localize(1657525869);</script>|
 |x86_64|[x86_64/plplot](https://aur.archlinux.org/pkgbase/plplot)|PUBLISHED||[4782483684](https://github.com/arch4edu/cactus/actions/runs/4782483684)|<script type="text/javascript">localize(1682317934);</script>|
@@ -417,7 +417,7 @@ Last update: <script type="text/javascript">localize(1686244580.6575873);</scrip
 |x86_64|[x86_64/python-fastdtw](https://aur.archlinux.org/pkgbase/python-fastdtw)|PUBLISHED||[4878605834](https://github.com/arch4edu/cactus/actions/runs/4878605834)|<script type="text/javascript">localize(1683182928);</script>|
 |x86_64|[x86_64/python-fastrlock](https://aur.archlinux.org/pkgbase/python-fastrlock)|PUBLISHED||[4878573040](https://github.com/arch4edu/cactus/actions/runs/4878573040)|<script type="text/javascript">localize(1683182941);</script>|
 |x86_64|[x86_64/python-fenics-basix](https://aur.archlinux.org/pkgbase/python-fenics-basix)|PUBLISHED||[4915376155](https://github.com/arch4edu/cactus/actions/runs/4915376155)|<script type="text/javascript">localize(1683570572);</script>|
-|x86_64|[x86_64/python-fenics-dolfinx](https://aur.archlinux.org/pkgbase/python-fenics-dolfinx)|STALE|Waiting for dependency: x86_64/petsc.|[5195213066](https://github.com/arch4edu/cactus/actions/runs/5195213066)|<script type="text/javascript">localize(1686244478);</script>|
+|x86_64|[x86_64/python-fenics-dolfinx](https://aur.archlinux.org/pkgbase/python-fenics-dolfinx)|STALE|Waiting for dependency: x86_64/petsc.|[5195213066](https://github.com/arch4edu/cactus/actions/runs/5195213066)|<script type="text/javascript">localize(1686248210);</script>|
 |x86_64|[x86_64/python-fenics-ffcx](https://aur.archlinux.org/pkgbase/python-fenics-ffcx)|PUBLISHED||[4915498083](https://github.com/arch4edu/cactus/actions/runs/4915498083)|<script type="text/javascript">localize(1683570584);</script>|
 |x86_64|[x86_64/python-fenics-ufl](https://aur.archlinux.org/pkgbase/python-fenics-ufl)|PUBLISHED||[4910530013](https://github.com/arch4edu/cactus/actions/runs/4910530013)|<script type="text/javascript">localize(1683527419);</script>|
 |x86_64|[x86_64/python-gensim](https://aur.archlinux.org/pkgbase/python-gensim)|PUBLISHED||[4878654992](https://github.com/arch4edu/cactus/actions/runs/4878654992)|<script type="text/javascript">localize(1683182975);</script>|
