@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1686327743.793956);</script>
+Last update: <script type="text/javascript">localize(1686330952.2881122);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -160,7 +160,7 @@ Last update: <script type="text/javascript">localize(1686327743.793956);</script
 |any|[any/python-smart_open](https://aur.archlinux.org/pkgbase/python-smart_open)|PUBLISHED||[4878334490](https://github.com/arch4edu/cactus/actions/runs/4878334490)|<script type="text/javascript">localize(1683182543);</script>|
 |any|[any/python-soundfile](https://aur.archlinux.org/pkgbase/python-soundfile)|PUBLISHED||[4904710700](https://github.com/arch4edu/cactus/actions/runs/4904710700)|<script type="text/javascript">localize(1683440986);</script>|
 |any|[any/python-sparse](https://aur.archlinux.org/pkgbase/python-sparse)|PUBLISHED||[5045979920](https://github.com/arch4edu/cactus/actions/runs/5045979920)|<script type="text/javascript">localize(1684780140);</script>|
-|any|[any/python-sphinx-astropy](https://aur.archlinux.org/pkgbase/python-sphinx-astropy)|BUILDING|Build failed.|[5217521964](https://github.com/arch4edu/cactus/actions/runs/5217521964)|<script type="text/javascript">localize(1686327612);</script>|
+|any|[any/python-sphinx-astropy](https://aur.archlinux.org/pkgbase/python-sphinx-astropy)|BUILT||[5217521964](https://github.com/arch4edu/cactus/actions/runs/5217521964)|<script type="text/javascript">localize(1686327767);</script>|
 |any|[any/python-sphinx-automodapi](https://aur.archlinux.org/pkgbase/python-sphinx-automodapi)|PUBLISHED||[4878252500](https://github.com/arch4edu/cactus/actions/runs/4878252500)|<script type="text/javascript">localize(1683182595);</script>|
 |any|[any/python-sphinx-gallery](https://aur.archlinux.org/pkgbase/python-sphinx-gallery)|PUBLISHED||[4878293111](https://github.com/arch4edu/cactus/actions/runs/4878293111)|<script type="text/javascript">localize(1683182613);</script>|
 |any|[any/python-sphinxcontrib-plantuml](https://aur.archlinux.org/pkgbase/python-sphinxcontrib-plantuml)|PUBLISHED||[4907255775](https://github.com/arch4edu/cactus/actions/runs/4907255775)|<script type="text/javascript">localize(1683484063);</script>|
