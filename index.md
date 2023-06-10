@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1686365162.9159155);</script>
+Last update: <script type="text/javascript">localize(1686367058.264374);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -352,7 +352,7 @@ Last update: <script type="text/javascript">localize(1686365162.9159155);</scrip
 |x86_64|[x86_64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|PUBLISHED||[4986975931](https://github.com/arch4edu/cactus/actions/runs/4986975931)|<script type="text/javascript">localize(1684218633);</script>|
 |x86_64|[x86_64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|PUBLISHED||[5177344530](https://github.com/arch4edu/cactus/actions/runs/5177344530)|<script type="text/javascript">localize(1685990022);</script>|
 |x86_64|[x86_64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|PUBLISHED||[5086324396](https://github.com/arch4edu/cactus/actions/runs/5086324396)|<script type="text/javascript">localize(1685082651);</script>|
-|x86_64|[x86_64/mpich](https://aur.archlinux.org/pkgbase/mpich)|BUILDING|GitHubActions|[5227511229](https://github.com/arch4edu/cactus/actions/runs/5227511229)|<script type="text/javascript">localize(1686362326);</script>|
+|x86_64|[x86_64/mpich](https://aur.archlinux.org/pkgbase/mpich)|BUILT||[5227511229](https://github.com/arch4edu/cactus/actions/runs/5227511229)|<script type="text/javascript">localize(1686365817);</script>|
 |x86_64|[x86_64/mpir](https://aur.archlinux.org/pkgbase/mpir)|PUBLISHED||[3583525299](https://github.com/arch4edu/cactus/actions/runs/3583525299)|<script type="text/javascript">localize(1669833448);</script>|
 |x86_64|[x86_64/mumps](https://aur.archlinux.org/pkgbase/mumps)|PUBLISHED||[5057586893](https://github.com/arch4edu/cactus/actions/runs/5057586893)|<script type="text/javascript">localize(1684866764);</script>|
 |x86_64|[x86_64/mumps-par](https://aur.archlinux.org/pkgbase/mumps-par)|PUBLISHED||[5068881372](https://github.com/arch4edu/cactus/actions/runs/5068881372)|<script type="text/javascript">localize(1684953066);</script>|
@@ -427,7 +427,7 @@ Last update: <script type="text/javascript">localize(1686365162.9159155);</scrip
 |x86_64|[x86_64/python-ibm-platform-services](https://aur.archlinux.org/pkgbase/python-ibm-platform-services)|PUBLISHED||[5155699961](https://github.com/arch4edu/cactus/actions/runs/5155699961)|<script type="text/javascript">localize(1685730525);</script>|
 |x86_64|[x86_64/python-imagecodecs](https://aur.archlinux.org/pkgbase/python-imagecodecs)|PUBLISHED||[4878826743](https://github.com/arch4edu/cactus/actions/runs/4878826743)|<script type="text/javascript">localize(1683183024);</script>|
 |x86_64|[x86_64/python-imageio](https://aur.archlinux.org/pkgbase/python-imageio)|PUBLISHED||[4878536617](https://github.com/arch4edu/cactus/actions/runs/4878536617)|<script type="text/javascript">localize(1683183042);</script>|
-|x86_64|[x86_64/python-jax](https://aur.archlinux.org/pkgbase/python-jax)|STALE|Waiting for dependency: x86_64/python-jaxlib.|[5152742472](https://github.com/arch4edu/cactus/actions/runs/5152742472)|<script type="text/javascript">localize(1686365114);</script>|
+|x86_64|[x86_64/python-jax](https://aur.archlinux.org/pkgbase/python-jax)|STALE|Waiting for dependency: x86_64/python-jaxlib.|[5152742472](https://github.com/arch4edu/cactus/actions/runs/5152742472)|<script type="text/javascript">localize(1686366987);</script>|
 |x86_64|[x86_64/python-jaxlib](https://aur.archlinux.org/pkgbase/python-jaxlib)|BUILDING|GitHubActions|[5227511422](https://github.com/arch4edu/cactus/actions/runs/5227511422)|<script type="text/javascript">localize(1686362334);</script>|
 |x86_64|[x86_64/python-leveldb](https://aur.archlinux.org/pkgbase/python-leveldb)|PUBLISHED||[4878536486](https://github.com/arch4edu/cactus/actions/runs/4878536486)|<script type="text/javascript">localize(1683183054);</script>|
 |x86_64|[x86_64/python-llvmlite-git](https://aur.archlinux.org/pkgbase/python-llvmlite-git)|PUBLISHED||[5183789079](https://github.com/arch4edu/cactus/actions/runs/5183789079)|<script type="text/javascript">localize(1686027736);</script>|
