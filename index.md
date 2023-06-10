@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1686367058.264374);</script>
+Last update: <script type="text/javascript">localize(1686370812.6814513);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -35,7 +35,7 @@ Last update: <script type="text/javascript">localize(1686367058.264374);</script
 |aarch64|[aarch64/pigpio](https://aur.archlinux.org/pkgbase/pigpio)|PUBLISHED||[2648274215](https://github.com/arch4edu/cactus/actions/runs/2648274215)|<script type="text/javascript">localize(1657528573);</script>|
 |aarch64|[aarch64/pypy-bin](https://aur.archlinux.org/pkgbase/pypy-bin)|PUBLISHED||[2648036019](https://github.com/arch4edu/cactus/actions/runs/2648036019)|<script type="text/javascript">localize(1657528590);</script>|
 |aarch64|[aarch64/pypy3](https://aur.archlinux.org/pkgbase/pypy3)|PUBLISHED||[4238734170](https://github.com/arch4edu/cactus/actions/runs/4238734170)|<script type="text/javascript">localize(1677041229);</script>|
-|aarch64|[aarch64/python-jaxlib](https://aur.archlinux.org/pkgbase/python-jaxlib)|BUILDING|aarch64|[5227601828](https://github.com/arch4edu/cactus/actions/runs/5227601828)|<script type="text/javascript">localize(1686363688);</script>|
+|aarch64|[aarch64/python-jaxlib](https://aur.archlinux.org/pkgbase/python-jaxlib)|BUILT||[5227601828](https://github.com/arch4edu/cactus/actions/runs/5227601828)|<script type="text/javascript">localize(1686369700);</script>|
 |aarch64|[aarch64/python-ml-dtypes](https://aur.archlinux.org/pkgbase/python-ml-dtypes)|PUBLISHED||[5206609619](https://github.com/arch4edu/cactus/actions/runs/5206609619)|<script type="text/javascript">localize(1686205781);</script>|
 |aarch64|[aarch64/python-oracledb](https://aur.archlinux.org/pkgbase/python-oracledb)|PUBLISHED||[4878333871](https://github.com/arch4edu/cactus/actions/runs/4878333871)|<script type="text/javascript">localize(1683181818);</script>|
 |aarch64|[aarch64/python-wiringpi-git](https://aur.archlinux.org/pkgbase/python-wiringpi-git)|PUBLISHED||[4878418097](https://github.com/arch4edu/cactus/actions/runs/4878418097)|<script type="text/javascript">localize(1684759573);</script>|
@@ -407,7 +407,7 @@ Last update: <script type="text/javascript">localize(1686367058.264374);</script
 |x86_64|[x86_64/pocketsphinx](https://aur.archlinux.org/pkgbase/pocketsphinx)|PUBLISHED||[4841856584](https://github.com/arch4edu/cactus/actions/runs/4841856584)|<script type="text/javascript">localize(1682836180);</script>|
 |x86_64|[x86_64/praat](https://aur.archlinux.org/pkgbase/praat)|PUBLISHED||[4878655214](https://github.com/arch4edu/cactus/actions/runs/4878655214)|<script type="text/javascript">localize(1683182859);</script>|
 |x86_64|[x86_64/pspp](https://aur.archlinux.org/pkgbase/pspp)|PUBLISHED||[4360447734](https://github.com/arch4edu/cactus/actions/runs/4360447734)|<script type="text/javascript">localize(1678257329);</script>|
-|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|BUILDING|x86_64|[5227511475](https://github.com/arch4edu/cactus/actions/runs/5227511475)|<script type="text/javascript">localize(1686362310);</script>|
+|x86_64|[x86_64/python-apex-git](https://aur.archlinux.org/pkgbase/python-apex-git)|BUILT||[5227511475](https://github.com/arch4edu/cactus/actions/runs/5227511475)|<script type="text/javascript">localize(1686368411);</script>|
 |x86_64|[x86_64/python-arch](https://aur.archlinux.org/pkgbase/python-arch)|PUBLISHED||[5128202483](https://github.com/arch4edu/cactus/actions/runs/5128202483)|<script type="text/javascript">localize(1685514718);</script>|
 |x86_64|[x86_64/python-astroquery](https://aur.archlinux.org/pkgbase/python-astroquery)|PUBLISHED||[4915498195](https://github.com/arch4edu/cactus/actions/runs/4915498195)|<script type="text/javascript">localize(1683570559);</script>|
 |x86_64|[x86_64/python-av](https://aur.archlinux.org/pkgbase/python-av)|PUBLISHED||[4932228698](https://github.com/arch4edu/cactus/actions/runs/4932228698)|<script type="text/javascript">localize(1683700235);</script>|
@@ -427,7 +427,7 @@ Last update: <script type="text/javascript">localize(1686367058.264374);</script
 |x86_64|[x86_64/python-ibm-platform-services](https://aur.archlinux.org/pkgbase/python-ibm-platform-services)|PUBLISHED||[5155699961](https://github.com/arch4edu/cactus/actions/runs/5155699961)|<script type="text/javascript">localize(1685730525);</script>|
 |x86_64|[x86_64/python-imagecodecs](https://aur.archlinux.org/pkgbase/python-imagecodecs)|PUBLISHED||[4878826743](https://github.com/arch4edu/cactus/actions/runs/4878826743)|<script type="text/javascript">localize(1683183024);</script>|
 |x86_64|[x86_64/python-imageio](https://aur.archlinux.org/pkgbase/python-imageio)|PUBLISHED||[4878536617](https://github.com/arch4edu/cactus/actions/runs/4878536617)|<script type="text/javascript">localize(1683183042);</script>|
-|x86_64|[x86_64/python-jax](https://aur.archlinux.org/pkgbase/python-jax)|STALE|Waiting for dependency: x86_64/python-jaxlib.|[5152742472](https://github.com/arch4edu/cactus/actions/runs/5152742472)|<script type="text/javascript">localize(1686366987);</script>|
+|x86_64|[x86_64/python-jax](https://aur.archlinux.org/pkgbase/python-jax)|STALE|Waiting for dependency: x86_64/python-jaxlib.|[5152742472](https://github.com/arch4edu/cactus/actions/runs/5152742472)|<script type="text/javascript">localize(1686370735);</script>|
 |x86_64|[x86_64/python-jaxlib](https://aur.archlinux.org/pkgbase/python-jaxlib)|BUILDING|GitHubActions|[5227511422](https://github.com/arch4edu/cactus/actions/runs/5227511422)|<script type="text/javascript">localize(1686362334);</script>|
 |x86_64|[x86_64/python-leveldb](https://aur.archlinux.org/pkgbase/python-leveldb)|PUBLISHED||[4878536486](https://github.com/arch4edu/cactus/actions/runs/4878536486)|<script type="text/javascript">localize(1683183054);</script>|
 |x86_64|[x86_64/python-llvmlite-git](https://aur.archlinux.org/pkgbase/python-llvmlite-git)|PUBLISHED||[5183789079](https://github.com/arch4edu/cactus/actions/runs/5183789079)|<script type="text/javascript">localize(1686027736);</script>|
