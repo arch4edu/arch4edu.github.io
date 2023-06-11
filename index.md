@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1686452622.8100674);</script>
+Last update: <script type="text/javascript">localize(1686467725.7260244);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -197,7 +197,7 @@ Last update: <script type="text/javascript">localize(1686452622.8100674);</scrip
 |x86_64|[x86_64/alpm_octopi_utils](https://aur.archlinux.org/pkgbase/alpm_octopi_utils)|PUBLISHED||[2846907170](https://github.com/arch4edu/cactus/actions/runs/2846907170)|<script type="text/javascript">localize(1660346743);</script>|
 |x86_64|[x86_64/anaconda](https://aur.archlinux.org/pkgbase/anaconda)|PUBLISHED||[4772805289](https://github.com/arch4edu/cactus/actions/runs/4772805289)|<script type="text/javascript">localize(1682188488);</script>|
 |x86_64|[x86_64/android-emulator](https://aur.archlinux.org/pkgbase/android-emulator)|PUBLISHED||[5068880764](https://github.com/arch4edu/cactus/actions/runs/5068880764)|<script type="text/javascript">localize(1684952968);</script>|
-|x86_64|[x86_64/android-ndk](https://aur.archlinux.org/pkgbase/android-ndk)|BUILT||[5233066600](https://github.com/arch4edu/cactus/actions/runs/5233066600)|<script type="text/javascript">localize(1686450798);</script>|
+|x86_64|[x86_64/android-ndk](https://aur.archlinux.org/pkgbase/android-ndk)|PUBLISHED||[5233066600](https://github.com/arch4edu/cactus/actions/runs/5233066600)|<script type="text/javascript">localize(1686464990);</script>|
 |x86_64|[x86_64/android-sdk](https://aur.archlinux.org/pkgbase/android-sdk)|PUBLISHED||[2648118226](https://github.com/arch4edu/cactus/actions/runs/2648118226)|<script type="text/javascript">localize(1657528932);</script>|
 |x86_64|[x86_64/android-sdk-build-tools](https://aur.archlinux.org/pkgbase/android-sdk-build-tools)|PUBLISHED||[4496212853](https://github.com/arch4edu/cactus/actions/runs/4496212853)|<script type="text/javascript">localize(1679553068);</script>|
 |x86_64|[x86_64/android-sdk-platform-tools](https://aur.archlinux.org/pkgbase/android-sdk-platform-tools)|PUBLISHED||[5101849658](https://github.com/arch4edu/cactus/actions/runs/5101849658)|<script type="text/javascript">localize(1685255326);</script>|
