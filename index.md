@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1686561501.0190513);</script>
+Last update: <script type="text/javascript">localize(1686565232.6980703);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -503,7 +503,7 @@ Last update: <script type="text/javascript">localize(1686561501.0190513);</scrip
 |x86_64/r|[x86_64/r/r-bitops](https://aur.archlinux.org/pkgbase/r-bitops)|PUBLISHED||[2703191877](https://github.com/arch4edu/cactus/actions/runs/2703191877)|<script type="text/javascript">localize(1658306070);</script>|
 |x86_64/r|[x86_64/r/r-boom](https://aur.archlinux.org/pkgbase/r-boom)|PUBLISHED||[3404439855](https://github.com/arch4edu/cactus/actions/runs/3404439855)|<script type="text/javascript">localize(1667760603);</script>|
 |x86_64/r|[x86_64/r/r-boomspikeslab](https://aur.archlinux.org/pkgbase/r-boomspikeslab)|PUBLISHED||[2703764121](https://github.com/arch4edu/cactus/actions/runs/2703764121)|<script type="text/javascript">localize(1658313034);</script>|
-|x86_64/r|[x86_64/r/r-bootnet](https://aur.archlinux.org/pkgbase/r-bootnet)|STALE|Waiting for dependency: x86_64/r/r-mice.|[5046100499](https://github.com/arch4edu/cactus/actions/runs/5046100499)|<script type="text/javascript">localize(1686561194);</script>|
+|x86_64/r|[x86_64/r/r-bootnet](https://aur.archlinux.org/pkgbase/r-bootnet)|STALE|Waiting for dependency: x86_64/r/r-mice.|[5046100499](https://github.com/arch4edu/cactus/actions/runs/5046100499)|<script type="text/javascript">localize(1686564926);</script>|
 |x86_64/r|[x86_64/r/r-bridgesampling](https://aur.archlinux.org/pkgbase/r-bridgesampling)|PUBLISHED||[2703991319](https://github.com/arch4edu/cactus/actions/runs/2703991319)|<script type="text/javascript">localize(1658313049);</script>|
 |x86_64/r|[x86_64/r/r-brio](https://aur.archlinux.org/pkgbase/r-brio)|PUBLISHED||[3273764607](https://github.com/arch4edu/cactus/actions/runs/3273764607)|<script type="text/javascript">localize(1666119751);</script>|
 |x86_64/r|[x86_64/r/r-brobdingnag](https://aur.archlinux.org/pkgbase/r-brobdingnag)|PUBLISHED||[3553783503](https://github.com/arch4edu/cactus/actions/runs/3553783503)|<script type="text/javascript">localize(1669487816);</script>|
