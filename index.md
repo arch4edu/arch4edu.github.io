@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1688063172.200269);</script>
+Last update: <script type="text/javascript">localize(1688066125.3995824);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -430,7 +430,7 @@ Last update: <script type="text/javascript">localize(1688063172.200269);</script
 |x86_64|[x86_64/python-jax](https://aur.archlinux.org/pkgbase/python-jax)|PUBLISHED||[5358204308](https://github.com/arch4edu/cactus/actions/runs/5358204308)|<script type="text/javascript">localize(1687545095);</script>|
 |x86_64|[x86_64/python-jaxlib](https://aur.archlinux.org/pkgbase/python-jaxlib)|PUBLISHED||[5356562176](https://github.com/arch4edu/cactus/actions/runs/5356562176)|<script type="text/javascript">localize(1687545163);</script>|
 |x86_64|[x86_64/python-leveldb](https://aur.archlinux.org/pkgbase/python-leveldb)|PUBLISHED||[4878536486](https://github.com/arch4edu/cactus/actions/runs/4878536486)|<script type="text/javascript">localize(1683183054);</script>|
-|x86_64|[x86_64/python-llvmlite-git](https://aur.archlinux.org/pkgbase/python-llvmlite-git)|BUILT||[5412428939](https://github.com/arch4edu/cactus/actions/runs/5412428939)|<script type="text/javascript">localize(1688043499);</script>|
+|x86_64|[x86_64/python-llvmlite-git](https://aur.archlinux.org/pkgbase/python-llvmlite-git)|PUBLISHED||[5412428939](https://github.com/arch4edu/cactus/actions/runs/5412428939)|<script type="text/javascript">localize(1688063592);</script>|
 |x86_64|[x86_64/python-lmfit](https://aur.archlinux.org/pkgbase/python-lmfit)|PUBLISHED||[5014077649](https://github.com/arch4edu/cactus/actions/runs/5014077649)|<script type="text/javascript">localize(1684434531);</script>|
 |x86_64|[x86_64/python-mkl-fft](https://aur.archlinux.org/pkgbase/python-mkl-fft)|PUBLISHED||[5057463159](https://github.com/arch4edu/cactus/actions/runs/5057463159)|<script type="text/javascript">localize(1684866832);</script>|
 |x86_64|[x86_64/python-mkl-random](https://aur.archlinux.org/pkgbase/python-mkl-random)|PUBLISHED||[5151088098](https://github.com/arch4edu/cactus/actions/runs/5151088098)|<script type="text/javascript">localize(1685687456);</script>|
