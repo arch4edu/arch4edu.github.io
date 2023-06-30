@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1688066125.3995824);</script>
+Last update: <script type="text/javascript">localize(1688089787.0124958);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -374,7 +374,7 @@ Last update: <script type="text/javascript">localize(1688066125.3995824);</scrip
 |x86_64|[x86_64/ompl](https://aur.archlinux.org/pkgbase/ompl)|PUBLISHED||[4030697087](https://github.com/arch4edu/cactus/actions/runs/4030697087)|<script type="text/javascript">localize(1674930981);</script>|
 |x86_64|[x86_64/onedrive](https://aur.archlinux.org/pkgbase/onedrive)|PUBLISHED||[2648006369](https://github.com/arch4edu/cactus/actions/runs/2648006369)|<script type="text/javascript">localize(1657529802);</script>|
 |x86_64|[x86_64/openblas-lapack](https://aur.archlinux.org/pkgbase/openblas-lapack)|PUBLISHED||[4603081959](https://github.com/arch4edu/cactus/actions/runs/4603081959)|<script type="text/javascript">localize(1680978595);</script>|
-|x86_64|[x86_64/openboard](https://aur.archlinux.org/pkgbase/openboard)|PUBLISHED||[5170891030](https://github.com/arch4edu/cactus/actions/runs/5170891030)|<script type="text/javascript">localize(1685946614);</script>|
+|x86_64|[x86_64/openboard](https://aur.archlinux.org/pkgbase/openboard)|STALE||[5170891030](https://github.com/arch4edu/cactus/actions/runs/5170891030)|<script type="text/javascript">localize(1688088126);</script>|
 |x86_64|[x86_64/openctm-tools](https://aur.archlinux.org/pkgbase/openctm-tools)|PUBLISHED||[3583524975](https://github.com/arch4edu/cactus/actions/runs/3583524975)|<script type="text/javascript">localize(1669833462);</script>|
 |x86_64|[x86_64/opencv3-opt](https://aur.archlinux.org/pkgbase/opencv3-opt)|PUBLISHED||[4711681533](https://github.com/arch4edu/cactus/actions/runs/4711681533)|<script type="text/javascript">localize(1681626652);</script>|
 |x86_64|[x86_64/openface](https://aur.archlinux.org/pkgbase/openface)|PUBLISHED||[4288759767](https://github.com/arch4edu/cactus/actions/runs/4288759767)|<script type="text/javascript">localize(1677609377);</script>|
