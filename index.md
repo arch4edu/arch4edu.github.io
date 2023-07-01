@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1688217732.5199);</script>
+Last update: <script type="text/javascript">localize(1688220976.0865297);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -23,7 +23,7 @@ Last update: <script type="text/javascript">localize(1688217732.5199);</script>
 |aarch64|[aarch64/libsearpc](https://aur.archlinux.org/pkgbase/libsearpc)|FAILED|Build failed.|[5423107353](https://github.com/arch4edu/cactus/actions/runs/5423107353)|<script type="text/javascript">localize(1688129813);</script>|
 |aarch64|[aarch64/lux-dl](https://aur.archlinux.org/pkgbase/lux-dl)|PUBLISHED||[4673795898](https://github.com/arch4edu/cactus/actions/runs/4673795898)|<script type="text/javascript">localize(1681281036);</script>|
 |aarch64|[aarch64/makemkv](https://aur.archlinux.org/pkgbase/makemkv)|PUBLISHED||[5230002470](https://github.com/arch4edu/cactus/actions/runs/5230002470)|<script type="text/javascript">localize(1686421644);</script>|
-|aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|STALE|Waiting for dependency: aarch64/mongodb-tools.|[4986975702](https://github.com/arch4edu/cactus/actions/runs/4986975702)|<script type="text/javascript">localize(1688217582);</script>|
+|aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|STALE|Waiting for dependency: aarch64/mongodb-tools.|[4986975702](https://github.com/arch4edu/cactus/actions/runs/4986975702)|<script type="text/javascript">localize(1688220720);</script>|
 |aarch64|[aarch64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|FAILED|Build failed.|[5423155863](https://github.com/arch4edu/cactus/actions/runs/5423155863)|<script type="text/javascript">localize(1688130144);</script>|
 |aarch64|[aarch64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|PUBLISHED||[5364431622](https://github.com/arch4edu/cactus/actions/runs/5364431622)|<script type="text/javascript">localize(1687631517);</script>|
 |aarch64|[aarch64/netron](https://aur.archlinux.org/pkgbase/netron)|BUILT||[5431133650](https://github.com/arch4edu/cactus/actions/runs/5431133650)|<script type="text/javascript">localize(1688216515);</script>|
@@ -262,7 +262,7 @@ Last update: <script type="text/javascript">localize(1688217732.5199);</script>
 |x86_64|[x86_64/fastfetch](https://aur.archlinux.org/pkgbase/fastfetch)|PUBLISHED||[5227511269](https://github.com/arch4edu/cactus/actions/runs/5227511269)|<script type="text/javascript">localize(1686378533);</script>|
 |x86_64|[x86_64/fbx-sdk](https://aur.archlinux.org/pkgbase/fbx-sdk)|PUBLISHED||[3583525840](https://github.com/arch4edu/cactus/actions/runs/3583525840)|<script type="text/javascript">localize(1669833366);</script>|
 |x86_64|[x86_64/fcl](https://aur.archlinux.org/pkgbase/fcl)|PUBLISHED||[2648892160](https://github.com/arch4edu/cactus/actions/runs/2648892160)|<script type="text/javascript">localize(1657538601);</script>|
-|x86_64|[x86_64/fet-timetabling](https://aur.archlinux.org/pkgbase/fet-timetabling)|BUILDING|GitHubActions|[5431133315](https://github.com/arch4edu/cactus/actions/runs/5431133315)|<script type="text/javascript">localize(1688216035);</script>|
+|x86_64|[x86_64/fet-timetabling](https://aur.archlinux.org/pkgbase/fet-timetabling)|BUILT||[5431133315](https://github.com/arch4edu/cactus/actions/runs/5431133315)|<script type="text/javascript">localize(1688218141);</script>|
 |x86_64|[x86_64/flite1](https://aur.archlinux.org/pkgbase/flite1)|PUBLISHED||[5329207484](https://github.com/arch4edu/cactus/actions/runs/5329207484)|<script type="text/javascript">localize(1687329005);</script>|
 |x86_64|[x86_64/flutter](https://aur.archlinux.org/pkgbase/flutter)|PUBLISHED||[5296364170](https://github.com/arch4edu/cactus/actions/runs/5296364170)|<script type="text/javascript">localize(1686983503);</script>|
 |x86_64|[x86_64/fvwm3](https://aur.archlinux.org/pkgbase/fvwm3)|PUBLISHED||[4564565949](https://github.com/arch4edu/cactus/actions/runs/4564565949)|<script type="text/javascript">localize(1680200961);</script>|
