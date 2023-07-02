@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1688271758.341579);</script>
+Last update: <script type="text/javascript">localize(1688275087.9756858);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -23,7 +23,7 @@ Last update: <script type="text/javascript">localize(1688271758.341579);</script
 |aarch64|[aarch64/libsearpc](https://aur.archlinux.org/pkgbase/libsearpc)|FAILED|Build failed.|[5434225512](https://github.com/arch4edu/cactus/actions/runs/5434225512)|<script type="text/javascript">localize(1688264660);</script>|
 |aarch64|[aarch64/lux-dl](https://aur.archlinux.org/pkgbase/lux-dl)|PUBLISHED||[4673795898](https://github.com/arch4edu/cactus/actions/runs/4673795898)|<script type="text/javascript">localize(1681281036);</script>|
 |aarch64|[aarch64/makemkv](https://aur.archlinux.org/pkgbase/makemkv)|PUBLISHED||[5230002470](https://github.com/arch4edu/cactus/actions/runs/5230002470)|<script type="text/javascript">localize(1686421644);</script>|
-|aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|STALE|Waiting for dependency: aarch64/mongodb-tools.|[4986975702](https://github.com/arch4edu/cactus/actions/runs/4986975702)|<script type="text/javascript">localize(1688271724);</script>|
+|aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|STALE|Waiting for dependency: aarch64/mongodb-tools.|[4986975702](https://github.com/arch4edu/cactus/actions/runs/4986975702)|<script type="text/javascript">localize(1688274835);</script>|
 |aarch64|[aarch64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|FAILED|Build failed.|[5434245670](https://github.com/arch4edu/cactus/actions/runs/5434245670)|<script type="text/javascript">localize(1688265035);</script>|
 |aarch64|[aarch64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|PUBLISHED||[5364431622](https://github.com/arch4edu/cactus/actions/runs/5364431622)|<script type="text/javascript">localize(1687631517);</script>|
 |aarch64|[aarch64/netron](https://aur.archlinux.org/pkgbase/netron)|PUBLISHED||[5431133650](https://github.com/arch4edu/cactus/actions/runs/5431133650)|<script type="text/javascript">localize(1688236232);</script>|
@@ -152,7 +152,7 @@ Last update: <script type="text/javascript">localize(1688271758.341579);</script
 |any|[any/python-pytest-filter-subpackage](https://aur.archlinux.org/pkgbase/python-pytest-filter-subpackage)|PUBLISHED||[4878858262](https://github.com/arch4edu/cactus/actions/runs/4878858262)|<script type="text/javascript">localize(1683182421);</script>|
 |any|[any/python-pytest-remotedata](https://aur.archlinux.org/pkgbase/python-pytest-remotedata)|PUBLISHED||[4878377356](https://github.com/arch4edu/cactus/actions/runs/4878377356)|<script type="text/javascript">localize(1683182439);</script>|
 |any|[any/python-pyvo](https://aur.archlinux.org/pkgbase/python-pyvo)|PUBLISHED||[4915438408](https://github.com/arch4edu/cactus/actions/runs/4915438408)|<script type="text/javascript">localize(1683570516);</script>|
-|any|[any/python-requests-cache](https://aur.archlinux.org/pkgbase/python-requests-cache)|FAILED|Build failed.|[5434245717](https://github.com/arch4edu/cactus/actions/runs/5434245717)|<script type="text/javascript">localize(1688264958);</script>|
+|any|[any/python-requests-cache](https://aur.archlinux.org/pkgbase/python-requests-cache)|BUILT||[5434245717](https://github.com/arch4edu/cactus/actions/runs/5434245717)|<script type="text/javascript">localize(1688272322);</script>|
 |any|[any/python-rtslib-fb](https://aur.archlinux.org/pkgbase/python-rtslib-fb)|PUBLISHED||[4878418850](https://github.com/arch4edu/cactus/actions/runs/4878418850)|<script type="text/javascript">localize(1683182473);</script>|
 |any|[any/python-schedule](https://aur.archlinux.org/pkgbase/python-schedule)|PUBLISHED||[4878252855](https://github.com/arch4edu/cactus/actions/runs/4878252855)|<script type="text/javascript">localize(1683182491);</script>|
 |any|[any/python-selenium](https://aur.archlinux.org/pkgbase/python-selenium)|PUBLISHED||[5206637724](https://github.com/arch4edu/cactus/actions/runs/5206637724)|<script type="text/javascript">localize(1686205817);</script>|
