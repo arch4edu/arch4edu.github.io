@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1688379696.8963585);</script>
+Last update: <script type="text/javascript">localize(1688382961.2793317);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -23,7 +23,7 @@ Last update: <script type="text/javascript">localize(1688379696.8963585);</scrip
 |aarch64|[aarch64/libsearpc](https://aur.archlinux.org/pkgbase/libsearpc)|FAILED|Build failed.|[5434225512](https://github.com/arch4edu/cactus/actions/runs/5434225512)|<script type="text/javascript">localize(1688264660);</script>|
 |aarch64|[aarch64/lux-dl](https://aur.archlinux.org/pkgbase/lux-dl)|PUBLISHED||[4673795898](https://github.com/arch4edu/cactus/actions/runs/4673795898)|<script type="text/javascript">localize(1681281036);</script>|
 |aarch64|[aarch64/makemkv](https://aur.archlinux.org/pkgbase/makemkv)|PUBLISHED||[5230002470](https://github.com/arch4edu/cactus/actions/runs/5230002470)|<script type="text/javascript">localize(1686421644);</script>|
-|aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|STALE|Waiting for dependency: aarch64/mongodb-tools.|[4986975702](https://github.com/arch4edu/cactus/actions/runs/4986975702)|<script type="text/javascript">localize(1688379594);</script>|
+|aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|STALE|Waiting for dependency: aarch64/mongodb-tools.|[4986975702](https://github.com/arch4edu/cactus/actions/runs/4986975702)|<script type="text/javascript">localize(1688382730);</script>|
 |aarch64|[aarch64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|FAILED|Build failed.|[5434245670](https://github.com/arch4edu/cactus/actions/runs/5434245670)|<script type="text/javascript">localize(1688265035);</script>|
 |aarch64|[aarch64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|PUBLISHED||[5364431622](https://github.com/arch4edu/cactus/actions/runs/5364431622)|<script type="text/javascript">localize(1687631517);</script>|
 |aarch64|[aarch64/netron](https://aur.archlinux.org/pkgbase/netron)|PUBLISHED||[5431133650](https://github.com/arch4edu/cactus/actions/runs/5431133650)|<script type="text/javascript">localize(1688236232);</script>|
@@ -965,7 +965,7 @@ Last update: <script type="text/javascript">localize(1688379696.8963585);</scrip
 |x86_64/rocm|[x86_64/rocm/rocm-debug-agent](https://aur.archlinux.org/pkgbase/rocm-debug-agent)|PUBLISHED||[4182687245](https://github.com/arch4edu/cactus/actions/runs/4182687245)|<script type="text/javascript">localize(1676486146);</script>|
 |x86_64/rocm|[x86_64/rocm/rocm-gdb](https://aur.archlinux.org/pkgbase/rocm-gdb)|PUBLISHED||[4182687360](https://github.com/arch4edu/cactus/actions/runs/4182687360)|<script type="text/javascript">localize(1676486158);</script>|
 |x86_64/rocm|[x86_64/rocm/tensorflow-amd](https://aur.archlinux.org/pkgbase/tensorflow-amd)|FAILED|Build failed.|[4182687113](https://github.com/arch4edu/cactus/actions/runs/4182687113)|<script type="text/javascript">localize(1677671131);</script>|
-|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|BUILDING|GitHubActions|[5434225578](https://github.com/arch4edu/cactus/actions/runs/5434225578)|<script type="text/javascript">localize(1688264491);</script>|
+|x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|FAILED|Build failed.|[5443607531](https://github.com/arch4edu/cactus/actions/runs/5443607531)|<script type="text/javascript">localize(1688382678);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl](https://aur.archlinux.org/pkgbase/orocos-kdl)|PUBLISHED||[2962941130](https://github.com/arch4edu/cactus/actions/runs/2962941130)|<script type="text/javascript">localize(1661971407);</script>|
 |x86_64/ros|[x86_64/ros/orocos-kdl-python](https://aur.archlinux.org/pkgbase/orocos-kdl-python)|PUBLISHED||[4986975798](https://github.com/arch4edu/cactus/actions/runs/4986975798)|<script type="text/javascript">localize(1684218672);</script>|
 |x86_64/ros|[x86_64/ros/ros-build-tools](https://aur.archlinux.org/pkgbase/ros-build-tools)|PUBLISHED||[2962941198](https://github.com/arch4edu/cactus/actions/runs/2962941198)|<script type="text/javascript">localize(1661971435);</script>|
