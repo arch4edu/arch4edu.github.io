@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1688901302.946195);</script>
+Last update: <script type="text/javascript">localize(1688906181.4362967);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -23,7 +23,7 @@ Last update: <script type="text/javascript">localize(1688901302.946195);</script
 |aarch64|[aarch64/libsearpc](https://aur.archlinux.org/pkgbase/libsearpc)|FAILED|Build failed.|[5497530847](https://github.com/arch4edu/cactus/actions/runs/5497530847)|<script type="text/javascript">localize(1688869623);</script>|
 |aarch64|[aarch64/lux-dl](https://aur.archlinux.org/pkgbase/lux-dl)|PUBLISHED||[4673795898](https://github.com/arch4edu/cactus/actions/runs/4673795898)|<script type="text/javascript">localize(1681281036);</script>|
 |aarch64|[aarch64/makemkv](https://aur.archlinux.org/pkgbase/makemkv)|PUBLISHED||[5230002470](https://github.com/arch4edu/cactus/actions/runs/5230002470)|<script type="text/javascript">localize(1686421644);</script>|
-|aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|STALE|Waiting for dependency: aarch64/mongodb-tools.|[4986975702](https://github.com/arch4edu/cactus/actions/runs/4986975702)|<script type="text/javascript">localize(1688901000);</script>|
+|aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|STALE|Waiting for dependency: aarch64/mongodb-tools.|[4986975702](https://github.com/arch4edu/cactus/actions/runs/4986975702)|<script type="text/javascript">localize(1688906024);</script>|
 |aarch64|[aarch64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|FAILED|Build failed.|[5492196142](https://github.com/arch4edu/cactus/actions/runs/5492196142)|<script type="text/javascript">localize(1688783748);</script>|
 |aarch64|[aarch64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|PUBLISHED||[5364431622](https://github.com/arch4edu/cactus/actions/runs/5364431622)|<script type="text/javascript">localize(1687631517);</script>|
 |aarch64|[aarch64/netron](https://aur.archlinux.org/pkgbase/netron)|PUBLISHED||[5494523915](https://github.com/arch4edu/cactus/actions/runs/5494523915)|<script type="text/javascript">localize(1688841064);</script>|
