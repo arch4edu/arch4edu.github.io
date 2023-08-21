@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1692594945.1982236);</script>
+Last update: <script type="text/javascript">localize(1692598916.6738875);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -23,7 +23,7 @@ Last update: <script type="text/javascript">localize(1692594945.1982236);</scrip
 |aarch64|[aarch64/libsearpc](https://aur.archlinux.org/pkgbase/libsearpc)|PUBLISHED||[5745739704](https://github.com/arch4edu/cactus/actions/runs/5745739704)|<script type="text/javascript">localize(1691087291);</script>|
 |aarch64|[aarch64/lux-dl](https://aur.archlinux.org/pkgbase/lux-dl)|PUBLISHED||[4673795898](https://github.com/arch4edu/cactus/actions/runs/4673795898)|<script type="text/javascript">localize(1681281036);</script>|
 |aarch64|[aarch64/makemkv](https://aur.archlinux.org/pkgbase/makemkv)|PUBLISHED||[5230002470](https://github.com/arch4edu/cactus/actions/runs/5230002470)|<script type="text/javascript">localize(1686421644);</script>|
-|aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|STALE|Waiting for dependency: aarch64/mongodb-tools.|[4986975702](https://github.com/arch4edu/cactus/actions/runs/4986975702)|<script type="text/javascript">localize(1692594706);</script>|
+|aarch64|[aarch64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|STALE|Waiting for dependency: aarch64/mongodb-tools.|[4986975702](https://github.com/arch4edu/cactus/actions/runs/4986975702)|<script type="text/javascript">localize(1692598802);</script>|
 |aarch64|[aarch64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|FAILED|Build failed.|[5917442394](https://github.com/arch4edu/cactus/actions/runs/5917442394)|<script type="text/javascript">localize(1692535726);</script>|
 |aarch64|[aarch64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|PUBLISHED||[5911450606](https://github.com/arch4edu/cactus/actions/runs/5911450606)|<script type="text/javascript">localize(1692469548);</script>|
 |aarch64|[aarch64/netron](https://aur.archlinux.org/pkgbase/netron)|PUBLISHED||[5902805224](https://github.com/arch4edu/cactus/actions/runs/5902805224)|<script type="text/javascript">localize(1692383303);</script>|
@@ -269,7 +269,7 @@ Last update: <script type="text/javascript">localize(1692594945.1982236);</scrip
 |x86_64|[x86_64/flutter](https://aur.archlinux.org/pkgbase/flutter)|PUBLISHED||[5897735361](https://github.com/arch4edu/cactus/actions/runs/5897735361)|<script type="text/javascript">localize(1692342742);</script>|
 |x86_64|[x86_64/fvwm3](https://aur.archlinux.org/pkgbase/fvwm3)|PUBLISHED||[5482008545](https://github.com/arch4edu/cactus/actions/runs/5482008545)|<script type="text/javascript">localize(1688711704);</script>|
 |x86_64|[x86_64/g2clib](https://aur.archlinux.org/pkgbase/g2clib)|PUBLISHED||[2647862577](https://github.com/arch4edu/cactus/actions/runs/2647862577)|<script type="text/javascript">localize(1657525742);</script>|
-|x86_64|[x86_64/gazebo](https://aur.archlinux.org/pkgbase/gazebo)|STALE|Waiting for dependency: x86_64/ignition-msgs-5.|[5514964732](https://github.com/arch4edu/cactus/actions/runs/5514964732)|<script type="text/javascript">localize(1692594707);</script>|
+|x86_64|[x86_64/gazebo](https://aur.archlinux.org/pkgbase/gazebo)|STALE|Waiting for dependency: x86_64/ignition-msgs-5.|[5514964732](https://github.com/arch4edu/cactus/actions/runs/5514964732)|<script type="text/javascript">localize(1692598803);</script>|
 |x86_64|[x86_64/gcc10](https://aur.archlinux.org/pkgbase/gcc10)|PUBLISHED||[5565335572](https://github.com/arch4edu/cactus/actions/runs/5565335572)|<script type="text/javascript">localize(1689489154);</script>|
 |x86_64|[x86_64/gcc11](https://aur.archlinux.org/pkgbase/gcc11)|PUBLISHED||[5312075103](https://github.com/arch4edu/cactus/actions/runs/5312075103)|<script type="text/javascript">localize(1687242678);</script>|
 |x86_64|[x86_64/gcc5](https://aur.archlinux.org/pkgbase/gcc5)|PUBLISHED||[2656797652](https://github.com/arch4edu/cactus/actions/runs/2656797652)|<script type="text/javascript">localize(1657640370);</script>|
@@ -313,7 +313,7 @@ Last update: <script type="text/javascript">localize(1692594945.1982236);</scrip
 |x86_64|[x86_64/ignition-msgs-5](https://aur.archlinux.org/pkgbase/ignition-msgs-5)|FAILED|Build failed.|[5914695625](https://github.com/arch4edu/cactus/actions/runs/5914695625)|<script type="text/javascript">localize(1692495796);</script>|
 |x86_64|[x86_64/ignition-tools](https://aur.archlinux.org/pkgbase/ignition-tools)|PUBLISHED||[4349919149](https://github.com/arch4edu/cactus/actions/runs/4349919149)|<script type="text/javascript">localize(1678170877);</script>|
 |x86_64|[x86_64/ignition-tools-1](https://aur.archlinux.org/pkgbase/ignition-tools-1)|PUBLISHED||[4354347508](https://github.com/arch4edu/cactus/actions/runs/4354347508)|<script type="text/javascript">localize(1678214071);</script>|
-|x86_64|[x86_64/ignition-transport-8](https://aur.archlinux.org/pkgbase/ignition-transport-8)|STALE|Waiting for dependency: x86_64/ignition-msgs-5.|[5516355180](https://github.com/arch4edu/cactus/actions/runs/5516355180)|<script type="text/javascript">localize(1692594709);</script>|
+|x86_64|[x86_64/ignition-transport-8](https://aur.archlinux.org/pkgbase/ignition-transport-8)|STALE|Waiting for dependency: x86_64/ignition-msgs-5.|[5516355180](https://github.com/arch4edu/cactus/actions/runs/5516355180)|<script type="text/javascript">localize(1692598806);</script>|
 |x86_64|[x86_64/ignition-utils](https://aur.archlinux.org/pkgbase/ignition-utils)|PUBLISHED||[4421965827](https://github.com/arch4edu/cactus/actions/runs/4421965827)|<script type="text/javascript">localize(1678862044);</script>|
 |x86_64|[x86_64/ignition-utils-1](https://aur.archlinux.org/pkgbase/ignition-utils-1)|PUBLISHED||[4437277563](https://github.com/arch4edu/cactus/actions/runs/4437277563)|<script type="text/javascript">localize(1678991635);</script>|
 |x86_64|[x86_64/ipfs-sync](https://aur.archlinux.org/pkgbase/ipfs-sync)|PUBLISHED||[4507990579](https://github.com/arch4edu/cactus/actions/runs/4507990579)|<script type="text/javascript">localize(1679644511);</script>|
@@ -1138,7 +1138,7 @@ Last update: <script type="text/javascript">localize(1692594945.1982236);</scrip
 |x86_64/ros|[x86_64/ros/ros-noetic-gazebo-dev](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-dev)|PUBLISHED||[3872134953](https://github.com/arch4edu/cactus/actions/runs/3872134953)|<script type="text/javascript">localize(1673290032);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-gazebo-msgs](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-msgs)|PUBLISHED||[5122322804](https://github.com/arch4edu/cactus/actions/runs/5122322804)|<script type="text/javascript">localize(1685471489);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-gazebo-plugins](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-plugins)|PUBLISHED||[5132493236](https://github.com/arch4edu/cactus/actions/runs/5132493236)|<script type="text/javascript">localize(1685558077);</script>|
-|x86_64/ros|[x86_64/ros/ros-noetic-gazebo-ros](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-ros)|STALE|Waiting for dependency: x86_64/ignition-msgs-5.|[5132405741](https://github.com/arch4edu/cactus/actions/runs/5132405741)|<script type="text/javascript">localize(1692594708);</script>|
+|x86_64/ros|[x86_64/ros/ros-noetic-gazebo-ros](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-ros)|STALE|Waiting for dependency: x86_64/ignition-msgs-5.|[5132405741](https://github.com/arch4edu/cactus/actions/runs/5132405741)|<script type="text/javascript">localize(1692598805);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-gazebo-ros-control](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-ros-control)|PUBLISHED||[4354955693](https://github.com/arch4edu/cactus/actions/runs/4354955693)|<script type="text/javascript">localize(1678214243);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-gazebo-ros-pkgs](https://aur.archlinux.org/pkgbase/ros-noetic-gazebo-ros-pkgs)|PUBLISHED||[3873651770](https://github.com/arch4edu/cactus/actions/runs/3873651770)|<script type="text/javascript">localize(1673332410);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-gencpp](https://aur.archlinux.org/pkgbase/ros-noetic-gencpp)|PUBLISHED||[5122069640](https://github.com/arch4edu/cactus/actions/runs/5122069640)|<script type="text/javascript">localize(1685471501);</script>|
