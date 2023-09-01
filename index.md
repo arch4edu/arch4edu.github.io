@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1693488186.7163298);</script>
+Last update: <script type="text/javascript">localize(1693535188.4887412);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -351,7 +351,7 @@ Last update: <script type="text/javascript">localize(1693488186.7163298);</scrip
 |x86_64|[x86_64/meshlab](https://aur.archlinux.org/pkgbase/meshlab)|PUBLISHED||[3583606500](https://github.com/arch4edu/cactus/actions/runs/3583606500)|<script type="text/javascript">localize(1669833433);</script>|
 |x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|PUBLISHED||[4645232032](https://github.com/arch4edu/cactus/actions/runs/4645232032)|<script type="text/javascript">localize(1680978534);</script>|
 |x86_64|[x86_64/metis](https://aur.archlinux.org/pkgbase/metis)|PUBLISHED||[5709681358](https://github.com/arch4edu/cactus/actions/runs/5709681358)|<script type="text/javascript">localize(1690785008);</script>|
-|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|PUBLISHED||[5981990825](https://github.com/arch4edu/cactus/actions/runs/5981990825)|<script type="text/javascript">localize(1693031310);</script>|
+|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|STALE||[5981990825](https://github.com/arch4edu/cactus/actions/runs/5981990825)|<script type="text/javascript">localize(1693532031);</script>|
 |x86_64|[x86_64/miktex](https://aur.archlinux.org/pkgbase/miktex)|PUBLISHED||[4899003035](https://github.com/arch4edu/cactus/actions/runs/4899003035)|<script type="text/javascript">localize(1683354614);</script>|
 |x86_64|[x86_64/mmg](https://aur.archlinux.org/pkgbase/mmg)|PUBLISHED||[3745685879](https://github.com/arch4edu/cactus/actions/runs/3745685879)|<script type="text/javascript">localize(1671604370);</script>|
 |x86_64|[x86_64/mongodb](https://aur.archlinux.org/pkgbase/mongodb)|PUBLISHED||[5951480905](https://github.com/arch4edu/cactus/actions/runs/5951480905)|<script type="text/javascript">localize(1692815312);</script>|
@@ -630,7 +630,7 @@ Last update: <script type="text/javascript">localize(1693488186.7163298);</scrip
 |x86_64/r|[x86_64/r/r-fontquiver](https://aur.archlinux.org/pkgbase/r-fontquiver)|PUBLISHED||[5431158274](https://github.com/arch4edu/cactus/actions/runs/5431158274)|<script type="text/javascript">localize(1688236377);</script>|
 |x86_64/r|[x86_64/r/r-forcats](https://aur.archlinux.org/pkgbase/r-forcats)|PUBLISHED||[4140175142](https://github.com/arch4edu/cactus/actions/runs/4140175142)|<script type="text/javascript">localize(1676011064);</script>|
 |x86_64/r|[x86_64/r/r-foreach](https://aur.archlinux.org/pkgbase/r-foreach)|PUBLISHED||[5329207568](https://github.com/arch4edu/cactus/actions/runs/5329207568)|<script type="text/javascript">localize(1687329022);</script>|
-|x86_64/r|[x86_64/r/r-forecast](https://aur.archlinux.org/pkgbase/r-forecast)|PUBLISHED||[5739621057](https://github.com/arch4edu/cactus/actions/runs/5739621057)|<script type="text/javascript">localize(1691001340);</script>|
+|x86_64/r|[x86_64/r/r-forecast](https://aur.archlinux.org/pkgbase/r-forecast)|STALE||[5739621057](https://github.com/arch4edu/cactus/actions/runs/5739621057)|<script type="text/javascript">localize(1693532034);</script>|
 |x86_64/r|[x86_64/r/r-formatr](https://aur.archlinux.org/pkgbase/r-formatr)|PUBLISHED||[5739053803](https://github.com/arch4edu/cactus/actions/runs/5739053803)|<script type="text/javascript">localize(1691001356);</script>|
 |x86_64/r|[x86_64/r/r-formula](https://aur.archlinux.org/pkgbase/r-formula)|PUBLISHED||[4262629090](https://github.com/arch4edu/cactus/actions/runs/4262629090)|<script type="text/javascript">localize(1677263622);</script>|
 |x86_64/r|[x86_64/r/r-formula.tools](https://aur.archlinux.org/pkgbase/r-formula.tools)|PUBLISHED||[4054292109](https://github.com/arch4edu/cactus/actions/runs/4054292109)|<script type="text/javascript">localize(1675190105);</script>|
