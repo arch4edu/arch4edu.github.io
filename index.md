@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1694013589.1427462);</script>
+Last update: <script type="text/javascript">localize(1694017353.023766);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -222,7 +222,7 @@ Last update: <script type="text/javascript">localize(1694013589.1427462);</scrip
 |x86_64|[x86_64/cef-minimal](https://aur.archlinux.org/pkgbase/cef-minimal)|PUBLISHED||[4559753290](https://github.com/arch4edu/cactus/actions/runs/4559753290)|<script type="text/javascript">localize(1680157944);</script>|
 |x86_64|[x86_64/cef-standard](https://aur.archlinux.org/pkgbase/cef-standard)|PUBLISHED||[4559753476](https://github.com/arch4edu/cactus/actions/runs/4559753476)|<script type="text/javascript">localize(1680157995);</script>|
 |x86_64|[x86_64/celt](https://aur.archlinux.org/pkgbase/celt)|PUBLISHED||[4333926139](https://github.com/arch4edu/cactus/actions/runs/4333926139)|<script type="text/javascript">localize(1677997943);</script>|
-|x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|BUILDING|x86_64|[6097346646](https://github.com/arch4edu/cactus/actions/runs/6097346646)|<script type="text/javascript">localize(1694004877);</script>|
+|x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|BUILT||[6097346646](https://github.com/arch4edu/cactus/actions/runs/6097346646)|<script type="text/javascript">localize(1694014972);</script>|
 |x86_64|[x86_64/ceph-octopus](https://aur.archlinux.org/pkgbase/ceph-octopus)|FAILED|nvchecker failed, previously PUBLISHED|[5068881279](https://github.com/arch4edu/cactus/actions/runs/5068881279)|<script type="text/javascript">localize(1694004575);</script>|
 |x86_64|[x86_64/ceph-pacific](https://aur.archlinux.org/pkgbase/ceph-pacific)|FAILED|nvchecker failed, previously PUBLISHED|[5131400871](https://github.com/arch4edu/cactus/actions/runs/5131400871)|<script type="text/javascript">localize(1694004506);</script>|
 |x86_64|[x86_64/charls](https://aur.archlinux.org/pkgbase/charls)|PUBLISHED||[5633888768](https://github.com/arch4edu/cactus/actions/runs/5633888768)|<script type="text/javascript">localize(1690093730);</script>|
