@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1694265454.4829965);</script>
+Last update: <script type="text/javascript">localize(1694312645.9576735);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -14,7 +14,7 @@ Last update: <script type="text/javascript">localize(1694265454.4829965);</scrip
 |aarch64|[aarch64/docker-rootless-extras](https://aur.archlinux.org/pkgbase/docker-rootless-extras)|PUBLISHED||[4360447670](https://github.com/arch4edu/cactus/actions/runs/4360447670)|<script type="text/javascript">localize(1678257242);</script>|
 |aarch64|[aarch64/fakeroot-tcp](https://aur.archlinux.org/pkgbase/fakeroot-tcp)|PUBLISHED||[5628150681](https://github.com/arch4edu/cactus/actions/runs/5628150681)|<script type="text/javascript">localize(1690007289);</script>|
 |aarch64|[aarch64/fastfetch](https://aur.archlinux.org/pkgbase/fastfetch)|PUBLISHED||[5988184487](https://github.com/arch4edu/cactus/actions/runs/5988184487)|<script type="text/javascript">localize(1693117660);</script>|
-|aarch64|[aarch64/flutter](https://aur.archlinux.org/pkgbase/flutter)|PUBLISHED||[6079165299](https://github.com/arch4edu/cactus/actions/runs/6079165299)|<script type="text/javascript">localize(1693895448);</script>|
+|aarch64|[aarch64/flutter](https://aur.archlinux.org/pkgbase/flutter)|STALE||[6079165299](https://github.com/arch4edu/cactus/actions/runs/6079165299)|<script type="text/javascript">localize(1694309548);</script>|
 |aarch64|[aarch64/fvwm3](https://aur.archlinux.org/pkgbase/fvwm3)|PUBLISHED||[6079126865](https://github.com/arch4edu/cactus/actions/runs/6079126865)|<script type="text/javascript">localize(1693895459);</script>|
 |aarch64|[aarch64/github-actions-bin](https://aur.archlinux.org/pkgbase/github-actions-bin)|STALE||[5951538104](https://github.com/arch4edu/cactus/actions/runs/5951538104)|<script type="text/javascript">localize(1694177082);</script>|
 |aarch64|[aarch64/ipfs-sync](https://aur.archlinux.org/pkgbase/ipfs-sync)|PUBLISHED||[4508022665](https://github.com/arch4edu/cactus/actions/runs/4508022665)|<script type="text/javascript">localize(1679639465);</script>|
@@ -222,7 +222,7 @@ Last update: <script type="text/javascript">localize(1694265454.4829965);</scrip
 |x86_64|[x86_64/cef-minimal](https://aur.archlinux.org/pkgbase/cef-minimal)|PUBLISHED||[4559753290](https://github.com/arch4edu/cactus/actions/runs/4559753290)|<script type="text/javascript">localize(1680157944);</script>|
 |x86_64|[x86_64/cef-standard](https://aur.archlinux.org/pkgbase/cef-standard)|PUBLISHED||[4559753476](https://github.com/arch4edu/cactus/actions/runs/4559753476)|<script type="text/javascript">localize(1680157995);</script>|
 |x86_64|[x86_64/celt](https://aur.archlinux.org/pkgbase/celt)|PUBLISHED||[4333926139](https://github.com/arch4edu/cactus/actions/runs/4333926139)|<script type="text/javascript">localize(1677997943);</script>|
-|x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|PUBLISHED||[6097346646](https://github.com/arch4edu/cactus/actions/runs/6097346646)|<script type="text/javascript">localize(1694025008);</script>|
+|x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|STALE||[6097346646](https://github.com/arch4edu/cactus/actions/runs/6097346646)|<script type="text/javascript">localize(1694309552);</script>|
 |x86_64|[x86_64/ceph-octopus](https://aur.archlinux.org/pkgbase/ceph-octopus)|PUBLISHED||[5068881279](https://github.com/arch4edu/cactus/actions/runs/5068881279)|<script type="text/javascript">localize(1694050275);</script>|
 |x86_64|[x86_64/ceph-pacific](https://aur.archlinux.org/pkgbase/ceph-pacific)|PUBLISHED||[5131400871](https://github.com/arch4edu/cactus/actions/runs/5131400871)|<script type="text/javascript">localize(1694050276);</script>|
 |x86_64|[x86_64/charls](https://aur.archlinux.org/pkgbase/charls)|PUBLISHED||[5633888768](https://github.com/arch4edu/cactus/actions/runs/5633888768)|<script type="text/javascript">localize(1690093730);</script>|
@@ -267,7 +267,7 @@ Last update: <script type="text/javascript">localize(1694265454.4829965);</scrip
 |x86_64|[x86_64/fcl](https://aur.archlinux.org/pkgbase/fcl)|PUBLISHED||[2648892160](https://github.com/arch4edu/cactus/actions/runs/2648892160)|<script type="text/javascript">localize(1657538601);</script>|
 |x86_64|[x86_64/fet-timetabling](https://aur.archlinux.org/pkgbase/fet-timetabling)|PUBLISHED||[5841383714](https://github.com/arch4edu/cactus/actions/runs/5841383714)|<script type="text/javascript">localize(1691864779);</script>|
 |x86_64|[x86_64/flite1](https://aur.archlinux.org/pkgbase/flite1)|PUBLISHED||[5329207484](https://github.com/arch4edu/cactus/actions/runs/5329207484)|<script type="text/javascript">localize(1687329005);</script>|
-|x86_64|[x86_64/flutter](https://aur.archlinux.org/pkgbase/flutter)|PUBLISHED||[6079126798](https://github.com/arch4edu/cactus/actions/runs/6079126798)|<script type="text/javascript">localize(1693895578);</script>|
+|x86_64|[x86_64/flutter](https://aur.archlinux.org/pkgbase/flutter)|STALE||[6079126798](https://github.com/arch4edu/cactus/actions/runs/6079126798)|<script type="text/javascript">localize(1694309553);</script>|
 |x86_64|[x86_64/fvwm3](https://aur.archlinux.org/pkgbase/fvwm3)|PUBLISHED||[6079126668](https://github.com/arch4edu/cactus/actions/runs/6079126668)|<script type="text/javascript">localize(1693895591);</script>|
 |x86_64|[x86_64/g2clib](https://aur.archlinux.org/pkgbase/g2clib)|PUBLISHED||[2647862577](https://github.com/arch4edu/cactus/actions/runs/2647862577)|<script type="text/javascript">localize(1657525742);</script>|
 |x86_64|[x86_64/gazebo](https://aur.archlinux.org/pkgbase/gazebo)|STALE|nvchecker failed, previously STALE|[5514964732](https://github.com/arch4edu/cactus/actions/runs/5514964732)|<script type="text/javascript">localize(1694136574);</script>|
@@ -354,8 +354,8 @@ Last update: <script type="text/javascript">localize(1694265454.4829965);</scrip
 |x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|STALE||[6046997634](https://github.com/arch4edu/cactus/actions/runs/6046997634)|<script type="text/javascript">localize(1694136575);</script>|
 |x86_64|[x86_64/miktex](https://aur.archlinux.org/pkgbase/miktex)|PUBLISHED||[4899003035](https://github.com/arch4edu/cactus/actions/runs/4899003035)|<script type="text/javascript">localize(1683354614);</script>|
 |x86_64|[x86_64/mmg](https://aur.archlinux.org/pkgbase/mmg)|PUBLISHED||[3745685879](https://github.com/arch4edu/cactus/actions/runs/3745685879)|<script type="text/javascript">localize(1671604370);</script>|
-|x86_64|[x86_64/mongodb](https://aur.archlinux.org/pkgbase/mongodb)|PUBLISHED||[5951480905](https://github.com/arch4edu/cactus/actions/runs/5951480905)|<script type="text/javascript">localize(1692815312);</script>|
-|x86_64|[x86_64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|PUBLISHED||[5873611831](https://github.com/arch4edu/cactus/actions/runs/5873611831)|<script type="text/javascript">localize(1692167315);</script>|
+|x86_64|[x86_64/mongodb](https://aur.archlinux.org/pkgbase/mongodb)|STALE||[5951480905](https://github.com/arch4edu/cactus/actions/runs/5951480905)|<script type="text/javascript">localize(1694309555);</script>|
+|x86_64|[x86_64/mongodb-bin](https://aur.archlinux.org/pkgbase/mongodb-bin)|STALE||[5873611831](https://github.com/arch4edu/cactus/actions/runs/5873611831)|<script type="text/javascript">localize(1694309555);</script>|
 |x86_64|[x86_64/mongodb-tools](https://aur.archlinux.org/pkgbase/mongodb-tools)|PUBLISHED||[6079126742](https://github.com/arch4edu/cactus/actions/runs/6079126742)|<script type="text/javascript">localize(1693895607);</script>|
 |x86_64|[x86_64/mongosh-bin](https://aur.archlinux.org/pkgbase/mongosh-bin)|STALE||[6046997552](https://github.com/arch4edu/cactus/actions/runs/6046997552)|<script type="text/javascript">localize(1694222757);</script>|
 |x86_64|[x86_64/mpich](https://aur.archlinux.org/pkgbase/mpich)|PUBLISHED||[5227511229](https://github.com/arch4edu/cactus/actions/runs/5227511229)|<script type="text/javascript">localize(1686378549);</script>|
