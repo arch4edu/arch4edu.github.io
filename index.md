@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1694351880.1889868);</script>
+Last update: <script type="text/javascript">localize(1694398998.6679683);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -52,7 +52,7 @@ Last update: <script type="text/javascript">localize(1694351880.1889868);</scrip
 |aarch64|[aarch64/timeshift](https://aur.archlinux.org/pkgbase/timeshift)|PUBLISHED||[5815972462](https://github.com/arch4edu/cactus/actions/runs/5815972462)|<script type="text/javascript">localize(1694050252);</script>|
 |aarch64|[aarch64/torque](https://aur.archlinux.org/pkgbase/torque)|PUBLISHED||[5443046778](https://github.com/arch4edu/cactus/actions/runs/5443046778)|<script type="text/javascript">localize(1688409128);</script>|
 |aarch64|[aarch64/ventoy-bin](https://aur.archlinux.org/pkgbase/ventoy-bin)|PUBLISHED||[5958349298](https://github.com/arch4edu/cactus/actions/runs/5958349298)|<script type="text/javascript">localize(1692858529);</script>|
-|aarch64|[aarch64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[6012573163](https://github.com/arch4edu/cactus/actions/runs/6012573163)|<script type="text/javascript">localize(1694050253);</script>|
+|aarch64|[aarch64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|STALE||[6012573163](https://github.com/arch4edu/cactus/actions/runs/6012573163)|<script type="text/javascript">localize(1694395798);</script>|
 |aarch64|[aarch64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|STALE||[5827911583](https://github.com/arch4edu/cactus/actions/runs/5827911583)|<script type="text/javascript">localize(1694136570);</script>|
 |aarch64|[aarch64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|STALE||[5828064832](https://github.com/arch4edu/cactus/actions/runs/5828064832)|<script type="text/javascript">localize(1694136571);</script>|
 |aarch64|[aarch64/vscodium-bin](https://aur.archlinux.org/pkgbase/vscodium-bin)|STALE||[6084830179](https://github.com/arch4edu/cactus/actions/runs/6084830179)|<script type="text/javascript">localize(1694136571);</script>|
@@ -1403,7 +1403,7 @@ Last update: <script type="text/javascript">localize(1694351880.1889868);</scrip
 |x86_64|[x86_64/unityhub](https://aur.archlinux.org/pkgbase/unityhub)|PUBLISHED||[6012445409](https://github.com/arch4edu/cactus/actions/runs/6012445409)|<script type="text/javascript">localize(1693377164);</script>|
 |x86_64|[x86_64/urdfdom](https://aur.archlinux.org/pkgbase/urdfdom)|PUBLISHED||[5151119969](https://github.com/arch4edu/cactus/actions/runs/5151119969)|<script type="text/javascript">localize(1685687522);</script>|
 |x86_64|[x86_64/ventoy-bin](https://aur.archlinux.org/pkgbase/ventoy-bin)|PUBLISHED||[5958349268](https://github.com/arch4edu/cactus/actions/runs/5958349268)|<script type="text/javascript">localize(1692858590);</script>|
-|x86_64|[x86_64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[6012445662](https://github.com/arch4edu/cactus/actions/runs/6012445662)|<script type="text/javascript">localize(1694050356);</script>|
+|x86_64|[x86_64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|STALE||[6012445662](https://github.com/arch4edu/cactus/actions/runs/6012445662)|<script type="text/javascript">localize(1694395823);</script>|
 |x86_64|[x86_64/visual-studio-code-bin](https://aur.archlinux.org/pkgbase/visual-studio-code-bin)|STALE||[5827911618](https://github.com/arch4edu/cactus/actions/runs/5827911618)|<script type="text/javascript">localize(1694136606);</script>|
 |x86_64|[x86_64/voro++](https://aur.archlinux.org/pkgbase/voro++)|PUBLISHED||[2648553963](https://github.com/arch4edu/cactus/actions/runs/2648553963)|<script type="text/javascript">localize(1657532303);</script>|
 |x86_64|[x86_64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|STALE||[5827912053](https://github.com/arch4edu/cactus/actions/runs/5827912053)|<script type="text/javascript">localize(1694136607);</script>|
