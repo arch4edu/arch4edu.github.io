@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1717075260.5555758);</script>
+Last update: <script type="text/javascript">localize(1717122815.1746175);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -245,8 +245,8 @@ Last update: <script type="text/javascript">localize(1717075260.5555758);</scrip
 |x86_64|[x86_64/celt](https://aur.archlinux.org/pkgbase/celt)|PUBLISHED||[4333926139](https://github.com/arch4edu/cactus/actions/runs/4333926139)|<script type="text/javascript">localize(1677997943);</script>|
 |x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|BUILDING||[9241219708](https://github.com/arch4edu/cactus/actions/runs/9241219708)|<script type="text/javascript">localize(1716704771);</script>|
 |x86_64|[x86_64/charls](https://aur.archlinux.org/pkgbase/charls)|PUBLISHED||[5633888768](https://github.com/arch4edu/cactus/actions/runs/5633888768)|<script type="text/javascript">localize(1690093730);</script>|
-|x86_64|[x86_64/chromedriver](https://aur.archlinux.org/pkgbase/chromedriver)|PUBLISHED||[9224220806](https://github.com/arch4edu/cactus/actions/runs/9224220806)|<script type="text/javascript">localize(1716575532);</script>|
-|x86_64|[x86_64/cider](https://aur.archlinux.org/pkgbase/cider)|PUBLISHED||[5486607549](https://github.com/arch4edu/cactus/actions/runs/5486607549)|<script type="text/javascript">localize(1688754734);</script>|
+|x86_64|[x86_64/chromedriver](https://aur.archlinux.org/pkgbase/chromedriver)|STALE||[9224220806](https://github.com/arch4edu/cactus/actions/runs/9224220806)|<script type="text/javascript">localize(1717119521);</script>|
+|x86_64|[x86_64/cider](https://aur.archlinux.org/pkgbase/cider)|STALE||[5486607549](https://github.com/arch4edu/cactus/actions/runs/5486607549)|<script type="text/javascript">localize(1717119522);</script>|
 |x86_64|[x86_64/cloudcompare](https://aur.archlinux.org/pkgbase/cloudcompare)|PUBLISHED||[8326818687](https://github.com/arch4edu/cactus/actions/runs/8326818687)|<script type="text/javascript">localize(1710786508);</script>|
 |x86_64|[x86_64/cloudflare-warp-bin](https://aur.archlinux.org/pkgbase/cloudflare-warp-bin)|PUBLISHED||[9167474143](https://github.com/arch4edu/cactus/actions/runs/9167474143)|<script type="text/javascript">localize(1716273376);</script>|
 |x86_64|[x86_64/cminpack](https://aur.archlinux.org/pkgbase/cminpack)|PUBLISHED||[2648523138](https://github.com/arch4edu/cactus/actions/runs/2648523138)|<script type="text/javascript">localize(1657531917);</script>|
@@ -306,7 +306,7 @@ Last update: <script type="text/javascript">localize(1717075260.5555758);</scrip
 |x86_64|[x86_64/giza-pp-git](https://aur.archlinux.org/pkgbase/giza-pp-git)|PUBLISHED||[4580638098](https://github.com/arch4edu/cactus/actions/runs/4580638098)|<script type="text/javascript">localize(1710765831);</script>|
 |x86_64|[x86_64/gklib](https://aur.archlinux.org/pkgbase/gklib)|PUBLISHED||[7634579491](https://github.com/arch4edu/cactus/actions/runs/7634579491)|<script type="text/javascript">localize(1706077897);</script>|
 |x86_64|[x86_64/gmsh](https://aur.archlinux.org/pkgbase/gmsh)|PUBLISHED||[9243380169](https://github.com/arch4edu/cactus/actions/runs/9243380169)|<script type="text/javascript">localize(1716748219);</script>|
-|x86_64|[x86_64/google-chrome](https://aur.archlinux.org/pkgbase/google-chrome)|PUBLISHED||[9217354692](https://github.com/arch4edu/cactus/actions/runs/9217354692)|<script type="text/javascript">localize(1716532438);</script>|
+|x86_64|[x86_64/google-chrome](https://aur.archlinux.org/pkgbase/google-chrome)|STALE||[9217354692](https://github.com/arch4edu/cactus/actions/runs/9217354692)|<script type="text/javascript">localize(1717119524);</script>|
 |x86_64|[x86_64/google-crc32c](https://aur.archlinux.org/pkgbase/google-crc32c)|PUBLISHED||[5668975598](https://github.com/arch4edu/cactus/actions/runs/5668975598)|<script type="text/javascript">localize(1690396158);</script>|
 |x86_64|[x86_64/grass](https://aur.archlinux.org/pkgbase/grass)|PUBLISHED||[7189577977](https://github.com/arch4edu/cactus/actions/runs/7189577977)|<script type="text/javascript">localize(1702449115);</script>|
 |x86_64|[x86_64/gtsam](https://aur.archlinux.org/pkgbase/gtsam)|PUBLISHED||[6146650313](https://github.com/arch4edu/cactus/actions/runs/6146650313)|<script type="text/javascript">localize(1694457533);</script>|
@@ -371,7 +371,7 @@ Last update: <script type="text/javascript">localize(1717075260.5555758);</scrip
 |x86_64|[x86_64/meshlab](https://aur.archlinux.org/pkgbase/meshlab)|PUBLISHED||[8655616930](https://github.com/arch4edu/cactus/actions/runs/8655616930)|<script type="text/javascript">localize(1712903483);</script>|
 |x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|PUBLISHED||[4645232032](https://github.com/arch4edu/cactus/actions/runs/4645232032)|<script type="text/javascript">localize(1680978534);</script>|
 |x86_64|[x86_64/metis](https://aur.archlinux.org/pkgbase/metis)|PUBLISHED||[7632315339](https://github.com/arch4edu/cactus/actions/runs/7632315339)|<script type="text/javascript">localize(1706077995);</script>|
-|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|PUBLISHED||[9231952683](https://github.com/arch4edu/cactus/actions/runs/9231952683)|<script type="text/javascript">localize(1716618836);</script>|
+|x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|STALE||[9231952683](https://github.com/arch4edu/cactus/actions/runs/9231952683)|<script type="text/javascript">localize(1717119525);</script>|
 |x86_64|[x86_64/miktex](https://aur.archlinux.org/pkgbase/miktex)|PUBLISHED||[9167474267](https://github.com/arch4edu/cactus/actions/runs/9167474267)|<script type="text/javascript">localize(1716273396);</script>|
 |x86_64|[x86_64/mmg](https://aur.archlinux.org/pkgbase/mmg)|PUBLISHED||[8451964668](https://github.com/arch4edu/cactus/actions/runs/8451964668)|<script type="text/javascript">localize(1711564342);</script>|
 |x86_64|[x86_64/mms-git](https://aur.archlinux.org/pkgbase/mms-git)|PUBLISHED||[6524159790](https://github.com/arch4edu/cactus/actions/runs/6524159790)|<script type="text/javascript">localize(1709947449);</script>|
