@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Mirror status
-Last check: <script type="text/javascript">localize(1717532396.5949945);</script>
+Last check: <script type="text/javascript">localize(1717535882.9701293);</script>
 
 |Country|Mirror|Last update|
 |:------|:-----|:----------|
