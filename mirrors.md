@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Mirror status
-Last check: <script type="text/javascript">localize(1717766582.7779362);</script>
+Last check: <script type="text/javascript">localize(1717769941.7961104);</script>
 
 |Country|Mirror|Last update|
 |:------|:-----|:----------|
@@ -10,9 +10,9 @@ Last check: <script type="text/javascript">localize(1717766582.7779362);</script
 |China|https://mirrors.cernet.edu.cn/arch4edu/|<script type="text/javascript">localize(1717742215);</script>|
 |China|https://mirror.iscas.ac.cn/arch4edu/|<script type="text/javascript">localize(1717742215);</script>|
 |China|https://mirrors.nju.edu.cn/arch4edu/|<script type="text/javascript">localize(1717698847);</script>|
-|China|https://mirror.nyist.edu.cn/arch4edu/|<script type="text/javascript">localize(1717698847);</script>|
+|China|https://mirror.nyist.edu.cn/arch4edu/|<script type="text/javascript">localize(1717742215);</script>|
 |China|https://mirrors.sau.edu.cn/arch4edu/|<script type="text/javascript">localize(1717742215);</script>|
-|Austria|https://at.arch4edu.mirror.kescher.at/|<script type="text/javascript">localize(1717742215);</script>|
+|Austria|https://at.arch4edu.mirror.kescher.at/|ConnectTimeout|
 |France|https://mirror.lesviallon.fr/arch4edu/|<script type="text/javascript">localize(1717742215);</script>|
 |Germany|https://pkg.fef.moe/arch4edu/|<script type="text/javascript">localize(1717742215);</script>|
 |Germany|https://de.arch4edu.mirror.kescher.at/|<script type="text/javascript">localize(1717742215);</script>|
