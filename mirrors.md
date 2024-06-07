@@ -1,10 +1,10 @@
 <script src="./time.js"></script>
 # Mirror status
-Last check: <script type="text/javascript">localize(1717795205.8312259);</script>
+Last check: <script type="text/javascript">localize(1717798737.409207);</script>
 
 |Country|Mirror|Last update|
 |:------|:-----|:----------|
-|China|https://mirrors.tuna.tsinghua.edu.cn/arch4edu/|<script type="text/javascript">localize(1717742215);</script>|
+|China|https://mirrors.tuna.tsinghua.edu.cn/arch4edu/|<script type="text/javascript">localize(1717785364);</script>|
 |China|https://mirrors.aliyun.com/arch4edu/|<script type="text/javascript">localize(1717742215);</script>|
 |China|https://mirrors.bfsu.edu.cn/arch4edu/|<script type="text/javascript">localize(1717742215);</script>|
 |China|https://mirrors.cernet.edu.cn/arch4edu/|Response 404|
@@ -12,10 +12,10 @@ Last check: <script type="text/javascript">localize(1717795205.8312259);</script
 |China|https://mirrors.nju.edu.cn/arch4edu/|<script type="text/javascript">localize(1717698847);</script>|
 |China|https://mirror.nyist.edu.cn/arch4edu/|<script type="text/javascript">localize(1717742215);</script>|
 |China|https://mirrors.sau.edu.cn/arch4edu/|<script type="text/javascript">localize(1717742215);</script>|
-|Austria|https://at.arch4edu.mirror.kescher.at/|<script type="text/javascript">localize(1717742215);</script>|
+|Austria|https://at.arch4edu.mirror.kescher.at/|<script type="text/javascript">localize(1717785364);</script>|
 |France|https://mirror.lesviallon.fr/arch4edu/|<script type="text/javascript">localize(1717742215);</script>|
-|Germany|https://pkg.fef.moe/arch4edu/|<script type="text/javascript">localize(1717742215);</script>|
-|Germany|https://de.arch4edu.mirror.kescher.at/|<script type="text/javascript">localize(1717742215);</script>|
+|Germany|https://pkg.fef.moe/arch4edu/|<script type="text/javascript">localize(1717785364);</script>|
+|Germany|https://de.arch4edu.mirror.kescher.at/|<script type="text/javascript">localize(1717785364);</script>|
 |Germany|https://mirror.sunred.org/arch4edu/|<script type="text/javascript">localize(1717742215);</script>|
 
 <script src="./tablefilter/tablefilter.js"></script>
