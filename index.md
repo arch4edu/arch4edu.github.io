@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1739107310.9396636);</script>
+Last update: <script type="text/javascript">localize(1739110677.4107332);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -45,7 +45,7 @@ Last update: <script type="text/javascript">localize(1739107310.9396636);</scrip
 |aarch64|[aarch64/qgroundcontrol](https://aur.archlinux.org/pkgbase/qgroundcontrol)|PUBLISHED||[12674666932](https://github.com/arch4edu/cactus/actions/runs/12674666932)|<script type="text/javascript">localize(1736361635);</script>|
 |aarch64|[aarch64/qt-sudo](https://aur.archlinux.org/pkgbase/qt-sudo)|PUBLISHED||[9239727095](https://github.com/arch4edu/cactus/actions/runs/9239727095)|<script type="text/javascript">localize(1734833022);</script>|
 |aarch64|[aarch64/rpiusbboot](https://aur.archlinux.org/pkgbase/rpiusbboot)|PUBLISHED||[3736758823](https://github.com/arch4edu/cactus/actions/runs/3736758823)|<script type="text/javascript">localize(1734833022);</script>|
-|aarch64|[aarch64/rustdesk-appimage](https://aur.archlinux.org/pkgbase/rustdesk-appimage)|STALE|Build failed.|[12950278248](https://github.com/arch4edu/cactus/actions/runs/12950278248)|<script type="text/javascript">localize(1737856573);</script>|
+|aarch64|[aarch64/rustdesk-appimage](https://aur.archlinux.org/pkgbase/rustdesk-appimage)|BUILT||[12950278248](https://github.com/arch4edu/cactus/actions/runs/12950278248)|<script type="text/javascript">localize(1739109968);</script>|
 |aarch64|[aarch64/seafile](https://aur.archlinux.org/pkgbase/seafile)|STALE|Waiting for dependency: any/python-future.|[10572465513](https://github.com/arch4edu/cactus/actions/runs/10572465513)|<script type="text/javascript">localize(1739072608);</script>|
 |aarch64|[aarch64/seafile-client](https://aur.archlinux.org/pkgbase/seafile-client)|STALE|Waiting for dependency: any/python-future.|[10094668658](https://github.com/arch4edu/cactus/actions/runs/10094668658)|<script type="text/javascript">localize(1739072609);</script>|
 |aarch64|[aarch64/shellcheck-bin](https://aur.archlinux.org/pkgbase/shellcheck-bin)|PUBLISHED||[8203444416](https://github.com/arch4edu/cactus/actions/runs/8203444416)|<script type="text/javascript">localize(1734833023);</script>|
