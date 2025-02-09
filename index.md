@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1739085522.9984784);</script>
+Last update: <script type="text/javascript">localize(1739092780.410069);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -293,7 +293,7 @@ Last update: <script type="text/javascript">localize(1739085522.9984784);</scrip
 |x86_64|[x86_64/dlib](https://aur.archlinux.org/pkgbase/dlib)|PUBLISHED||[10981313936](https://github.com/arch4edu/cactus/actions/runs/10981313936)|<script type="text/javascript">localize(1727030242);</script>|
 |x86_64|[x86_64/dlib-cuda](https://aur.archlinux.org/pkgbase/dlib-cuda)|PUBLISHED||[10849563173](https://github.com/arch4edu/cactus/actions/runs/10849563173)|<script type="text/javascript">localize(1726252723);</script>|
 |x86_64|[x86_64/docker-rootless-extras](https://aur.archlinux.org/pkgbase/docker-rootless-extras)|PUBLISHED||[12929712290](https://github.com/arch4edu/cactus/actions/runs/12929712290)|<script type="text/javascript">localize(1737657500);</script>|
-|x86_64|[x86_64/dolfinx](https://aur.archlinux.org/pkgbase/dolfinx)|BUILDING|GitHubActions|[13221665560](https://github.com/arch4edu/cactus/actions/runs/13221665560)|<script type="text/javascript">localize(1739069311);</script>|
+|x86_64|[x86_64/dolfinx](https://aur.archlinux.org/pkgbase/dolfinx)|FAILED|Build failed.|[13221665560](https://github.com/arch4edu/cactus/actions/runs/13221665560)|<script type="text/javascript">localize(1739090867);</script>|
 |x86_64|[x86_64/dumux](https://aur.archlinux.org/pkgbase/dumux)|PUBLISHED||[12527327631](https://github.com/arch4edu/cactus/actions/runs/12527327631)|<script type="text/javascript">localize(1735411109);</script>|
 |x86_64|[x86_64/dune-common](https://aur.archlinux.org/pkgbase/dune-common)|PUBLISHED||[12457148941](https://github.com/arch4edu/cactus/actions/runs/12457148941)|<script type="text/javascript">localize(1734936880);</script>|
 |x86_64|[x86_64/dune-geometry](https://aur.archlinux.org/pkgbase/dune-geometry)|PUBLISHED||[12457466690](https://github.com/arch4edu/cactus/actions/runs/12457466690)|<script type="text/javascript">localize(1734936895);</script>|
