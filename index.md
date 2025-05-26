@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1748253048.7141461);</script>
+Last update: <script type="text/javascript">localize(1748263810.6264567);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -210,7 +210,7 @@ Last update: <script type="text/javascript">localize(1748253048.7141461);</scrip
 |any|[any/python-theano-pymc](https://aur.archlinux.org/pkgbase/python-theano-pymc)|PUBLISHED||[12456061954](https://github.com/arch4edu/cactus/actions/runs/12456061954)|<script type="text/javascript">localize(1734893446);</script>|
 |any|[any/python-tokenizers](https://aur.archlinux.org/pkgbase/python-tokenizers)|PUBLISHED||[13913828680](https://github.com/arch4edu/cactus/actions/runs/13913828680)|<script type="text/javascript">localize(1742280159);</script>|
 |any|[any/python-torchfile](https://aur.archlinux.org/pkgbase/python-torchfile)|PUBLISHED||[12456483155](https://github.com/arch4edu/cactus/actions/runs/12456483155)|<script type="text/javascript">localize(1734893467);</script>|
-|any|[any/python-transformers](https://aur.archlinux.org/pkgbase/python-transformers)|FAILED|Build failed.|[15238494689](https://github.com/arch4edu/cactus/actions/runs/15238494689)|<script type="text/javascript">localize(1748180591);</script>|
+|any|[any/python-transformers](https://aur.archlinux.org/pkgbase/python-transformers)|BUILT||[15238494689](https://github.com/arch4edu/cactus/actions/runs/15238494689)|<script type="text/javascript">localize(1748261471);</script>|
 |any|[any/python-trimesh](https://aur.archlinux.org/pkgbase/python-trimesh)|PUBLISHED||[15138322901](https://github.com/arch4edu/cactus/actions/runs/15138322901)|<script type="text/javascript">localize(1747766710);</script>|
 |any|[any/python-url-normalize](https://aur.archlinux.org/pkgbase/python-url-normalize)|PUBLISHED||[14968022995](https://github.com/arch4edu/cactus/actions/runs/14968022995)|<script type="text/javascript">localize(1747075579);</script>|
 |any|[any/python-visdom](https://aur.archlinux.org/pkgbase/python-visdom)|PUBLISHED||[12457063343](https://github.com/arch4edu/cactus/actions/runs/12457063343)|<script type="text/javascript">localize(1734936833);</script>|
@@ -532,7 +532,7 @@ Last update: <script type="text/javascript">localize(1748253048.7141461);</scrip
 |x86_64|[x86_64/python-wrf](https://aur.archlinux.org/pkgbase/python-wrf)|FAILED|Build failed.|[15238161190](https://github.com/arch4edu/cactus/actions/runs/15238161190)|<script type="text/javascript">localize(1748178379);</script>|
 |x86_64|[x86_64/python-wslink](https://aur.archlinux.org/pkgbase/python-wslink)|PUBLISHED||[15222634911](https://github.com/arch4edu/cactus/actions/runs/15222634911)|<script type="text/javascript">localize(1748069003);</script>|
 |x86_64|[x86_64/python-xyzservices](https://aur.archlinux.org/pkgbase/python-xyzservices)|PUBLISHED||[14965369032](https://github.com/arch4edu/cactus/actions/runs/14965369032)|<script type="text/javascript">localize(1747032756);</script>|
-|x86_64|[x86_64/python-yfinance](https://aur.archlinux.org/pkgbase/python-yfinance)|FAILED|Build failed.|[15238441551](https://github.com/arch4edu/cactus/actions/runs/15238441551)|<script type="text/javascript">localize(1748180221);</script>|
+|x86_64|[x86_64/python-yfinance](https://aur.archlinux.org/pkgbase/python-yfinance)|BUILT||[15238441551](https://github.com/arch4edu/cactus/actions/runs/15238441551)|<script type="text/javascript">localize(1748261019);</script>|
 |x86_64|[x86_64/qgis-ltr](https://aur.archlinux.org/pkgbase/qgis-ltr)|FAILED|Build failed.|[15238219265](https://github.com/arch4edu/cactus/actions/runs/15238219265)|<script type="text/javascript">localize(1748179328);</script>|
 |x86_64|[x86_64/qgroundcontrol](https://aur.archlinux.org/pkgbase/qgroundcontrol)|PUBLISHED||[14145817952](https://github.com/arch4edu/cactus/actions/runs/14145817952)|<script type="text/javascript">localize(1743273533);</script>|
 |x86_64|[x86_64/qt-sudo](https://aur.archlinux.org/pkgbase/qt-sudo)|PUBLISHED||[9239726814](https://github.com/arch4edu/cactus/actions/runs/9239726814)|<script type="text/javascript">localize(1716705102);</script>|
