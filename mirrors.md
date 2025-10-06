@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Mirror status
-Last check: <script type="text/javascript">localize(1759782371.0299106);</script>
+Last check: <script type="text/javascript">localize(1759785624.8654964);</script>
 
 |Country|Mirror|Last update|
 |:------|:-----|:----------|
@@ -13,10 +13,10 @@ Last check: <script type="text/javascript">localize(1759782371.0299106);</script
 |China|https://mirror.nyist.edu.cn/arch4edu/|<script type="text/javascript">localize(1759689664);</script>|
 |China|https://mirrors.sau.edu.cn/arch4edu/|<script type="text/javascript">localize(1756795646);</script>|
 |Austria|https://at.arch4edu.mirror.kescher.at/|<script type="text/javascript">localize(1759689664);</script>|
-|France|https://mirror.lesviallon.fr/arch4edu/|<script type="text/javascript">localize(1756709288);</script>|
+|France|https://mirror.lesviallon.fr/arch4edu/|ReadTimeout|
 |Germany|https://pkg.fef.moe/arch4edu/|<script type="text/javascript">localize(1759689664);</script>|
 |Germany|https://de.arch4edu.mirror.kescher.at/|<script type="text/javascript">localize(1759689664);</script>|
-|Germany|https://mirror.sunred.org/arch4edu/|<script type="text/javascript">localize(1759689664);</script>|
+|Germany|https://mirror.sunred.org/arch4edu/|<script type="text/javascript">localize(1759776281);</script>|
 |Germany|https://arch4edu.shtrophic.net/|ConnectionError|
 
 <script src="./tablefilter/tablefilter.js"></script>
