@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1761053860.0855236);</script>
+Last update: <script type="text/javascript">localize(1761102901.069221);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -302,7 +302,7 @@ Last update: <script type="text/javascript">localize(1761053860.0855236);</scrip
 |x86_64|[x86_64/dune-istl](https://aur.archlinux.org/pkgbase/dune-istl)|PUBLISHED||[12457416533](https://github.com/arch4edu/cactus/actions/runs/12457416533)|<script type="text/javascript">localize(1759975814);</script>|
 |x86_64|[x86_64/dune-localfunctions](https://aur.archlinux.org/pkgbase/dune-localfunctions)|PUBLISHED||[12457832235](https://github.com/arch4edu/cactus/actions/runs/12457832235)|<script type="text/javascript">localize(1759975815);</script>|
 |x86_64|[x86_64/dune-uggrid](https://aur.archlinux.org/pkgbase/dune-uggrid)|PUBLISHED||[11770856155](https://github.com/arch4edu/cactus/actions/runs/11770856155)|<script type="text/javascript">localize(1731307954);</script>|
-|x86_64|[x86_64/eccodes](https://aur.archlinux.org/pkgbase/eccodes)|PUBLISHED||[16693906593](https://github.com/arch4edu/cactus/actions/runs/16693906593)|<script type="text/javascript">localize(1754160423);</script>|
+|x86_64|[x86_64/eccodes](https://aur.archlinux.org/pkgbase/eccodes)|STALE||[16693906593](https://github.com/arch4edu/cactus/actions/runs/16693906593)|<script type="text/javascript">localize(1761099314);</script>|
 |x86_64|[x86_64/eigen2](https://aur.archlinux.org/pkgbase/eigen2)|PUBLISHED||[7648699086](https://github.com/arch4edu/cactus/actions/runs/7648699086)|<script type="text/javascript">localize(1706164385);</script>|
 |x86_64|[x86_64/elmerfem](https://aur.archlinux.org/pkgbase/elmerfem)|STALE|Build failed.|[18624351592](https://github.com/arch4edu/cactus/actions/runs/18624351592)|<script type="text/javascript">localize(1760965219);</script>|
 |x86_64|[x86_64/engauge](https://aur.archlinux.org/pkgbase/engauge)|PUBLISHED||[17508457489](https://github.com/arch4edu/cactus/actions/runs/17508457489)|<script type="text/javascript">localize(1757140736);</script>|
@@ -458,7 +458,7 @@ Last update: <script type="text/javascript">localize(1761053860.0855236);</scrip
 |x86_64|[x86_64/pio](https://aur.archlinux.org/pkgbase/pio)|PUBLISHED||[2647918996](https://github.com/arch4edu/cactus/actions/runs/2647918996)|<script type="text/javascript">localize(1657525869);</script>|
 |x86_64|[x86_64/plplot](https://aur.archlinux.org/pkgbase/plplot)|PUBLISHED||[12475803687](https://github.com/arch4edu/cactus/actions/runs/12475803687)|<script type="text/javascript">localize(1735022659);</script>|
 |x86_64|[x86_64/pocketsphinx](https://aur.archlinux.org/pkgbase/pocketsphinx)|PUBLISHED||[12720165770](https://github.com/arch4edu/cactus/actions/runs/12720165770)|<script type="text/javascript">localize(1736578005);</script>|
-|x86_64|[x86_64/precice](https://aur.archlinux.org/pkgbase/precice)|FAILED|nvchecker failed, previously PUBLISHED|[18438053240](https://github.com/arch4edu/cactus/actions/runs/18438053240)|<script type="text/javascript">localize(1761012424);</script>|
+|x86_64|[x86_64/precice](https://aur.archlinux.org/pkgbase/precice)|STALE|nvchecker failed, previously PUBLISHED|[18438053240](https://github.com/arch4edu/cactus/actions/runs/18438053240)|<script type="text/javascript">localize(1761099317);</script>|
 |x86_64|[x86_64/precice-case-generate](https://aur.archlinux.org/pkgbase/precice-case-generate)|PUBLISHED||[18083620178](https://github.com/arch4edu/cactus/actions/runs/18083620178)|<script type="text/javascript">localize(1759975818);</script>|
 |x86_64|[x86_64/precice-cli](https://aur.archlinux.org/pkgbase/precice-cli)|PUBLISHED||[18444343368](https://github.com/arch4edu/cactus/actions/runs/18444343368)|<script type="text/javascript">localize(1760294334);</script>|
 |x86_64|[x86_64/precice-config-check](https://aur.archlinux.org/pkgbase/precice-config-check)|PUBLISHED||[18444268947](https://github.com/arch4edu/cactus/actions/runs/18444268947)|<script type="text/javascript">localize(1760294353);</script>|
@@ -1231,7 +1231,7 @@ Last update: <script type="text/javascript">localize(1761053860.0855236);</scrip
 |x86_64/r|[x86_64/r/r-survey](https://aur.archlinux.org/pkgbase/r-survey)|PUBLISHED||[17296977344](https://github.com/arch4edu/cactus/actions/runs/17296977344)|<script type="text/javascript">localize(1756406627);</script>|
 |x86_64/r|[x86_64/r/r-survminer](https://aur.archlinux.org/pkgbase/r-survminer)|PUBLISHED||[18098928720](https://github.com/arch4edu/cactus/actions/runs/18098928720)|<script type="text/javascript">localize(1759171817);</script>|
 |x86_64/r|[x86_64/r/r-survmisc](https://aur.archlinux.org/pkgbase/r-survmisc)|PUBLISHED||[8490849837](https://github.com/arch4edu/cactus/actions/runs/8490849837)|<script type="text/javascript">localize(1711823624);</script>|
-|x86_64/r|[x86_64/r/r-svglite](https://aur.archlinux.org/pkgbase/r-svglite)|PUBLISHED||[17508522333](https://github.com/arch4edu/cactus/actions/runs/17508522333)|<script type="text/javascript">localize(1757140827);</script>|
+|x86_64/r|[x86_64/r/r-svglite](https://aur.archlinux.org/pkgbase/r-svglite)|STALE||[17508522333](https://github.com/arch4edu/cactus/actions/runs/17508522333)|<script type="text/javascript">localize(1761099323);</script>|
 |x86_64/r|[x86_64/r/r-symmoments](https://aur.archlinux.org/pkgbase/r-symmoments)|PUBLISHED||[4054337662](https://github.com/arch4edu/cactus/actions/runs/4054337662)|<script type="text/javascript">localize(1675190442);</script>|
 |x86_64/r|[x86_64/r/r-sys](https://aur.archlinux.org/pkgbase/r-sys)|PUBLISHED||[11180394273](https://github.com/arch4edu/cactus/actions/runs/11180394273)|<script type="text/javascript">localize(1728067280);</script>|
 |x86_64/r|[x86_64/r/r-systemfonts](https://aur.archlinux.org/pkgbase/r-systemfonts)|PUBLISHED||[18181112470](https://github.com/arch4edu/cactus/actions/runs/18181112470)|<script type="text/javascript">localize(1759387385);</script>|
@@ -1576,8 +1576,8 @@ Last update: <script type="text/javascript">localize(1761053860.0855236);</scrip
 |x86_64|[x86_64/ventoy-bin](https://aur.archlinux.org/pkgbase/ventoy-bin)|STALE||[17070590026](https://github.com/arch4edu/cactus/actions/runs/17070590026)|<script type="text/javascript">localize(1761012449);</script>|
 |x86_64|[x86_64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|STALE||[18580157359](https://github.com/arch4edu/cactus/actions/runs/18580157359)|<script type="text/javascript">localize(1761051769);</script>|
 |x86_64|[x86_64/voro++](https://aur.archlinux.org/pkgbase/voro++)|PUBLISHED||[2648553963](https://github.com/arch4edu/cactus/actions/runs/2648553963)|<script type="text/javascript">localize(1657532303);</script>|
-|x86_64|[x86_64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|PUBLISHED||[18640161910](https://github.com/arch4edu/cactus/actions/runs/18640161910)|<script type="text/javascript">localize(1760942821);</script>|
-|x86_64|[x86_64/vscodium-bin](https://aur.archlinux.org/pkgbase/vscodium-bin)|PUBLISHED||[18630755060](https://github.com/arch4edu/cactus/actions/runs/18630755060)|<script type="text/javascript">localize(1760899209);</script>|
+|x86_64|[x86_64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|STALE||[18640161910](https://github.com/arch4edu/cactus/actions/runs/18640161910)|<script type="text/javascript">localize(1761099335);</script>|
+|x86_64|[x86_64/vscodium-bin](https://aur.archlinux.org/pkgbase/vscodium-bin)|STALE||[18630755060](https://github.com/arch4edu/cactus/actions/runs/18630755060)|<script type="text/javascript">localize(1761099335);</script>|
 |x86_64|[x86_64/vvc-vtm](https://aur.archlinux.org/pkgbase/vvc-vtm)|PUBLISHED||[13924106402](https://github.com/arch4edu/cactus/actions/runs/13924106402)|<script type="text/javascript">localize(1742323447);</script>|
 |x86_64|[x86_64/wemeet-bin](https://aur.archlinux.org/pkgbase/wemeet-bin)|PUBLISHED||[17662311086](https://github.com/arch4edu/cactus/actions/runs/17662311086)|<script type="text/javascript">localize(1757659700);</script>|
 |x86_64|[x86_64/wscat](https://aur.archlinux.org/pkgbase/wscat)|PUBLISHED||[3800628090](https://github.com/arch4edu/cactus/actions/runs/3800628090)|<script type="text/javascript">localize(1672338701);</script>|
