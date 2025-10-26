@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1761448485.5651307);</script>
+Last update: <script type="text/javascript">localize(1761485269.9725573);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -268,7 +268,7 @@ Last update: <script type="text/javascript">localize(1761448485.5651307);</scrip
 |x86_64|[x86_64/calculix-precice](https://aur.archlinux.org/pkgbase/calculix-precice)|PUBLISHED||[16938344475](https://github.com/arch4edu/cactus/actions/runs/16938344475)|<script type="text/javascript">localize(1755110700);</script>|
 |x86_64|[x86_64/celt](https://aur.archlinux.org/pkgbase/celt)|PUBLISHED||[10641442161](https://github.com/arch4edu/cactus/actions/runs/10641442161)|<script type="text/javascript">localize(1725086183);</script>|
 |x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|BUILDING|GitHubActionsUnsafe|[18299775110](https://github.com/arch4edu/cactus/actions/runs/18299775110)|<script type="text/javascript">localize(1759803224);</script>|
-|x86_64|[x86_64/chromedriver](https://aur.archlinux.org/pkgbase/chromedriver)|PUBLISHED||[18615910539](https://github.com/arch4edu/cactus/actions/runs/18615910539)|<script type="text/javascript">localize(1760812780);</script>|
+|x86_64|[x86_64/chromedriver](https://aur.archlinux.org/pkgbase/chromedriver)|STALE||[18615910539](https://github.com/arch4edu/cactus/actions/runs/18615910539)|<script type="text/javascript">localize(1761483282);</script>|
 |x86_64|[x86_64/cider](https://aur.archlinux.org/pkgbase/cider)|STALE|Build failed.|[18624225962](https://github.com/arch4edu/cactus/actions/runs/18624225962)|<script type="text/javascript">localize(1760965218);</script>|
 |x86_64|[x86_64/claude-code](https://aur.archlinux.org/pkgbase/claude-code)|STALE||[18609145304](https://github.com/arch4edu/cactus/actions/runs/18609145304)|<script type="text/javascript">localize(1761012428);</script>|
 |x86_64|[x86_64/clhep](https://aur.archlinux.org/pkgbase/clhep)|PUBLISHED||[10436978276](https://github.com/arch4edu/cactus/actions/runs/10436978276)|<script type="text/javascript">localize(1723963221);</script>|
