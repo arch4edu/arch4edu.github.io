@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1761398803.0776112);</script>
+Last update: <script type="text/javascript">localize(1761448485.5651307);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -530,7 +530,7 @@ Last update: <script type="text/javascript">localize(1761398803.0776112);</scrip
 |x86_64|[x86_64/python-qiskit-experiments](https://aur.archlinux.org/pkgbase/python-qiskit-experiments)|PUBLISHED||[16938489590](https://github.com/arch4edu/cactus/actions/runs/16938489590)|<script type="text/javascript">localize(1759975834);</script>|
 |x86_64|[x86_64/python-qiskit-finance](https://aur.archlinux.org/pkgbase/python-qiskit-finance)|PUBLISHED||[15394435749](https://github.com/arch4edu/cactus/actions/runs/15394435749)|<script type="text/javascript">localize(1759975834);</script>|
 |x86_64|[x86_64/python-qiskit-ibm-experiment](https://aur.archlinux.org/pkgbase/python-qiskit-ibm-experiment)|PUBLISHED||[12460385129](https://github.com/arch4edu/cactus/actions/runs/12460385129)|<script type="text/javascript">localize(1759975835);</script>|
-|x86_64|[x86_64/python-qiskit-ibm-runtime](https://aur.archlinux.org/pkgbase/python-qiskit-ibm-runtime)|PUBLISHED||[18548055470](https://github.com/arch4edu/cactus/actions/runs/18548055470)|<script type="text/javascript">localize(1760597148);</script>|
+|x86_64|[x86_64/python-qiskit-ibm-runtime](https://aur.archlinux.org/pkgbase/python-qiskit-ibm-runtime)|STALE||[18548055470](https://github.com/arch4edu/cactus/actions/runs/18548055470)|<script type="text/javascript">localize(1761445050);</script>|
 |x86_64|[x86_64/python-qiskit-machine-learning](https://aur.archlinux.org/pkgbase/python-qiskit-machine-learning)|PUBLISHED||[15394435333](https://github.com/arch4edu/cactus/actions/runs/15394435333)|<script type="text/javascript">localize(1759975835);</script>|
 |x86_64|[x86_64/python-qiskit-nature](https://aur.archlinux.org/pkgbase/python-qiskit-nature)|PUBLISHED||[13298889873](https://github.com/arch4edu/cactus/actions/runs/13298889873)|<script type="text/javascript">localize(1759975835);</script>|
 |x86_64|[x86_64/python-qiskit-optimization](https://aur.archlinux.org/pkgbase/python-qiskit-optimization)|PUBLISHED||[17464916401](https://github.com/arch4edu/cactus/actions/runs/17464916401)|<script type="text/javascript">localize(1759975836);</script>|
@@ -750,7 +750,7 @@ Last update: <script type="text/javascript">localize(1761398803.0776112);</scrip
 |x86_64/r|[x86_64/r/r-fitdistrplus](https://aur.archlinux.org/pkgbase/r-fitdistrplus)|PUBLISHED||[16064440527](https://github.com/arch4edu/cactus/actions/runs/16064440527)|<script type="text/javascript">localize(1751611772);</script>|
 |x86_64/r|[x86_64/r/r-fixest](https://aur.archlinux.org/pkgbase/r-fixest)|PUBLISHED||[17569564820](https://github.com/arch4edu/cactus/actions/runs/17569564820)|<script type="text/javascript">localize(1757400306);</script>|
 |x86_64/r|[x86_64/r/r-flexmix](https://aur.archlinux.org/pkgbase/r-flexmix)|PUBLISHED||[13588842952](https://github.com/arch4edu/cactus/actions/runs/13588842952)|<script type="text/javascript">localize(1740768090);</script>|
-|x86_64/r|[x86_64/r/r-flexplot](https://aur.archlinux.org/pkgbase/r-flexplot)|PUBLISHED||[18580159176](https://github.com/arch4edu/cactus/actions/runs/18580159176)|<script type="text/javascript">localize(1760683524);</script>|
+|x86_64/r|[x86_64/r/r-flexplot](https://aur.archlinux.org/pkgbase/r-flexplot)|STALE||[18580159176](https://github.com/arch4edu/cactus/actions/runs/18580159176)|<script type="text/javascript">localize(1761445052);</script>|
 |x86_64/r|[x86_64/r/r-flexsurv](https://aur.archlinux.org/pkgbase/r-flexsurv)|PUBLISHED||[10437578966](https://github.com/arch4edu/cactus/actions/runs/10437578966)|<script type="text/javascript">localize(1723963955);</script>|
 |x86_64/r|[x86_64/r/r-flock](https://aur.archlinux.org/pkgbase/r-flock)|PUBLISHED||[15468135702](https://github.com/arch4edu/cactus/actions/runs/15468135702)|<script type="text/javascript">localize(1749150377);</script>|
 |x86_64/r|[x86_64/r/r-fontawesome](https://aur.archlinux.org/pkgbase/r-fontawesome)|PUBLISHED||[12535988558](https://github.com/arch4edu/cactus/actions/runs/12535988558)|<script type="text/javascript">localize(1735497443);</script>|
