@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1761708026.0053163);</script>
+Last update: <script type="text/javascript">localize(1761745014.1128345);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -541,7 +541,7 @@ Last update: <script type="text/javascript">localize(1761708026.0053163);</scrip
 |x86_64|[x86_64/python-rustworkx](https://aur.archlinux.org/pkgbase/python-rustworkx)|PUBLISHED||[16938341293](https://github.com/arch4edu/cactus/actions/runs/16938341293)|<script type="text/javascript">localize(1759975837);</script>|
 |x86_64|[x86_64/python-safetensors](https://aur.archlinux.org/pkgbase/python-safetensors)|PUBLISHED||[17015701236](https://github.com/arch4edu/cactus/actions/runs/17015701236)|<script type="text/javascript">localize(1759975838);</script>|
 |x86_64|[x86_64/python-scikit-learn-intelex](https://aur.archlinux.org/pkgbase/python-scikit-learn-intelex)|PUBLISHED||[17183120168](https://github.com/arch4edu/cactus/actions/runs/17183120168)|<script type="text/javascript">localize(1759975838);</script>|
-|x86_64|[x86_64/python-scipy-mkl](https://aur.archlinux.org/pkgbase/python-scipy-mkl)|PUBLISHED||[17675206684](https://github.com/arch4edu/cactus/actions/runs/17675206684)|<script type="text/javascript">localize(1759975838);</script>|
+|x86_64|[x86_64/python-scipy-mkl](https://aur.archlinux.org/pkgbase/python-scipy-mkl)|STALE||[17675206684](https://github.com/arch4edu/cactus/actions/runs/17675206684)|<script type="text/javascript">localize(1761742977);</script>|
 |x86_64|[x86_64/python-scooby](https://aur.archlinux.org/pkgbase/python-scooby)|PUBLISHED||[12606514931](https://github.com/arch4edu/cactus/actions/runs/12606514931)|<script type="text/javascript">localize(1759975838);</script>|
 |x86_64|[x86_64/python-sequitur-git](https://aur.archlinux.org/pkgbase/python-sequitur-git)|STALE|nvchecker failed, previously STALE|[12454721724](https://github.com/arch4edu/cactus/actions/runs/12454721724)|<script type="text/javascript">localize(1761704348);</script>|
 |x86_64|[x86_64/python-shap](https://aur.archlinux.org/pkgbase/python-shap)|PUBLISHED||[16099274062](https://github.com/arch4edu/cactus/actions/runs/16099274062)|<script type="text/javascript">localize(1759975839);</script>|
