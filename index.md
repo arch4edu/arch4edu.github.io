@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1761745014.1128345);</script>
+Last update: <script type="text/javascript">localize(1761831299.7929637);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -356,7 +356,7 @@ Last update: <script type="text/javascript">localize(1761745014.1128345);</scrip
 |x86_64|[x86_64/ignition-fuel_tools-4](https://aur.archlinux.org/pkgbase/ignition-fuel_tools-4)|PUBLISHED||[8481527684](https://github.com/arch4edu/cactus/actions/runs/8481527684)|<script type="text/javascript">localize(1711737960);</script>|
 |x86_64|[x86_64/ignition-math](https://aur.archlinux.org/pkgbase/ignition-math)|PUBLISHED||[6964629376](https://github.com/arch4edu/cactus/actions/runs/6964629376)|<script type="text/javascript">localize(1700721097);</script>|
 |x86_64|[x86_64/ignition-math-6](https://aur.archlinux.org/pkgbase/ignition-math-6)|PUBLISHED||[5255699741](https://github.com/arch4edu/cactus/actions/runs/5255699741)|<script type="text/javascript">localize(1686680998);</script>|
-|x86_64|[x86_64/ignition-msgs-5](https://aur.archlinux.org/pkgbase/ignition-msgs-5)|FAILED|nvchecker failed, previously STALE|[18624352230](https://github.com/arch4edu/cactus/actions/runs/18624352230)|<script type="text/javascript">localize(1761704330);</script>|
+|x86_64|[x86_64/ignition-msgs-5](https://aur.archlinux.org/pkgbase/ignition-msgs-5)|STALE|nvchecker failed, previously STALE|[18624352230](https://github.com/arch4edu/cactus/actions/runs/18624352230)|<script type="text/javascript">localize(1761829282);</script>|
 |x86_64|[x86_64/ignition-tools](https://aur.archlinux.org/pkgbase/ignition-tools)|PUBLISHED||[4349919149](https://github.com/arch4edu/cactus/actions/runs/4349919149)|<script type="text/javascript">localize(1678170877);</script>|
 |x86_64|[x86_64/ignition-transport-8](https://aur.archlinux.org/pkgbase/ignition-transport-8)|PUBLISHED||[8482158331](https://github.com/arch4edu/cactus/actions/runs/8482158331)|<script type="text/javascript">localize(1711737992);</script>|
 |x86_64|[x86_64/ignition-utils](https://aur.archlinux.org/pkgbase/ignition-utils)|PUBLISHED||[6964590818](https://github.com/arch4edu/cactus/actions/runs/6964590818)|<script type="text/javascript">localize(1700721114);</script>|
@@ -451,7 +451,7 @@ Last update: <script type="text/javascript">localize(1761745014.1128345);</scrip
 |x86_64|[x86_64/paru](https://aur.archlinux.org/pkgbase/paru)|PUBLISHED||[16144083473](https://github.com/arch4edu/cactus/actions/runs/16144083473)|<script type="text/javascript">localize(1752000454);</script>|
 |x86_64|[x86_64/pcl](https://aur.archlinux.org/pkgbase/pcl)|STALE|Build failed.|[18630755380](https://github.com/arch4edu/cactus/actions/runs/18630755380)|<script type="text/javascript">localize(1761012432);</script>|
 |x86_64|[x86_64/petsc](https://aur.archlinux.org/pkgbase/petsc)|STALE|nvchecker failed, previously PUBLISHED|[18630755491](https://github.com/arch4edu/cactus/actions/runs/18630755491)|<script type="text/javascript">localize(1761357784);</script>|
-|x86_64|[x86_64/petsc-complex](https://aur.archlinux.org/pkgbase/petsc-complex)|PUBLISHED||[18181112347](https://github.com/arch4edu/cactus/actions/runs/18181112347)|<script type="text/javascript">localize(1759387357);</script>|
+|x86_64|[x86_64/petsc-complex](https://aur.archlinux.org/pkgbase/petsc-complex)|STALE||[18181112347](https://github.com/arch4edu/cactus/actions/runs/18181112347)|<script type="text/javascript">localize(1761829284);</script>|
 |x86_64|[x86_64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|STALE||[15574645865](https://github.com/arch4edu/cactus/actions/runs/15574645865)|<script type="text/javascript">localize(1761570479);</script>|
 |x86_64|[x86_64/pi-hole-web](https://aur.archlinux.org/pkgbase/pi-hole-web)|STALE||[15370147998](https://github.com/arch4edu/cactus/actions/runs/15370147998)|<script type="text/javascript">localize(1761570479);</script>|
 |x86_64|[x86_64/pio](https://aur.archlinux.org/pkgbase/pio)|PUBLISHED||[2647918996](https://github.com/arch4edu/cactus/actions/runs/2647918996)|<script type="text/javascript">localize(1657525869);</script>|
@@ -930,7 +930,7 @@ Last update: <script type="text/javascript">localize(1761745014.1128345);</scrip
 |x86_64/r|[x86_64/r/r-lars](https://aur.archlinux.org/pkgbase/r-lars)|PUBLISHED||[15468001467](https://github.com/arch4edu/cactus/actions/runs/15468001467)|<script type="text/javascript">localize(1749150641);</script>|
 |x86_64/r|[x86_64/r/r-later](https://aur.archlinux.org/pkgbase/r-later)|PUBLISHED||[17267415945](https://github.com/arch4edu/cactus/actions/runs/17267415945)|<script type="text/javascript">localize(1756320055);</script>|
 |x86_64/r|[x86_64/r/r-latticeextra](https://aur.archlinux.org/pkgbase/r-latticeextra)|PUBLISHED||[2703919979](https://github.com/arch4edu/cactus/actions/runs/2703919979)|<script type="text/javascript">localize(1658313755);</script>|
-|x86_64/r|[x86_64/r/r-lava](https://aur.archlinux.org/pkgbase/r-lava)|PUBLISHED||[12733911206](https://github.com/arch4edu/cactus/actions/runs/12733911206)|<script type="text/javascript">localize(1736707076);</script>|
+|x86_64/r|[x86_64/r/r-lava](https://aur.archlinux.org/pkgbase/r-lava)|STALE||[12733911206](https://github.com/arch4edu/cactus/actions/runs/12733911206)|<script type="text/javascript">localize(1761829292);</script>|
 |x86_64/r|[x86_64/r/r-lavaan](https://aur.archlinux.org/pkgbase/r-lavaan)|PUBLISHED||[18039569903](https://github.com/arch4edu/cactus/actions/runs/18039569903)|<script type="text/javascript">localize(1758912430);</script>|
 |x86_64/r|[x86_64/r/r-lazyeval](https://aur.archlinux.org/pkgbase/r-lazyeval)|PUBLISHED||[4527879375](https://github.com/arch4edu/cactus/actions/runs/4527879375)|<script type="text/javascript">localize(1679898877);</script>|
 |x86_64/r|[x86_64/r/r-libcoin](https://aur.archlinux.org/pkgbase/r-libcoin)|PUBLISHED||[8593249026](https://github.com/arch4edu/cactus/actions/runs/8593249026)|<script type="text/javascript">localize(1712558792);</script>|
