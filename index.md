@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1761880516.061682);</script>
+Last update: <script type="text/javascript">localize(1761917658.4394052);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -823,7 +823,7 @@ Last update: <script type="text/javascript">localize(1761880516.061682);</script
 |x86_64/r|[x86_64/r/r-gower](https://aur.archlinux.org/pkgbase/r-gower)|PUBLISHED||[12535907995](https://github.com/arch4edu/cactus/actions/runs/12535907995)|<script type="text/javascript">localize(1735497480);</script>|
 |x86_64/r|[x86_64/r/r-gparotation](https://aur.archlinux.org/pkgbase/r-gparotation)|PUBLISHED||[14425701566](https://github.com/arch4edu/cactus/actions/runs/14425701566)|<script type="text/javascript">localize(1744526494);</script>|
 |x86_64/r|[x86_64/r/r-gplots](https://aur.archlinux.org/pkgbase/r-gplots)|PUBLISHED||[11274475136](https://github.com/arch4edu/cactus/actions/runs/11274475136)|<script type="text/javascript">localize(1728585702);</script>|
-|x86_64/r|[x86_64/r/r-graph](https://aur.archlinux.org/pkgbase/r-graph)|PUBLISHED||[14516835183](https://github.com/arch4edu/cactus/actions/runs/14516835183)|<script type="text/javascript">localize(1744915515);</script>|
+|x86_64/r|[x86_64/r/r-graph](https://aur.archlinux.org/pkgbase/r-graph)|STALE||[14516835183](https://github.com/arch4edu/cactus/actions/runs/14516835183)|<script type="text/javascript">localize(1761915632);</script>|
 |x86_64/r|[x86_64/r/r-graphlayouts](https://aur.archlinux.org/pkgbase/r-graphlayouts)|PUBLISHED||[12941743897](https://github.com/arch4edu/cactus/actions/runs/12941743897)|<script type="text/javascript">localize(1737700772);</script>|
 |x86_64/r|[x86_64/r/r-gridextra](https://aur.archlinux.org/pkgbase/r-gridextra)|PUBLISHED||[2703724234](https://github.com/arch4edu/cactus/actions/runs/2703724234)|<script type="text/javascript">localize(1658313465);</script>|
 |x86_64/r|[x86_64/r/r-gridgraphics](https://aur.archlinux.org/pkgbase/r-gridgraphics)|PUBLISHED||[8111578031](https://github.com/arch4edu/cactus/actions/runs/8111578031)|<script type="text/javascript">localize(1709318168);</script>|
@@ -961,7 +961,7 @@ Last update: <script type="text/javascript">localize(1761880516.061682);</script
 |x86_64/r|[x86_64/r/r-maxlik](https://aur.archlinux.org/pkgbase/r-maxlik)|PUBLISHED||[15468272270](https://github.com/arch4edu/cactus/actions/runs/15468272270)|<script type="text/javascript">localize(1749150660);</script>|
 |x86_64/r|[x86_64/r/r-maxstat](https://aur.archlinux.org/pkgbase/r-maxstat)|PUBLISHED||[14968848191](https://github.com/arch4edu/cactus/actions/runs/14968848191)|<script type="text/javascript">localize(1747076509);</script>|
 |x86_64/r|[x86_64/r/r-mclogit](https://aur.archlinux.org/pkgbase/r-mclogit)|PUBLISHED||[15468139779](https://github.com/arch4edu/cactus/actions/runs/15468139779)|<script type="text/javascript">localize(1749150678);</script>|
-|x86_64/r|[x86_64/r/r-mclust](https://aur.archlinux.org/pkgbase/r-mclust)|PUBLISHED||[8905654993](https://github.com/arch4edu/cactus/actions/runs/8905654993)|<script type="text/javascript">localize(1714545429);</script>|
+|x86_64/r|[x86_64/r/r-mclust](https://aur.archlinux.org/pkgbase/r-mclust)|STALE||[8905654993](https://github.com/arch4edu/cactus/actions/runs/8905654993)|<script type="text/javascript">localize(1761915635);</script>|
 |x86_64/r|[x86_64/r/r-mcmc](https://aur.archlinux.org/pkgbase/r-mcmc)|PUBLISHED||[8222035446](https://github.com/arch4edu/cactus/actions/runs/8222035446)|<script type="text/javascript">localize(1710095192);</script>|
 |x86_64/r|[x86_64/r/r-mcmcpack](https://aur.archlinux.org/pkgbase/r-mcmcpack)|PUBLISHED||[10578556902](https://github.com/arch4edu/cactus/actions/runs/10578556902)|<script type="text/javascript">localize(1724783807);</script>|
 |x86_64/r|[x86_64/r/r-mda](https://aur.archlinux.org/pkgbase/r-mda)|PUBLISHED||[11771453741](https://github.com/arch4edu/cactus/actions/runs/11771453741)|<script type="text/javascript">localize(1731309007);</script>|
@@ -1030,7 +1030,7 @@ Last update: <script type="text/javascript">localize(1761880516.061682);</script
 |x86_64/r|[x86_64/r/r-onewaytests](https://aur.archlinux.org/pkgbase/r-onewaytests)|PUBLISHED||[18098752082](https://github.com/arch4edu/cactus/actions/runs/18098752082)|<script type="text/javascript">localize(1759171768);</script>|
 |x86_64/r|[x86_64/r/r-openmx](https://aur.archlinux.org/pkgbase/r-openmx)|PUBLISHED||[17099420923](https://github.com/arch4edu/cactus/actions/runs/17099420923)|<script type="text/javascript">localize(1755715852);</script>|
 |x86_64/r|[x86_64/r/r-openssl](https://aur.archlinux.org/pkgbase/r-openssl)|PUBLISHED||[18130791201](https://github.com/arch4edu/cactus/actions/runs/18130791201)|<script type="text/javascript">localize(1759257679);</script>|
-|x86_64/r|[x86_64/r/r-openxlsx](https://aur.archlinux.org/pkgbase/r-openxlsx)|PUBLISHED||[12970437874](https://github.com/arch4edu/cactus/actions/runs/12970437874)|<script type="text/javascript">localize(1737873376);</script>|
+|x86_64/r|[x86_64/r/r-openxlsx](https://aur.archlinux.org/pkgbase/r-openxlsx)|STALE||[12970437874](https://github.com/arch4edu/cactus/actions/runs/12970437874)|<script type="text/javascript">localize(1761915636);</script>|
 |x86_64/r|[x86_64/r/r-operator.tools](https://aur.archlinux.org/pkgbase/r-operator.tools)|PUBLISHED||[8105200397](https://github.com/arch4edu/cactus/actions/runs/8105200397)|<script type="text/javascript">localize(1709318188);</script>|
 |x86_64/r|[x86_64/r/r-optimx](https://aur.archlinux.org/pkgbase/r-optimx)|PUBLISHED||[14381649658](https://github.com/arch4edu/cactus/actions/runs/14381649658)|<script type="text/javascript">localize(1744310482);</script>|
 |x86_64/r|[x86_64/r/r-ordinal](https://aur.archlinux.org/pkgbase/r-ordinal)|PUBLISHED||[10453870467](https://github.com/arch4edu/cactus/actions/runs/10453870467)|<script type="text/javascript">localize(1724092643);</script>|
