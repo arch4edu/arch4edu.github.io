@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1761917658.4394052);</script>
+Last update: <script type="text/javascript">localize(1761966975.88515);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -1585,7 +1585,7 @@ Last update: <script type="text/javascript">localize(1761917658.4394052);</scrip
 |x86_64|[x86_64/yay](https://aur.archlinux.org/pkgbase/yay)|PUBLISHED||[18067989491](https://github.com/arch4edu/cactus/actions/runs/18067989491)|<script type="text/javascript">localize(1759041772);</script>|
 |x86_64|[x86_64/zoltan](https://aur.archlinux.org/pkgbase/zoltan)|PUBLISHED||[12591791195](https://github.com/arch4edu/cactus/actions/runs/12591791195)|<script type="text/javascript">localize(1735886510);</script>|
 |x86_64|[x86_64/zoom](https://aur.archlinux.org/pkgbase/zoom)|STALE||[17815720861](https://github.com/arch4edu/cactus/actions/runs/17815720861)|<script type="text/javascript">localize(1761185139);</script>|
-|x86_64|[x86_64/zotero](https://aur.archlinux.org/pkgbase/zotero)|PUBLISHED||[18624162666](https://github.com/arch4edu/cactus/actions/runs/18624162666)|<script type="text/javascript">localize(1760856431);</script>|
+|x86_64|[x86_64/zotero](https://aur.archlinux.org/pkgbase/zotero)|STALE||[18624162666](https://github.com/arch4edu/cactus/actions/runs/18624162666)|<script type="text/javascript">localize(1761963503);</script>|
 |x86_64|[x86_64/zotero-bin](https://aur.archlinux.org/pkgbase/zotero-bin)|PUBLISHED||[18580156640](https://github.com/arch4edu/cactus/actions/runs/18580156640)|<script type="text/javascript">localize(1760683731);</script>|
 
 <script src="./tablefilter/tablefilter.js"></script>
