@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1762053627.0558102);</script>
+Last update: <script type="text/javascript">localize(1762090030.05654);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -581,7 +581,7 @@ Last update: <script type="text/javascript">localize(1762053627.0558102);</scrip
 |x86_64/r|[x86_64/r/r-acceptancesampling](https://aur.archlinux.org/pkgbase/r-acceptancesampling)|PUBLISHED||[16471638297](https://github.com/arch4edu/cactus/actions/runs/16471638297)|<script type="text/javascript">localize(1753296557);</script>|
 |x86_64/r|[x86_64/r/r-ade4](https://aur.archlinux.org/pkgbase/r-ade4)|PUBLISHED||[15468271940](https://github.com/arch4edu/cactus/actions/runs/15468271940)|<script type="text/javascript">localize(1749150048);</script>|
 |x86_64/r|[x86_64/r/r-adgoftest](https://aur.archlinux.org/pkgbase/r-adgoftest)|PUBLISHED||[8825718337](https://github.com/arch4edu/cactus/actions/runs/8825718337)|<script type="text/javascript">localize(1714026769);</script>|
-|x86_64/r|[x86_64/r/r-admisc](https://aur.archlinux.org/pkgbase/r-admisc)|PUBLISHED||[14162689203](https://github.com/arch4edu/cactus/actions/runs/14162689203)|<script type="text/javascript">localize(1743403501);</script>|
+|x86_64/r|[x86_64/r/r-admisc](https://aur.archlinux.org/pkgbase/r-admisc)|STALE||[14162689203](https://github.com/arch4edu/cactus/actions/runs/14162689203)|<script type="text/javascript">localize(1762088037);</script>|
 |x86_64/r|[x86_64/r/r-aer](https://aur.archlinux.org/pkgbase/r-aer)|PUBLISHED||[15927227334](https://github.com/arch4edu/cactus/actions/runs/15927227334)|<script type="text/javascript">localize(1751049982);</script>|
 |x86_64/r|[x86_64/r/r-afex](https://aur.archlinux.org/pkgbase/r-afex)|PUBLISHED||[17239429139](https://github.com/arch4edu/cactus/actions/runs/17239429139)|<script type="text/javascript">localize(1756234292);</script>|
 |x86_64/r|[x86_64/r/r-alabama](https://aur.archlinux.org/pkgbase/r-alabama)|PUBLISHED||[8615906723](https://github.com/arch4edu/cactus/actions/runs/8615906723)|<script type="text/javascript">localize(1712687152);</script>|
@@ -938,8 +938,8 @@ Last update: <script type="text/javascript">localize(1762053627.0558102);</scrip
 |x86_64/r|[x86_64/r/r-lifecycle](https://aur.archlinux.org/pkgbase/r-lifecycle)|PUBLISHED||[8826261724](https://github.com/arch4edu/cactus/actions/runs/8826261724)|<script type="text/javascript">localize(1714027486);</script>|
 |x86_64/r|[x86_64/r/r-linprog](https://aur.archlinux.org/pkgbase/r-linprog)|PUBLISHED||[8826225776](https://github.com/arch4edu/cactus/actions/runs/8826225776)|<script type="text/javascript">localize(1714027507);</script>|
 |x86_64/r|[x86_64/r/r-lisreltor](https://aur.archlinux.org/pkgbase/r-lisreltor)|PUBLISHED||[8304350615](https://github.com/arch4edu/cactus/actions/runs/8304350615)|<script type="text/javascript">localize(1710571969);</script>|
-|x86_64/r|[x86_64/r/r-listenv](https://aur.archlinux.org/pkgbase/r-listenv)|PUBLISHED||[7704993456](https://github.com/arch4edu/cactus/actions/runs/7704993456)|<script type="text/javascript">localize(1706596222);</script>|
-|x86_64/r|[x86_64/r/r-litedown](https://aur.archlinux.org/pkgbase/r-litedown)|PUBLISHED||[15290131531](https://github.com/arch4edu/cactus/actions/runs/15290131531)|<script type="text/javascript">localize(1748414895);</script>|
+|x86_64/r|[x86_64/r/r-listenv](https://aur.archlinux.org/pkgbase/r-listenv)|STALE||[7704993456](https://github.com/arch4edu/cactus/actions/runs/7704993456)|<script type="text/javascript">localize(1762088043);</script>|
+|x86_64/r|[x86_64/r/r-litedown](https://aur.archlinux.org/pkgbase/r-litedown)|STALE||[15290131531](https://github.com/arch4edu/cactus/actions/runs/15290131531)|<script type="text/javascript">localize(1762088043);</script>|
 |x86_64/r|[x86_64/r/r-lme4](https://aur.archlinux.org/pkgbase/r-lme4)|PUBLISHED||[15441439658](https://github.com/arch4edu/cactus/actions/runs/15441439658)|<script type="text/javascript">localize(1749062928);</script>|
 |x86_64/r|[x86_64/r/r-lmertest](https://aur.archlinux.org/pkgbase/r-lmertest)|PUBLISHED||[2725787851](https://github.com/arch4edu/cactus/actions/runs/2725787851)|<script type="text/javascript">localize(1658635249);</script>|
 |x86_64/r|[x86_64/r/r-lmtest](https://aur.archlinux.org/pkgbase/r-lmtest)|PUBLISHED||[8593249804](https://github.com/arch4edu/cactus/actions/runs/8593249804)|<script type="text/javascript">localize(1712558862);</script>|
