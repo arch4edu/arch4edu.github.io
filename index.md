@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1763522179.6321847);</script>
+Last update: <script type="text/javascript">localize(1763559368.503535);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -267,9 +267,9 @@ Last update: <script type="text/javascript">localize(1763522179.6321847);</scrip
 |x86_64|[x86_64/calculix-precice](https://aur.archlinux.org/pkgbase/calculix-precice)|PUBLISHED||[16938344475](https://github.com/arch4edu/cactus/actions/runs/16938344475)|<script type="text/javascript">localize(1755110700);</script>|
 |x86_64|[x86_64/celt](https://aur.archlinux.org/pkgbase/celt)|PUBLISHED||[10641442161](https://github.com/arch4edu/cactus/actions/runs/10641442161)|<script type="text/javascript">localize(1725086183);</script>|
 |x86_64|[x86_64/ceph](https://aur.archlinux.org/pkgbase/ceph)|BUILDING|GitHubActionsUnsafe|[18299775110](https://github.com/arch4edu/cactus/actions/runs/18299775110)|<script type="text/javascript">localize(1759803224);</script>|
-|x86_64|[x86_64/chromedriver](https://aur.archlinux.org/pkgbase/chromedriver)|FAILED|Build failed.|[19451660570](https://github.com/arch4edu/cactus/actions/runs/19451660570)|<script type="text/javascript">localize(1763432559);</script>|
+|x86_64|[x86_64/chromedriver](https://aur.archlinux.org/pkgbase/chromedriver)|STALE|Build failed.|[19451660570](https://github.com/arch4edu/cactus/actions/runs/19451660570)|<script type="text/javascript">localize(1763557330);</script>|
 |x86_64|[x86_64/cider](https://aur.archlinux.org/pkgbase/cider)|STALE|Build failed.|[19430981320](https://github.com/arch4edu/cactus/actions/runs/19430981320)|<script type="text/javascript">localize(1763518534);</script>|
-|x86_64|[x86_64/claude-code](https://aur.archlinux.org/pkgbase/claude-code)|FAILED|Build failed.|[19451657751](https://github.com/arch4edu/cactus/actions/runs/19451657751)|<script type="text/javascript">localize(1763432556);</script>|
+|x86_64|[x86_64/claude-code](https://aur.archlinux.org/pkgbase/claude-code)|STALE|Build failed.|[19451657751](https://github.com/arch4edu/cactus/actions/runs/19451657751)|<script type="text/javascript">localize(1763557331);</script>|
 |x86_64|[x86_64/clhep](https://aur.archlinux.org/pkgbase/clhep)|PUBLISHED||[10436978276](https://github.com/arch4edu/cactus/actions/runs/10436978276)|<script type="text/javascript">localize(1723963221);</script>|
 |x86_64|[x86_64/cloudcompare](https://aur.archlinux.org/pkgbase/cloudcompare)|PUBLISHED||[12180501061](https://github.com/arch4edu/cactus/actions/runs/12180501061)|<script type="text/javascript">localize(1733424148);</script>|
 |x86_64|[x86_64/cloudflare-warp-bin](https://aur.archlinux.org/pkgbase/cloudflare-warp-bin)|PUBLISHED||[19352203607](https://github.com/arch4edu/cactus/actions/runs/19352203607)|<script type="text/javascript">localize(1763102892);</script>|
@@ -565,7 +565,7 @@ Last update: <script type="text/javascript">localize(1763522179.6321847);</scrip
 |x86_64|[x86_64/python-wslink](https://aur.archlinux.org/pkgbase/python-wslink)|PUBLISHED||[19016859684](https://github.com/arch4edu/cactus/actions/runs/19016859684)|<script type="text/javascript">localize(1763346068);</script>|
 |x86_64|[x86_64/python-xyzservices](https://aur.archlinux.org/pkgbase/python-xyzservices)|PUBLISHED||[19017148635](https://github.com/arch4edu/cactus/actions/runs/19017148635)|<script type="text/javascript">localize(1763346068);</script>|
 |x86_64|[x86_64/python-yfinance](https://aur.archlinux.org/pkgbase/python-yfinance)|PUBLISHED||[18039724660](https://github.com/arch4edu/cactus/actions/runs/18039724660)|<script type="text/javascript">localize(1763346068);</script>|
-|x86_64|[x86_64/qgis-ltr](https://aur.archlinux.org/pkgbase/qgis-ltr)|FAILED|Build failed.|[19451659196](https://github.com/arch4edu/cactus/actions/runs/19451659196)|<script type="text/javascript">localize(1763432651);</script>|
+|x86_64|[x86_64/qgis-ltr](https://aur.archlinux.org/pkgbase/qgis-ltr)|STALE|Build failed.|[19451659196](https://github.com/arch4edu/cactus/actions/runs/19451659196)|<script type="text/javascript">localize(1763557335);</script>|
 |x86_64|[x86_64/qgroundcontrol](https://aur.archlinux.org/pkgbase/qgroundcontrol)|PUBLISHED||[14145817952](https://github.com/arch4edu/cactus/actions/runs/14145817952)|<script type="text/javascript">localize(1743273533);</script>|
 |x86_64|[x86_64/qt-sudo](https://aur.archlinux.org/pkgbase/qt-sudo)|PUBLISHED||[18025799164](https://github.com/arch4edu/cactus/actions/runs/18025799164)|<script type="text/javascript">localize(1758869102);</script>|
 |x86_64|[x86_64/qt4](https://aur.archlinux.org/pkgbase/qt4)|PUBLISHED||[13084002802](https://github.com/arch4edu/cactus/actions/runs/13084002802)|<script type="text/javascript">localize(1738391811);</script>|
