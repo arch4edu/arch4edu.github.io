@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1763694923.9884784);</script>
+Last update: <script type="text/javascript">localize(1763731965.0227447);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -492,7 +492,7 @@ Last update: <script type="text/javascript">localize(1763694923.9884784);</scrip
 |x86_64|[x86_64/python-fenics-ffcx](https://aur.archlinux.org/pkgbase/python-fenics-ffcx)|PUBLISHED||[19266637525](https://github.com/arch4edu/cactus/actions/runs/19266637525)|<script type="text/javascript">localize(1763346044);</script>|
 |x86_64|[x86_64/python-fenics-ufl](https://aur.archlinux.org/pkgbase/python-fenics-ufl)|PUBLISHED||[19016703266](https://github.com/arch4edu/cactus/actions/runs/19016703266)|<script type="text/javascript">localize(1763346045);</script>|
 |x86_64|[x86_64/python-gensim](https://aur.archlinux.org/pkgbase/python-gensim)|PUBLISHED||[12457020412](https://github.com/arch4edu/cactus/actions/runs/12457020412)|<script type="text/javascript">localize(1763346045);</script>|
-|x86_64|[x86_64/python-gwcs](https://aur.archlinux.org/pkgbase/python-gwcs)|PUBLISHED||[18039869252](https://github.com/arch4edu/cactus/actions/runs/18039869252)|<script type="text/javascript">localize(1763346045);</script>|
+|x86_64|[x86_64/python-gwcs](https://aur.archlinux.org/pkgbase/python-gwcs)|STALE||[18039869252](https://github.com/arch4edu/cactus/actions/runs/18039869252)|<script type="text/javascript">localize(1763730000);</script>|
 |x86_64|[x86_64/python-ibm-cloud-sdk-core](https://aur.archlinux.org/pkgbase/python-ibm-cloud-sdk-core)|PUBLISHED||[15393111089](https://github.com/arch4edu/cactus/actions/runs/15393111089)|<script type="text/javascript">localize(1763346046);</script>|
 |x86_64|[x86_64/python-ibm-platform-services](https://aur.archlinux.org/pkgbase/python-ibm-platform-services)|PUBLISHED||[19055752159](https://github.com/arch4edu/cactus/actions/runs/19055752159)|<script type="text/javascript">localize(1763346046);</script>|
 |x86_64|[x86_64/python-imagecodecs](https://aur.archlinux.org/pkgbase/python-imagecodecs)|PUBLISHED||[19252773824](https://github.com/arch4edu/cactus/actions/runs/19252773824)|<script type="text/javascript">localize(1763346046);</script>|
@@ -1191,7 +1191,7 @@ Last update: <script type="text/javascript">localize(1763694923.9884784);</scrip
 |x86_64/r|[x86_64/r/r-sets](https://aur.archlinux.org/pkgbase/r-sets)|PUBLISHED||[8290012810](https://github.com/arch4edu/cactus/actions/runs/8290012810)|<script type="text/javascript">localize(1710484367);</script>|
 |x86_64/r|[x86_64/r/r-sf](https://aur.archlinux.org/pkgbase/r-sf)|PUBLISHED||[19232759498](https://github.com/arch4edu/cactus/actions/runs/19232759498)|<script type="text/javascript">localize(1762800432);</script>|
 |x86_64/r|[x86_64/r/r-sfd](https://aur.archlinux.org/pkgbase/r-sfd)|PUBLISHED||[10437554835](https://github.com/arch4edu/cactus/actions/runs/10437554835)|<script type="text/javascript">localize(1723964149);</script>|
-|x86_64/r|[x86_64/r/r-sfsmisc](https://aur.archlinux.org/pkgbase/r-sfsmisc)|PUBLISHED||[17378447593](https://github.com/arch4edu/cactus/actions/runs/17378447593)|<script type="text/javascript">localize(1756752037);</script>|
+|x86_64/r|[x86_64/r/r-sfsmisc](https://aur.archlinux.org/pkgbase/r-sfsmisc)|STALE||[17378447593](https://github.com/arch4edu/cactus/actions/runs/17378447593)|<script type="text/javascript">localize(1763730007);</script>|
 |x86_64/r|[x86_64/r/r-sgt](https://aur.archlinux.org/pkgbase/r-sgt)|PUBLISHED||[2703878630](https://github.com/arch4edu/cactus/actions/runs/2703878630)|<script type="text/javascript">localize(1658314498);</script>|
 |x86_64/r|[x86_64/r/r-shape](https://aur.archlinux.org/pkgbase/r-shape)|PUBLISHED||[8027246939](https://github.com/arch4edu/cactus/actions/runs/8027246939)|<script type="text/javascript">localize(1708756223);</script>|
 |x86_64/r|[x86_64/r/r-shiny](https://aur.archlinux.org/pkgbase/r-shiny)|PUBLISHED||[16418166413](https://github.com/arch4edu/cactus/actions/runs/16418166413)|<script type="text/javascript">localize(1753124068);</script>|
@@ -1317,8 +1317,8 @@ Last update: <script type="text/javascript">localize(1763694923.9884784);</scrip
 |x86_64/rocm|[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|STALE|Build failed.|[19431164068](https://github.com/arch4edu/cactus/actions/runs/19431164068)|<script type="text/javascript">localize(1763518542);</script>|
 |x86_64/rocm|[x86_64/rocm/python-torchvision-rocm](https://aur.archlinux.org/pkgbase/python-torchvision-rocm)|PUBLISHED||[19056140964](https://github.com/arch4edu/cactus/actions/runs/19056140964)|<script type="text/javascript">localize(1762239066);</script>|
 |x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|STALE|Build failed.|[19431528056](https://github.com/arch4edu/cactus/actions/runs/19431528056)|<script type="text/javascript">localize(1763518542);</script>|
-|x86_64/ros|[x86_64/ros/orocos-kdl-git](https://aur.archlinux.org/pkgbase/orocos-kdl-git)|PUBLISHED||[19017217148](https://github.com/arch4edu/cactus/actions/runs/19017217148)|<script type="text/javascript">localize(1762606475);</script>|
-|x86_64/ros|[x86_64/ros/orocos-kdl-python-git](https://aur.archlinux.org/pkgbase/orocos-kdl-python-git)|PUBLISHED||[19055854417](https://github.com/arch4edu/cactus/actions/runs/19055854417)|<script type="text/javascript">localize(1762606476);</script>|
+|x86_64/ros|[x86_64/ros/orocos-kdl-git](https://aur.archlinux.org/pkgbase/orocos-kdl-git)|STALE||[19017217148](https://github.com/arch4edu/cactus/actions/runs/19017217148)|<script type="text/javascript">localize(1763730008);</script>|
+|x86_64/ros|[x86_64/ros/orocos-kdl-python-git](https://aur.archlinux.org/pkgbase/orocos-kdl-python-git)|STALE||[19055854417](https://github.com/arch4edu/cactus/actions/runs/19055854417)|<script type="text/javascript">localize(1763730008);</script>|
 |x86_64/ros|[x86_64/ros/ros-build-tools](https://aur.archlinux.org/pkgbase/ros-build-tools)|PUBLISHED||[7235610925](https://github.com/arch4edu/cactus/actions/runs/7235610925)|<script type="text/javascript">localize(1702794770);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-actionlib](https://aur.archlinux.org/pkgbase/ros-noetic-actionlib)|STALE|Waiting for dependency: x86_64/ros/ros-noetic-class-loader.|[13874366551](https://github.com/arch4edu/cactus/actions/runs/13874366551)|<script type="text/javascript">localize(1763497751);</script>|
 |x86_64/ros|[x86_64/ros/ros-noetic-actionlib-msgs](https://aur.archlinux.org/pkgbase/ros-noetic-actionlib-msgs)|PUBLISHED||[13873697903](https://github.com/arch4edu/cactus/actions/runs/13873697903)|<script type="text/javascript">localize(1763346069);</script>|
@@ -1585,7 +1585,7 @@ Last update: <script type="text/javascript">localize(1763694923.9884784);</scrip
 |x86_64|[x86_64/zoltan](https://aur.archlinux.org/pkgbase/zoltan)|PUBLISHED||[12591791195](https://github.com/arch4edu/cactus/actions/runs/12591791195)|<script type="text/javascript">localize(1735886510);</script>|
 |x86_64|[x86_64/zoom](https://aur.archlinux.org/pkgbase/zoom)|PUBLISHED||[19451657448](https://github.com/arch4edu/cactus/actions/runs/19451657448)|<script type="text/javascript">localize(1763448524);</script>|
 |x86_64|[x86_64/zotero](https://aur.archlinux.org/pkgbase/zotero)|PUBLISHED||[19016703441](https://github.com/arch4edu/cactus/actions/runs/19016703441)|<script type="text/javascript">localize(1762154239);</script>|
-|x86_64|[x86_64/zotero-bin](https://aur.archlinux.org/pkgbase/zotero-bin)|PUBLISHED||[18580156640](https://github.com/arch4edu/cactus/actions/runs/18580156640)|<script type="text/javascript">localize(1760683731);</script>|
+|x86_64|[x86_64/zotero-bin](https://aur.archlinux.org/pkgbase/zotero-bin)|STALE||[18580156640](https://github.com/arch4edu/cactus/actions/runs/18580156640)|<script type="text/javascript">localize(1763730020);</script>|
 
 <script src="./tablefilter/tablefilter.js"></script>
 <script src="./table.js"></script>
