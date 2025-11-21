@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1763645675.3619585);</script>
+Last update: <script type="text/javascript">localize(1763694923.9884784);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -984,7 +984,7 @@ Last update: <script type="text/javascript">localize(1763645675.3619585);</scrip
 |x86_64/r|[x86_64/r/r-mitml](https://aur.archlinux.org/pkgbase/r-mitml)|PUBLISHED||[8833380705](https://github.com/arch4edu/cactus/actions/runs/8833380705)|<script type="text/javascript">localize(1714070547);</script>|
 |x86_64/r|[x86_64/r/r-mitools](https://aur.archlinux.org/pkgbase/r-mitools)|PUBLISHED||[15468409684](https://github.com/arch4edu/cactus/actions/runs/15468409684)|<script type="text/javascript">localize(1749150727);</script>|
 |x86_64/r|[x86_64/r/r-mixomics](https://aur.archlinux.org/pkgbase/r-mixomics)|PUBLISHED||[15491544782](https://github.com/arch4edu/cactus/actions/runs/15491544782)|<script type="text/javascript">localize(1749235622);</script>|
-|x86_64/r|[x86_64/r/r-mkl](https://aur.archlinux.org/pkgbase/r-mkl)|PUBLISHED||[19232604300](https://github.com/arch4edu/cactus/actions/runs/19232604300)|<script type="text/javascript">localize(1763346069);</script>|
+|x86_64/r|[x86_64/r/r-mkl](https://aur.archlinux.org/pkgbase/r-mkl)|STALE||[19232604300](https://github.com/arch4edu/cactus/actions/runs/19232604300)|<script type="text/javascript">localize(1763691294);</script>|
 |x86_64/r|[x86_64/r/r-mlbench](https://aur.archlinux.org/pkgbase/r-mlbench)|PUBLISHED||[12554479044](https://github.com/arch4edu/cactus/actions/runs/12554479044)|<script type="text/javascript">localize(1735627234);</script>|
 |x86_64/r|[x86_64/r/r-mle.tools](https://aur.archlinux.org/pkgbase/r-mle.tools)|PUBLISHED||[8197406238](https://github.com/arch4edu/cactus/actions/runs/8197406238)|<script type="text/javascript">localize(1709879678);</script>|
 |x86_64/r|[x86_64/r/r-mlmetrics](https://aur.archlinux.org/pkgbase/r-mlmetrics)|PUBLISHED||[8677736194](https://github.com/arch4edu/cactus/actions/runs/8677736194)|<script type="text/javascript">localize(1713081787);</script>|
