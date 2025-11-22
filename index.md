@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1763780988.9698536);</script>
+Last update: <script type="text/javascript">localize(1763818079.1196682);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -52,7 +52,7 @@ Last update: <script type="text/javascript">localize(1763780988.9698536);</scrip
 |aarch64|[aarch64/shellcheck-bin](https://aur.archlinux.org/pkgbase/shellcheck-bin)|PUBLISHED||[17144550344](https://github.com/arch4edu/cactus/actions/runs/17144550344)|<script type="text/javascript">localize(1755845401);</script>|
 |aarch64|[aarch64/sip4](https://aur.archlinux.org/pkgbase/sip4)|PUBLISHED||[8873922708](https://github.com/arch4edu/cactus/actions/runs/8873922708)|<script type="text/javascript">localize(1758679395);</script>|
 |aarch64|[aarch64/smpq](https://aur.archlinux.org/pkgbase/smpq)|PUBLISHED||[15001521931](https://github.com/arch4edu/cactus/actions/runs/15001521931)|<script type="text/javascript">localize(1747161814);</script>|
-|aarch64|[aarch64/stormlib](https://aur.archlinux.org/pkgbase/stormlib)|PUBLISHED||[12586839222](https://github.com/arch4edu/cactus/actions/runs/12586839222)|<script type="text/javascript">localize(1735843366);</script>|
+|aarch64|[aarch64/stormlib](https://aur.archlinux.org/pkgbase/stormlib)|STALE||[12586839222](https://github.com/arch4edu/cactus/actions/runs/12586839222)|<script type="text/javascript">localize(1763816043);</script>|
 |aarch64|[aarch64/sublime-text-dev](https://aur.archlinux.org/pkgbase/sublime-text-dev)|PUBLISHED||[15303486728](https://github.com/arch4edu/cactus/actions/runs/15303486728)|<script type="text/javascript">localize(1758679395);</script>|
 |aarch64|[aarch64/teamviewer](https://aur.archlinux.org/pkgbase/teamviewer)|STALE||[17351493873](https://github.com/arch4edu/cactus/actions/runs/17351493873)|<script type="text/javascript">localize(1760321713);</script>|
 |aarch64|[aarch64/torque](https://aur.archlinux.org/pkgbase/torque)|PUBLISHED||[5443046778](https://github.com/arch4edu/cactus/actions/runs/5443046778)|<script type="text/javascript">localize(1758679396);</script>|
@@ -449,7 +449,7 @@ Last update: <script type="text/javascript">localize(1763780988.9698536);</scrip
 |x86_64|[x86_64/parmetis-git](https://aur.archlinux.org/pkgbase/parmetis-git)|PUBLISHED||[15127405387](https://github.com/arch4edu/cactus/actions/runs/15127405387)|<script type="text/javascript">localize(1747723544);</script>|
 |x86_64|[x86_64/paru](https://aur.archlinux.org/pkgbase/paru)|PUBLISHED||[16144083473](https://github.com/arch4edu/cactus/actions/runs/16144083473)|<script type="text/javascript">localize(1752000454);</script>|
 |x86_64|[x86_64/pcl](https://aur.archlinux.org/pkgbase/pcl)|STALE|Build failed.|[19431343103](https://github.com/arch4edu/cactus/actions/runs/19431343103)|<script type="text/javascript">localize(1763518537);</script>|
-|x86_64|[x86_64/petsc](https://aur.archlinux.org/pkgbase/petsc)|PUBLISHED||[19017692958](https://github.com/arch4edu/cactus/actions/runs/19017692958)|<script type="text/javascript">localize(1763346034);</script>|
+|x86_64|[x86_64/petsc](https://aur.archlinux.org/pkgbase/petsc)|FAILED|nvchecker failed, previously PUBLISHED|[19017692958](https://github.com/arch4edu/cactus/actions/runs/19017692958)|<script type="text/javascript">localize(1763816040);</script>|
 |x86_64|[x86_64/petsc-complex](https://aur.archlinux.org/pkgbase/petsc-complex)|FAILED|Build failed.|[19017692649](https://github.com/arch4edu/cactus/actions/runs/19017692649)|<script type="text/javascript">localize(1762115319);</script>|
 |x86_64|[x86_64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|PUBLISHED||[19103159766](https://github.com/arch4edu/cactus/actions/runs/19103159766)|<script type="text/javascript">localize(1762368358);</script>|
 |x86_64|[x86_64/pi-hole-web](https://aur.archlinux.org/pkgbase/pi-hole-web)|PUBLISHED||[19017077753](https://github.com/arch4edu/cactus/actions/runs/19017077753)|<script type="text/javascript">localize(1762153481);</script>|
@@ -506,7 +506,7 @@ Last update: <script type="text/javascript">localize(1763780988.9698536);</scrip
 |x86_64|[x86_64/python-mkl-random](https://aur.archlinux.org/pkgbase/python-mkl-random)|PUBLISHED||[18562164106](https://github.com/arch4edu/cactus/actions/runs/18562164106)|<script type="text/javascript">localize(1763346049);</script>|
 |x86_64|[x86_64/python-mkl-service](https://aur.archlinux.org/pkgbase/python-mkl-service)|PUBLISHED||[18515547938](https://github.com/arch4edu/cactus/actions/runs/18515547938)|<script type="text/javascript">localize(1763346049);</script>|
 |x86_64|[x86_64/python-mpl-animators](https://aur.archlinux.org/pkgbase/python-mpl-animators)|PUBLISHED||[15796018354](https://github.com/arch4edu/cactus/actions/runs/15796018354)|<script type="text/javascript">localize(1763346049);</script>|
-|x86_64|[x86_64/python-multimethod](https://aur.archlinux.org/pkgbase/python-multimethod)|PUBLISHED||[19156100148](https://github.com/arch4edu/cactus/actions/runs/19156100148)|<script type="text/javascript">localize(1763346050);</script>|
+|x86_64|[x86_64/python-multimethod](https://aur.archlinux.org/pkgbase/python-multimethod)|STALE||[19156100148](https://github.com/arch4edu/cactus/actions/runs/19156100148)|<script type="text/javascript">localize(1763816051);</script>|
 |x86_64|[x86_64/python-multitasking](https://aur.archlinux.org/pkgbase/python-multitasking)|PUBLISHED||[16417878799](https://github.com/arch4edu/cactus/actions/runs/16417878799)|<script type="text/javascript">localize(1763346050);</script>|
 |x86_64|[x86_64/python-nasdaq-data-link](https://aur.archlinux.org/pkgbase/python-nasdaq-data-link)|PUBLISHED||[12460039148](https://github.com/arch4edu/cactus/actions/runs/12460039148)|<script type="text/javascript">localize(1763346050);</script>|
 |x86_64|[x86_64/python-ndcube](https://aur.archlinux.org/pkgbase/python-ndcube)|PUBLISHED||[18580348451](https://github.com/arch4edu/cactus/actions/runs/18580348451)|<script type="text/javascript">localize(1763346051);</script>|
