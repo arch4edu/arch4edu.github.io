@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1763731965.0227447);</script>
+Last update: <script type="text/javascript">localize(1763780988.9698536);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -1308,11 +1308,11 @@ Last update: <script type="text/javascript">localize(1763731965.0227447);</scrip
 |x86_64/r|[x86_64/r/r-zip](https://aur.archlinux.org/pkgbase/r-zip)|PUBLISHED||[15010813876](https://github.com/arch4edu/cactus/actions/runs/15010813876)|<script type="text/javascript">localize(1747205219);</script>|
 |x86_64/r|[x86_64/r/r-zoo](https://aur.archlinux.org/pkgbase/r-zoo)|PUBLISHED||[14381176021](https://github.com/arch4edu/cactus/actions/runs/14381176021)|<script type="text/javascript">localize(1744310498);</script>|
 |x86_64|[x86_64/reproc](https://aur.archlinux.org/pkgbase/reproc)|PUBLISHED||[10436977829](https://github.com/arch4edu/cactus/actions/runs/10436977829)|<script type="text/javascript">localize(1723964197);</script>|
-|x86_64|[x86_64/riscv-gnu-toolchain-bin](https://aur.archlinux.org/pkgbase/riscv-gnu-toolchain-bin)|PUBLISHED||[19070063422](https://github.com/arch4edu/cactus/actions/runs/19070063422)|<script type="text/javascript">localize(1762281988);</script>|
-|x86_64|[x86_64/riscv32-gnu-toolchain-elf-bin](https://aur.archlinux.org/pkgbase/riscv32-gnu-toolchain-elf-bin)|PUBLISHED||[19069738634](https://github.com/arch4edu/cactus/actions/runs/19069738634)|<script type="text/javascript">localize(1762282013);</script>|
-|x86_64|[x86_64/riscv32-gnu-toolchain-glibc-bin](https://aur.archlinux.org/pkgbase/riscv32-gnu-toolchain-glibc-bin)|PUBLISHED||[19069737345](https://github.com/arch4edu/cactus/actions/runs/19069737345)|<script type="text/javascript">localize(1762282044);</script>|
-|x86_64|[x86_64/riscv64-gnu-toolchain-elf-bin](https://aur.archlinux.org/pkgbase/riscv64-gnu-toolchain-elf-bin)|PUBLISHED||[19069739308](https://github.com/arch4edu/cactus/actions/runs/19069739308)|<script type="text/javascript">localize(1762282069);</script>|
-|x86_64|[x86_64/riscv64-gnu-toolchain-glibc-bin](https://aur.archlinux.org/pkgbase/riscv64-gnu-toolchain-glibc-bin)|PUBLISHED||[19069740032](https://github.com/arch4edu/cactus/actions/runs/19069740032)|<script type="text/javascript">localize(1762282100);</script>|
+|x86_64|[x86_64/riscv-gnu-toolchain-bin](https://aur.archlinux.org/pkgbase/riscv-gnu-toolchain-bin)|STALE||[19070063422](https://github.com/arch4edu/cactus/actions/runs/19070063422)|<script type="text/javascript">localize(1763777121);</script>|
+|x86_64|[x86_64/riscv32-gnu-toolchain-elf-bin](https://aur.archlinux.org/pkgbase/riscv32-gnu-toolchain-elf-bin)|STALE||[19069738634](https://github.com/arch4edu/cactus/actions/runs/19069738634)|<script type="text/javascript">localize(1763777121);</script>|
+|x86_64|[x86_64/riscv32-gnu-toolchain-glibc-bin](https://aur.archlinux.org/pkgbase/riscv32-gnu-toolchain-glibc-bin)|STALE||[19069737345](https://github.com/arch4edu/cactus/actions/runs/19069737345)|<script type="text/javascript">localize(1763777121);</script>|
+|x86_64|[x86_64/riscv64-gnu-toolchain-elf-bin](https://aur.archlinux.org/pkgbase/riscv64-gnu-toolchain-elf-bin)|STALE||[19069739308](https://github.com/arch4edu/cactus/actions/runs/19069739308)|<script type="text/javascript">localize(1763777122);</script>|
+|x86_64|[x86_64/riscv64-gnu-toolchain-glibc-bin](https://aur.archlinux.org/pkgbase/riscv64-gnu-toolchain-glibc-bin)|STALE||[19069740032](https://github.com/arch4edu/cactus/actions/runs/19069740032)|<script type="text/javascript">localize(1763777122);</script>|
 |x86_64/rocm|[x86_64/rocm/migraphx](https://aur.archlinux.org/pkgbase/migraphx)|STALE|Build failed.|[19431163285](https://github.com/arch4edu/cactus/actions/runs/19431163285)|<script type="text/javascript">localize(1763518542);</script>|
 |x86_64/rocm|[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|STALE|Build failed.|[19431164068](https://github.com/arch4edu/cactus/actions/runs/19431164068)|<script type="text/javascript">localize(1763518542);</script>|
 |x86_64/rocm|[x86_64/rocm/python-torchvision-rocm](https://aur.archlinux.org/pkgbase/python-torchvision-rocm)|PUBLISHED||[19056140964](https://github.com/arch4edu/cactus/actions/runs/19056140964)|<script type="text/javascript">localize(1762239066);</script>|
@@ -1573,8 +1573,8 @@ Last update: <script type="text/javascript">localize(1763731965.0227447);</scrip
 |x86_64|[x86_64/ventoy-bin](https://aur.archlinux.org/pkgbase/ventoy-bin)|PUBLISHED||[19017077528](https://github.com/arch4edu/cactus/actions/runs/19017077528)|<script type="text/javascript">localize(1762154089);</script>|
 |x86_64|[x86_64/vim-youcompleteme-git](https://aur.archlinux.org/pkgbase/vim-youcompleteme-git)|PUBLISHED||[19430983741](https://github.com/arch4edu/cactus/actions/runs/19430983741)|<script type="text/javascript">localize(1763405279);</script>|
 |x86_64|[x86_64/voro++](https://aur.archlinux.org/pkgbase/voro++)|PUBLISHED||[2648553963](https://github.com/arch4edu/cactus/actions/runs/2648553963)|<script type="text/javascript">localize(1657532303);</script>|
-|x86_64|[x86_64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|PUBLISHED||[19016937215](https://github.com/arch4edu/cactus/actions/runs/19016937215)|<script type="text/javascript">localize(1762154130);</script>|
-|x86_64|[x86_64/vscodium-bin](https://aur.archlinux.org/pkgbase/vscodium-bin)|PUBLISHED||[19017077943](https://github.com/arch4edu/cactus/actions/runs/19017077943)|<script type="text/javascript">localize(1762154159);</script>|
+|x86_64|[x86_64/vscodium](https://aur.archlinux.org/pkgbase/vscodium)|STALE||[19016937215](https://github.com/arch4edu/cactus/actions/runs/19016937215)|<script type="text/javascript">localize(1763777130);</script>|
+|x86_64|[x86_64/vscodium-bin](https://aur.archlinux.org/pkgbase/vscodium-bin)|STALE||[19017077943](https://github.com/arch4edu/cactus/actions/runs/19017077943)|<script type="text/javascript">localize(1763777130);</script>|
 |x86_64|[x86_64/vvc-vtm](https://aur.archlinux.org/pkgbase/vvc-vtm)|PUBLISHED||[13924106402](https://github.com/arch4edu/cactus/actions/runs/13924106402)|<script type="text/javascript">localize(1742323447);</script>|
 |x86_64|[x86_64/wemeet-bin](https://aur.archlinux.org/pkgbase/wemeet-bin)|PUBLISHED||[19186337293](https://github.com/arch4edu/cactus/actions/runs/19186337293)|<script type="text/javascript">localize(1762584284);</script>|
 |x86_64|[x86_64/wscat](https://aur.archlinux.org/pkgbase/wscat)|STALE||[3800628090](https://github.com/arch4edu/cactus/actions/runs/3800628090)|<script type="text/javascript">localize(1763643696);</script>|
