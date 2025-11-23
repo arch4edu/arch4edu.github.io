@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1763870362.0635629);</script>
+Last update: <script type="text/javascript">localize(1763904463.0270905);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -311,9 +311,9 @@ Last update: <script type="text/javascript">localize(1763870362.0635629);</scrip
 |x86_64|[x86_64/fbx-sdk](https://aur.archlinux.org/pkgbase/fbx-sdk)|PUBLISHED||[18444268795](https://github.com/arch4edu/cactus/actions/runs/18444268795)|<script type="text/javascript">localize(1760294314);</script>|
 |x86_64|[x86_64/fcl](https://aur.archlinux.org/pkgbase/fcl)|PUBLISHED||[2648892160](https://github.com/arch4edu/cactus/actions/runs/2648892160)|<script type="text/javascript">localize(1657538601);</script>|
 |x86_64|[x86_64/fet-timetabling](https://aur.archlinux.org/pkgbase/fet-timetabling)|PUBLISHED||[19332609263](https://github.com/arch4edu/cactus/actions/runs/19332609263)|<script type="text/javascript">localize(1763059550);</script>|
-|x86_64|[x86_64/ffmpeg6.1](https://aur.archlinux.org/pkgbase/ffmpeg6.1)|PUBLISHED||[17239270949](https://github.com/arch4edu/cactus/actions/runs/17239270949)|<script type="text/javascript">localize(1756234171);</script>|
+|x86_64|[x86_64/ffmpeg6.1](https://aur.archlinux.org/pkgbase/ffmpeg6.1)|STALE||[17239270949](https://github.com/arch4edu/cactus/actions/runs/17239270949)|<script type="text/javascript">localize(1763902476);</script>|
 |x86_64|[x86_64/flite1](https://aur.archlinux.org/pkgbase/flite1)|PUBLISHED||[9208287679](https://github.com/arch4edu/cactus/actions/runs/9208287679)|<script type="text/javascript">localize(1716489134);</script>|
-|x86_64|[x86_64/flutter](https://aur.archlinux.org/pkgbase/flutter)|PUBLISHED||[19016771786](https://github.com/arch4edu/cactus/actions/runs/19016771786)|<script type="text/javascript">localize(1762153035);</script>|
+|x86_64|[x86_64/flutter](https://aur.archlinux.org/pkgbase/flutter)|STALE||[19016771786](https://github.com/arch4edu/cactus/actions/runs/19016771786)|<script type="text/javascript">localize(1763902477);</script>|
 |x86_64|[x86_64/flutter-artifacts-google-bin](https://aur.archlinux.org/pkgbase/flutter-artifacts-google-bin)|PUBLISHED||[19016936145](https://github.com/arch4edu/cactus/actions/runs/19016936145)|<script type="text/javascript">localize(1762153247);</script>|
 |x86_64|[x86_64/fvwm3](https://aur.archlinux.org/pkgbase/fvwm3)|STALE|Build failed.|[19430985540](https://github.com/arch4edu/cactus/actions/runs/19430985540)|<script type="text/javascript">localize(1763518534);</script>|
 |x86_64|[x86_64/g2clib](https://aur.archlinux.org/pkgbase/g2clib)|PUBLISHED||[13478691993](https://github.com/arch4edu/cactus/actions/runs/13478691993)|<script type="text/javascript">localize(1740292656);</script>|
