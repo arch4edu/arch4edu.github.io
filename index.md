@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1763956735.1041114);</script>
+Last update: <script type="text/javascript">localize(1763991461.791654);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -291,7 +291,7 @@ Last update: <script type="text/javascript">localize(1763956735.1041114);</scrip
 |x86_64|[x86_64/distccd-alarm](https://aur.archlinux.org/pkgbase/distccd-alarm)|PUBLISHED||[19430982570](https://github.com/arch4edu/cactus/actions/runs/19430982570)|<script type="text/javascript">localize(1763405250);</script>|
 |x86_64|[x86_64/dlib](https://aur.archlinux.org/pkgbase/dlib)|PUBLISHED||[15300885143](https://github.com/arch4edu/cactus/actions/runs/15300885143)|<script type="text/javascript">localize(1748458005);</script>|
 |x86_64|[x86_64/dlib-cuda](https://aur.archlinux.org/pkgbase/dlib-cuda)|PUBLISHED||[10849563173](https://github.com/arch4edu/cactus/actions/runs/10849563173)|<script type="text/javascript">localize(1726252723);</script>|
-|x86_64|[x86_64/docker-rootless-extras](https://aur.archlinux.org/pkgbase/docker-rootless-extras)|PUBLISHED||[19451658649](https://github.com/arch4edu/cactus/actions/runs/19451658649)|<script type="text/javascript">localize(1763448401);</script>|
+|x86_64|[x86_64/docker-rootless-extras](https://aur.archlinux.org/pkgbase/docker-rootless-extras)|STALE||[19451658649](https://github.com/arch4edu/cactus/actions/runs/19451658649)|<script type="text/javascript">localize(1763989399);</script>|
 |x86_64|[x86_64/dolfinx](https://aur.archlinux.org/pkgbase/dolfinx)|STALE||[19382974138](https://github.com/arch4edu/cactus/actions/runs/19382974138)|<script type="text/javascript">localize(1763951087);</script>|
 |x86_64|[x86_64/dumux](https://aur.archlinux.org/pkgbase/dumux)|PUBLISHED||[15457137501](https://github.com/arch4edu/cactus/actions/runs/15457137501)|<script type="text/javascript">localize(1763346027);</script>|
 |x86_64|[x86_64/dumux-precice](https://aur.archlinux.org/pkgbase/dumux-precice)|PUBLISHED||[16881002847](https://github.com/arch4edu/cactus/actions/runs/16881002847)|<script type="text/javascript">localize(1754938114);</script>|
@@ -534,7 +534,7 @@ Last update: <script type="text/javascript">localize(1763956735.1041114);</scrip
 |x86_64|[x86_64/python-qiskit-optimization](https://aur.archlinux.org/pkgbase/python-qiskit-optimization)|PUBLISHED||[17464916401](https://github.com/arch4edu/cactus/actions/runs/17464916401)|<script type="text/javascript">localize(1763346057);</script>|
 |x86_64|[x86_64/python-qiskit-qasm3-import](https://aur.archlinux.org/pkgbase/python-qiskit-qasm3-import)|PUBLISHED||[15759040483](https://github.com/arch4edu/cactus/actions/runs/15759040483)|<script type="text/javascript">localize(1763346058);</script>|
 |x86_64|[x86_64/python-quandl](https://aur.archlinux.org/pkgbase/python-quandl)|PUBLISHED||[12455593379](https://github.com/arch4edu/cactus/actions/runs/12455593379)|<script type="text/javascript">localize(1763346058);</script>|
-|x86_64|[x86_64/python-ray](https://aur.archlinux.org/pkgbase/python-ray)|PUBLISHED||[19016703030](https://github.com/arch4edu/cactus/actions/runs/19016703030)|<script type="text/javascript">localize(1763346058);</script>|
+|x86_64|[x86_64/python-ray](https://aur.archlinux.org/pkgbase/python-ray)|STALE||[19016703030](https://github.com/arch4edu/cactus/actions/runs/19016703030)|<script type="text/javascript">localize(1763989403);</script>|
 |x86_64|[x86_64/python-requests-ratelimiter](https://aur.archlinux.org/pkgbase/python-requests-ratelimiter)|PUBLISHED||[13283054103](https://github.com/arch4edu/cactus/actions/runs/13283054103)|<script type="text/javascript">localize(1763346059);</script>|
 |x86_64|[x86_64/python-retry](https://aur.archlinux.org/pkgbase/python-retry)|PUBLISHED||[15432132948](https://github.com/arch4edu/cactus/actions/runs/15432132948)|<script type="text/javascript">localize(1763346059);</script>|
 |x86_64|[x86_64/python-rustworkx](https://aur.archlinux.org/pkgbase/python-rustworkx)|PUBLISHED||[16938341293](https://github.com/arch4edu/cactus/actions/runs/16938341293)|<script type="text/javascript">localize(1763346059);</script>|
