@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1763991461.791654);</script>
+Last update: <script type="text/javascript">localize(1764040787.7819278);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -99,7 +99,7 @@ Last update: <script type="text/javascript">localize(1763991461.791654);</script
 |any|[any/jlatexmath-fop](https://aur.archlinux.org/pkgbase/jlatexmath-fop)|PUBLISHED||[2647726397](https://github.com/arch4edu/cactus/actions/runs/2647726397)|<script type="text/javascript">localize(1657524790);</script>|
 |any|[any/jrosetta](https://aur.archlinux.org/pkgbase/jrosetta)|PUBLISHED||[2647803452](https://github.com/arch4edu/cactus/actions/runs/2647803452)|<script type="text/javascript">localize(1657524805);</script>|
 |any|[any/linkchecker](https://aur.archlinux.org/pkgbase/linkchecker)|PUBLISHED||[16820545833](https://github.com/arch4edu/cactus/actions/runs/16820545833)|<script type="text/javascript">localize(1763346001);</script>|
-|any|[any/logisim-evolution](https://aur.archlinux.org/pkgbase/logisim-evolution)|PUBLISHED||[17583556931](https://github.com/arch4edu/cactus/actions/runs/17583556931)|<script type="text/javascript">localize(1757443083);</script>|
+|any|[any/logisim-evolution](https://aur.archlinux.org/pkgbase/logisim-evolution)|STALE||[17583556931](https://github.com/arch4edu/cactus/actions/runs/17583556931)|<script type="text/javascript">localize(1764037078);</script>|
 |any|[any/mavproxy](https://aur.archlinux.org/pkgbase/mavproxy)|FAILED|nvchecker failed, previously PUBLISHED|[15265182811](https://github.com/arch4edu/cactus/actions/runs/15265182811)|<script type="text/javascript">localize(1763385094);</script>|
 |any|[any/meson-pypy3](https://aur.archlinux.org/pkgbase/meson-pypy3)|PUBLISHED||[15432291466](https://github.com/arch4edu/cactus/actions/runs/15432291466)|<script type="text/javascript">localize(1749019672);</script>|
 |any|[any/octave-control](https://aur.archlinux.org/pkgbase/octave-control)|PUBLISHED||[17696802659](https://github.com/arch4edu/cactus/actions/runs/17696802659)|<script type="text/javascript">localize(1757788485);</script>|
@@ -449,7 +449,7 @@ Last update: <script type="text/javascript">localize(1763991461.791654);</script
 |x86_64|[x86_64/parmetis-git](https://aur.archlinux.org/pkgbase/parmetis-git)|PUBLISHED||[15127405387](https://github.com/arch4edu/cactus/actions/runs/15127405387)|<script type="text/javascript">localize(1747723544);</script>|
 |x86_64|[x86_64/paru](https://aur.archlinux.org/pkgbase/paru)|PUBLISHED||[16144083473](https://github.com/arch4edu/cactus/actions/runs/16144083473)|<script type="text/javascript">localize(1752000454);</script>|
 |x86_64|[x86_64/pcl](https://aur.archlinux.org/pkgbase/pcl)|STALE|Build failed.|[19431343103](https://github.com/arch4edu/cactus/actions/runs/19431343103)|<script type="text/javascript">localize(1763518537);</script>|
-|x86_64|[x86_64/petsc](https://aur.archlinux.org/pkgbase/petsc)|PUBLISHED||[19017692958](https://github.com/arch4edu/cactus/actions/runs/19017692958)|<script type="text/javascript">localize(1763865072);</script>|
+|x86_64|[x86_64/petsc](https://aur.archlinux.org/pkgbase/petsc)|FAILED|nvchecker failed, previously PUBLISHED|[19017692958](https://github.com/arch4edu/cactus/actions/runs/19017692958)|<script type="text/javascript">localize(1764037072);</script>|
 |x86_64|[x86_64/petsc-complex](https://aur.archlinux.org/pkgbase/petsc-complex)|FAILED|Build failed.|[19017692649](https://github.com/arch4edu/cactus/actions/runs/19017692649)|<script type="text/javascript">localize(1762115319);</script>|
 |x86_64|[x86_64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|PUBLISHED||[19103159766](https://github.com/arch4edu/cactus/actions/runs/19103159766)|<script type="text/javascript">localize(1762368358);</script>|
 |x86_64|[x86_64/pi-hole-web](https://aur.archlinux.org/pkgbase/pi-hole-web)|PUBLISHED||[19017077753](https://github.com/arch4edu/cactus/actions/runs/19017077753)|<script type="text/javascript">localize(1762153481);</script>|
