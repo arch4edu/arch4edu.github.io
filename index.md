@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1764299759.084187);</script>
+Last update: <script type="text/javascript">localize(1764336884.035348);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -504,7 +504,7 @@ Last update: <script type="text/javascript">localize(1764299759.084187);</script
 |x86_64|[x86_64/python-micro-manager-precice](https://aur.archlinux.org/pkgbase/python-micro-manager-precice)|PUBLISHED||[16990719913](https://github.com/arch4edu/cactus/actions/runs/16990719913)|<script type="text/javascript">localize(1763346048);</script>|
 |x86_64|[x86_64/python-mkl-fft](https://aur.archlinux.org/pkgbase/python-mkl-fft)|PUBLISHED||[15944412856](https://github.com/arch4edu/cactus/actions/runs/15944412856)|<script type="text/javascript">localize(1763346048);</script>|
 |x86_64|[x86_64/python-mkl-random](https://aur.archlinux.org/pkgbase/python-mkl-random)|PUBLISHED||[18562164106](https://github.com/arch4edu/cactus/actions/runs/18562164106)|<script type="text/javascript">localize(1763346049);</script>|
-|x86_64|[x86_64/python-mkl-service](https://aur.archlinux.org/pkgbase/python-mkl-service)|PUBLISHED||[18515547938](https://github.com/arch4edu/cactus/actions/runs/18515547938)|<script type="text/javascript">localize(1763346049);</script>|
+|x86_64|[x86_64/python-mkl-service](https://aur.archlinux.org/pkgbase/python-mkl-service)|STALE||[18515547938](https://github.com/arch4edu/cactus/actions/runs/18515547938)|<script type="text/javascript">localize(1764334877);</script>|
 |x86_64|[x86_64/python-mpl-animators](https://aur.archlinux.org/pkgbase/python-mpl-animators)|PUBLISHED||[15796018354](https://github.com/arch4edu/cactus/actions/runs/15796018354)|<script type="text/javascript">localize(1763346049);</script>|
 |x86_64|[x86_64/python-multimethod](https://aur.archlinux.org/pkgbase/python-multimethod)|STALE||[19156100148](https://github.com/arch4edu/cactus/actions/runs/19156100148)|<script type="text/javascript">localize(1763816051);</script>|
 |x86_64|[x86_64/python-multitasking](https://aur.archlinux.org/pkgbase/python-multitasking)|PUBLISHED||[16417878799](https://github.com/arch4edu/cactus/actions/runs/16417878799)|<script type="text/javascript">localize(1763346050);</script>|
@@ -1189,7 +1189,7 @@ Last update: <script type="text/javascript">localize(1764299759.084187);</script
 |x86_64/r|[x86_64/r/r-semtools](https://aur.archlinux.org/pkgbase/r-semtools)|PUBLISHED||[13835212854](https://github.com/arch4edu/cactus/actions/runs/13835212854)|<script type="text/javascript">localize(1741891311);</script>|
 |x86_64/r|[x86_64/r/r-sessioninfo](https://aur.archlinux.org/pkgbase/r-sessioninfo)|PUBLISHED||[13170546452](https://github.com/arch4edu/cactus/actions/runs/13170546452)|<script type="text/javascript">localize(1738824101);</script>|
 |x86_64/r|[x86_64/r/r-sets](https://aur.archlinux.org/pkgbase/r-sets)|PUBLISHED||[8290012810](https://github.com/arch4edu/cactus/actions/runs/8290012810)|<script type="text/javascript">localize(1710484367);</script>|
-|x86_64/r|[x86_64/r/r-sf](https://aur.archlinux.org/pkgbase/r-sf)|PUBLISHED||[19232759498](https://github.com/arch4edu/cactus/actions/runs/19232759498)|<script type="text/javascript">localize(1762800432);</script>|
+|x86_64/r|[x86_64/r/r-sf](https://aur.archlinux.org/pkgbase/r-sf)|STALE||[19232759498](https://github.com/arch4edu/cactus/actions/runs/19232759498)|<script type="text/javascript">localize(1764334883);</script>|
 |x86_64/r|[x86_64/r/r-sfd](https://aur.archlinux.org/pkgbase/r-sfd)|PUBLISHED||[10437554835](https://github.com/arch4edu/cactus/actions/runs/10437554835)|<script type="text/javascript">localize(1723964149);</script>|
 |x86_64/r|[x86_64/r/r-sfsmisc](https://aur.archlinux.org/pkgbase/r-sfsmisc)|STALE||[17378447593](https://github.com/arch4edu/cactus/actions/runs/17378447593)|<script type="text/javascript">localize(1763730007);</script>|
 |x86_64/r|[x86_64/r/r-sgt](https://aur.archlinux.org/pkgbase/r-sgt)|PUBLISHED||[2703878630](https://github.com/arch4edu/cactus/actions/runs/2703878630)|<script type="text/javascript">localize(1658314498);</script>|
