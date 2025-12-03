@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1764682860.507525);</script>
+Last update: <script type="text/javascript">localize(1764732171.1627667);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -448,7 +448,7 @@ Last update: <script type="text/javascript">localize(1764682860.507525);</script
 |x86_64|[x86_64/parmetis-git](https://aur.archlinux.org/pkgbase/parmetis-git)|PUBLISHED||[15127405387](https://github.com/arch4edu/cactus/actions/runs/15127405387)|<script type="text/javascript">localize(1747723544);</script>|
 |x86_64|[x86_64/paru](https://aur.archlinux.org/pkgbase/paru)|PUBLISHED||[16144083473](https://github.com/arch4edu/cactus/actions/runs/16144083473)|<script type="text/javascript">localize(1752000454);</script>|
 |x86_64|[x86_64/pcl](https://aur.archlinux.org/pkgbase/pcl)|STALE|Build failed.|[19431343103](https://github.com/arch4edu/cactus/actions/runs/19431343103)|<script type="text/javascript">localize(1763518537);</script>|
-|x86_64|[x86_64/petsc](https://aur.archlinux.org/pkgbase/petsc)|FAILED|nvchecker failed, previously PUBLISHED|[19017692958](https://github.com/arch4edu/cactus/actions/runs/19017692958)|<script type="text/javascript">localize(1764594370);</script>|
+|x86_64|[x86_64/petsc](https://aur.archlinux.org/pkgbase/petsc)|PUBLISHED||[19017692958](https://github.com/arch4edu/cactus/actions/runs/19017692958)|<script type="text/javascript">localize(1764728402);</script>|
 |x86_64|[x86_64/petsc-complex](https://aur.archlinux.org/pkgbase/petsc-complex)|STALE|Build failed.|[19017692649](https://github.com/arch4edu/cactus/actions/runs/19017692649)|<script type="text/javascript">localize(1764556784);</script>|
 |x86_64|[x86_64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|STALE||[19103159766](https://github.com/arch4edu/cactus/actions/runs/19103159766)|<script type="text/javascript">localize(1764296108);</script>|
 |x86_64|[x86_64/pi-hole-web](https://aur.archlinux.org/pkgbase/pi-hole-web)|STALE||[19017077753](https://github.com/arch4edu/cactus/actions/runs/19017077753)|<script type="text/javascript">localize(1764296108);</script>|
@@ -1176,7 +1176,7 @@ Last update: <script type="text/javascript">localize(1764682860.507525);</script
 |x86_64/r|[x86_64/r/r-rversions](https://aur.archlinux.org/pkgbase/r-rversions)|PUBLISHED||[18394376138](https://github.com/arch4edu/cactus/actions/runs/18394376138)|<script type="text/javascript">localize(1760078862);</script>|
 |x86_64/r|[x86_64/r/r-rvg](https://aur.archlinux.org/pkgbase/r-rvg)|PUBLISHED||[15447817924](https://github.com/arch4edu/cactus/actions/runs/15447817924)|<script type="text/javascript">localize(1749063132);</script>|
 |x86_64/r|[x86_64/r/r-s2](https://aur.archlinux.org/pkgbase/r-s2)|STALE||[10041216375](https://github.com/arch4edu/cactus/actions/runs/10041216375)|<script type="text/javascript">localize(1764680803);</script>|
-|x86_64/r|[x86_64/r/r-s7](https://aur.archlinux.org/pkgbase/r-s7)|PUBLISHED||[18067990125](https://github.com/arch4edu/cactus/actions/runs/18067990125)|<script type="text/javascript">localize(1759041757);</script>|
+|x86_64/r|[x86_64/r/r-s7](https://aur.archlinux.org/pkgbase/r-s7)|STALE||[18067990125](https://github.com/arch4edu/cactus/actions/runs/18067990125)|<script type="text/javascript">localize(1764728426);</script>|
 |x86_64/r|[x86_64/r/r-sandwich](https://aur.archlinux.org/pkgbase/r-sandwich)|PUBLISHED||[10876378678](https://github.com/arch4edu/cactus/actions/runs/10876378678)|<script type="text/javascript">localize(1726468990);</script>|
 |x86_64/r|[x86_64/r/r-sass](https://aur.archlinux.org/pkgbase/r-sass)|PUBLISHED||[14516985895](https://github.com/arch4edu/cactus/actions/runs/14516985895)|<script type="text/javascript">localize(1744915529);</script>|
 |x86_64/r|[x86_64/r/r-scales](https://aur.archlinux.org/pkgbase/r-scales)|PUBLISHED||[18083622591](https://github.com/arch4edu/cactus/actions/runs/18083622591)|<script type="text/javascript">localize(1759128593);</script>|
