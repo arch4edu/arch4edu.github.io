@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1764818720.6002493);</script>
+Last update: <script type="text/javascript">localize(1764855625.6093218);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -507,7 +507,7 @@ Last update: <script type="text/javascript">localize(1764818720.6002493);</scrip
 |x86_64|[x86_64/python-multimethod](https://aur.archlinux.org/pkgbase/python-multimethod)|STALE||[19156100148](https://github.com/arch4edu/cactus/actions/runs/19156100148)|<script type="text/javascript">localize(1763816051);</script>|
 |x86_64|[x86_64/python-multitasking](https://aur.archlinux.org/pkgbase/python-multitasking)|PUBLISHED||[16417878799](https://github.com/arch4edu/cactus/actions/runs/16417878799)|<script type="text/javascript">localize(1763346050);</script>|
 |x86_64|[x86_64/python-nasdaq-data-link](https://aur.archlinux.org/pkgbase/python-nasdaq-data-link)|PUBLISHED||[12460039148](https://github.com/arch4edu/cactus/actions/runs/12460039148)|<script type="text/javascript">localize(1763346050);</script>|
-|x86_64|[x86_64/python-ndcube](https://aur.archlinux.org/pkgbase/python-ndcube)|PUBLISHED||[18580348451](https://github.com/arch4edu/cactus/actions/runs/18580348451)|<script type="text/javascript">localize(1763346051);</script>|
+|x86_64|[x86_64/python-ndcube](https://aur.archlinux.org/pkgbase/python-ndcube)|STALE||[18580348451](https://github.com/arch4edu/cactus/actions/runs/18580348451)|<script type="text/javascript">localize(1764853633);</script>|
 |x86_64|[x86_64/python-numba-git](https://aur.archlinux.org/pkgbase/python-numba-git)|STALE|nvchecker failed, previously STALE|[18193771948](https://github.com/arch4edu/cactus/actions/runs/18193771948)|<script type="text/javascript">localize(1764382505);</script>|
 |x86_64|[x86_64/python-numpy-mkl](https://aur.archlinux.org/pkgbase/python-numpy-mkl)|STALE|Build failed.|[19430984304](https://github.com/arch4edu/cactus/actions/runs/19430984304)|<script type="text/javascript">localize(1763518538);</script>|
 |x86_64|[x86_64/python-openqasm3](https://aur.archlinux.org/pkgbase/python-openqasm3)|PUBLISHED||[15382486210](https://github.com/arch4edu/cactus/actions/runs/15382486210)|<script type="text/javascript">localize(1763346052);</script>|
@@ -841,7 +841,7 @@ Last update: <script type="text/javascript">localize(1764818720.6002493);</scrip
 |x86_64/r|[x86_64/r/r-hms](https://aur.archlinux.org/pkgbase/r-hms)|PUBLISHED||[18593734154](https://github.com/arch4edu/cactus/actions/runs/18593734154)|<script type="text/javascript">localize(1760726611);</script>|
 |x86_64/r|[x86_64/r/r-hsaur3](https://aur.archlinux.org/pkgbase/r-hsaur3)|PUBLISHED||[15467742311](https://github.com/arch4edu/cactus/actions/runs/15467742311)|<script type="text/javascript">localize(1749150503);</script>|
 |x86_64/r|[x86_64/r/r-htmltable](https://aur.archlinux.org/pkgbase/r-htmltable)|PUBLISHED||[10028502075](https://github.com/arch4edu/cactus/actions/runs/10028502075)|<script type="text/javascript">localize(1721586729);</script>|
-|x86_64/r|[x86_64/r/r-htmltools](https://aur.archlinux.org/pkgbase/r-htmltools)|PUBLISHED||[8554853305](https://github.com/arch4edu/cactus/actions/runs/8554853305)|<script type="text/javascript">localize(1712255479);</script>|
+|x86_64/r|[x86_64/r/r-htmltools](https://aur.archlinux.org/pkgbase/r-htmltools)|STALE||[8554853305](https://github.com/arch4edu/cactus/actions/runs/8554853305)|<script type="text/javascript">localize(1764853636);</script>|
 |x86_64/r|[x86_64/r/r-htmlwidgets](https://aur.archlinux.org/pkgbase/r-htmlwidgets)|PUBLISHED||[7114834918](https://github.com/arch4edu/cactus/actions/runs/7114834918)|<script type="text/javascript">localize(1701887510);</script>|
 |x86_64/r|[x86_64/r/r-httpcode](https://aur.archlinux.org/pkgbase/r-httpcode)|PUBLISHED||[8825946273](https://github.com/arch4edu/cactus/actions/runs/8825946273)|<script type="text/javascript">localize(1714027373);</script>|
 |x86_64/r|[x86_64/r/r-httpuv](https://aur.archlinux.org/pkgbase/r-httpuv)|PUBLISHED||[14969357845](https://github.com/arch4edu/cactus/actions/runs/14969357845)|<script type="text/javascript">localize(1747076460);</script>|
@@ -1277,7 +1277,7 @@ Last update: <script type="text/javascript">localize(1764818720.6002493);</scrip
 |x86_64/r|[x86_64/r/r-vctrs](https://aur.archlinux.org/pkgbase/r-vctrs)|PUBLISHED||[7070285034](https://github.com/arch4edu/cactus/actions/runs/7070285034)|<script type="text/javascript">localize(1701541724);</script>|
 |x86_64/r|[x86_64/r/r-vdiffr](https://aur.archlinux.org/pkgbase/r-vdiffr)|PUBLISHED||[11771454026](https://github.com/arch4edu/cactus/actions/runs/11771454026)|<script type="text/javascript">localize(1731309398);</script>|
 |x86_64/r|[x86_64/r/r-vegan](https://aur.archlinux.org/pkgbase/r-vegan)|PUBLISHED||[18363529579](https://github.com/arch4edu/cactus/actions/runs/18363529579)|<script type="text/javascript">localize(1759992386);</script>|
-|x86_64/r|[x86_64/r/r-vgam](https://aur.archlinux.org/pkgbase/r-vgam)|PUBLISHED||[13298805265](https://github.com/arch4edu/cactus/actions/runs/13298805265)|<script type="text/javascript">localize(1739428837);</script>|
+|x86_64/r|[x86_64/r/r-vgam](https://aur.archlinux.org/pkgbase/r-vgam)|STALE||[13298805265](https://github.com/arch4edu/cactus/actions/runs/13298805265)|<script type="text/javascript">localize(1764853641);</script>|
 |x86_64/r|[x86_64/r/r-vipor](https://aur.archlinux.org/pkgbase/r-vipor)|PUBLISHED||[8111578392](https://github.com/arch4edu/cactus/actions/runs/8111578392)|<script type="text/javascript">localize(1709318267);</script>|
 |x86_64/r|[x86_64/r/r-viridis](https://aur.archlinux.org/pkgbase/r-viridis)|PUBLISHED||[7734935019](https://github.com/arch4edu/cactus/actions/runs/7734935019)|<script type="text/javascript">localize(1706769082);</script>|
 |x86_64/r|[x86_64/r/r-viridislite](https://aur.archlinux.org/pkgbase/r-viridislite)|PUBLISHED||[4915318991](https://github.com/arch4edu/cactus/actions/runs/4915318991)|<script type="text/javascript">localize(1683570699);</script>|
