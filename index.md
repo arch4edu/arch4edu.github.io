@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1764905080.3521402);</script>
+Last update: <script type="text/javascript">localize(1764941830.58435);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -1208,7 +1208,7 @@ Last update: <script type="text/javascript">localize(1764905080.3521402);</scrip
 |x86_64/r|[x86_64/r/r-sourcetools](https://aur.archlinux.org/pkgbase/r-sourcetools)|PUBLISHED||[8832718758](https://github.com/arch4edu/cactus/actions/runs/8832718758)|<script type="text/javascript">localize(1714070726);</script>|
 |x86_64/r|[x86_64/r/r-sp](https://aur.archlinux.org/pkgbase/r-sp)|PUBLISHED||[13221393905](https://github.com/arch4edu/cactus/actions/runs/13221393905)|<script type="text/javascript">localize(1739083058);</script>|
 |x86_64/r|[x86_64/r/r-spacefillr](https://aur.archlinux.org/pkgbase/r-spacefillr)|PUBLISHED||[13498985141](https://github.com/arch4edu/cactus/actions/runs/13498985141)|<script type="text/javascript">localize(1740422498);</script>|
-|x86_64/r|[x86_64/r/r-spamm](https://aur.archlinux.org/pkgbase/r-spamm)|PUBLISHED||[15468539330](https://github.com/arch4edu/cactus/actions/runs/15468539330)|<script type="text/javascript">localize(1749151048);</script>|
+|x86_64/r|[x86_64/r/r-spamm](https://aur.archlinux.org/pkgbase/r-spamm)|STALE||[15468539330](https://github.com/arch4edu/cactus/actions/runs/15468539330)|<script type="text/javascript">localize(1764939811);</script>|
 |x86_64/r|[x86_64/r/r-sparsem](https://aur.archlinux.org/pkgbase/r-sparsem)|PUBLISHED||[9991841575](https://github.com/arch4edu/cactus/actions/runs/9991841575)|<script type="text/javascript">localize(1721327693);</script>|
 |x86_64/r|[x86_64/r/r-sparsevctrs](https://aur.archlinux.org/pkgbase/r-sparsevctrs)|PUBLISHED||[15290213468](https://github.com/arch4edu/cactus/actions/runs/15290213468)|<script type="text/javascript">localize(1748414921);</script>|
 |x86_64/r|[x86_64/r/r-splines2](https://aur.archlinux.org/pkgbase/r-splines2)|PUBLISHED||[13588963330](https://github.com/arch4edu/cactus/actions/runs/13588963330)|<script type="text/javascript">localize(1740768105);</script>|
