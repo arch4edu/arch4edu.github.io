@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1764941830.58435);</script>
+Last update: <script type="text/javascript">localize(1764990863.7112925);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -390,7 +390,7 @@ Last update: <script type="text/javascript">localize(1764941830.58435);</script>
 |x86_64|[x86_64/mathpix-snipping-tool](https://aur.archlinux.org/pkgbase/mathpix-snipping-tool)|PUBLISHED||[17600785234](https://github.com/arch4edu/cactus/actions/runs/17600785234)|<script type="text/javascript">localize(1757486639);</script>|
 |x86_64|[x86_64/mendeleydesktop](https://aur.archlinux.org/pkgbase/mendeleydesktop)|PUBLISHED||[12454992666](https://github.com/arch4edu/cactus/actions/runs/12454992666)|<script type="text/javascript">localize(1763346032);</script>|
 |x86_64|[x86_64/meshlab](https://aur.archlinux.org/pkgbase/meshlab)|PUBLISHED||[19202010843](https://github.com/arch4edu/cactus/actions/runs/19202010843)|<script type="text/javascript">localize(1762670666);</script>|
-|x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|PUBLISHED||[19284238789](https://github.com/arch4edu/cactus/actions/runs/19284238789)|<script type="text/javascript">localize(1762930152);</script>|
+|x86_64|[x86_64/meteoinfo](https://aur.archlinux.org/pkgbase/meteoinfo)|STALE||[19284238789](https://github.com/arch4edu/cactus/actions/runs/19284238789)|<script type="text/javascript">localize(1764987278);</script>|
 |x86_64|[x86_64/metis](https://aur.archlinux.org/pkgbase/metis)|PUBLISHED||[18025904972](https://github.com/arch4edu/cactus/actions/runs/18025904972)|<script type="text/javascript">localize(1758869072);</script>|
 |x86_64|[x86_64/micromamba](https://aur.archlinux.org/pkgbase/micromamba)|STALE||[19055753496](https://github.com/arch4edu/cactus/actions/runs/19055753496)|<script type="text/javascript">localize(1763951089);</script>|
 |x86_64|[x86_64/microsoft-edge-stable-bin](https://aur.archlinux.org/pkgbase/microsoft-edge-stable-bin)|PUBLISHED||[19016936451](https://github.com/arch4edu/cactus/actions/runs/19016936451)|<script type="text/javascript">localize(1762153351);</script>|
@@ -448,7 +448,7 @@ Last update: <script type="text/javascript">localize(1764941830.58435);</script>
 |x86_64|[x86_64/parmetis-git](https://aur.archlinux.org/pkgbase/parmetis-git)|PUBLISHED||[15127405387](https://github.com/arch4edu/cactus/actions/runs/15127405387)|<script type="text/javascript">localize(1747723544);</script>|
 |x86_64|[x86_64/paru](https://aur.archlinux.org/pkgbase/paru)|PUBLISHED||[16144083473](https://github.com/arch4edu/cactus/actions/runs/16144083473)|<script type="text/javascript">localize(1752000454);</script>|
 |x86_64|[x86_64/pcl](https://aur.archlinux.org/pkgbase/pcl)|STALE|Build failed.|[19431343103](https://github.com/arch4edu/cactus/actions/runs/19431343103)|<script type="text/javascript">localize(1763518537);</script>|
-|x86_64|[x86_64/petsc](https://aur.archlinux.org/pkgbase/petsc)|PUBLISHED||[19017692958](https://github.com/arch4edu/cactus/actions/runs/19017692958)|<script type="text/javascript">localize(1764814841);</script>|
+|x86_64|[x86_64/petsc](https://aur.archlinux.org/pkgbase/petsc)|FAILED|nvchecker failed, previously PUBLISHED|[19017692958](https://github.com/arch4edu/cactus/actions/runs/19017692958)|<script type="text/javascript">localize(1764987264);</script>|
 |x86_64|[x86_64/petsc-complex](https://aur.archlinux.org/pkgbase/petsc-complex)|STALE|Build failed.|[19017692649](https://github.com/arch4edu/cactus/actions/runs/19017692649)|<script type="text/javascript">localize(1764556784);</script>|
 |x86_64|[x86_64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|STALE||[19103159766](https://github.com/arch4edu/cactus/actions/runs/19103159766)|<script type="text/javascript">localize(1764296108);</script>|
 |x86_64|[x86_64/pi-hole-web](https://aur.archlinux.org/pkgbase/pi-hole-web)|STALE||[19017077753](https://github.com/arch4edu/cactus/actions/runs/19017077753)|<script type="text/javascript">localize(1764296108);</script>|
@@ -672,7 +672,7 @@ Last update: <script type="text/javascript">localize(1764941830.58435);</script>
 |x86_64/r|[x86_64/r/r-crayon](https://aur.archlinux.org/pkgbase/r-crayon)|PUBLISHED||[9645688554](https://github.com/arch4edu/cactus/actions/runs/9645688554)|<script type="text/javascript">localize(1719254025);</script>|
 |x86_64/r|[x86_64/r/r-credentials](https://aur.archlinux.org/pkgbase/r-credentials)|PUBLISHED||[17675207295](https://github.com/arch4edu/cactus/actions/runs/17675207295)|<script type="text/javascript">localize(1757702230);</script>|
 |x86_64/r|[x86_64/r/r-crosstalk](https://aur.archlinux.org/pkgbase/r-crosstalk)|PUBLISHED||[6969914670](https://github.com/arch4edu/cactus/actions/runs/6969914670)|<script type="text/javascript">localize(1700764416);</script>|
-|x86_64/r|[x86_64/r/r-crul](https://aur.archlinux.org/pkgbase/r-crul)|PUBLISHED||[10016668556](https://github.com/arch4edu/cactus/actions/runs/10016668556)|<script type="text/javascript">localize(1721457607);</script>|
+|x86_64/r|[x86_64/r/r-crul](https://aur.archlinux.org/pkgbase/r-crul)|STALE||[10016668556](https://github.com/arch4edu/cactus/actions/runs/10016668556)|<script type="text/javascript">localize(1764987284);</script>|
 |x86_64/r|[x86_64/r/r-csem](https://aur.archlinux.org/pkgbase/r-csem)|PUBLISHED||[15328167906](https://github.com/arch4edu/cactus/actions/runs/15328167906)|<script type="text/javascript">localize(1748544373);</script>|
 |x86_64/r|[x86_64/r/r-cubature](https://aur.archlinux.org/pkgbase/r-cubature)|PUBLISHED||[15407072270](https://github.com/arch4edu/cactus/actions/runs/15407072270)|<script type="text/javascript">localize(1748968542);</script>|
 |x86_64/r|[x86_64/r/r-cubist](https://aur.archlinux.org/pkgbase/r-cubist)|PUBLISHED||[19017906750](https://github.com/arch4edu/cactus/actions/runs/19017906750)|<script type="text/javascript">localize(1762153681);</script>|
