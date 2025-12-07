@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1765079961.29112);</script>
+Last update: <script type="text/javascript">localize(1765114193.6546016);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -708,7 +708,7 @@ Last update: <script type="text/javascript">localize(1765079961.29112);</script>
 |x86_64/r|[x86_64/r/r-dimred](https://aur.archlinux.org/pkgbase/r-dimred)|PUBLISHED||[14970875460](https://github.com/arch4edu/cactus/actions/runs/14970875460)|<script type="text/javascript">localize(1747076322);</script>|
 |x86_64/r|[x86_64/r/r-diptest](https://aur.archlinux.org/pkgbase/r-diptest)|PUBLISHED||[17099418439](https://github.com/arch4edu/cactus/actions/runs/17099418439)|<script type="text/javascript">localize(1755715818);</script>|
 |x86_64/r|[x86_64/r/r-distributional](https://aur.archlinux.org/pkgbase/r-distributional)|PUBLISHED||[10903539940](https://github.com/arch4edu/cactus/actions/runs/10903539940)|<script type="text/javascript">localize(1726598377);</script>|
-|x86_64/r|[x86_64/r/r-doby](https://aur.archlinux.org/pkgbase/r-doby)|PUBLISHED||[15962468027](https://github.com/arch4edu/cactus/actions/runs/15962468027)|<script type="text/javascript">localize(1751266298);</script>|
+|x86_64/r|[x86_64/r/r-doby](https://aur.archlinux.org/pkgbase/r-doby)|STALE||[15962468027](https://github.com/arch4edu/cactus/actions/runs/15962468027)|<script type="text/javascript">localize(1765112199);</script>|
 |x86_64/r|[x86_64/r/r-doe.base](https://aur.archlinux.org/pkgbase/r-doe.base)|PUBLISHED||[14506648571](https://github.com/arch4edu/cactus/actions/runs/14506648571)|<script type="text/javascript">localize(1744872252);</script>|
 |x86_64/r|[x86_64/r/r-doparallel](https://aur.archlinux.org/pkgbase/r-doparallel)|PUBLISHED||[8856305390](https://github.com/arch4edu/cactus/actions/runs/8856305390)|<script type="text/javascript">localize(1714245618);</script>|
 |x86_64/r|[x86_64/r/r-downlit](https://aur.archlinux.org/pkgbase/r-downlit)|PUBLISHED||[19382974418](https://github.com/arch4edu/cactus/actions/runs/19382974418)|<script type="text/javascript">localize(1763189095);</script>|
@@ -794,7 +794,7 @@ Last update: <script type="text/javascript">localize(1765079961.29112);</script>
 |x86_64/r|[x86_64/r/r-ggpol](https://aur.archlinux.org/pkgbase/r-ggpol)|PUBLISHED||[2720718382](https://github.com/arch4edu/cactus/actions/runs/2720718382)|<script type="text/javascript">localize(1658521860);</script>|
 |x86_64/r|[x86_64/r/r-ggpp](https://aur.archlinux.org/pkgbase/r-ggpp)|PUBLISHED||[15944462973](https://github.com/arch4edu/cactus/actions/runs/15944462973)|<script type="text/javascript">localize(1751136348);</script>|
 |x86_64/r|[x86_64/r/r-ggpubr](https://aur.archlinux.org/pkgbase/r-ggpubr)|PUBLISHED||[18593735627](https://github.com/arch4edu/cactus/actions/runs/18593735627)|<script type="text/javascript">localize(1760726592);</script>|
-|x86_64/r|[x86_64/r/r-ggrain](https://aur.archlinux.org/pkgbase/r-ggrain)|PUBLISHED||[11945444501](https://github.com/arch4edu/cactus/actions/runs/11945444501)|<script type="text/javascript">localize(1732171392);</script>|
+|x86_64/r|[x86_64/r/r-ggrain](https://aur.archlinux.org/pkgbase/r-ggrain)|STALE||[11945444501](https://github.com/arch4edu/cactus/actions/runs/11945444501)|<script type="text/javascript">localize(1765112200);</script>|
 |x86_64/r|[x86_64/r/r-ggraph](https://aur.archlinux.org/pkgbase/r-ggraph)|PUBLISHED||[19056141907](https://github.com/arch4edu/cactus/actions/runs/19056141907)|<script type="text/javascript">localize(1762239009);</script>|
 |x86_64/r|[x86_64/r/r-ggrepel](https://aur.archlinux.org/pkgbase/r-ggrepel)|PUBLISHED||[10756194728](https://github.com/arch4edu/cactus/actions/runs/10756194728)|<script type="text/javascript">localize(1725777477);</script>|
 |x86_64/r|[x86_64/r/r-ggridges](https://aur.archlinux.org/pkgbase/r-ggridges)|PUBLISHED||[17267575244](https://github.com/arch4edu/cactus/actions/runs/17267575244)|<script type="text/javascript">localize(1756320040);</script>|
