@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1765114193.6546016);</script>
+Last update: <script type="text/javascript">localize(1765165046.8629904);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -423,7 +423,7 @@ Last update: <script type="text/javascript">localize(1765114193.6546016);</scrip
 |x86_64|[x86_64/onedrive-abraunegg](https://aur.archlinux.org/pkgbase/onedrive-abraunegg)|PUBLISHED||[19136587079](https://github.com/arch4edu/cactus/actions/runs/19136587079)|<script type="text/javascript">localize(1762454835);</script>|
 |x86_64|[x86_64/open3d](https://aur.archlinux.org/pkgbase/open3d)|PUBLISHED||[15658684406](https://github.com/arch4edu/cactus/actions/runs/15658684406)|<script type="text/javascript">localize(1763346033);</script>|
 |x86_64|[x86_64/openblas-lapack](https://aur.archlinux.org/pkgbase/openblas-lapack)|PUBLISHED||[15973721347](https://github.com/arch4edu/cactus/actions/runs/15973721347)|<script type="text/javascript">localize(1751309156);</script>|
-|x86_64|[x86_64/openboard](https://aur.archlinux.org/pkgbase/openboard)|PUBLISHED||[18548055130](https://github.com/arch4edu/cactus/actions/runs/18548055130)|<script type="text/javascript">localize(1763346033);</script>|
+|x86_64|[x86_64/openboard](https://aur.archlinux.org/pkgbase/openboard)|STALE||[18548055130](https://github.com/arch4edu/cactus/actions/runs/18548055130)|<script type="text/javascript">localize(1765160533);</script>|
 |x86_64|[x86_64/openctm-tools](https://aur.archlinux.org/pkgbase/openctm-tools)|PUBLISHED||[19430983302](https://github.com/arch4edu/cactus/actions/runs/19430983302)|<script type="text/javascript">localize(1763405265);</script>|
 |x86_64|[x86_64/opencv3-opt](https://aur.archlinux.org/pkgbase/opencv3-opt)|PUBLISHED||[7750132680](https://github.com/arch4edu/cactus/actions/runs/7750132680)|<script type="text/javascript">localize(1706855389);</script>|
 |x86_64|[x86_64/openface](https://aur.archlinux.org/pkgbase/openface)|PUBLISHED||[9078131711](https://github.com/arch4edu/cactus/actions/runs/9078131711)|<script type="text/javascript">localize(1715711603);</script>|
@@ -448,7 +448,7 @@ Last update: <script type="text/javascript">localize(1765114193.6546016);</scrip
 |x86_64|[x86_64/parmetis-git](https://aur.archlinux.org/pkgbase/parmetis-git)|PUBLISHED||[15127405387](https://github.com/arch4edu/cactus/actions/runs/15127405387)|<script type="text/javascript">localize(1747723544);</script>|
 |x86_64|[x86_64/paru](https://aur.archlinux.org/pkgbase/paru)|PUBLISHED||[16144083473](https://github.com/arch4edu/cactus/actions/runs/16144083473)|<script type="text/javascript">localize(1752000454);</script>|
 |x86_64|[x86_64/pcl](https://aur.archlinux.org/pkgbase/pcl)|STALE|Build failed.|[19431343103](https://github.com/arch4edu/cactus/actions/runs/19431343103)|<script type="text/javascript">localize(1763518537);</script>|
-|x86_64|[x86_64/petsc](https://aur.archlinux.org/pkgbase/petsc)|PUBLISHED||[19017692958](https://github.com/arch4edu/cactus/actions/runs/19017692958)|<script type="text/javascript">localize(1765025869);</script>|
+|x86_64|[x86_64/petsc](https://aur.archlinux.org/pkgbase/petsc)|FAILED|nvchecker failed, previously PUBLISHED|[19017692958](https://github.com/arch4edu/cactus/actions/runs/19017692958)|<script type="text/javascript">localize(1765160515);</script>|
 |x86_64|[x86_64/petsc-complex](https://aur.archlinux.org/pkgbase/petsc-complex)|STALE|Build failed.|[19017692649](https://github.com/arch4edu/cactus/actions/runs/19017692649)|<script type="text/javascript">localize(1764556784);</script>|
 |x86_64|[x86_64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|STALE||[19103159766](https://github.com/arch4edu/cactus/actions/runs/19103159766)|<script type="text/javascript">localize(1764296108);</script>|
 |x86_64|[x86_64/pi-hole-web](https://aur.archlinux.org/pkgbase/pi-hole-web)|STALE||[19017077753](https://github.com/arch4edu/cactus/actions/runs/19017077753)|<script type="text/javascript">localize(1764296108);</script>|
@@ -1311,7 +1311,7 @@ Last update: <script type="text/javascript">localize(1765114193.6546016);</scrip
 |x86_64|[x86_64/riscv32-gnu-toolchain-glibc-bin](https://aur.archlinux.org/pkgbase/riscv32-gnu-toolchain-glibc-bin)|STALE||[19069737345](https://github.com/arch4edu/cactus/actions/runs/19069737345)|<script type="text/javascript">localize(1763777121);</script>|
 |x86_64|[x86_64/riscv64-gnu-toolchain-elf-bin](https://aur.archlinux.org/pkgbase/riscv64-gnu-toolchain-elf-bin)|STALE||[19069739308](https://github.com/arch4edu/cactus/actions/runs/19069739308)|<script type="text/javascript">localize(1763777122);</script>|
 |x86_64|[x86_64/riscv64-gnu-toolchain-glibc-bin](https://aur.archlinux.org/pkgbase/riscv64-gnu-toolchain-glibc-bin)|STALE||[19069740032](https://github.com/arch4edu/cactus/actions/runs/19069740032)|<script type="text/javascript">localize(1763777122);</script>|
-|x86_64/rocm|[x86_64/rocm/migraphx](https://aur.archlinux.org/pkgbase/migraphx)|STALE|Build failed.|[19431163285](https://github.com/arch4edu/cactus/actions/runs/19431163285)|<script type="text/javascript">localize(1763518542);</script>|
+|x86_64/rocm|[x86_64/rocm/migraphx](https://aur.archlinux.org/pkgbase/migraphx)|FAILED|nvchecker failed, previously STALE|[19431163285](https://github.com/arch4edu/cactus/actions/runs/19431163285)|<script type="text/javascript">localize(1765160515);</script>|
 |x86_64/rocm|[x86_64/rocm/openmp-extras](https://aur.archlinux.org/pkgbase/openmp-extras)|STALE|Build failed.|[19431164068](https://github.com/arch4edu/cactus/actions/runs/19431164068)|<script type="text/javascript">localize(1763518542);</script>|
 |x86_64/rocm|[x86_64/rocm/python-torchvision-rocm](https://aur.archlinux.org/pkgbase/python-torchvision-rocm)|PUBLISHED||[19056140964](https://github.com/arch4edu/cactus/actions/runs/19056140964)|<script type="text/javascript">localize(1762239066);</script>|
 |x86_64/rocm|[x86_64/rocm/tensorflow-rocm](https://aur.archlinux.org/pkgbase/tensorflow-rocm)|STALE|Build failed.|[19431528056](https://github.com/arch4edu/cactus/actions/runs/19431528056)|<script type="text/javascript">localize(1763518542);</script>|
