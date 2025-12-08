@@ -1,6 +1,6 @@
 <script src="./time.js"></script>
 # Build status
-Last update: <script type="text/javascript">localize(1765165046.8629904);</script>
+Last update: <script type="text/javascript">localize(1765201150.837399);</script>
 
 |Category|Package|Status|Detail|Workflow|Timestamp|
 |:-------|:------|:-----|:-----|:-------|:--------|
@@ -448,7 +448,7 @@ Last update: <script type="text/javascript">localize(1765165046.8629904);</scrip
 |x86_64|[x86_64/parmetis-git](https://aur.archlinux.org/pkgbase/parmetis-git)|PUBLISHED||[15127405387](https://github.com/arch4edu/cactus/actions/runs/15127405387)|<script type="text/javascript">localize(1747723544);</script>|
 |x86_64|[x86_64/paru](https://aur.archlinux.org/pkgbase/paru)|PUBLISHED||[16144083473](https://github.com/arch4edu/cactus/actions/runs/16144083473)|<script type="text/javascript">localize(1752000454);</script>|
 |x86_64|[x86_64/pcl](https://aur.archlinux.org/pkgbase/pcl)|STALE|Build failed.|[19431343103](https://github.com/arch4edu/cactus/actions/runs/19431343103)|<script type="text/javascript">localize(1763518537);</script>|
-|x86_64|[x86_64/petsc](https://aur.archlinux.org/pkgbase/petsc)|FAILED|nvchecker failed, previously PUBLISHED|[19017692958](https://github.com/arch4edu/cactus/actions/runs/19017692958)|<script type="text/javascript">localize(1765160515);</script>|
+|x86_64|[x86_64/petsc](https://aur.archlinux.org/pkgbase/petsc)|PUBLISHED||[19017692958](https://github.com/arch4edu/cactus/actions/runs/19017692958)|<script type="text/javascript">localize(1765199122);</script>|
 |x86_64|[x86_64/petsc-complex](https://aur.archlinux.org/pkgbase/petsc-complex)|STALE|Build failed.|[19017692649](https://github.com/arch4edu/cactus/actions/runs/19017692649)|<script type="text/javascript">localize(1764556784);</script>|
 |x86_64|[x86_64/pi-hole-ftl](https://aur.archlinux.org/pkgbase/pi-hole-ftl)|STALE||[19103159766](https://github.com/arch4edu/cactus/actions/runs/19103159766)|<script type="text/javascript">localize(1764296108);</script>|
 |x86_64|[x86_64/pi-hole-web](https://aur.archlinux.org/pkgbase/pi-hole-web)|STALE||[19017077753](https://github.com/arch4edu/cactus/actions/runs/19017077753)|<script type="text/javascript">localize(1764296108);</script>|
@@ -866,7 +866,7 @@ Last update: <script type="text/javascript">localize(1765165046.8629904);</scrip
 |x86_64/r|[x86_64/r/r-isingfit](https://aur.archlinux.org/pkgbase/r-isingfit)|PUBLISHED||[6400469898](https://github.com/arch4edu/cactus/actions/runs/6400469898)|<script type="text/javascript">localize(1696401029);</script>|
 |x86_64/r|[x86_64/r/r-isingsampler](https://aur.archlinux.org/pkgbase/r-isingsampler)|PUBLISHED||[14999278362](https://github.com/arch4edu/cactus/actions/runs/14999278362)|<script type="text/javascript">localize(1747161929);</script>|
 |x86_64/r|[x86_64/r/r-islr](https://aur.archlinux.org/pkgbase/r-islr)|PUBLISHED||[15467739224](https://github.com/arch4edu/cactus/actions/runs/15467739224)|<script type="text/javascript">localize(1749150597);</script>|
-|x86_64/r|[x86_64/r/r-isoband](https://aur.archlinux.org/pkgbase/r-isoband)|PUBLISHED||[8832719918](https://github.com/arch4edu/cactus/actions/runs/8832719918)|<script type="text/javascript">localize(1714070394);</script>|
+|x86_64/r|[x86_64/r/r-isoband](https://aur.archlinux.org/pkgbase/r-isoband)|STALE||[8832719918](https://github.com/arch4edu/cactus/actions/runs/8832719918)|<script type="text/javascript">localize(1765199143);</script>|
 |x86_64/r|[x86_64/r/r-iterators](https://aur.archlinux.org/pkgbase/r-iterators)|PUBLISHED||[8826164223](https://github.com/arch4edu/cactus/actions/runs/8826164223)|<script type="text/javascript">localize(1714027414);</script>|
 |x86_64/r|[x86_64/r/r-ivreg](https://aur.archlinux.org/pkgbase/r-ivreg)|PUBLISHED||[15468538323](https://github.com/arch4edu/cactus/actions/runs/15468538323)|<script type="text/javascript">localize(1749150616);</script>|
 |x86_64/r|[x86_64/r/r-jaspacceptancesampling](https://aur.archlinux.org/pkgbase/r-jaspacceptancesampling)|STALE|Waiting for dependency: x86_64/r/r-promises.|[12652751776](https://github.com/arch4edu/cactus/actions/runs/12652751776)|<script type="text/javascript">localize(1763497739);</script>|
