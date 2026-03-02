@@ -93,8 +93,11 @@ def classify_failure(detail):
     """Classify failure reason - return icon only"""
     detail_lower = detail.lower()
 
-    # Dependency related - 🔴
-    if any(kw in detail_lower for kw in ['missing dependencies', 'dependency', 'could not resolve', 'failed to install']):
+    # Download failures (Failed to download dependencies, download failed) - 🟠
+    if 'failed to download dependencies' in detail_lower or ('download' in detail_lower and 'failed' in detail_lower):
+        return '🟠'
+    # Dependency resolution failures (Missing dependencies, could not resolve, failed to install) - 🔴
+    elif any(kw in detail_lower for kw in ['missing dependencies', 'dependency', 'could not resolve', 'failed to install']):
         return '🔴'
     # Package stage failures - ⚪
     elif 'failed in package' in detail_lower:
@@ -102,9 +105,6 @@ def classify_failure(detail):
     # Build stage failures - ❌
     elif 'failed in build' in detail_lower or 'build failed' in detail_lower:
         return '❌'
-    # Download failures - 🔴
-    elif 'download' in detail_lower and 'failed' in detail_lower:
-        return '🔴'
     # Version/cmp issues - 🟡
     elif 'greater than newver' in detail_lower or 'vercmp' in detail_lower:
         return '🟡'
@@ -181,9 +181,11 @@ def print_report(stats):
             else:
                 ftype = '❓'
             failure_types[ftype] += 1
-        # Append each icon count
-        for ftype, count in failure_types.items():
-            summary_parts.append(f"{ftype}{count}")
+        # Append each icon count in fixed order
+        icon_order = ['🔴', '🟠', '❌', '⚪', '🟡', '❓']
+        for icon in icon_order:
+            if icon in failure_types:
+                summary_parts.append(f"{icon}{failure_types[icon]}")
 
     if building_count > 0:
         summary_parts.append(f"🏗️{building_count}")
