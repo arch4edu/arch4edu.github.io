@@ -28,15 +28,15 @@ CF_API = 'https://api.cloudflare.com/client/v4'
 def parse_args():
     p = argparse.ArgumentParser(description='Sync cactus build data to Cloudflare R2')
 
-    p.add_argument('--db-host', default='127.0.0.1')
-    p.add_argument('--db-port', type=int, default=3306)
-    p.add_argument('--db-name', required=True)
-    p.add_argument('--db-user', required=True)
-    p.add_argument('--db-password', required=True)
+    p.add_argument('-H', '--db-host', default='127.0.0.1')
+    p.add_argument('-P', '--db-port', type=int, default=3306)
+    p.add_argument('-d', '--db-name', required=True)
+    p.add_argument('-u', '--db-user', required=True)
+    p.add_argument('-p', '--db-password', required=True)
 
-    p.add_argument('--cf-token', required=True, help='Cloudflare API token')
-    p.add_argument('--cf-account-id', required=True, help='Cloudflare Account ID')
-    p.add_argument('--r2-bucket', default='arch4edu')
+    p.add_argument('-t', '--cf-token', required=True, help='Cloudflare API token')
+    p.add_argument('-a', '--cf-account-id', required=True, help='Cloudflare Account ID')
+    p.add_argument('-b', '--r2-bucket', default='arch4edu')
 
     return p.parse_args()
 
