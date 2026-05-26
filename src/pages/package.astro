@@ -1,0 +1,267 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="arch4edu - Package Detail">
+  <div class="package-detail" id="package-detail">
+    <div class="loading" id="loading">Loading package info...</div>
+
+    <div class="detail-content" id="detail-content" style="display:none;">
+      <a href="javascript:history.back()" class="back-link">&larr; Back</a>
+
+      <div class="pkg-header">
+        <h2 class="pkg-name" id="pkg-name"></h2>
+        <span class="badge" id="pkg-badge"></span>
+      </div>
+
+      <div class="info-grid">
+        <div class="info-card">
+          <h3 class="info-title">Package Info</h3>
+          <dl class="info-list">
+            <dt>Key</dt>
+            <dd id="info-key"></dd>
+            <dt>Category</dt>
+            <dd id="info-category"></dd>
+            <dt>Status</dt>
+            <dd id="info-status"></dd>
+            <dt>Last Updated</dt>
+            <dd id="info-time"></dd>
+          </dl>
+        </div>
+
+        <div class="info-card">
+          <h3 class="info-title">Detail</h3>
+          <p class="detail-text" id="info-detail">—</p>
+        </div>
+
+        <div class="info-card">
+          <h3 class="info-title">Links</h3>
+          <ul class="link-list">
+            <li><a id="link-aur" href="#" target="_blank">AUR Package</a></li>
+            <li id="li-workflow"><a id="link-workflow" href="#" target="_blank">GitHub Actions Run</a></li>
+            <li><a id="link-pkgbuild" href="#" target="_blank">PKGBUILD (arch4edu)</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="not-found" id="not-found" style="display:none;">
+      <h2>Package not found</h2>
+      <p>The requested package could not be found in the build data.</p>
+      <a href="/">&larr; Back to dashboard</a>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .package-detail {
+    max-width: 800px;
+  }
+
+  .loading {
+    color: var(--text-secondary);
+    padding: 2rem 0;
+  }
+
+  .back-link {
+    display: inline-block;
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+    margin-bottom: 1.5rem;
+    transition: color 0.15s;
+  }
+
+  .back-link:hover {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  .pkg-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .pkg-name {
+    font-family: var(--font-display);
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: var(--text-primary);
+  }
+
+  .info-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  .info-card {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1.25rem;
+  }
+
+  .info-title {
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+  }
+
+  .info-list {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    gap: 0.5rem 1rem;
+    font-size: 0.85rem;
+  }
+
+  .info-list dt {
+    color: var(--text-secondary);
+    font-weight: 500;
+  }
+
+  .info-list dd {
+    color: var(--text-primary);
+    word-break: break-all;
+  }
+
+  .detail-text {
+    font-size: 0.85rem;
+    color: var(--text-primary);
+    line-height: 1.5;
+    word-break: break-word;
+  }
+
+  .link-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .link-list a {
+    font-size: 0.85rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.4rem 0;
+  }
+
+  .link-list a::before {
+    content: '→';
+    color: var(--text-muted);
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    border-radius: 3px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+
+  .badge-published { background: var(--status-ok-bg); color: var(--status-ok); border: 1px solid var(--status-ok); }
+  .badge-failed { background: var(--status-fail-bg); color: var(--status-fail); border: 1px solid var(--status-fail); }
+  .badge-stale { background: var(--status-stale-bg); color: var(--status-stale); border: 1px solid var(--status-stale); }
+  .badge-building { background: var(--status-building-bg); color: var(--status-building); border: 1px solid var(--status-building); }
+
+  .not-found {
+    padding: 3rem 0;
+    text-align: center;
+  }
+
+  .not-found h2 {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .not-found p {
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+  }
+
+  @media (max-width: 640px) {
+    .pkg-name { font-size: 1.25rem; }
+    .info-list { grid-template-columns: 1fr; gap: 0.25rem; }
+    .info-list dt { color: var(--text-muted); font-size: 0.7rem; text-transform: uppercase; }
+    .info-card { padding: 1rem; }
+  }
+</style>
+
+<script>
+  const API_URL = 'https://api.arch4edu.org/status/builds.json';
+
+  async function init() {
+    const params = new URLSearchParams(window.location.search);
+    const key = params.get('key');
+
+    if (!key) {
+      showNotFound();
+      return;
+    }
+
+    try {
+      const res = await fetch(API_URL);
+      const data = await res.json();
+      const pkg = data.packages.find((p: any) => p.key === key);
+
+      if (!pkg) {
+        showNotFound();
+        return;
+      }
+
+      render(pkg);
+    } catch (e) {
+      document.getElementById('loading')!.textContent = 'Failed to load data';
+    }
+  }
+
+  function render(pkg: any) {
+    document.getElementById('loading')!.style.display = 'none';
+    document.getElementById('detail-content')!.style.display = 'block';
+
+    document.title = `arch4edu - ${pkg.pkgbase}`;
+    document.getElementById('pkg-name')!.textContent = pkg.pkgbase;
+
+    const badge = document.getElementById('pkg-badge')!;
+    badge.textContent = pkg.status;
+    badge.className = `badge badge-${pkg.status.toLowerCase()}`;
+
+    document.getElementById('info-key')!.textContent = pkg.key;
+    document.getElementById('info-category')!.textContent = pkg.category;
+    document.getElementById('info-status')!.textContent = pkg.status;
+    document.getElementById('info-time')!.textContent = pkg.timestamp
+      ? new Date(pkg.timestamp * 1000).toLocaleString()
+      : '—';
+
+    document.getElementById('info-detail')!.textContent = pkg.detail || '—';
+
+    (document.getElementById('link-aur') as HTMLAnchorElement).href = pkg.aur_url;
+
+    if (pkg.workflow_url) {
+      const wfLink = document.getElementById('link-workflow') as HTMLAnchorElement;
+      wfLink.href = pkg.workflow_url;
+      wfLink.textContent = `GitHub Actions Run #${pkg.workflow}`;
+    } else {
+      document.getElementById('li-workflow')!.style.display = 'none';
+    }
+
+    (document.getElementById('link-pkgbuild') as HTMLAnchorElement).href =
+      `https://github.com/arch4edu/arch4edu/tree/main/${pkg.key}`;
+  }
+
+  function showNotFound() {
+    document.getElementById('loading')!.style.display = 'none';
+    document.getElementById('not-found')!.style.display = 'block';
+  }
+
+  init();
+</script>

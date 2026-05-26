@@ -1,0 +1,845 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="arch4edu - Build Status (x86_64/any)">
+  <div class="dashboard">
+    <section class="summary" id="summary">
+      <div class="summary-card summary-total">
+        <span class="summary-number" id="total-count">-</span>
+        <span class="summary-label">Total</span>
+      </div>
+      <div class="summary-card summary-ok">
+        <span class="summary-number" id="ok-count">-</span>
+        <span class="summary-label">Published</span>
+      </div>
+      <div class="summary-card summary-fail">
+        <span class="summary-number" id="fail-count">-</span>
+        <span class="summary-label">Failed</span>
+      </div>
+      <div class="summary-card summary-stale">
+        <span class="summary-number" id="stale-count">-</span>
+        <span class="summary-label">Stale</span>
+      </div>
+    </section>
+
+    <section class="controls">
+      <div class="search-box">
+        <input type="text" id="search" placeholder="Search packages..." autocomplete="off" />
+      </div>
+      <div class="filters" id="status-filters">
+        <!-- dynamically populated -->
+      </div>
+      <div class="category-filters" id="category-filters">
+        <!-- dynamically populated -->
+      </div>
+    </section>
+
+    <section class="table-container">
+      <div class="table-info">
+        <span id="showing-count">Loading...</span>
+        <span class="update-time" id="update-time"></span>
+      </div>
+      <div class="table-scroll">
+        <table class="build-table" id="build-table">
+          <colgroup>
+            <col class="col-star" />
+            <col class="col-arch" />
+            <col class="col-package" />
+            <col class="col-status" />
+            <col class="col-info" />
+            <col class="col-time" />
+          </colgroup>
+          <thead>
+            <tr>
+              <th class="col-star"></th>
+              <th class="col-arch sortable" data-sort="arch">Arch</th>
+              <th class="col-package sortable" data-sort="pkgbase">Package</th>
+              <th class="col-status sortable" data-sort="status">Status</th>
+              <th class="col-info sortable" data-sort="detail">Info</th>
+              <th class="col-time sortable" data-sort="timestamp">Timestamp</th>
+            </tr>
+          </thead>
+          <tbody id="table-body">
+          </tbody>
+        </table>
+      </div>
+      <div class="pagination" id="pagination"></div>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .dashboard {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  /* Summary Cards */
+  .summary {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+  }
+
+  .summary-card {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1.25rem 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .summary-number {
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: var(--font-display);
+  }
+
+  .summary-label {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .summary-total .summary-number { color: var(--text-primary); }
+  .summary-ok .summary-number { color: var(--status-ok); }
+  .summary-fail .summary-number { color: var(--status-fail); }
+  .summary-stale .summary-number { color: var(--status-stale); }
+
+  /* Controls */
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+  }
+
+  .search-box {
+    flex: 1;
+    min-width: 200px;
+  }
+
+  .search-box input {
+    width: 100%;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.6rem 1rem;
+    color: var(--text-primary);
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    outline: none;
+    transition: border-color 0.15s;
+  }
+
+  .search-box input:focus {
+    border-color: var(--accent);
+  }
+
+  .search-box input::placeholder {
+    color: var(--text-muted);
+  }
+
+  .filters, .category-filters {
+    display: flex;
+    gap: 0.35rem;
+    flex-wrap: wrap;
+  }
+
+  .filter-btn,
+  :global(.filters .filter-btn),
+  :global(.category-filters .filter-btn) {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 0.25rem 0.5rem;
+    color: var(--text-secondary);
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .filter-btn:hover,
+  :global(.filters .filter-btn:hover),
+  :global(.category-filters .filter-btn:hover) {
+    background: var(--bg-tertiary);
+    color: var(--text-primary);
+  }
+
+  .filter-btn.active,
+  :global(.filters .filter-btn.active),
+  :global(.category-filters .filter-btn.active) {
+    background: var(--accent-dim);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  /* Table */
+  .table-container {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .table-info {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+  }
+
+  .table-scroll {
+    overflow-x: auto;
+  }
+
+  .build-table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    font-size: 0.8rem;
+  }
+
+  .build-table th {
+    background: var(--bg-tertiary);
+    padding: 0.6rem 1rem;
+    text-align: left;
+    font-weight: 500;
+    color: var(--text-secondary);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    position: sticky;
+    top: 0;
+    white-space: nowrap;
+  }
+
+  .build-table td {
+    padding: 0.5rem 1rem;
+    border-top: 1px solid var(--border);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  :global(.build-table tbody tr:nth-child(odd) td) {
+    background: var(--bg-secondary);
+  }
+
+  :global(.build-table tbody tr:nth-child(even) td) {
+    background: var(--bg-tertiary);
+  }
+
+  :global(.build-table tbody tr:hover td) {
+    background: var(--accent-dim);
+  }
+
+  .sortable {
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .sortable:hover {
+    color: var(--text-primary);
+  }
+
+  .sortable::after {
+    content: '';
+    display: inline-block;
+    margin-left: 0.3rem;
+    width: 0;
+    height: 0;
+    vertical-align: middle;
+  }
+
+  .sortable.sort-asc::after {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-bottom: 4px solid var(--accent);
+  }
+
+  .sortable.sort-desc::after {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 4px solid var(--accent);
+  }
+
+  :global(.col-star) { width: 24px; padding: 0; }
+  :global(.col-arch) { width: 68px; }
+  :global(.col-package) { width: 160px; }
+  :global(.col-status) { width: 80px; }
+  :global(.col-info) { /* remaining space */ }
+  :global(.col-time) { width: 100px; }
+
+  :global([data-icon-mode="true"] .build-table .col-arch),
+  :global([data-icon-mode="true"] .build-table .col-status) {
+    width: 36px;
+  }
+
+  :global([data-icon-mode="true"] .build-table .col-star) {
+    width: 20px;
+  }
+
+  :global([data-icon-mode="true"] .build-table th.col-status),
+  :global([data-icon-mode="true"] .build-table th.col-arch) {
+    font-size: 0;
+  }
+
+  :global([data-icon-mode="true"] .build-table tbody td:nth-child(1)) {
+    padding: 0.3rem 0;
+    text-align: center;
+  }
+
+  :global([data-icon-mode="true"] .build-table tbody td:nth-child(2)),
+  :global([data-icon-mode="true"] .build-table tbody td:nth-child(4)) {
+    text-align: center;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .star-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    line-height: 1;
+    padding: 0.1rem;
+    opacity: 0.3;
+    transition: opacity 0.15s, transform 0.15s;
+  }
+
+  .star-btn:hover {
+    opacity: 0.7;
+    transform: scale(1.2);
+  }
+
+  .star-btn.starred {
+    opacity: 1;
+  }
+
+  .cell-arch {
+    color: var(--text-muted);
+  }
+
+  .cell-info {
+    color: var(--text-secondary);
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
+    word-break: break-word;
+  }
+
+  :global(.build-table .cell-time) {
+    color: var(--text-muted);
+    font-size: 0.75rem;
+  }
+
+  /* Status badges */
+  .badge {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 3px;
+    font-size: 0.7rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+
+  .badge-published {
+    background: var(--status-ok-bg);
+    color: var(--status-ok);
+    border: 1px solid var(--status-ok);
+  }
+
+  .badge-failed {
+    background: var(--status-fail-bg);
+    color: var(--status-fail);
+    border: 1px solid var(--status-fail);
+  }
+
+  .badge-stale {
+    background: var(--status-stale-bg);
+    color: var(--status-stale);
+    border: 1px solid var(--status-stale);
+  }
+
+  .badge-building {
+    background: var(--status-building-bg);
+    color: var(--status-building);
+    border: 1px solid var(--status-building);
+  }
+
+  /* Pagination */
+  .pagination {
+    padding: 0.75rem 1rem;
+    border-top: 1px solid var(--border);
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    align-items: center;
+  }
+
+  .pagination button {
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 0.3rem 0.6rem;
+    color: var(--text-secondary);
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    cursor: pointer;
+  }
+
+  .pagination button:hover {
+    color: var(--text-primary);
+    border-color: var(--text-secondary);
+  }
+
+  .pagination button.active {
+    background: var(--accent-dim);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .pagination button:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+  }
+
+  .page-info {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .summary {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 0.75rem;
+    }
+
+    .summary-card {
+      padding: 1rem 0.75rem;
+    }
+
+    .summary-number {
+      font-size: 1.5rem;
+    }
+
+    .controls {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0.75rem;
+    }
+
+    .search-box {
+      min-width: unset;
+    }
+
+    .search-box input {
+      padding: 0.75rem 1rem;
+      font-size: 1rem;
+    }
+
+    .filters, .category-filters {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      padding-bottom: 2px;
+    }
+
+    .filters::-webkit-scrollbar, .category-filters::-webkit-scrollbar {
+      display: none;
+    }
+
+    .filter-btn,
+    :global(.filters .filter-btn),
+    :global(.category-filters .filter-btn) {
+      padding: 0.3rem 0.5rem;
+      font-size: 0.7rem;
+      flex-shrink: 0;
+      min-height: unset;
+    }
+
+    .table-container {
+      border-radius: 6px;
+    }
+
+    .table-info {
+      padding: 0.6rem 0.75rem;
+    }
+
+    .table-scroll {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .build-table th,
+    .build-table td {
+      padding: 0.5rem 0.6rem;
+    }
+
+    :global(.col-arch) { font-size: 0.7rem; width: 55px; }
+    :global(.col-package) { width: 100px; }
+    :global(.col-status) { width: 65px; }
+
+    .pagination {
+      flex-wrap: wrap;
+      padding: 0.6rem 0.5rem;
+      gap: 0.35rem;
+    }
+
+    .pagination button {
+      min-width: 32px;
+      min-height: 32px;
+      padding: 0.25rem 0.5rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .summary {
+      grid-template-columns: repeat(4, 1fr);
+      gap: 0.5rem;
+    }
+
+    .summary-card {
+      padding: 0.75rem 0.5rem;
+    }
+
+    .summary-number {
+      font-size: 1.25rem;
+    }
+
+    .summary-label {
+      font-size: 0.65rem;
+    }
+
+    .build-table {
+      font-size: 0.75rem;
+    }
+
+    .badge {
+      font-size: 0.6rem;
+      padding: 0.1rem 0.35rem;
+    }
+  }
+</style>
+
+<script>
+  const API_URL = 'https://api.arch4edu.org/status/builds.json';
+  const PAGE_SIZE = 100;
+  const STARRED_KEY = 'starred_packages';
+  const FILTER_KEY = 'current_filter';
+  const CATEGORY_KEY = 'current_category';
+
+  const STATUS_ICONS: Record<string, string> = {
+    PUBLISHED: '\u{1F4E6}',
+    FAILED: '\u{1F534}',
+    STALE: '\u{1F7E1}',
+    BUILDING: '\u{1F3D7}\uFE0F',
+    SCHEDULED: '\u{23F3}',
+  };
+
+  const ARCH_ICONS: Record<string, string> = {
+    aarch64: '\u{23F0}',
+    x86_64: '\u{1F5A5}\uFE0F',
+    any: '\u{1F30F}',
+  };
+
+  const ICON_PAUSE = '\u{23F8}\uFE0F';
+  const ICON_FAILED_IN = '\u{274C}';
+
+  let allPackages: any[] = [];
+  let filtered: any[] = [];
+  let currentPage = 1;
+  let currentFilter = localStorage.getItem(FILTER_KEY) || 'all';
+  let currentCategory = localStorage.getItem(CATEGORY_KEY) || 'all';
+  let searchTerm = '';
+  let starredSet: Set<string> = new Set(JSON.parse(localStorage.getItem(STARRED_KEY) || '[]'));
+  let sortField: string = '';
+  let sortDir: 'asc' | 'desc' = 'asc';
+  let iconMode = document.documentElement.getAttribute('data-icon-mode') === 'true';
+
+  function saveStarred() {
+    localStorage.setItem(STARRED_KEY, JSON.stringify([...starredSet]));
+  }
+
+  function toggleStar(key: string) {
+    if (starredSet.has(key)) {
+      starredSet.delete(key);
+    } else {
+      starredSet.add(key);
+    }
+    saveStarred();
+    render();
+  }
+
+  async function init() {
+    try {
+      const res = await fetch(API_URL);
+      const data = await res.json();
+      allPackages = data.packages;
+      for (const p of allPackages) {
+        p.arch = (p.category || '').split('/')[0];
+      }
+      updateSummary(allPackages);
+      const time = new Date(data.generated_at * 1000);
+      document.getElementById('update-time')!.textContent = `Updated: ${time.toLocaleString()}`;
+      buildStatusButtons();
+      buildCategoryButtons();
+      applyFilters();
+    } catch (e) {
+      document.getElementById('showing-count')!.textContent = 'Failed to load data';
+    }
+  }
+
+  function buildCategoryButtons() {
+    const cats = new Set(allPackages.map((p: any) => p.category).filter((c: string) => c));
+    const container = document.getElementById('category-filters')!;
+    let html = `<button class="filter-btn ${currentCategory === 'all' ? 'active' : ''}" data-cat="all">all</button>`;
+    for (const cat of [...cats].sort()) {
+      html += `<button class="filter-btn ${currentCategory === cat ? 'active' : ''}" data-cat="${cat}">${cat}</button>`;
+    }
+    container.innerHTML = html;
+
+    container.addEventListener('click', (e) => {
+      const btn = (e.target as HTMLElement).closest('.filter-btn') as HTMLElement | null;
+      if (!btn) return;
+      container.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentCategory = btn.dataset.cat!;
+      localStorage.setItem(CATEGORY_KEY, currentCategory);
+      applyFilters();
+    });
+  }
+
+  function buildStatusButtons() {
+    const statuses = new Set(allPackages.map((p: any) => p.status).filter((s: string) => s));
+    const container = document.getElementById('status-filters')!;
+    let html = `<button class="filter-btn ${currentFilter === 'all' ? 'active' : ''}" data-filter="all">All</button>`;
+    html += `<button class="filter-btn ${currentFilter === 'STARRED' ? 'active' : ''}" data-filter="STARRED">Starred</button>`;
+    for (const s of [...statuses].sort()) {
+      html += `<button class="filter-btn ${currentFilter === s ? 'active' : ''}" data-filter="${s}">${s.charAt(0) + s.slice(1).toLowerCase()}</button>`;
+    }
+    container.innerHTML = html;
+
+    container.addEventListener('click', (e) => {
+      const btn = (e.target as HTMLElement).closest('.filter-btn') as HTMLElement | null;
+      if (!btn) return;
+      container.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentFilter = btn.dataset.filter!;
+      localStorage.setItem(FILTER_KEY, currentFilter);
+      applyFilters();
+    });
+  }
+
+  function updateSummary(packages: any[]) {
+    const counts = { PUBLISHED: 0, FAILED: 0, STALE: 0, BUILDING: 0 };
+    for (const p of packages) {
+      if (p.status in counts) counts[p.status as keyof typeof counts]++;
+    }
+    document.getElementById('total-count')!.textContent = String(packages.length);
+    document.getElementById('ok-count')!.textContent = String(counts.PUBLISHED);
+    document.getElementById('fail-count')!.textContent = String(counts.FAILED);
+    document.getElementById('stale-count')!.textContent = String(counts.STALE);
+  }
+
+  function applyFilters() {
+    filtered = allPackages.filter(p => {
+      if (currentFilter === 'STARRED') {
+        if (!starredSet.has(p.key)) return false;
+      } else if (currentFilter !== 'all' && p.status !== currentFilter) {
+        return false;
+      }
+      if (currentCategory !== 'all' && p.category !== currentCategory) return false;
+      if (searchTerm && !p.key.toLowerCase().includes(searchTerm) && !p.detail.toLowerCase().includes(searchTerm)) return false;
+      return true;
+    });
+
+    if (sortField) {
+      filtered.sort((a, b) => {
+        let va = a[sortField] ?? '';
+        let vb = b[sortField] ?? '';
+        if (typeof va === 'string') va = va.toLowerCase();
+        if (typeof vb === 'string') vb = vb.toLowerCase();
+        if (va < vb) return sortDir === 'asc' ? -1 : 1;
+        if (va > vb) return sortDir === 'asc' ? 1 : -1;
+        return 0;
+      });
+    }
+
+    currentPage = 1;
+    updateSummary(filtered);
+    render();
+  }
+
+  function renderInfoCell(p: any, icon: boolean): string {
+    const status = (p.status || '').toUpperCase();
+    const detailRaw = p.detail || '';
+    let detail = detailRaw;
+    if (icon) {
+      const stale = detailRaw.match(/^Waiting for dependency:\s*(.+?)\.?$/i);
+      if (stale) detail = stale[1];
+      const failedIn = detailRaw.match(/^Failed in\s+(.+)$/i);
+      if (failedIn) detail = failedIn[1];
+      const missing = detailRaw.match(/^Missing dependencies:\s*(.+?)\.?$/i);
+      if (missing) detail = missing[1];
+      if (/^Failed to download dependencies\.?$/i.test(detailRaw)) {
+        detail = 'download()';
+      }
+    }
+    switch (status) {
+      case 'STALE':
+        return escapeHtml(detail || 'Stale');
+      case 'PUBLISHED':
+      case 'BUILT':
+        return p.workflow ? `<a href="${p.workflow_url}" target="_blank">${p.workflow}</a>` : '';
+      case 'BUILDING':
+      case 'FAILED':
+        const label = escapeHtml(detail || status);
+        return p.workflow_url ? `<a href="${p.workflow_url}" target="_blank">${label}</a>` : label;
+      case 'SCHEDULED':
+        return '';
+      default:
+        return escapeHtml(detail || '');
+    }
+  }
+
+  function render() {
+    const start = (currentPage - 1) * PAGE_SIZE;
+    const page = filtered.slice(start, start + PAGE_SIZE);
+    const tbody = document.getElementById('table-body')!;
+
+    tbody.innerHTML = page.map(p => {
+      const isStarred = starredSet.has(p.key);
+      const detailRaw = p.detail || '';
+      let statusIcon = STATUS_ICONS[p.status] || p.status;
+      if (iconMode) {
+        if (p.status === 'STALE' && /^Waiting for dependency:/i.test(detailRaw)) {
+          statusIcon = ICON_PAUSE;
+        } else if (p.status === 'FAILED' && /^Failed in\s+/i.test(detailRaw)) {
+          statusIcon = ICON_FAILED_IN;
+        }
+      }
+      const statusCell = iconMode
+        ? `<span title="${p.status}">${statusIcon}</span>`
+        : `<span class="badge badge-${p.status.toLowerCase()}">${p.status}</span>`;
+      const archCell = iconMode
+        ? `<span title="${p.arch}">${ARCH_ICONS[p.arch] || p.arch}</span>`
+        : escapeHtml(p.arch || '');
+      return `
+      <tr>
+        <td><button class="star-btn ${isStarred ? 'starred' : ''}" data-key="${escapeHtml(p.key)}" aria-label="${isStarred ? 'Unstar' : 'Star'} package">${isStarred ? '\u2605' : '\u2606'}</button></td>
+        <td class="cell-arch">${archCell}</td>
+        <td><a href="/package?key=${encodeURIComponent(p.key)}">${p.pkgbase}</a></td>
+        <td>${statusCell}</td>
+        <td class="cell-info">${renderInfoCell(p, iconMode)}</td>
+        <td class="cell-time">${formatTime(p.timestamp)}</td>
+      </tr>`;
+    }).join('');
+
+    document.getElementById('showing-count')!.textContent = `Showing ${start + 1}-${Math.min(start + PAGE_SIZE, filtered.length)} of ${filtered.length}`;
+    renderPagination();
+  }
+
+  function renderPagination() {
+    const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+    const container = document.getElementById('pagination')!;
+
+    if (totalPages <= 1) { container.innerHTML = ''; return; }
+
+    let html = `<button ${currentPage === 1 ? 'disabled' : ''} data-page="${currentPage - 1}">&laquo;</button>`;
+
+    const range = getPageRange(currentPage, totalPages);
+    for (const p of range) {
+      if (p === '...') {
+        html += `<span class="page-info">...</span>`;
+      } else {
+        html += `<button class="${p === currentPage ? 'active' : ''}" data-page="${p}">${p}</button>`;
+      }
+    }
+
+    html += `<button ${currentPage === totalPages ? 'disabled' : ''} data-page="${currentPage + 1}">&raquo;</button>`;
+    container.innerHTML = html;
+  }
+
+  function getPageRange(current: number, total: number): (number | string)[] {
+    if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1);
+    const pages: (number | string)[] = [1];
+    if (current > 3) pages.push('...');
+    for (let i = Math.max(2, current - 1); i <= Math.min(total - 1, current + 1); i++) {
+      pages.push(i);
+    }
+    if (current < total - 2) pages.push('...');
+    pages.push(total);
+    return pages;
+  }
+
+  function formatTime(ts: number): string {
+    if (!ts) return '';
+    const diff = Math.floor(Date.now() / 1000) - ts;
+    if (diff < 3600) return `${Math.floor(diff / 60)}m ago`;
+    if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
+    if (diff < 604800) return `${Math.floor(diff / 86400)}d ago`;
+    return new Date(ts * 1000).toLocaleDateString();
+  }
+
+  function escapeHtml(s: string): string {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  // Event listeners
+  document.getElementById('search')!.addEventListener('input', (e) => {
+    searchTerm = (e.target as HTMLInputElement).value.toLowerCase().trim();
+    applyFilters();
+  });
+
+  document.getElementById('pagination')!.addEventListener('click', (e) => {
+    const btn = (e.target as HTMLElement).closest('button');
+    if (!btn || btn.disabled) return;
+    currentPage = Number(btn.dataset.page);
+    render();
+  });
+
+  // Star button delegation
+  document.getElementById('table-body')!.addEventListener('click', (e) => {
+    const btn = (e.target as HTMLElement).closest('.star-btn') as HTMLElement | null;
+    if (!btn) return;
+    toggleStar(btn.dataset.key!);
+  });
+
+  // Sort header click
+  document.querySelectorAll('.sortable').forEach(th => {
+    th.addEventListener('click', () => {
+      const field = (th as HTMLElement).dataset.sort!;
+      if (sortField === field) {
+        sortDir = sortDir === 'asc' ? 'desc' : 'asc';
+      } else {
+        sortField = field;
+        sortDir = 'asc';
+      }
+      document.querySelectorAll('.sortable').forEach(el => el.classList.remove('sort-asc', 'sort-desc'));
+      th.classList.add(sortDir === 'asc' ? 'sort-asc' : 'sort-desc');
+      applyFilters();
+    });
+  });
+
+  // Icon mode toggle (dispatched from header button)
+  document.addEventListener('icon-mode-changed', () => {
+    iconMode = document.documentElement.getAttribute('data-icon-mode') === 'true';
+    render();
+  });
+
+  init();
+</script>

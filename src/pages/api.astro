@@ -1,0 +1,219 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="API - arch4edu">
+  <div class="api-page">
+    <section class="api-hero">
+      <h2 class="api-title">Build Status API</h2>
+      <p class="api-subtitle">Public JSON endpoint for arch4edu package build status.</p>
+      <div class="api-meta">
+        <span class="meta-pill"><span class="dot dot-ok"></span>Live</span>
+        <span class="meta-pill">No auth required</span>
+      </div>
+    </section>
+
+    <section class="api-section">
+      <h3>Endpoint</h3>
+      <div class="endpoint">
+        <span class="method">GET</span>
+        <a class="endpoint-url" href="https://api.arch4edu.org/status/builds.json" target="_blank" rel="noopener">https://api.arch4edu.org/status/builds.json</a>
+      </div>
+    </section>
+
+    <section class="api-section">
+      <h3>Response</h3>
+      <pre class="code"><code>{`{
+  "generated_at": 1779683099,
+  "total": 1472,
+  "packages": [
+    {
+      "key": "aarch64/browsh-bin",
+      "category": "aarch64",
+      "pkgbase": "browsh-bin",
+      "status": "PUBLISHED",
+      "detail": "",
+      "workflow": "23004641077",
+      "workflow_url": "https://github.com/arch4edu/cactus/actions/runs/...",
+      "aur_url": "https://aur.archlinux.org/pkgbase/browsh-bin",
+      "timestamp": 1773408990
+    }
+  ]
+}`}</code></pre>
+    </section>
+
+    <section class="api-section">
+      <h3>Usage</h3>
+      <pre class="code"><code>{`curl -s https://api.arch4edu.org/status/builds.json | jq '.packages[] | select(.status=="FAILED")'`}</code></pre>
+    </section>
+
+    <section class="api-section">
+      <h3>Notes</h3>
+      <ul class="api-notes">
+        <li>Data is refreshed periodically. Cached at edge (TTL ~5 min).</li>
+        <li>Schema may grow with new fields; existing fields remain stable.</li>
+      </ul>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .api-page {
+    max-width: 880px;
+    margin: 0 auto;
+  }
+
+  .api-hero {
+    padding: 2rem 0 1.5rem;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 2rem;
+  }
+
+  .api-title {
+    font-family: var(--font-display);
+    font-size: 1.85rem;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.01em;
+  }
+
+  .api-subtitle {
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+
+  .api-meta {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .meta-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    color: var(--text-secondary);
+    border-radius: 999px;
+    padding: 0.2rem 0.65rem;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--text-muted);
+  }
+
+  .dot-ok {
+    background: var(--status-ok);
+    box-shadow: 0 0 0 3px var(--status-ok-bg);
+  }
+
+  .api-section {
+    margin-bottom: 2rem;
+  }
+
+  .api-section h3 {
+    font-family: var(--font-display);
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+
+  .endpoint {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.6rem 0.8rem;
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    overflow-x: auto;
+  }
+
+  .method {
+    background: var(--accent-dim);
+    color: var(--accent);
+    font-weight: 600;
+    border-radius: 4px;
+    padding: 0.15rem 0.5rem;
+    font-size: 0.7rem;
+    letter-spacing: 0.05em;
+  }
+
+  .endpoint-url {
+    color: var(--text-primary);
+    word-break: break-all;
+  }
+
+
+  .code {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.85rem 1rem;
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    color: var(--text-primary);
+    overflow-x: auto;
+    line-height: 1.55;
+    white-space: pre;
+  }
+
+
+  .api-notes {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .api-notes li {
+    padding: 0.5rem 0;
+    color: var(--text-secondary);
+    border-bottom: 1px solid var(--bg-tertiary);
+    line-height: 1.6;
+    font-size: 0.85rem;
+  }
+
+  .api-notes li:last-child {
+    border-bottom: none;
+  }
+
+  .api-notes li::before {
+    content: "\2022";
+    color: var(--accent);
+    margin-right: 0.6rem;
+  }
+
+  @media (max-width: 640px) {
+    .api-title {
+      font-size: 1.45rem;
+    }
+
+    .schema-row {
+      grid-template-columns: 1fr;
+      gap: 0.25rem;
+    }
+
+    .schema-row.schema-head {
+      display: none;
+    }
+
+    .schema-row code {
+      width: fit-content;
+    }
+  }
+</style>
