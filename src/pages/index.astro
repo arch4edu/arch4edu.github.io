@@ -115,14 +115,12 @@ import Base from '../layouts/Base.astro';
   /* Controls */
   .controls {
     display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    align-items: center;
+    flex-direction: column;
+    gap: 0.75rem;
   }
 
   .search-box {
-    flex: 1;
-    min-width: 200px;
+    width: 100%;
   }
 
   .search-box input {
@@ -274,12 +272,12 @@ import Base from '../layouts/Base.astro';
     border-top: 4px solid var(--accent);
   }
 
-  :global(.col-star) { width: 24px; padding: 0; }
-  :global(.col-arch) { width: 68px; }
-  :global(.col-package) { width: 160px; }
-  :global(.col-status) { width: 80px; }
+  :global(.col-star) { width: 1.75rem; padding: 0; }
+  :global(.col-arch) { width: 4.5rem; }
+  :global(.col-package) { width: 14rem; }
+  :global(.col-status) { width: 5.5rem; }
   :global(.col-info) { /* remaining space */ }
-  :global(.col-time) { width: 70px; }
+  :global(.col-time) { width: 6rem; padding-right: 1rem; }
 
   :global([data-icon-mode="true"] .build-table .col-arch),
   :global([data-icon-mode="true"] .build-table .col-status) {
@@ -342,6 +340,7 @@ import Base from '../layouts/Base.astro';
   :global(.build-table .cell-time) {
     color: var(--text-muted);
     font-size: 0.75rem;
+    padding-right: 1.5rem;
   }
 
   /* Status badges */
