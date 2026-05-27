@@ -26,8 +26,6 @@ const isApi = pathname.startsWith('/api');
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#1793d1" />
-    <link rel="preconnect" href="https://fonts.bunny.net" />
-    <link href="https://fonts.bunny.net/css?family=ibm-plex-mono:400,500,600|fraunces:600,700" rel="stylesheet" />
     <script is:inline>
       (function() {
         var t = localStorage.getItem('theme') || 'light';
@@ -74,8 +72,8 @@ const isApi = pathname.startsWith('/api');
 
 <style is:global>
   :root {
-    --font-mono: 'IBM Plex Mono', monospace;
-    --font-display: 'Fraunces', serif;
+    --font-mono: ui-monospace, 'SF Mono', 'Cascadia Code', 'Segoe UI Mono', Menlo, Consolas, monospace;
+    --font-display: ui-serif, Georgia, 'Times New Roman', serif;
 
     --bg-primary: #ffffff;
     --bg-secondary: #f6f8fa;
@@ -286,6 +284,13 @@ const isApi = pathname.startsWith('/api');
   .icon-emoji-mode { display: none; }
   [data-icon-mode="true"] .icon-text-mode { display: none; }
   [data-icon-mode="true"] .icon-emoji-mode { display: block; }
+
+  /* Desktop scale-up: keep mobile at 14px (and ≤640px at 13px); bump only on real desktops */
+  @media (min-width: 900px) {
+    html {
+      font-size: 16px;
+    }
+  }
 
   /* Mobile adjustments */
   @media (max-width: 640px) {
