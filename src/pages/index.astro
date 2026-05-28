@@ -17,6 +17,22 @@ import Base from '../layouts/Base.astro';
         <span class="summary-number" id="fail-count">-</span>
         <span class="summary-label">Failed</span>
       </div>
+      <div class="summary-card summary-waiting">
+        <span class="summary-number" id="waiting-count">-</span>
+        <span class="summary-label">Waiting</span>
+      </div>
+      <div class="summary-card summary-scheduled">
+        <span class="summary-number" id="scheduled-count">-</span>
+        <span class="summary-label">Scheduled</span>
+      </div>
+      <div class="summary-card summary-building">
+        <span class="summary-number" id="building-count">-</span>
+        <span class="summary-label">Building</span>
+      </div>
+      <div class="summary-card summary-built">
+        <span class="summary-number" id="built-count">-</span>
+        <span class="summary-label">Built</span>
+      </div>
       <div class="summary-card summary-stale">
         <span class="summary-number" id="stale-count">-</span>
         <span class="summary-label">Stale</span>
@@ -79,7 +95,7 @@ import Base from '../layouts/Base.astro';
   /* Summary Cards */
   .summary {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(8, 1fr);
     gap: 1rem;
   }
 
@@ -111,6 +127,10 @@ import Base from '../layouts/Base.astro';
   .summary-ok .summary-number { color: var(--status-ok); }
   .summary-fail .summary-number { color: var(--status-fail); }
   .summary-stale .summary-number { color: var(--status-stale); }
+  .summary-scheduled .summary-number { color: var(--status-building); }
+  .summary-building .summary-number { color: var(--status-building); }
+  .summary-built .summary-number { color: var(--status-ok); }
+  .summary-waiting .summary-number { color: var(--status-stale); }
 
   /* Controls */
   .controls {
@@ -629,6 +649,7 @@ import Base from '../layouts/Base.astro';
     const container = document.getElementById('status-filters')!;
     let html = `<button class="filter-btn ${currentFilter === 'all' ? 'active' : ''}" data-filter="all">All</button>`;
     html += `<button class="filter-btn ${currentFilter === 'STARRED' ? 'active' : ''}" data-filter="STARRED">Starred</button>`;
+    html += `<button class="filter-btn ${currentFilter === 'WAITING' ? 'active' : ''}" data-filter="WAITING">Waiting</button>`;
     for (const s of [...statuses].sort()) {
       html += `<button class="filter-btn ${currentFilter === s ? 'active' : ''}" data-filter="${s}">${s.charAt(0) + s.slice(1).toLowerCase()}</button>`;
     }
@@ -646,20 +667,34 @@ import Base from '../layouts/Base.astro';
   }
 
   function updateSummary(packages: any[]) {
-    const counts = { PUBLISHED: 0, FAILED: 0, STALE: 0, BUILDING: 0 };
+    const counts = { PUBLISHED: 0, FAILED: 0, STALE: 0, BUILDING: 0, SCHEDULED: 0, BUILT: 0 };
+    let waitingCount = 0;
     for (const p of packages) {
-      if (p.status in counts) counts[p.status as keyof typeof counts]++;
+      const status = p.status as keyof typeof counts;
+      if (status in counts) counts[status]++;
+      if (p.status === 'STALE' && /^Waiting for dependency:/i.test(p.detail || '')) {
+        waitingCount++;
+      }
     }
+    const staleExcludingWaiting = counts.STALE - waitingCount;
     document.getElementById('total-count')!.textContent = String(packages.length);
     document.getElementById('ok-count')!.textContent = String(counts.PUBLISHED);
     document.getElementById('fail-count')!.textContent = String(counts.FAILED);
-    document.getElementById('stale-count')!.textContent = String(counts.STALE);
+    document.getElementById('stale-count')!.textContent = String(staleExcludingWaiting);
+    document.getElementById('scheduled-count')!.textContent = String(counts.SCHEDULED);
+    document.getElementById('building-count')!.textContent = String(counts.BUILDING);
+    document.getElementById('built-count')!.textContent = String(counts.BUILT);
+    document.getElementById('waiting-count')!.textContent = String(waitingCount);
   }
 
   function applyFilters() {
     filtered = allPackages.filter(p => {
       if (currentFilter === 'STARRED') {
         if (!starredSet.has(p.key)) return false;
+      } else if (currentFilter === 'WAITING') {
+        if (!(p.status === 'STALE' && /^Waiting for dependency:/i.test(p.detail || ''))) return false;
+      } else if (currentFilter === 'STALE') {
+        if (!(p.status === 'STALE' && !/^Waiting for dependency:/i.test(p.detail || ''))) return false;
       } else if (currentFilter !== 'all' && p.status !== currentFilter) {
         return false;
       }
