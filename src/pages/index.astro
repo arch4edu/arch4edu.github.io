@@ -877,5 +877,28 @@ import Base from '../layouts/Base.astro';
     render();
   });
 
+  // Refresh data (dispatched from header button)
+  document.addEventListener('refresh-data-requested', async () => {
+    try {
+      const res = await fetch(API_URL);
+      const data = await res.json();
+      allPackages = data.packages;
+      for (const p of allPackages) {
+        p.arch = (p.category || '').split('/')[0];
+      }
+      updateSummary(allPackages);
+      const time = new Date(data.generated_at * 1000);
+      document.getElementById('update-time')!.textContent = `Updated: ${time.toLocaleString()}`;
+      buildStatusButtons();
+      buildCategoryButtons();
+      applyFilters();
+    } catch (e) {
+      document.getElementById('showing-count')!.textContent = 'Failed to refresh data';
+    } finally {
+      const btn = document.getElementById('refresh-data');
+      if (btn) btn.classList.remove('spinning');
+    }
+  });
+
   init();
 </script>

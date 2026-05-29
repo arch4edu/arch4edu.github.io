@@ -54,6 +54,9 @@ const isApi = pathname.startsWith('/api');
             <svg class="icon-text-mode" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 7 4 4 20 4 20 7"/><line x1="9" y1="20" x2="15" y2="20"/><line x1="12" y1="4" x2="12" y2="20"/></svg>
             <svg class="icon-emoji-mode" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" y1="9" x2="9.01" y2="9"/><line x1="15" y1="9" x2="15.01" y2="9"/></svg>
           </button>
+          <button class="theme-toggle" id="refresh-data" aria-label="Refresh data" title="Refresh build status">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"/></svg>
+          </button>
           <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme" title="Toggle theme">
             <svg class="icon-sun" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
             <svg class="icon-moon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
@@ -285,6 +288,15 @@ const isApi = pathname.startsWith('/api');
   [data-icon-mode="true"] .icon-text-mode { display: none; }
   [data-icon-mode="true"] .icon-emoji-mode { display: block; }
 
+  .theme-toggle.spinning svg {
+    animation: spin 0.8s linear infinite;
+  }
+
+  @keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+
   /* Desktop scale-up: keep mobile at 14px (and ≤640px at 13px); bump only on real desktops */
   @media (min-width: 900px) {
     html {
@@ -348,5 +360,11 @@ const isApi = pathname.startsWith('/api');
     }
     localStorage.setItem('icon_mode', String(next));
     document.dispatchEvent(new CustomEvent('icon-mode-changed'));
+  });
+
+  const refreshBtn = document.getElementById('refresh-data')!;
+  refreshBtn.addEventListener('click', () => {
+    refreshBtn.classList.add('spinning');
+    document.dispatchEvent(new CustomEvent('refresh-data-requested'));
   });
 </script>
