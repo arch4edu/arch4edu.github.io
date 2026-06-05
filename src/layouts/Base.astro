@@ -46,7 +46,10 @@ const isApi = pathname.startsWith('/api');
           </div>
         </div>
         <nav class="site-nav">
-          <a href="/intro" class:list={["nav-link", { active: isIntro }]}>Introduction</a>
+          <a href="/intro" class:list={["nav-link", "nav-intro-text", { active: isIntro }]}>Introduction</a>
+          <a href="/intro" class:list={["nav-link", "nav-intro-icon", { active: isIntro }]} aria-label="Introduction" title="Introduction">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+          </a>
           <a href="/" class:list={["nav-link", { active: isHome }]}>Build Status</a>
           <a href="/api" class:list={["nav-link", { active: isApi }]}>API</a>
           <span class="nav-spacer"></span>
@@ -287,6 +290,13 @@ const isApi = pathname.startsWith('/api');
   .icon-emoji-mode { display: none; }
   [data-icon-mode="true"] .icon-text-mode { display: none; }
   [data-icon-mode="true"] .icon-emoji-mode { display: block; }
+
+  /* Introduction nav: text by default, home icon in icon mode */
+  .nav-intro-text { display: inline-block; }
+  .nav-intro-icon { display: none; }
+  [data-icon-mode="true"] .nav-intro-text { display: none; }
+  [data-icon-mode="true"] .nav-intro-icon { display: inline-flex; align-items: center; justify-content: center; }
+  .nav-intro-icon svg { display: block; }
 
   .theme-toggle.spinning svg {
     animation: spin 0.8s linear infinite;
