@@ -511,7 +511,7 @@ import Base from '../layouts/Base.astro';
     const tbody = document.getElementById('table-body')!;
     tbody.innerHTML = filtered.map(m => {
       const es = m.effectiveStatus;
-      const STATUS_ICONS: Record<string, string> = { ok: '\u{2705}', stale: '\u{1F7E1}', error: '\u{274C}' };
+      const STATUS_ICONS: Record<string, string> = { ok: '\u{1F7E2}', stale: '\u{1F7E1}', error: '\u{274C}' };
       const STATUS_LABELS: Record<string, string> = { ok: 'Synced', stale: 'Stale', error: 'Error' };
       const statusIcon = STATUS_ICONS[es] || es;
       const statusCell = iconMode
