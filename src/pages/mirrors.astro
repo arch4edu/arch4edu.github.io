@@ -70,7 +70,6 @@ import Base from '../layouts/Base.astro';
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
-    max-width: 48rem;
   }
 
   .summary-card {
@@ -321,8 +320,7 @@ import Base from '../layouts/Base.astro';
 
   @media (max-width: 768px) {
     .summary {
-      grid-template-columns: repeat(3, 1fr);
-      max-width: none;
+      grid-template-columns: repeat(4, 1fr);
       gap: 0.75rem;
     }
 
@@ -457,10 +455,12 @@ import Base from '../layouts/Base.astro';
   function buildCountryButtons() {
     const countries = [...new Set(allMirrors.map(m => m.country))].sort();
     const container = document.getElementById('country-filters')!;
-    let html = `<button class="filter-btn ${currentCountry === 'all' ? 'active' : ''}" data-country="all">All Regions</button>`;
+    const allLabel = iconMode ? '\u{1F30D}' : 'All Regions';
+    let html = `<button class="filter-btn ${currentCountry === 'all' ? 'active' : ''}" data-country="all">${allLabel}</button>`;
     for (const c of countries) {
       const count = allMirrors.filter(m => m.country === c).length;
-      html += `<button class="filter-btn ${currentCountry === c ? 'active' : ''}" data-country="${c}">${c} (${count})</button>`;
+      const label = iconMode ? `${COUNTRY_FLAGS[c] || '\u{1F3F3}\uFE0F'}` : `${c} (${count})`;
+      html += `<button class="filter-btn ${currentCountry === c ? 'active' : ''}" data-country="${c}" title="${c}">${label}</button>`;
     }
     container.innerHTML = html;
     container.addEventListener('click', (e) => {
@@ -580,6 +580,7 @@ import Base from '../layouts/Base.astro';
 
   document.addEventListener('icon-mode-changed', () => {
     iconMode = document.documentElement.getAttribute('data-icon-mode') === 'true';
+    buildCountryButtons();
     render();
   });
 
