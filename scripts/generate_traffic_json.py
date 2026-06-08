@@ -40,15 +40,13 @@ def parse_args():
 def generate_traffic(args):
     from datetime import datetime, timedelta, timezone
 
-    since = (datetime.now(timezone.utc) - timedelta(days=args.days)).strftime('%Y-%m-%d')
-
     query = """
-    query TrafficByCountry($zoneTag: String!, $since: String!) {
+    query TrafficByCountry($zoneTag: String!, $since: String!, $until: String!) {
       viewer {
         zones(filter: { zoneTag: $zoneTag }) {
           httpRequestsAdaptiveGroups(
             limit: 300
-            filter: { date_geq: $since }
+            filter: { date_geq: $since, date_leq: $until }
           ) {
             count
             dimensions {
@@ -64,32 +62,39 @@ def generate_traffic(args):
         'Authorization': f'Bearer {args.cf_token}',
         'Content-Type': 'application/json',
     }
-    payload = {
-        'query': query,
-        'variables': {'zoneTag': args.cf_zone_id, 'since': since},
-    }
-
-    resp = requests.post(CF_GRAPHQL, json=payload, headers=headers, timeout=30)
-    resp.raise_for_status()
-    data = resp.json()
-
-    if data.get('errors'):
-        for err in data['errors']:
-            log.error(f"CF API error: {err.get('message', err)}")
-        raise SystemExit(1)
-
-    zones = data.get('data', {}).get('viewer', {}).get('zones', [])
-    if not zones:
-        log.error('No zone data returned')
-        raise SystemExit(1)
-
-    groups = zones[0].get('httpRequestsAdaptiveGroups', [])
 
     country_map = {}
-    for group in groups:
-        country = group['dimensions']['clientCountryName']
-        count = group['count']
-        country_map[country] = country_map.get(country, 0) + count
+    now = datetime.now(timezone.utc)
+
+    for i in range(args.days):
+        day = now - timedelta(days=i)
+        since = day.strftime('%Y-%m-%d')
+        until = since
+        log.info(f'  querying {since} ...')
+
+        payload = {
+            'query': query,
+            'variables': {'zoneTag': args.cf_zone_id, 'since': since, 'until': until},
+        }
+
+        resp = requests.post(CF_GRAPHQL, json=payload, headers=headers, timeout=30)
+        resp.raise_for_status()
+        data = resp.json()
+
+        if data.get('errors'):
+            for err in data['errors']:
+                log.error(f"CF API error: {err.get('message', err)}")
+            raise SystemExit(1)
+
+        zones = data.get('data', {}).get('viewer', {}).get('zones', [])
+        if not zones:
+            log.warning(f'  {since}: no zone data')
+            continue
+
+        for group in zones[0].get('httpRequestsAdaptiveGroups', []):
+            country = group['dimensions']['clientCountryName']
+            count = group['count']
+            country_map[country] = country_map.get(country, 0) + count
 
     countries = sorted(
         [{'country': k, 'requests': v} for k, v in country_map.items()],
