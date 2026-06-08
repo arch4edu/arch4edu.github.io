@@ -80,7 +80,20 @@ import Base from '../layouts/Base.astro';
           </tbody>
         </table>
       </div>
-      <div class="pagination" id="pagination"></div>
+      <div class="pagination" id="pagination">
+        <div class="pagination-left">
+          <label class="page-size-label">
+            <span>Rows</span>
+            <select id="page-size-select" class="page-size-select">
+              <option value="100" selected>100</option>
+              <option value="250">250</option>
+              <option value="500">500</option>
+              <option value="all">All</option>
+            </select>
+          </label>
+        </div>
+        <div class="pagination-pages" id="pagination-pages"></div>
+      </div>
     </section>
   </div>
 </Base>
@@ -172,7 +185,8 @@ import Base from '../layouts/Base.astro';
 
   .filter-btn,
   :global(.filters .filter-btn),
-  :global(.category-filters .filter-btn) {
+  :global(.category-filters .filter-btn),
+  :global(.pagination-pages .filter-btn) {
     background: var(--bg-secondary);
     border: 1px solid var(--border);
     border-radius: 4px;
@@ -186,14 +200,16 @@ import Base from '../layouts/Base.astro';
 
   .filter-btn:hover,
   :global(.filters .filter-btn:hover),
-  :global(.category-filters .filter-btn:hover) {
+  :global(.category-filters .filter-btn:hover),
+  :global(.pagination-pages .filter-btn:hover:not(:disabled):not(.active)) {
     background: var(--bg-tertiary);
     color: var(--text-primary);
   }
 
   .filter-btn.active,
   :global(.filters .filter-btn.active),
-  :global(.category-filters .filter-btn.active) {
+  :global(.category-filters .filter-btn.active),
+  :global(.pagination-pages .filter-btn.active) {
     background: var(--accent-dim);
     border-color: var(--accent);
     color: var(--accent);
@@ -402,37 +418,67 @@ import Base from '../layouts/Base.astro';
 
   /* Pagination */
   .pagination {
-    padding: 0.75rem 1rem;
+    padding: 0.6rem 1rem;
     border-top: 1px solid var(--border);
     display: flex;
-    justify-content: center;
-    gap: 0.5rem;
+    justify-content: space-between;
     align-items: center;
+    gap: 0.75rem;
   }
 
-  .pagination button {
-    background: var(--bg-tertiary);
-    border: 1px solid var(--border);
-    border-radius: 4px;
-    padding: 0.3rem 0.6rem;
-    color: var(--text-secondary);
-    font-family: var(--font-mono);
+  .pagination-left {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-shrink: 0;
+  }
+
+  .page-size-label {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
     font-size: 0.75rem;
+    color: var(--text-secondary);
     cursor: pointer;
   }
 
-  .pagination button:hover {
+  .page-size-select {
+    appearance: none;
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 0.25rem 1.4rem 0.25rem 0.5rem;
     color: var(--text-primary);
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    cursor: pointer;
+    outline: none;
+    transition: border-color 0.15s;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%23656d76'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.4rem center;
+  }
+
+  .page-size-select:focus {
+    border-color: var(--accent);
+  }
+
+  .page-size-select:hover {
     border-color: var(--text-secondary);
   }
 
-  .pagination button.active {
-    background: var(--accent-dim);
-    border-color: var(--accent);
-    color: var(--accent);
+  .pagination-pages {
+    display: flex;
+    gap: 0.25rem;
+    align-items: center;
   }
 
-  .pagination button:disabled {
+  :global(.pagination-pages .filter-btn) {
+    min-width: 1.8rem;
+    text-align: center;
+  }
+
+  :global(.pagination-pages .filter-btn:disabled) {
     opacity: 0.3;
     cursor: not-allowed;
   }
@@ -440,6 +486,7 @@ import Base from '../layouts/Base.astro';
   .page-info {
     font-size: 0.75rem;
     color: var(--text-muted);
+    padding: 0 0.2rem;
   }
 
   /* Responsive */
@@ -485,7 +532,8 @@ import Base from '../layouts/Base.astro';
 
     .filter-btn,
     :global(.filters .filter-btn),
-    :global(.category-filters .filter-btn) {
+    :global(.category-filters .filter-btn),
+    :global(.pagination-pages .filter-btn) {
       padding: 0.3rem 0.5rem;
       font-size: 0.7rem;
       flex-shrink: 0;
@@ -517,13 +565,11 @@ import Base from '../layouts/Base.astro';
     .pagination {
       flex-wrap: wrap;
       padding: 0.6rem 0.5rem;
-      gap: 0.35rem;
+      gap: 0.5rem;
     }
 
-    .pagination button {
-      min-width: 32px;
-      min-height: 32px;
-      padding: 0.25rem 0.5rem;
+    .pagination-pages {
+      flex-wrap: wrap;
     }
   }
 
@@ -558,7 +604,9 @@ import Base from '../layouts/Base.astro';
 
 <script>
   const API_URL = 'https://api.arch4edu.org/status/builds.json';
-  const PAGE_SIZE = 100;
+  const PAGE_SIZE_KEY = 'page_size';
+  let pageSize = Number(localStorage.getItem(PAGE_SIZE_KEY)) || 100;
+  if (isNaN(pageSize) || pageSize <= 0) pageSize = 100;
   const STARRED_KEY = 'starred_packages';
   const FILTER_KEY = 'current_filter';
   const CATEGORY_KEY = 'current_category';
@@ -754,8 +802,9 @@ import Base from '../layouts/Base.astro';
   }
 
   function render() {
-    const start = (currentPage - 1) * PAGE_SIZE;
-    const page = filtered.slice(start, start + PAGE_SIZE);
+    const effectiveSize = pageSize === 0 ? filtered.length : pageSize;
+    const start = (currentPage - 1) * effectiveSize;
+    const page = filtered.slice(start, start + effectiveSize);
     const tbody = document.getElementById('table-body')!;
 
     tbody.innerHTML = page.map(p => {
@@ -786,28 +835,32 @@ import Base from '../layouts/Base.astro';
       </tr>`;
     }).join('');
 
-    document.getElementById('showing-count')!.textContent = `Showing ${start + 1}-${Math.min(start + PAGE_SIZE, filtered.length)} of ${filtered.length}`;
+    const showEnd = Math.min(start + effectiveSize, filtered.length);
+    document.getElementById('showing-count')!.textContent = filtered.length > 0
+      ? `Showing ${start + 1}-${showEnd} of ${filtered.length}`
+      : 'No results';
     renderPagination();
   }
 
   function renderPagination() {
-    const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
-    const container = document.getElementById('pagination')!;
+    const effectiveSize = pageSize === 0 ? filtered.length : pageSize;
+    const totalPages = Math.ceil(filtered.length / effectiveSize);
+    const container = document.getElementById('pagination-pages')!;
 
     if (totalPages <= 1) { container.innerHTML = ''; return; }
 
-    let html = `<button ${currentPage === 1 ? 'disabled' : ''} data-page="${currentPage - 1}">&laquo;</button>`;
+    let html = `<button class="filter-btn" ${currentPage === 1 ? 'disabled' : ''} data-page="${currentPage - 1}">&laquo;</button>`;
 
     const range = getPageRange(currentPage, totalPages);
     for (const p of range) {
       if (p === '...') {
         html += `<span class="page-info">...</span>`;
       } else {
-        html += `<button class="${p === currentPage ? 'active' : ''}" data-page="${p}">${p}</button>`;
+        html += `<button class="filter-btn ${p === currentPage ? 'active' : ''}" data-page="${p}">${p}</button>`;
       }
     }
 
-    html += `<button ${currentPage === totalPages ? 'disabled' : ''} data-page="${currentPage + 1}">&raquo;</button>`;
+    html += `<button class="filter-btn" ${currentPage === totalPages ? 'disabled' : ''} data-page="${currentPage + 1}">&raquo;</button>`;
     container.innerHTML = html;
   }
 
@@ -842,12 +895,25 @@ import Base from '../layouts/Base.astro';
     applyFilters();
   });
 
-  document.getElementById('pagination')!.addEventListener('click', (e) => {
+  document.getElementById('pagination-pages')!.addEventListener('click', (e) => {
     const btn = (e.target as HTMLElement).closest('button');
     if (!btn || btn.disabled) return;
     currentPage = Number(btn.dataset.page);
     render();
   });
+
+  // Page size selector
+  const pageSizeSelect = document.getElementById('page-size-select') as HTMLSelectElement;
+  if (pageSizeSelect) {
+    pageSizeSelect.value = pageSize === 0 ? 'all' : String(pageSize);
+    pageSizeSelect.addEventListener('change', () => {
+      const val = pageSizeSelect.value;
+      pageSize = val === 'all' ? 0 : Number(val);
+      localStorage.setItem(PAGE_SIZE_KEY, String(pageSize));
+      currentPage = 1;
+      render();
+    });
+  }
 
   // Star button delegation
   document.getElementById('table-body')!.addEventListener('click', (e) => {
