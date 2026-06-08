@@ -36,7 +36,7 @@ def parse_args():
     p.add_argument('-t', '--cf-token', required=True, help='Cloudflare API token (Analytics:Read)')
     p.add_argument('-a', '--cf-account-id', required=True, help='Cloudflare Account ID')
     p.add_argument('-b', '--r2-bucket', default='arch4edu')
-    p.add_argument('-n', '--days', type=int, default=30, help='Number of days to include (default: 30)')
+    p.add_argument('-n', '--days', type=int, default=7, help='Number of days to include (default: 7)')
     p.add_argument('-c', '--cache', default='.traffic_cache.json', help='Local cache file path')
 
     return p.parse_args()
