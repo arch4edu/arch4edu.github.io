@@ -4,26 +4,23 @@ import Base from '../layouts/Base.astro';
 
 <Base title="API - arch4edu">
   <div class="api-page">
-    <section class="api-hero">
-      <h2 class="api-title">Build Status API</h2>
-      <p class="api-subtitle">Public JSON endpoint for arch4edu package build status.</p>
-      <div class="api-meta">
-        <span class="meta-pill"><span class="dot dot-ok"></span>Live</span>
-        <span class="meta-pill">No auth required</span>
-      </div>
-    </section>
+    <article class="api-block">
+      <header class="api-hero">
+        <h2 class="api-title">Build Status API</h2>
+        <p class="api-subtitle">Public JSON endpoint for arch4edu package build status.</p>
+      </header>
 
-    <section class="api-section">
-      <h3>Endpoint</h3>
-      <div class="endpoint">
-        <span class="method">GET</span>
-        <a class="endpoint-url" href="https://api.arch4edu.org/status/builds.json" target="_blank" rel="noopener">https://api.arch4edu.org/status/builds.json</a>
-      </div>
-    </section>
+      <section class="api-section">
+        <h3>Endpoint</h3>
+        <div class="endpoint">
+          <span class="method">GET</span>
+          <a class="endpoint-url" href="https://api.arch4edu.org/status/builds.json" target="_blank" rel="noopener">https://api.arch4edu.org/status/builds.json</a>
+        </div>
+      </section>
 
-    <section class="api-section">
-      <h3>Response</h3>
-      <pre class="code"><code>{`{
+      <section class="api-section">
+        <h3>Response</h3>
+        <pre class="code"><code>{`{
   "generated_at": 1779683099,
   "total": 1472,
   "packages": [
@@ -40,38 +37,86 @@ import Base from '../layouts/Base.astro';
     }
   ]
 }`}</code></pre>
-    </section>
+      </section>
 
-    <section class="api-section">
-      <h3>Usage</h3>
-      <pre class="code"><code>{`curl -s https://api.arch4edu.org/status/builds.json | jq '.packages[] | select(.status=="FAILED")'`}</code></pre>
-    </section>
+      <section class="api-section">
+        <h3>Usage</h3>
+        <pre class="code"><code>{`curl -s https://api.arch4edu.org/status/builds.json | jq '.packages[] | select(.status=="FAILED")'`}</code></pre>
+      </section>
 
-    <section class="api-section">
-      <h3>Notes</h3>
-      <ul class="api-notes">
-        <li>Data is refreshed periodically. Cached at edge (TTL ~5 min).</li>
-        <li>Schema may grow with new fields; existing fields remain stable.</li>
-      </ul>
-    </section>
+      <section class="api-section">
+        <h3>Notes</h3>
+        <ul class="api-notes">
+          <li>Data is refreshed periodically and cached at the edge (TTL ~5 min).</li>
+          <li>Schema may grow with new fields; existing fields remain stable.</li>
+        </ul>
+      </section>
+    </article>
+
+    <article class="api-block">
+      <header class="api-hero">
+        <h2 class="api-title">Traffic API</h2>
+        <p class="api-subtitle">Geographic request distribution from Cloudflare Analytics for <code>repository.arch4edu.org</code>.</p>
+      </header>
+
+      <section class="api-section">
+        <h3>Endpoint</h3>
+        <div class="endpoint">
+          <span class="method">GET</span>
+          <a class="endpoint-url" href="https://api.arch4edu.org/status/traffic.json" target="_blank" rel="noopener">https://api.arch4edu.org/status/traffic.json</a>
+        </div>
+      </section>
+
+      <section class="api-section">
+        <h3>Response</h3>
+        <pre class="code"><code>{`{
+  "generated_at": 1780000000,
+  "days": 7,
+  "total_requests": 28463,
+  "countries": [
+    { "country": "US", "percent": 32.548 },
+    { "country": "NL", "percent": 14.289 },
+    { "country": "FR", "percent": 5.207 }
+  ]
+}`}</code></pre>
+      </section>
+
+      <section class="api-section">
+        <h3>Usage</h3>
+        <pre class="code"><code>{`curl -s https://api.arch4edu.org/status/traffic.json | jq '.countries[:5]'`}</code></pre>
+      </section>
+
+      <section class="api-section">
+        <h3>Notes</h3>
+        <ul class="api-notes">
+          <li>Regenerated once per day from the Cloudflare Analytics GraphQL API.</li>
+          <li>Country / Region labels are provided by Cloudflare and do not represent the views or positions of arch4edu.</li>
+        </ul>
+      </section>
+    </article>
   </div>
 </Base>
 
 <style>
   .api-page {
-    max-width: 880px;
-    margin: 0 auto;
+    max-width: none;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .api-block {
+    padding-bottom: 0;
   }
 
   .api-hero {
-    padding: 2rem 0 1.5rem;
-    border-bottom: 1px solid var(--border);
-    margin-bottom: 2rem;
+    padding: 1.5rem 0 0.25rem;
   }
 
   .api-title {
     font-family: var(--font-display);
-    font-size: 1.85rem;
+    font-size: 1.65rem;
     font-weight: 700;
     color: var(--accent);
     margin-bottom: 0.5rem;
@@ -81,55 +126,33 @@ import Base from '../layouts/Base.astro';
   .api-subtitle {
     color: var(--text-secondary);
     line-height: 1.6;
-    margin-bottom: 1rem;
+    margin-bottom: 0;
   }
 
-  .api-meta {
-    display: flex;
-    gap: 0.5rem;
-    flex-wrap: wrap;
-  }
-
-  .meta-pill {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4rem;
-    background: var(--bg-secondary);
-    border: 1px solid var(--border);
-    color: var(--text-secondary);
-    border-radius: 999px;
-    padding: 0.2rem 0.65rem;
-    font-size: 0.7rem;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-  }
-
-  .dot {
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background: var(--text-muted);
-  }
-
-  .dot-ok {
-    background: var(--status-ok);
-    box-shadow: 0 0 0 3px var(--status-ok-bg);
+  .api-subtitle code {
+    font-size: 0.78rem;
+    background: var(--bg-tertiary);
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
   }
 
   .api-section {
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .api-section:last-child {
+    margin-bottom: 0;
   }
 
   .api-section h3 {
     font-family: var(--font-display);
-    font-size: 1.15rem;
+    font-size: 1.05rem;
     font-weight: 600;
     color: var(--text-primary);
-    margin-bottom: 0.75rem;
+    margin-bottom: 0.65rem;
     padding-bottom: 0.35rem;
     border-bottom: 1px solid var(--border);
   }
-
 
   .endpoint {
     display: flex;
@@ -152,13 +175,13 @@ import Base from '../layouts/Base.astro';
     padding: 0.15rem 0.5rem;
     font-size: 0.7rem;
     letter-spacing: 0.05em;
+    flex-shrink: 0;
   }
 
   .endpoint-url {
     color: var(--text-primary);
     word-break: break-all;
   }
-
 
   .code {
     background: var(--bg-secondary);
@@ -172,7 +195,6 @@ import Base from '../layouts/Base.astro';
     line-height: 1.55;
     white-space: pre;
   }
-
 
   .api-notes {
     list-style: none;
@@ -199,21 +221,20 @@ import Base from '../layouts/Base.astro';
   }
 
   @media (max-width: 640px) {
+    .api-page {
+      gap: 1.25rem;
+    }
+
+    .api-hero {
+      padding: 1.25rem 0 0.25rem;
+    }
+
     .api-title {
-      font-size: 1.45rem;
+      font-size: 1.35rem;
     }
 
-    .schema-row {
-      grid-template-columns: 1fr;
-      gap: 0.25rem;
-    }
-
-    .schema-row.schema-head {
-      display: none;
-    }
-
-    .schema-row code {
-      width: fit-content;
+    .api-section h3 {
+      font-size: 0.95rem;
     }
   }
 </style>

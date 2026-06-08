@@ -81,13 +81,155 @@ import Base from '../layouts/Base.astro';
         </a>
       </div>
     </section>
+
+    <section class="intro-section traffic-map" id="traffic-map">
+      <h3>Traffic by Country / Region</h3>
+      <div class="map-body">
+        <div class="map-wrap" id="map-wrap">
+          <div id="gl-map"></div>
+          <div class="map-tooltip" id="map-tooltip"></div>
+        </div>
+      </div>
+      <div class="map-legend">
+        <span class="legend-label">Less</span>
+        <div class="legend-steps">
+          <span class="legend-step"></span>
+          <span class="legend-step"></span>
+          <span class="legend-step"></span>
+          <span class="legend-step"></span>
+          <span class="legend-step"></span>
+        </div>
+        <span class="legend-label">More</span>
+      </div>
+      <ul class="map-notes" id="map-notes">
+        <li>Data covers the last <span id="map-days">7</span> days of traffic to <code>repository.arch4edu.org</code> only.</li>
+        <li>Sourced from Cloudflare Analytics. Country / Region labels are provided by Cloudflare and do not represent the views or positions of arch4edu.</li>
+      </ul>
+    </section>
   </div>
 </Base>
 
 <style>
   .intro-page {
-    max-width: 720px;
-    margin: 0 auto;
+    max-width: none;
+    margin: 0;
+  }
+
+  .traffic-map {
+    position: relative;
+  }
+
+  .map-body {
+    display: flex;
+  }
+
+  .map-wrap {
+    position: relative;
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
+    aspect-ratio: 1264 / 440;
+  }
+
+  :global(#gl-map) {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  :global(#gl-map .maplibregl-ctrl-attrib),
+  :global(#gl-map .mapboxgl-ctrl-attrib) {
+    font-size: 10px;
+    background: rgba(0,0,0,0.5);
+    color: #aaa;
+  }
+
+  :global(#gl-map .maplibregl-ctrl-attrib a),
+  :global(#gl-map .mapboxgl-ctrl-attrib a) {
+    color: #ccc;
+  }
+
+  .map-legend {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.6rem;
+    justify-content: center;
+  }
+
+  .legend-label {
+    font-size: 0.6rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .legend-steps {
+    display: flex;
+    gap: 2px;
+  }
+
+  .legend-step {
+    width: 18px;
+    height: 8px;
+    border-radius: 1px;
+  }
+
+  .legend-step:nth-child(1) { background: #e0f2fe; }
+  .legend-step:nth-child(2) { background: #7dd3fc; }
+  .legend-step:nth-child(3) { background: #38bdf8; }
+  .legend-step:nth-child(4) { background: #0284c7; }
+  .legend-step:nth-child(5) { background: #075985; }
+
+  :global([data-theme="dark"]) .legend-step:nth-child(1) { background: #082f49; }
+  :global([data-theme="dark"]) .legend-step:nth-child(2) { background: #075985; }
+  :global([data-theme="dark"]) .legend-step:nth-child(3) { background: #0284c7; }
+  :global([data-theme="dark"]) .legend-step:nth-child(4) { background: #0ea5e9; }
+  :global([data-theme="dark"]) .legend-step:nth-child(5) { background: #38bdf8; box-shadow: 0 0 4px rgba(56, 189, 248, 0.6); }
+
+  .map-tooltip {
+    display: none;
+    position: absolute;
+    background: var(--bg-primary);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0;
+    font-size: 0.75rem;
+    color: var(--text-primary);
+    pointer-events: none;
+    white-space: nowrap;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    z-index: 10;
+    overflow: hidden;
+  }
+
+  .map-notes {
+    list-style: none;
+    padding: 0;
+    margin: 0.75rem 0 0;
+  }
+
+  .map-notes li {
+    font-size: 0.65rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    padding: 0.15rem 0;
+  }
+
+  .map-notes li::before {
+    content: "\2022";
+    margin-right: 0.4rem;
+    color: var(--text-muted);
+    opacity: 0.5;
+  }
+
+  .map-notes code {
+    font-size: 0.6rem;
+    background: var(--bg-tertiary);
+    padding: 0.05rem 0.25rem;
+    border-radius: 2px;
   }
 
   .intro-hero {
@@ -258,5 +400,179 @@ import Base from '../layouts/Base.astro';
     .community-grid {
       grid-template-columns: 1fr 1fr;
     }
+
+    .map-legend {
+      margin-top: 0.4rem;
+    }
+
+    .legend-step {
+      width: 14px;
+      height: 6px;
+    }
+
+    .legend-label {
+      font-size: 0.55rem;
+    }
   }
 </style>
+
+<script>
+  // --- Traffic Map (MapLibre GL) ---
+  const TRAFFIC_URL = 'https://api.arch4edu.org/status/traffic.json';
+  const GEOJSON_URL = '/countries.geo.json';
+
+  function isDark(): boolean {
+    return document.documentElement.getAttribute('data-theme') === 'dark';
+  }
+
+  function mapStyle(): string {
+    return isDark()
+      ? 'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json'
+      : 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json';
+  }
+
+  function noTrafficColor(): string {
+    return isDark() ? 'rgba(30,41,59,0.45)' : 'rgba(203,213,225,0.45)';
+  }
+
+  function borderPaint(): Record<string, unknown> {
+    return { 'line-color': isDark() ? 'rgba(71,85,105,0.4)' : 'rgba(148,163,184,0.45)', 'line-width': 0.4 };
+  }
+
+  function fillPaint(): Record<string, unknown> {
+    return {
+      'fill-color': [
+        'interpolate', ['linear'], ['get', 'ratio'],
+        0, noTrafficColor(),
+        0.05, isDark() ? '#082f49' : '#e0f2fe',
+        0.2, isDark() ? '#075985' : '#7dd3fc',
+        0.45, isDark() ? '#0284c7' : '#38bdf8',
+        0.75, isDark() ? '#0ea5e9' : '#0284c7',
+        1.0, isDark() ? '#38bdf8' : '#075985',
+      ],
+      'fill-opacity': 0.85,
+    };
+  }
+
+  function addLayers(map: any, geoData: any) {
+    if (!map.getSource('countries')) {
+      map.addSource('countries', { type: 'geojson', data: geoData });
+    }
+    map.addLayer({
+      id: 'country-fill', type: 'fill', source: 'countries',
+      paint: fillPaint(),
+    });
+    map.addLayer({
+      id: 'country-border', type: 'line', source: 'countries',
+      paint: borderPaint(),
+    });
+    map.addLayer({
+      id: 'country-highlight', type: 'line', source: 'countries',
+      paint: { 'line-color': '#38bdf8', 'line-width': 1.5 },
+      filter: ['==', ['get', 'iso_a2'], ''],
+    });
+  }
+
+  async function initTrafficMap() {
+    const mapEl = document.getElementById('gl-map');
+    const tooltip = document.getElementById('map-tooltip')!;
+
+    if (!mapEl || !(window as any).maplibregl) {
+      setTimeout(initTrafficMap, 300);
+      return;
+    }
+
+    const ml = (window as any).maplibregl;
+
+    try {
+      const [geoData, trafficResp] = await Promise.all([
+        fetch(GEOJSON_URL).then(r => r.json()),
+        fetch(TRAFFIC_URL).then(r => r.json()),
+      ]);
+
+      // Build alpha-2 code -> percent lookup (backend now emits percent with 3 decimals)
+      const codeToPercent: Record<string, number> = {};
+      for (const c of trafficResp.countries) {
+        const code = String(c.country || '').toLowerCase();
+        codeToPercent[code] = (codeToPercent[code] || 0) + (c.percent || 0);
+      }
+
+      const maxPct = Math.max(...trafficResp.countries.map((c: any) => c.percent || 0), 0.001);
+
+      // Match GeoJSON features by iso_a2 property
+      for (const feature of geoData.features) {
+        const a2 = feature.properties.iso_a2 || '';
+        const pct = codeToPercent[a2] || 0;
+        feature.properties.percent = pct;
+        feature.properties.ratio = pct > 0 ? Math.sqrt(pct / maxPct) : 0;
+      }
+
+      document.getElementById('map-days')!.textContent = String(trafficResp.days || 7);
+
+      const map = new ml.Map({
+        container: 'gl-map',
+        style: mapStyle(),
+        center: [10, 20],
+        zoom: 1.2,
+        minZoom: 1,
+        maxZoom: 6,
+        attributionControl: true,
+        dragRotate: false,
+        pitchWithRotate: false,
+      });
+
+      map.addControl(new ml.NavigationControl({ showCompass: false }), 'bottom-right');
+      map.resize();
+
+      map.on('load', () => {
+        map.resize();
+        addLayers(map, geoData);
+
+        let hoveredId = '';
+
+        map.on('mousemove', 'country-fill', (e: any) => {
+          map.getCanvas().style.cursor = 'pointer';
+          const props = e.features[0].properties;
+          const id = props.iso_a2;
+
+          if (id !== hoveredId) {
+            hoveredId = id;
+            map.setFilter('country-highlight', ['==', ['get', 'iso_a2'], id]);
+          }
+
+          const name = props.name;
+          if (props.percent > 0) {
+            tooltip.innerHTML = `${name} ${props.percent.toFixed(3)}%`;
+          } else {
+            tooltip.innerHTML = `${name}`;
+          }
+          tooltip.style.display = 'block';
+
+          const rect = mapEl.closest('.traffic-map')!.getBoundingClientRect();
+          tooltip.style.left = (e.originalEvent.clientX - rect.left + 14) + 'px';
+          tooltip.style.top = (e.originalEvent.clientY - rect.top - 36) + 'px';
+        });
+
+        map.on('mouseleave', 'country-fill', () => {
+          map.getCanvas().style.cursor = '';
+          tooltip.style.display = 'none';
+          hoveredId = '';
+          map.setFilter('country-highlight', ['==', ['get', 'iso_a2'], '']);
+        });
+      });
+
+      const observer = new MutationObserver(() => {
+        if (!map) return;
+        map.setStyle(mapStyle());
+        map.once('styledata', () => addLayers(map, geoData));
+      });
+      observer.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+
+    } catch (e) {
+      console.error('Traffic map error:', e);
+      mapEl.innerHTML = '<div style="text-align:center;padding:2rem;color:var(--text-muted);font-size:0.8rem;">Map unavailable</div>';
+    }
+  }
+
+  initTrafficMap();
+</script>
