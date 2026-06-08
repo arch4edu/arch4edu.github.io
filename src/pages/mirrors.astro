@@ -250,10 +250,17 @@ import Base from '../layouts/Base.astro';
     border-top: 4px solid var(--accent);
   }
 
-  :global(.col-country) { width: 7rem; }
+  :global(.col-country) { width: 7rem; text-align: center; }
   :global(.col-url) { width: auto; }
-  :global(.col-status) { width: 5rem; }
+  :global(.col-status) { width: 5rem; text-align: center; }
   :global(.col-sync) { width: 10rem; }
+
+  :global(.mirror-table td:first-child),
+  :global(.mirror-table td:nth-child(3)),
+  :global(.mirror-table th:first-child),
+  :global(.mirror-table th:nth-child(3)) {
+    text-align: center;
+  }
 
   :global(.mirror-table .cell-url) {
     max-width: 0;
