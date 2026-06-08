@@ -8,6 +8,7 @@ const pathname = Astro.url.pathname;
 const isHome = pathname === '/' || pathname === '/index.html';
 const isHomePage = pathname.startsWith('/home');
 const isApi = pathname.startsWith('/api');
+const isMirrors = pathname.startsWith('/mirrors');
 ---
 
 <!DOCTYPE html>
@@ -53,6 +54,10 @@ const isApi = pathname.startsWith('/api');
           </a>
           <a href="/" class:list={["nav-link", { active: isHome }]}>Build Status</a>
           <a href="/api" class:list={["nav-link", { active: isApi }]}>API</a>
+          <a href="/mirrors" class:list={["nav-link", "nav-mirrors-text", { active: isMirrors }]}>Mirrors</a>
+          <a href="/mirrors" class:list={["nav-link", "nav-mirrors-icon", { active: isMirrors }]} aria-label="Mirrors" title="Mirrors">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="8" rx="2" ry="2"/><rect x="2" y="14" width="20" height="8" rx="2" ry="2"/><line x1="6" y1="6" x2="6.01" y2="6"/><line x1="6" y1="18" x2="6.01" y2="18"/></svg>
+          </a>
           <span class="nav-spacer"></span>
           <button class="theme-toggle" id="icon-mode-toggle" aria-label="Toggle icon mode" title="Toggle status icons">
             <svg class="icon-text-mode" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 7 4 4 20 4 20 7"/><line x1="9" y1="20" x2="15" y2="20"/><line x1="12" y1="4" x2="12" y2="20"/></svg>
@@ -298,6 +303,13 @@ const isApi = pathname.startsWith('/api');
   [data-icon-mode="true"] .nav-home-text { display: none; }
   [data-icon-mode="true"] .nav-home-icon { display: inline-flex; align-items: center; justify-content: center; }
   .nav-home-icon svg { display: block; }
+
+  /* Mirrors nav: text by default, server icon in icon mode */
+  .nav-mirrors-text { display: inline-block; }
+  .nav-mirrors-icon { display: none; }
+  [data-icon-mode="true"] .nav-mirrors-text { display: none; }
+  [data-icon-mode="true"] .nav-mirrors-icon { display: inline-flex; align-items: center; justify-content: center; }
+  .nav-mirrors-icon svg { display: block; }
 
   .theme-toggle.spinning svg {
     animation: spin 0.8s linear infinite;

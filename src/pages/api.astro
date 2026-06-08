@@ -94,6 +94,52 @@ import Base from '../layouts/Base.astro';
         </ul>
       </section>
     </article>
+
+    <article class="api-block">
+      <header class="api-hero">
+        <h2 class="api-title">Mirror Status API</h2>
+        <p class="api-subtitle">Sync status of arch4edu repository mirrors.</p>
+      </header>
+
+      <section class="api-section">
+        <h3>Endpoint</h3>
+        <div class="endpoint">
+          <span class="method">GET</span>
+          <a class="endpoint-url" href="https://api.arch4edu.org/status/mirrors.json" target="_blank" rel="noopener">https://api.arch4edu.org/status/mirrors.json</a>
+        </div>
+      </section>
+
+      <section class="api-section">
+        <h3>Response</h3>
+        <pre class="code"><code>{`{
+  "generated_at": 1780913640,
+  "total": 15,
+  "mirrors": [
+    {
+      "country": "China",
+      "url": "https://mirrors.tuna.tsinghua.edu.cn/arch4edu/",
+      "status": "ok",
+      "timestamp": 1780862104,
+      "detail": null
+    }
+  ]
+}`}</code></pre>
+      </section>
+
+      <section class="api-section">
+        <h3>Usage</h3>
+        <pre class="code"><code>{`curl -s https://api.arch4edu.org/status/mirrors.json | jq '.mirrors[] | select(.status=="error")'`}</code></pre>
+      </section>
+
+      <section class="api-section">
+        <h3>Notes</h3>
+        <ul class="api-notes">
+          <li><code>status</code> is <code>"ok"</code> or <code>"error"</code>.</li>
+          <li><code>timestamp</code> is the last successful sync (Unix epoch). <code>null</code> when status is error.</li>
+          <li><code>detail</code> contains the error reason when applicable (e.g. Timeout, ConnectionError).</li>
+        </ul>
+      </section>
+    </article>
   </div>
 </Base>
 

@@ -1,0 +1,607 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="arch4edu - Mirror Status">
+  <div class="dashboard">
+    <section class="summary" id="summary">
+      <div class="summary-card summary-total">
+        <span class="summary-number" id="total-count">-</span>
+        <span class="summary-label">Total</span>
+      </div>
+      <div class="summary-card summary-ok">
+        <span class="summary-number" id="ok-count">-</span>
+        <span class="summary-label">Synced</span>
+      </div>
+      <div class="summary-card summary-stale">
+        <span class="summary-number" id="stale-count">-</span>
+        <span class="summary-label">Stale</span>
+      </div>
+      <div class="summary-card summary-fail">
+        <span class="summary-number" id="error-count">-</span>
+        <span class="summary-label">Error</span>
+      </div>
+    </section>
+
+    <section class="controls">
+      <div class="search-box">
+        <input type="text" id="search" placeholder="Search mirrors..." autocomplete="off" />
+      </div>
+      <div class="filters" id="status-filters"></div>
+      <div class="filters" id="country-filters"></div>
+    </section>
+
+    <section class="table-container">
+      <div class="table-info">
+        <span id="showing-count">Loading...</span>
+        <span class="update-time" id="update-time"></span>
+      </div>
+      <div class="table-scroll">
+        <table class="mirror-table" id="mirror-table">
+          <colgroup>
+            <col class="col-country" />
+            <col class="col-url" />
+            <col class="col-status" />
+            <col class="col-sync" />
+          </colgroup>
+          <thead>
+            <tr>
+              <th class="col-country sortable" data-sort="country">Country</th>
+              <th class="col-url sortable" data-sort="url">Mirror</th>
+              <th class="col-status sortable" data-sort="effectiveStatus">Status</th>
+              <th class="col-sync sortable" data-sort="timestamp">Last Sync</th>
+            </tr>
+          </thead>
+          <tbody id="table-body"></tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .dashboard {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .summary {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    max-width: 48rem;
+  }
+
+  .summary-card {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1.25rem 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .summary-number {
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: var(--font-display);
+  }
+
+  .summary-label {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .summary-total .summary-number { color: var(--text-primary); }
+  .summary-ok .summary-number { color: var(--status-ok); }
+  .summary-fail .summary-number { color: var(--status-fail); }
+
+  .controls {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .search-box input {
+    width: 100%;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.6rem 1rem;
+    color: var(--text-primary);
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    outline: none;
+    transition: border-color 0.15s;
+  }
+
+  .search-box input:focus {
+    border-color: var(--accent);
+  }
+
+  .search-box input::placeholder {
+    color: var(--text-muted);
+  }
+
+  .filters {
+    display: flex;
+    gap: 0.35rem;
+    flex-wrap: wrap;
+  }
+
+  .filter-btn,
+  :global(.filters .filter-btn) {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 0.25rem 0.5rem;
+    color: var(--text-secondary);
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .filter-btn:hover,
+  :global(.filters .filter-btn:hover) {
+    background: var(--bg-tertiary);
+    color: var(--text-primary);
+  }
+
+  .filter-btn.active,
+  :global(.filters .filter-btn.active) {
+    background: var(--accent-dim);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .table-container {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .table-info {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+  }
+
+  .table-scroll {
+    overflow-x: auto;
+  }
+
+  .mirror-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.8rem;
+  }
+
+  .mirror-table th {
+    background: var(--bg-tertiary);
+    padding: 0.6rem 1rem;
+    text-align: left;
+    font-weight: 500;
+    color: var(--text-secondary);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    position: sticky;
+    top: 0;
+    white-space: nowrap;
+  }
+
+  .mirror-table td {
+    padding: 0.5rem 1rem;
+    border-top: 1px solid var(--border);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  :global(.mirror-table tbody tr:nth-child(odd) td) {
+    background: var(--bg-secondary);
+  }
+
+  :global(.mirror-table tbody tr:nth-child(even) td) {
+    background: var(--bg-tertiary);
+  }
+
+  :global(.mirror-table tbody tr:hover td) {
+    background: var(--accent-dim);
+  }
+
+  .sortable {
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .sortable:hover {
+    color: var(--text-primary);
+  }
+
+  .sortable::after {
+    content: '';
+    display: inline-block;
+    margin-left: 0.3rem;
+    width: 0;
+    height: 0;
+    vertical-align: middle;
+  }
+
+  .sortable.sort-asc::after {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-bottom: 4px solid var(--accent);
+  }
+
+  .sortable.sort-desc::after {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 4px solid var(--accent);
+  }
+
+  :global(.col-country) { width: 7rem; }
+  :global(.col-url) { width: auto; }
+  :global(.col-status) { width: 5rem; }
+  :global(.col-sync) { width: 10rem; }
+
+  :global(.mirror-table .cell-url) {
+    max-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  :global(.mirror-table .cell-url a) {
+    color: var(--accent);
+  }
+
+  :global(.mirror-table .cell-sync) {
+    color: var(--text-muted);
+    font-size: 0.75rem;
+  }
+
+  :global(.mirror-table .cell-sync .sync-detail) {
+    color: var(--status-fail);
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 3px;
+    font-size: 0.7rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+
+  .badge-ok {
+    background: var(--status-ok-bg);
+    color: var(--status-ok);
+    border: 1px solid var(--status-ok);
+  }
+
+  .badge-error {
+    background: var(--status-fail-bg);
+    color: var(--status-fail);
+    border: 1px solid var(--status-fail);
+  }
+
+  .badge-stale {
+    background: var(--status-stale-bg);
+    color: var(--status-stale);
+    border: 1px solid var(--status-stale);
+  }
+
+  .summary-stale .summary-number { color: var(--status-stale); }
+
+  @media (min-width: 900px) {
+    .mirror-table {
+      font-size: 0.9rem;
+    }
+
+    .mirror-table th {
+      font-size: 0.78rem;
+    }
+
+    .badge {
+      font-size: 0.75rem;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .summary {
+      grid-template-columns: repeat(3, 1fr);
+      max-width: none;
+      gap: 0.75rem;
+    }
+
+    .summary-card {
+      padding: 1rem 0.75rem;
+    }
+
+    .summary-number {
+      font-size: 1.5rem;
+    }
+
+    .search-box input {
+      padding: 0.75rem 1rem;
+      font-size: 1rem;
+    }
+
+    .filters {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      flex-wrap: nowrap;
+      padding-bottom: 2px;
+    }
+
+    .filters::-webkit-scrollbar {
+      display: none;
+    }
+
+    .filter-btn,
+    :global(.filters .filter-btn) {
+      flex-shrink: 0;
+    }
+
+    .mirror-table th,
+    .mirror-table td {
+      padding: 0.5rem 0.6rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .summary-number {
+      font-size: 1.25rem;
+    }
+
+    .summary-label {
+      font-size: 0.65rem;
+    }
+
+    .mirror-table {
+      font-size: 0.75rem;
+    }
+
+    .badge {
+      font-size: 0.6rem;
+      padding: 0.1rem 0.35rem;
+    }
+  }
+</style>
+
+<script>
+  const API_URL = 'https://api.arch4edu.org/status/mirrors.json';
+  const STALE_THRESHOLD = 604800; // 7 days in seconds
+
+  const COUNTRY_FLAGS: Record<string, string> = {
+    Global: '\u{1F30D}',
+    China: '\u{1F1E8}\u{1F1F3}',
+    Austria: '\u{1F1E6}\u{1F1F9}',
+    France: '\u{1F1EB}\u{1F1F7}',
+    Germany: '\u{1F1E9}\u{1F1EA}',
+  };
+
+  let allMirrors: any[] = [];
+  let filtered: any[] = [];
+  let currentFilter = 'all';
+  let currentCountry = 'all';
+  let searchTerm = '';
+  let sortField = '';
+  let sortDir: 'asc' | 'desc' = 'asc';
+  let iconMode = document.documentElement.getAttribute('data-icon-mode') === 'true';
+
+  async function init() {
+    try {
+      const res = await fetch(API_URL);
+      const data = await res.json();
+      allMirrors = data.mirrors;
+      computeEffectiveStatus();
+      updateSummary(allMirrors);
+      const time = new Date(data.generated_at * 1000);
+      document.getElementById('update-time')!.textContent = `Updated: ${time.toLocaleString()}`;
+      buildStatusButtons();
+      buildCountryButtons();
+      applyFilters();
+    } catch (e) {
+      document.getElementById('showing-count')!.textContent = 'Failed to load data';
+    }
+  }
+
+  function computeEffectiveStatus() {
+    const now = Math.floor(Date.now() / 1000);
+    for (const m of allMirrors) {
+      if (m.status === 'error') {
+        m.effectiveStatus = 'error';
+      } else if (m.timestamp && (now - m.timestamp) > STALE_THRESHOLD) {
+        m.effectiveStatus = 'stale';
+      } else {
+        m.effectiveStatus = 'ok';
+      }
+    }
+  }
+
+  function buildStatusButtons() {
+    const container = document.getElementById('status-filters')!;
+    const okCount = allMirrors.filter(m => m.effectiveStatus === 'ok').length;
+    const staleCount = allMirrors.filter(m => m.effectiveStatus === 'stale').length;
+    const errCount = allMirrors.filter(m => m.effectiveStatus === 'error').length;
+    container.innerHTML = `
+      <button class="filter-btn ${currentFilter === 'all' ? 'active' : ''}" data-filter="all">All (${allMirrors.length})</button>
+      <button class="filter-btn ${currentFilter === 'ok' ? 'active' : ''}" data-filter="ok">Synced (${okCount})</button>
+      <button class="filter-btn ${currentFilter === 'stale' ? 'active' : ''}" data-filter="stale">Stale (${staleCount})</button>
+      <button class="filter-btn ${currentFilter === 'error' ? 'active' : ''}" data-filter="error">Error (${errCount})</button>
+    `;
+    container.addEventListener('click', (e) => {
+      const btn = (e.target as HTMLElement).closest('.filter-btn') as HTMLElement | null;
+      if (!btn) return;
+      container.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentFilter = btn.dataset.filter!;
+      applyFilters();
+    });
+  }
+
+  function buildCountryButtons() {
+    const countries = [...new Set(allMirrors.map(m => m.country))].sort();
+    const container = document.getElementById('country-filters')!;
+    let html = `<button class="filter-btn ${currentCountry === 'all' ? 'active' : ''}" data-country="all">All Regions</button>`;
+    for (const c of countries) {
+      const count = allMirrors.filter(m => m.country === c).length;
+      html += `<button class="filter-btn ${currentCountry === c ? 'active' : ''}" data-country="${c}">${c} (${count})</button>`;
+    }
+    container.innerHTML = html;
+    container.addEventListener('click', (e) => {
+      const btn = (e.target as HTMLElement).closest('.filter-btn') as HTMLElement | null;
+      if (!btn) return;
+      container.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentCountry = btn.dataset.country!;
+      applyFilters();
+    });
+  }
+
+  function updateSummary(mirrors: any[]) {
+    const ok = mirrors.filter(m => m.effectiveStatus === 'ok').length;
+    const stale = mirrors.filter(m => m.effectiveStatus === 'stale').length;
+    const err = mirrors.filter(m => m.effectiveStatus === 'error').length;
+    document.getElementById('total-count')!.textContent = String(mirrors.length);
+    document.getElementById('ok-count')!.textContent = String(ok);
+    document.getElementById('stale-count')!.textContent = String(stale);
+    document.getElementById('error-count')!.textContent = String(err);
+  }
+
+  function applyFilters() {
+    filtered = allMirrors.filter(m => {
+      if (currentFilter !== 'all' && m.effectiveStatus !== currentFilter) return false;
+      if (currentCountry !== 'all' && m.country !== currentCountry) return false;
+      if (searchTerm && !m.url.toLowerCase().includes(searchTerm) && !m.country.toLowerCase().includes(searchTerm)) return false;
+      return true;
+    });
+
+    if (sortField) {
+      filtered.sort((a, b) => {
+        let va = a[sortField] ?? '';
+        let vb = b[sortField] ?? '';
+        if (typeof va === 'string') va = va.toLowerCase();
+        if (typeof vb === 'string') vb = vb.toLowerCase();
+        if (va < vb) return sortDir === 'asc' ? -1 : 1;
+        if (va > vb) return sortDir === 'asc' ? 1 : -1;
+        return 0;
+      });
+    }
+
+    updateSummary(filtered);
+    render();
+  }
+
+  function render() {
+    const tbody = document.getElementById('table-body')!;
+    tbody.innerHTML = filtered.map(m => {
+      const es = m.effectiveStatus;
+      const STATUS_ICONS: Record<string, string> = { ok: '\u{2705}', stale: '\u{1F7E1}', error: '\u{274C}' };
+      const STATUS_LABELS: Record<string, string> = { ok: 'Synced', stale: 'Stale', error: 'Error' };
+      const statusIcon = STATUS_ICONS[es] || es;
+      const statusCell = iconMode
+        ? `<span title="${STATUS_LABELS[es]}">${statusIcon}</span>`
+        : `<span class="badge badge-${es}">${STATUS_LABELS[es]}</span>`;
+      const countryCell = iconMode
+        ? `<span title="${escapeHtml(m.country)}">${COUNTRY_FLAGS[m.country] || '\u{1F3F3}\uFE0F'}</span>`
+        : escapeHtml(m.country);
+      const hostname = extractHost(m.url);
+      let syncContent = '';
+      if (es === 'error') {
+        syncContent = m.detail ? `<span class="sync-detail">${escapeHtml(m.detail)}</span>` : '-';
+      } else {
+        syncContent = formatTime(m.timestamp);
+      }
+      return `
+      <tr>
+        <td>${countryCell}</td>
+        <td class="cell-url"><a href="${escapeHtml(m.url)}" target="_blank" rel="noopener">${escapeHtml(hostname)}</a></td>
+        <td>${statusCell}</td>
+        <td class="cell-sync">${syncContent}</td>
+      </tr>`;
+    }).join('');
+
+    document.getElementById('showing-count')!.textContent = filtered.length > 0
+      ? `Showing ${filtered.length} of ${allMirrors.length}`
+      : 'No results';
+  }
+
+  function extractHost(url: string): string {
+    try { return new URL(url).hostname; } catch { return url; }
+  }
+
+  function formatTime(ts: number | null): string {
+    if (!ts) return '-';
+    const diff = Math.floor(Date.now() / 1000) - ts;
+    if (diff < 3600) return `${Math.floor(diff / 60)}m ago`;
+    if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
+    if (diff < 604800) return `${Math.floor(diff / 86400)}d ago`;
+    return new Date(ts * 1000).toLocaleDateString();
+  }
+
+  function escapeHtml(s: string): string {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  document.getElementById('search')!.addEventListener('input', (e) => {
+    searchTerm = (e.target as HTMLInputElement).value.toLowerCase().trim();
+    applyFilters();
+  });
+
+  document.querySelectorAll('.sortable').forEach(th => {
+    th.addEventListener('click', () => {
+      const field = (th as HTMLElement).dataset.sort!;
+      if (sortField === field) {
+        sortDir = sortDir === 'asc' ? 'desc' : 'asc';
+      } else {
+        sortField = field;
+        sortDir = 'asc';
+      }
+      document.querySelectorAll('.sortable').forEach(el => el.classList.remove('sort-asc', 'sort-desc'));
+      th.classList.add(sortDir === 'asc' ? 'sort-asc' : 'sort-desc');
+      applyFilters();
+    });
+  });
+
+  document.addEventListener('icon-mode-changed', () => {
+    iconMode = document.documentElement.getAttribute('data-icon-mode') === 'true';
+    render();
+  });
+
+  document.addEventListener('refresh-data-requested', async () => {
+    try {
+      const res = await fetch(API_URL);
+      const data = await res.json();
+      allMirrors = data.mirrors;
+      computeEffectiveStatus();
+      updateSummary(allMirrors);
+      const time = new Date(data.generated_at * 1000);
+      document.getElementById('update-time')!.textContent = `Updated: ${time.toLocaleString()}`;
+      buildStatusButtons();
+      buildCountryButtons();
+      applyFilters();
+    } catch (e) {
+      document.getElementById('showing-count')!.textContent = 'Failed to refresh data';
+    } finally {
+      const btn = document.getElementById('refresh-data');
+      if (btn) btn.classList.remove('spinning');
+    }
+  });
+
+  init();
+</script>
