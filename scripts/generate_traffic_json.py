@@ -136,13 +136,16 @@ def generate_traffic(args):
         for country, count in day_data.items():
             country_map[country] = country_map.get(country, 0) + count
 
-    countries = sorted(
-        [{'country': k, 'requests': v} for k, v in country_map.items()],
-        key=lambda x: x['requests'],
-        reverse=True,
-    )
+    total_requests = sum(country_map.values())
 
-    total_requests = sum(c['requests'] for c in countries)
+    countries = []
+    for country, count in country_map.items():
+        pct = (count / total_requests * 100) if total_requests else 0.0
+        countries.append({
+            'country': country,
+            'percent': float(f'{pct:.3f}'),
+        })
+    countries.sort(key=lambda x: x['percent'], reverse=True)
 
     return {
         'generated_at': int(time.time()),
