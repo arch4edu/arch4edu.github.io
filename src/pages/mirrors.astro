@@ -327,7 +327,7 @@ import Base from '../layouts/Base.astro';
 
   @media (max-width: 768px) {
     .summary {
-      grid-template-columns: repeat(4, 1fr);
+      grid-template-columns: repeat(2, 1fr);
       gap: 0.75rem;
     }
 
@@ -368,6 +368,15 @@ import Base from '../layouts/Base.astro';
   }
 
   @media (max-width: 480px) {
+    .summary {
+      grid-template-columns: repeat(4, 1fr);
+      gap: 0.5rem;
+    }
+
+    .summary-card {
+      padding: 0.75rem 0.5rem;
+    }
+
     .summary-number {
       font-size: 1.25rem;
     }
@@ -461,7 +470,7 @@ import Base from '../layouts/Base.astro';
     const container = document.getElementById('country-filters')!;
     let html = `<button class="filter-btn ${currentCountry === 'all' ? 'active' : ''}" data-country="all">All Regions</button>`;
     for (const c of countries) {
-      html += `<button class="filter-btn ${currentCountry === c ? 'active' : ''}" data-country="${c}">${c}</button>`;
+      html += `<button class="filter-btn ${currentCountry === c ? 'active' : ''}" data-country="${c}">${iconMode ? (COUNTRY_FLAGS[c] || '\u{1F3F3}\uFE0F') : c}</button>`;
     }
     container.innerHTML = html;
     container.addEventListener('click', (e) => {
