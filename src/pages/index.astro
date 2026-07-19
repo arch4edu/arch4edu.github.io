@@ -5,35 +5,35 @@ import Base from '../layouts/Base.astro';
 <Base title="arch4edu - Build Status">
   <div class="dashboard">
     <section class="summary" id="summary">
-      <div class="summary-card summary-total">
+      <div class="summary-card summary-total" data-filter="all">
         <span class="summary-number" id="total-count">-</span>
         <span class="summary-label">Total</span>
       </div>
-      <div class="summary-card summary-ok">
+      <div class="summary-card summary-ok" data-filter="PUBLISHED">
         <span class="summary-number" id="ok-count">-</span>
         <span class="summary-label">Published</span>
       </div>
-      <div class="summary-card summary-fail">
+      <div class="summary-card summary-fail" data-filter="FAILED">
         <span class="summary-number" id="fail-count">-</span>
         <span class="summary-label">Failed</span>
       </div>
-      <div class="summary-card summary-waiting">
+      <div class="summary-card summary-waiting" data-filter="WAITING">
         <span class="summary-number" id="waiting-count">-</span>
         <span class="summary-label">Waiting</span>
       </div>
-      <div class="summary-card summary-scheduled">
+      <div class="summary-card summary-scheduled" data-filter="SCHEDULED">
         <span class="summary-number" id="scheduled-count">-</span>
         <span class="summary-label">Scheduled</span>
       </div>
-      <div class="summary-card summary-building">
+      <div class="summary-card summary-building" data-filter="BUILDING">
         <span class="summary-number" id="building-count">-</span>
         <span class="summary-label">Building</span>
       </div>
-      <div class="summary-card summary-built">
+      <div class="summary-card summary-built" data-filter="BUILT">
         <span class="summary-number" id="built-count">-</span>
         <span class="summary-label">Built</span>
       </div>
-      <div class="summary-card summary-stale">
+      <div class="summary-card summary-stale" data-filter="STALE">
         <span class="summary-number" id="stale-count">-</span>
         <span class="summary-label">Stale</span>
       </div>
@@ -42,9 +42,6 @@ import Base from '../layouts/Base.astro';
     <section class="controls">
       <div class="search-box">
         <input type="text" id="search" placeholder="Search packages..." autocomplete="off" />
-      </div>
-      <div class="filters" id="status-filters">
-        <!-- dynamically populated -->
       </div>
       <div class="category-filters" id="category-filters">
         <!-- dynamically populated -->
@@ -123,6 +120,20 @@ import Base from '../layouts/Base.astro';
     flex-direction: column;
     align-items: center;
     gap: 0.25rem;
+  }
+
+  .summary-card[data-filter] {
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s;
+  }
+
+  .summary-card[data-filter]:hover {
+    background: var(--bg-tertiary);
+  }
+
+  .summary-card.active {
+    border-color: var(--accent);
+    background: var(--accent-dim);
   }
 
   .summary-number {
@@ -688,7 +699,7 @@ import Base from '../layouts/Base.astro';
       updateSummary(allPackages);
       const time = new Date(data.generated_at * 1000);
       document.getElementById('update-time')!.textContent = `Updated: ${time.toLocaleString()}`;
-      buildStatusButtons();
+      updateFilterCards();
       updateStarFilter();
       buildCategoryButtons();
       applyFilters();
@@ -717,25 +728,9 @@ import Base from '../layouts/Base.astro';
     });
   }
 
-  function buildStatusButtons() {
-    const statuses = new Set(allPackages.map((p: any) => p.status).filter((s: string) => s));
-    const container = document.getElementById('status-filters')!;
-    let html = `<button class="filter-btn ${currentFilter === 'all' ? 'active' : ''}" data-filter="all">All</button>`;
-    html += `<button class="filter-btn ${currentFilter === 'WAITING' ? 'active' : ''}" data-filter="WAITING">Waiting</button>`;
-    for (const s of [...statuses].sort()) {
-      html += `<button class="filter-btn ${currentFilter === s ? 'active' : ''}" data-filter="${s}">${s.charAt(0) + s.slice(1).toLowerCase()}</button>`;
-    }
-    container.innerHTML = html;
-
-    container.addEventListener('click', (e) => {
-      const btn = (e.target as HTMLElement).closest('.filter-btn') as HTMLElement | null;
-      if (!btn) return;
-      container.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      currentFilter = btn.dataset.filter!;
-      localStorage.setItem(FILTER_KEY, currentFilter);
-      updateStarFilter();
-      applyFilters();
+  function updateFilterCards() {
+    document.querySelectorAll('.summary-card[data-filter]').forEach(card => {
+      card.classList.toggle('active', (card as HTMLElement).dataset.filter === currentFilter);
     });
   }
 
@@ -769,7 +764,13 @@ import Base from '../layouts/Base.astro';
   }
 
   function applyFilters() {
-    filtered = allPackages.filter(p => {
+    const summaryBase = allPackages.filter(p => {
+      if (currentCategory !== 'all' && p.category !== currentCategory) return false;
+      if (searchTerm && !p.key.toLowerCase().includes(searchTerm) && !p.detail.toLowerCase().includes(searchTerm)) return false;
+      return true;
+    });
+
+    filtered = summaryBase.filter(p => {
       if (currentFilter === 'STARRED') {
         if (!starredSet.has(p.key)) return false;
       } else if (currentFilter === 'WAITING') {
@@ -779,8 +780,6 @@ import Base from '../layouts/Base.astro';
       } else if (currentFilter !== 'all' && p.status !== currentFilter) {
         return false;
       }
-      if (currentCategory !== 'all' && p.category !== currentCategory) return false;
-      if (searchTerm && !p.key.toLowerCase().includes(searchTerm) && !p.detail.toLowerCase().includes(searchTerm)) return false;
       return true;
     });
 
@@ -797,7 +796,7 @@ import Base from '../layouts/Base.astro';
     }
 
     currentPage = 1;
-    updateSummary(filtered);
+    updateSummary(summaryBase);
     render();
   }
 
@@ -927,6 +926,16 @@ import Base from '../layouts/Base.astro';
     applyFilters();
   });
 
+  document.getElementById('summary')!.addEventListener('click', (e) => {
+    const card = (e.target as HTMLElement).closest('.summary-card[data-filter]') as HTMLElement | null;
+    if (!card) return;
+    currentFilter = card.dataset.filter!;
+    localStorage.setItem(FILTER_KEY, currentFilter);
+    updateStarFilter();
+    updateFilterCards();
+    applyFilters();
+  });
+
   document.getElementById('pagination-pages')!.addEventListener('click', (e) => {
     const btn = (e.target as HTMLElement).closest('button');
     if (!btn || btn.disabled) return;
@@ -958,9 +967,7 @@ import Base from '../layouts/Base.astro';
   document.getElementById('star-filter')!.addEventListener('click', () => {
     currentFilter = currentFilter === 'STARRED' ? 'all' : 'STARRED';
     localStorage.setItem(FILTER_KEY, currentFilter);
-    document.querySelectorAll('#status-filters .filter-btn').forEach(b => {
-      b.classList.toggle('active', (b as HTMLElement).dataset.filter === currentFilter);
-    });
+    updateFilterCards();
     updateStarFilter();
     applyFilters();
   });
@@ -999,7 +1006,7 @@ import Base from '../layouts/Base.astro';
       updateSummary(allPackages);
       const time = new Date(data.generated_at * 1000);
       document.getElementById('update-time')!.textContent = `Updated: ${time.toLocaleString()}`;
-      buildStatusButtons();
+      updateFilterCards();
       updateStarFilter();
       buildCategoryButtons();
       applyFilters();
