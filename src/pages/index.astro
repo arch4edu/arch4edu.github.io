@@ -68,7 +68,9 @@ import Base from '../layouts/Base.astro';
           </colgroup>
           <thead>
             <tr>
-              <th class="col-star"></th>
+              <th class="col-star">
+                <button id="star-filter" class="star-btn star-filter" title="Show starred only" aria-label="Filter starred packages">&#9734;</button>
+              </th>
               <th class="col-arch sortable" data-sort="arch">Arch</th>
               <th class="col-package sortable" data-sort="pkgbase">Package</th>
               <th class="col-status sortable" data-sort="status">Status</th>
@@ -309,6 +311,7 @@ import Base from '../layouts/Base.astro';
   }
 
   :global(.col-star) { width: 1.75rem; padding: 0; }
+  :global(#build-table th.col-star) { padding-left: 0; padding-right: 0; }
   :global(.col-arch) { width: 4.5rem; }
   :global(.col-package) { width: 18rem; }
   :global(.col-status) { width: 5.5rem; }
@@ -361,6 +364,26 @@ import Base from '../layouts/Base.astro';
   :global(.star-btn.starred) {
     opacity: 1;
     color: var(--text-primary);
+  }
+
+  :global(.star-filter) {
+    color: var(--text-secondary);
+    opacity: 0.7;
+  }
+
+  :global(.star-filter:hover) {
+    opacity: 1;
+  }
+
+  :global(.star-filter.active) {
+    opacity: 1;
+    color: var(--accent);
+  }
+
+  :global([data-icon-mode="true"] #build-table th.col-star) {
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
   }
 
   .cell-arch {
@@ -666,6 +689,7 @@ import Base from '../layouts/Base.astro';
       const time = new Date(data.generated_at * 1000);
       document.getElementById('update-time')!.textContent = `Updated: ${time.toLocaleString()}`;
       buildStatusButtons();
+      updateStarFilter();
       buildCategoryButtons();
       applyFilters();
     } catch (e) {
@@ -697,7 +721,6 @@ import Base from '../layouts/Base.astro';
     const statuses = new Set(allPackages.map((p: any) => p.status).filter((s: string) => s));
     const container = document.getElementById('status-filters')!;
     let html = `<button class="filter-btn ${currentFilter === 'all' ? 'active' : ''}" data-filter="all">All</button>`;
-    html += `<button class="filter-btn ${currentFilter === 'STARRED' ? 'active' : ''}" data-filter="STARRED">Starred</button>`;
     html += `<button class="filter-btn ${currentFilter === 'WAITING' ? 'active' : ''}" data-filter="WAITING">Waiting</button>`;
     for (const s of [...statuses].sort()) {
       html += `<button class="filter-btn ${currentFilter === s ? 'active' : ''}" data-filter="${s}">${s.charAt(0) + s.slice(1).toLowerCase()}</button>`;
@@ -711,8 +734,17 @@ import Base from '../layouts/Base.astro';
       btn.classList.add('active');
       currentFilter = btn.dataset.filter!;
       localStorage.setItem(FILTER_KEY, currentFilter);
+      updateStarFilter();
       applyFilters();
     });
+  }
+
+  function updateStarFilter() {
+    const btn = document.getElementById('star-filter');
+    if (!btn) return;
+    const on = currentFilter === 'STARRED';
+    btn.classList.toggle('active', on);
+    btn.innerHTML = on ? '\u2605' : '\u2606';
   }
 
   function updateSummary(packages: any[]) {
@@ -922,6 +954,17 @@ import Base from '../layouts/Base.astro';
     toggleStar(btn.dataset.key!);
   });
 
+  // Star column header toggles the Starred filter
+  document.getElementById('star-filter')!.addEventListener('click', () => {
+    currentFilter = currentFilter === 'STARRED' ? 'all' : 'STARRED';
+    localStorage.setItem(FILTER_KEY, currentFilter);
+    document.querySelectorAll('#status-filters .filter-btn').forEach(b => {
+      b.classList.toggle('active', (b as HTMLElement).dataset.filter === currentFilter);
+    });
+    updateStarFilter();
+    applyFilters();
+  });
+
   // Sort header click
   document.querySelectorAll('.sortable').forEach(th => {
     th.addEventListener('click', () => {
@@ -957,6 +1000,7 @@ import Base from '../layouts/Base.astro';
       const time = new Date(data.generated_at * 1000);
       document.getElementById('update-time')!.textContent = `Updated: ${time.toLocaleString()}`;
       buildStatusButtons();
+      updateStarFilter();
       buildCategoryButtons();
       applyFilters();
     } catch (e) {
