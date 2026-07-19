@@ -412,6 +412,7 @@ import Base from '../layouts/Base.astro';
 <script>
   const API_URL = 'https://api.arch4edu.org/status/mirrors.json';
   const STALE_THRESHOLD = 604800; // 7 days in seconds
+  const SEARCH_KEY = 'mirrors_search_term';
 
   const COUNTRY_FLAGS: Record<string, string> = {
     Global: '\u{1F30D}',
@@ -425,7 +426,7 @@ import Base from '../layouts/Base.astro';
   let filtered: any[] = [];
   let currentFilter = 'all';
   let currentCountry = 'all';
-  let searchTerm = '';
+  let searchTerm = localStorage.getItem(SEARCH_KEY) || '';
   let sortField = '';
   let sortDir: 'asc' | 'desc' = 'asc';
   let iconMode = document.documentElement.getAttribute('data-icon-mode') === 'true';
@@ -441,6 +442,7 @@ import Base from '../layouts/Base.astro';
       document.getElementById('update-time')!.textContent = `Updated: ${time.toLocaleString()}`;
       updateFilterCards();
       buildCountryButtons();
+      if (searchTerm) (document.getElementById('search') as HTMLInputElement).value = localStorage.getItem(SEARCH_KEY) || '';
       applyFilters();
     } catch (e) {
       document.getElementById('showing-count')!.textContent = 'Failed to load data';
@@ -574,7 +576,9 @@ import Base from '../layouts/Base.astro';
   }
 
   document.getElementById('search')!.addEventListener('input', (e) => {
-    searchTerm = (e.target as HTMLInputElement).value.toLowerCase().trim();
+    const raw = (e.target as HTMLInputElement).value;
+    searchTerm = raw.toLowerCase().trim();
+    localStorage.setItem(SEARCH_KEY, raw);
     applyFilters();
   });
 

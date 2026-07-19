@@ -644,6 +644,7 @@ import Base from '../layouts/Base.astro';
   const STARRED_KEY = 'starred_packages';
   const FILTER_KEY = 'current_filter';
   const CATEGORY_KEY = 'current_category';
+  const SEARCH_KEY = 'search_term';
 
   const STATUS_ICONS: Record<string, string> = {
     PUBLISHED: '\u{1F7E2}',
@@ -668,7 +669,7 @@ import Base from '../layouts/Base.astro';
   let currentPage = 1;
   let currentFilter = localStorage.getItem(FILTER_KEY) || 'all';
   let currentCategory = localStorage.getItem(CATEGORY_KEY) || 'all';
-  let searchTerm = '';
+  let searchTerm = localStorage.getItem(SEARCH_KEY) || '';
   let starredSet: Set<string> = new Set(JSON.parse(localStorage.getItem(STARRED_KEY) || '[]'));
   let sortField: string = '';
   let sortDir: 'asc' | 'desc' = 'asc';
@@ -702,6 +703,7 @@ import Base from '../layouts/Base.astro';
       updateFilterCards();
       updateStarFilter();
       buildCategoryButtons();
+      if (searchTerm) (document.getElementById('search') as HTMLInputElement).value = localStorage.getItem(SEARCH_KEY) || '';
       applyFilters();
     } catch (e) {
       document.getElementById('showing-count')!.textContent = 'Failed to load data';
@@ -922,7 +924,9 @@ import Base from '../layouts/Base.astro';
 
   // Event listeners
   document.getElementById('search')!.addEventListener('input', (e) => {
-    searchTerm = (e.target as HTMLInputElement).value.toLowerCase().trim();
+    const raw = (e.target as HTMLInputElement).value;
+    searchTerm = raw.toLowerCase().trim();
+    localStorage.setItem(SEARCH_KEY, raw);
     applyFilters();
   });
 
