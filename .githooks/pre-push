@@ -1,0 +1,53 @@
+#!/usr/bin/env bash
+# Deploy hook for arch4edu.github.io
+#
+# When the source branch (astro) is pushed, build the Astro site, sync the
+# output into the astro_pages deploy worktree (.qoder/deploy), commit it on top
+# of the latest published pages branch, and push astro_pages as well — so the
+# source and the published pages branch go out together.
+#
+# Install (once per clone):
+#   ln -sf ../../.githooks/pre-push .git/hooks/pre-push
+set -euo pipefail
+
+SOURCE_BRANCH="astro"
+PAGES_BRANCH="astro_pages"
+
+# Only act when the source branch is among the refs being pushed.
+pushing_source=0
+while read -r local_ref _; do
+  [ "$local_ref" = "refs/heads/$SOURCE_BRANCH" ] && pushing_source=1
+done
+[ "$pushing_source" = "1" ] || exit 0
+# Guard against re-entry from the pages push we trigger below.
+[ "${ARCH4EDU_DEPLOY:-}" = "1" ] && exit 0
+
+repo="$(git rev-parse --show-toplevel)"
+deploy="$repo/.qoder/deploy"
+
+echo "[pre-push] building site (npm run build)..."
+npm --prefix "$repo" run build
+
+# Ensure the deploy worktree exists on the pages branch.
+if [ ! -e "$deploy/.git" ]; then
+  echo "[pre-push] creating deploy worktree at .qoder/deploy..."
+  git -C "$repo" worktree add "$deploy" "$PAGES_BRANCH"
+fi
+
+# Re-base the deploy worktree on the latest published pages branch so the push
+# is always a fast-forward, then sync the fresh build output over it.
+git -C "$deploy" fetch origin "$PAGES_BRANCH"
+git -C "$deploy" reset --hard "origin/$PAGES_BRANCH"
+rsync -a --delete --exclude='.git' "$repo/dist/" "$deploy/"
+
+if [ -z "$(git -C "$deploy" status --porcelain)" ]; then
+  echo "[pre-push] no pages changes; nothing to deploy."
+  exit 0
+fi
+
+git -C "$deploy" add -A
+git -C "$deploy" commit -m "deploy: $(date -Iseconds)"
+echo "[pre-push] pushing $PAGES_BRANCH..."
+ARCH4EDU_DEPLOY=1 git -C "$deploy" push origin "$PAGES_BRANCH"
+echo "[pre-push] $PAGES_BRANCH deployed."
+exit 0
