@@ -5,19 +5,19 @@ import Base from '../layouts/Base.astro';
 <Base title="arch4edu - Mirror Status">
   <div class="dashboard">
     <section class="summary" id="summary">
-      <div class="summary-card summary-total">
+      <div class="summary-card summary-total" data-filter="all">
         <span class="summary-number" id="total-count">-</span>
         <span class="summary-label">Total</span>
       </div>
-      <div class="summary-card summary-ok">
+      <div class="summary-card summary-ok" data-filter="ok">
         <span class="summary-number" id="ok-count">-</span>
         <span class="summary-label">Synced</span>
       </div>
-      <div class="summary-card summary-stale">
+      <div class="summary-card summary-stale" data-filter="stale">
         <span class="summary-number" id="stale-count">-</span>
         <span class="summary-label">Stale</span>
       </div>
-      <div class="summary-card summary-fail">
+      <div class="summary-card summary-fail" data-filter="error">
         <span class="summary-number" id="error-count">-</span>
         <span class="summary-label">Error</span>
       </div>
@@ -27,7 +27,6 @@ import Base from '../layouts/Base.astro';
       <div class="search-box">
         <input type="text" id="search" placeholder="Search mirrors..." autocomplete="off" />
       </div>
-      <div class="filters" id="status-filters"></div>
       <div class="filters" id="country-filters"></div>
     </section>
 
@@ -81,6 +80,20 @@ import Base from '../layouts/Base.astro';
     flex-direction: column;
     align-items: center;
     gap: 0.25rem;
+  }
+
+  .summary-card[data-filter] {
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s;
+  }
+
+  .summary-card[data-filter]:hover {
+    background: var(--bg-tertiary);
+  }
+
+  .summary-card.active {
+    border-color: var(--accent);
+    background: var(--accent-dim);
   }
 
   .summary-number {
@@ -426,7 +439,7 @@ import Base from '../layouts/Base.astro';
       updateSummary(allMirrors);
       const time = new Date(data.generated_at * 1000);
       document.getElementById('update-time')!.textContent = `Updated: ${time.toLocaleString()}`;
-      buildStatusButtons();
+      updateFilterCards();
       buildCountryButtons();
       applyFilters();
     } catch (e) {
@@ -447,21 +460,9 @@ import Base from '../layouts/Base.astro';
     }
   }
 
-  function buildStatusButtons() {
-    const container = document.getElementById('status-filters')!;
-    container.innerHTML = `
-      <button class="filter-btn ${currentFilter === 'all' ? 'active' : ''}" data-filter="all">All</button>
-      <button class="filter-btn ${currentFilter === 'ok' ? 'active' : ''}" data-filter="ok">Synced</button>
-      <button class="filter-btn ${currentFilter === 'stale' ? 'active' : ''}" data-filter="stale">Stale</button>
-      <button class="filter-btn ${currentFilter === 'error' ? 'active' : ''}" data-filter="error">Error</button>
-    `;
-    container.addEventListener('click', (e) => {
-      const btn = (e.target as HTMLElement).closest('.filter-btn') as HTMLElement | null;
-      if (!btn) return;
-      container.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      currentFilter = btn.dataset.filter!;
-      applyFilters();
+  function updateFilterCards() {
+    document.querySelectorAll('.summary-card[data-filter]').forEach(card => {
+      card.classList.toggle('active', (card as HTMLElement).dataset.filter === currentFilter);
     });
   }
 
@@ -494,10 +495,14 @@ import Base from '../layouts/Base.astro';
   }
 
   function applyFilters() {
-    filtered = allMirrors.filter(m => {
-      if (currentFilter !== 'all' && m.effectiveStatus !== currentFilter) return false;
+    const summaryBase = allMirrors.filter(m => {
       if (currentCountry !== 'all' && m.country !== currentCountry) return false;
       if (searchTerm && !m.url.toLowerCase().includes(searchTerm) && !m.country.toLowerCase().includes(searchTerm)) return false;
+      return true;
+    });
+
+    filtered = summaryBase.filter(m => {
+      if (currentFilter !== 'all' && m.effectiveStatus !== currentFilter) return false;
       return true;
     });
 
@@ -513,7 +518,7 @@ import Base from '../layouts/Base.astro';
       });
     }
 
-    updateSummary(filtered);
+    updateSummary(summaryBase);
     render();
   }
 
@@ -573,6 +578,14 @@ import Base from '../layouts/Base.astro';
     applyFilters();
   });
 
+  document.getElementById('summary')!.addEventListener('click', (e) => {
+    const card = (e.target as HTMLElement).closest('.summary-card[data-filter]') as HTMLElement | null;
+    if (!card) return;
+    currentFilter = card.dataset.filter!;
+    updateFilterCards();
+    applyFilters();
+  });
+
   document.querySelectorAll('.sortable').forEach(th => {
     th.addEventListener('click', () => {
       const field = (th as HTMLElement).dataset.sort!;
@@ -603,7 +616,7 @@ import Base from '../layouts/Base.astro';
       updateSummary(allMirrors);
       const time = new Date(data.generated_at * 1000);
       document.getElementById('update-time')!.textContent = `Updated: ${time.toLocaleString()}`;
-      buildStatusButtons();
+      updateFilterCards();
       buildCountryButtons();
       applyFilters();
     } catch (e) {
