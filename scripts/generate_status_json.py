@@ -15,6 +15,7 @@ import json
 import time
 import logging
 import hashlib
+from datetime import timezone
 
 import pymysql
 import requests
@@ -66,7 +67,7 @@ def generate_builds(args):
         parts = r['key'].split('/')
         category = '/'.join(parts[:-1]) if len(parts) > 1 else ''
         pkgbase = parts[-1] if parts else r['key']
-        ts = int(r['timestamp'].timestamp()) if r['timestamp'] else 0
+        ts = int(r['timestamp'].replace(tzinfo=timezone.utc).timestamp()) if r['timestamp'] else 0
         packages.append({
             'key': r['key'],
             'category': category,
