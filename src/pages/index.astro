@@ -820,7 +820,14 @@ import Base from '../layouts/Base.astro';
     switch (status) {
       case 'STALE':
         return escapeHtml(detail || 'Stale');
-      case 'PUBLISHED':
+      case 'PUBLISHED': {
+        const brokenLinks = detailRaw.match(/^Broken links:\s*(.+)$/i);
+        if (brokenLinks) {
+          const label = escapeHtml(icon ? brokenLinks[1] : detailRaw);
+          return p.workflow_url ? `<a href="${p.workflow_url}" target="_blank">${label}</a>` : label;
+        }
+        return p.workflow ? `<a href="${p.workflow_url}" target="_blank">${p.workflow}</a>` : '';
+      }
       case 'BUILT':
         return p.workflow ? `<a href="${p.workflow_url}" target="_blank">${p.workflow}</a>` : '';
       case 'BUILDING':
